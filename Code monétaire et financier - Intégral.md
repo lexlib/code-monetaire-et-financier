@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-12-31
+Version Consolidée au 2005-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -29969,8 +29969,7 @@ _Cite_:
 
 ###### Article L515-32
 
-L'article L. 228-39 et le troisième alinéa de l'article L. 225-100 du code de commerce ne sont pas applicables aux sociétés
-de crédit foncier.
+L'article L. 228-39 du code de commerce n'est pas applicable aux sociétés de crédit foncier.
 
 **Liens relatifs à cet article**
 
@@ -29980,18 +29979,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Modifié par_:
 
-  - Ordonnance n°2004-604 du 24 juin 2004 - art. 52 () JORF 26 juin 2004
+  - Ordonnance n°2004-1382 du 20 décembre 2004 - art. 8 () JORF 22 décembre 2004 en vigueur le 1er janvier 2005
 
-_Cite_:
+**Liens**:
 
-  - Code de commerce. - art. L225-100 (M)
-  - Code monétaire et financier L228-39
+  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L513-25 (VD)
 
 
 ###### Article L515-33
