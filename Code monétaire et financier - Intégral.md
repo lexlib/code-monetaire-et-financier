@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-06-05
+Version Consolidée au 2004-06-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -180,7 +180,7 @@ Version Consolidée au 2004-06-05
               - [Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels. (art. L313-21)](#177)
               - [Paragraphe 4 : Information des cautions. (art. L313-22)](#178)
           - [Section 3 : Procédures de mobilisation des créances professionnelles (art. L313-23 à L313-49)](#179)
-            - [Sous-section 1 : Cession et nantissement des créances professionnelles (art. L313-23 à L313-29)](#180)
+            - [Sous-section 1 : Cession et nantissement des créances professionnelles (art. L313-23 à L313-29-1)](#180)
             - [Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti (art. L313-30 à L313-49)](#181)
               - [Paragraphe 1 : Dispositions générales (art. L313-30 à L313-35)](#182)
               - [Paragraphe 2 : Mobilisation des crédits à moyen terme (art. L313-36 à L313-41)](#183)
@@ -16654,6 +16654,53 @@ _Cité par_:
   - Code monétaire et financier - art. L753-6 (VD)
   - Code monétaire et financier - art. L763-6 (VD)
   - Code monétaire et financier - art. R313-19 (V)
+
+
+###### Article L313-29-1
+
+En cas de cession d'une créance détenue sur une personne publique par le titulaire d'un contrat de partenariat, ce contrat
+peut prévoir que, pour une part de la créance cédée représentant une fraction du coût des investissements, les dispositions
+des articles L. 313-28 et L. 313-29 ne sont pas applicables. Dans ce cas, le contrat prévoit que la part de la créance
+mentionnée ci-dessus est, après constatation par la personne publique contractante que les investissements ont été réalisés,
+définitivement acquise au cessionnaire, sans pouvoir être affectée par aucune compensation. Le titulaire du contrat est tenu
+de se libérer auprès de la personne publique contractante des dettes dont il peut être redevable à son égard du fait de
+manquements à ses obligations contractuelles et, notamment, du fait des pénalités qui ont pu lui être infligées ;
+l'opposition à l'état exécutoire émis par la personne publique n'a pas d'effet suspensif dans la limite du montant ayant fait
+l'objet de la garantie au profit du cessionnaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2004-559 du 17 juin 2004 - art. 28 () JORF 19 juin 2004
+
+_Cité par_:
+
+  - Ordonnance n°2004-559 du 17 juin 2004 - art. 11 (VT)
+  - ORDONNANCE n°2015-899 du 23 juillet 2015 - art. 84 (VT)
+  - Arrêté du 31 janvier 2018 - art. (V)
+  - Code de la commande publique - art. L2232-2 (VD)
+  - Code de la mutualité - art. R212-47-1 (M)
+  - Code de la sécurité sociale. - art. R931-10-35-2 (M)
+  - Code des assurances - art. R332-14-2 (V)
+  - Code général des collectivités territoriales - art. L1414-12 (VT)
+  - Code général des collectivités territoriales - art. Rubrique 4 (V)
+  - Code général des collectivités territoriales - art. Rubrique 5 (VD)
+  - Code monétaire et financier - art. L214-169 (VD)
+  - Code monétaire et financier - art. L313-29-2 (VD)
+  - Code monétaire et financier - art. L743-5 (V)
+  - Code monétaire et financier - art. L753-5 (V)
+  - Code monétaire et financier - art. L763-5 (V)
+  - Code monétaire et financier - art. R313-17-2 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L313-28 (V)
+  - Code monétaire et financier - art. L313-29 (V)
 
 
 ##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti<a id=181></a>
