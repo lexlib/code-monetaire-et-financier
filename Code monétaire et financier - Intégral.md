@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-04-17
+Version Consolidée au 2004-06-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -17741,13 +17741,13 @@ _Cite_:
 ###### Article L322-1
 
 Les prestataires de services d'investissement, à l'exception des sociétés de gestion de portefeuille, agréés en France, les
-intermédiaires habilités par l'Autorité des marchés financiers au titre de la conservation et de l'administration des
-instruments financiers et les adhérents des chambres de compensation adhèrent à un mécanisme de garantie des titres. Ce
-mécanisme a pour objet d'indemniser les investisseurs en cas d'indisponibilité de leurs instruments financiers ainsi que de
-leurs dépôts en espèces lorsqu'ils sont liés à un service d'investissement, à la compensation ou à la conservation
-d'instruments financiers et qu'ils n'entrent pas dans le champ d'application du fonds de garantie des dépôts institué par
-l'article L. 312-4. Ne peuvent bénéficier du mécanisme de garantie les personnes et les fonds exclus de l'indemnisation par
-l'article L. 312-4.
+intermédiaires habilités par le Comité des établissements de crédit et des entreprises d'investissement au titre de la
+compensation ou pour leur activité d'administration ou de conservation d'instruments financiers adhèrent à un mécanisme de
+garantie des titres. Ce mécanisme a pour objet d'indemniser les investisseurs en cas d'indisponibilité de leurs instruments
+financiers ainsi que de leurs dépôts en espèces lorsqu'ils sont liés à un service d'investissement, à la compensation ou à la
+conservation d'instruments financiers et qu'ils n'entrent pas dans le champ d'application du fonds de garantie des dépôts
+institué par l'article L. 312-4. Ne peuvent bénéficier du mécanisme de garantie les personnes et les fonds exclus de
+l'indemnisation par l'article L. 312-4.
 
 **Liens relatifs à cet article**
 
@@ -17764,7 +17764,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 69 () JORF 2 août 2003
+  - Ordonnance n°2004-482 du 3 juin 2004 - art. 1 () JORF 5 juin 2004
 
 _Cité par_:
 
@@ -17788,6 +17788,11 @@ _Cité par_:
   - Code monétaire et financier - art. L613-56-4 (V)
   - Code monétaire et financier - art. R341-16 (V)
   - Code monétaire et financier - art. R532-21 (VT)
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 93-22 CE 1993-05-10
+  - TXT_SOURCE: Directive 97-9 CE 1997-03-03
 
 
 ###### Article L322-2
@@ -22076,17 +22081,18 @@ dessus ;
 4. Les personnes morales établies en France et ayant pour objet principal ou unique l'activité de compensation d'instruments
 financiers ;
 
-5. Dans des conditions fixées par le règlement général du Conseil des marchés financiers, les établissements de crédit, les
-entreprises d'investissement et les personnes morales ayant pour objet principal ou unique l'activité de compensation
+5. Dans des conditions fixées par le règlement général de l'Autorité des marchés financiers, les établissements de crédit,
+les entreprises d'investissement et les personnes morales ayant pour objet principal ou unique l'activité de compensation
 d'instruments financiers, qui ne sont pas établis en France.
 
-Les organismes visés aux 1, 2 et 4 du présent article sont soumis, pour leur activité de compensation, aux règles
-d'approbation du programme d'activité, de contrôle et de sanction fixées par le présent code pour les prestataires de
-services d'investissement. En outre, les organismes mentionnés au 4 sont soumis aux règles d'agrément fixées par le présent
-code pour les entreprises d'investissement.
+Les organismes mentionnés aux 1° à 4° sont soumis, pour leur activité de compensation d'instruments financiers, aux
+obligations législatives et réglementaires et aux règles de contrôle et de sanction fixées par le présent code pour les
+prestataires de services d'investissement. Les personnes morales mentionnées aux 1° et 2° font l'objet d'une habilitation
+délivrée dans le cadre de leur agrément. Les personnes morales mentionnées aux 3° et 4° sont soumises aux règles d'agrément
+fixées par le présent code pour les entreprises d'investissement.
 
-Les organismes mentionnés au 5 doivent être soumis dans leur Etat d'origine à des règles d'exercice de l'activité de
-compensation et de contrôle équivalentes à celles en vigueur en France. Le Conseil des marchés financiers exerce à l'égard de
+Les organismes mentionnés au 5° doivent être soumis dans leur Etat d'origine à des règles d'exercice de l'activité de
+compensation et de contrôle équivalentes à celles en vigueur en France. L'Autorité des marchés financiers exerce à l'égard de
 ces organismes les pouvoirs de contrôle et de sanction prévus par le présent code pour les prestataires de services
 d'investissement, en tenant compte de la surveillance exercée par les autorités compétentes de chaque Etat concerné.
 
@@ -22101,13 +22107,19 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Modifié par_:
-
-  - Loi n°2001-1168 2001-12-11 art. 27 10° JORF 12 décembre 2001
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III : champ d'application
+  - TXT_SOURCE: Directive 93-22 CE 1993-05-10
+  - TXT_SOURCE: Directive 97-9 CE 1997-03-03
+
+_Modifié par_:
+
+  - Ordonnance n°2004-482 du 3 juin 2004 - art. 2 () JORF 5 juin 2004
+
+_Transféré par_:
+
+  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
 
 _Nouveaux textes_:
 
@@ -31607,17 +31619,21 @@ d'investissement vérifie si celle-ci :
 1. A son siège social et son administration centrale en France ;
 
 2. Dispose, compte tenu de la nature du service qu'elle souhaite fournir, d'un capital initial suffisant déterminé par le
-ministre chargé de l'économie ;
+ministre chargé de l'économie ainsi que des moyens financiers adaptés et suffisants ;
 
 3. Fournit l'identité de ses actionnaires, directs ou indirects, personnes physiques ou morales, qui détiennent une
 participation qualifiée, ainsi que le montant de leur participation ; le comité apprécie la qualité de ces actionnaires au
 regard de la nécessité de garantir une gestion saine et prudente de l'entreprise d'investissement ;
 
-4. Voit son orientation déterminée par deux personnes au moins ;
+4. Voit son orientation déterminée par deux personnes au moins possédant l'honorabilité et la compétence nécessaires ainsi
+que l'expérience adéquate à leur fonction ;
 
 5. Dispose d'une forme juridique adéquate à l'activité d'entreprise d'investissement ;
 
-6. Dispose d'un programme d'activité approuvé pour chacun des métiers qu'elle entend exercer.
+6. Dispose d'un programme d'activité pour chacun des services qu'elle entend exercer qui précise les conditions dans
+lesquelles elle envisage de fournir les services d'investissement concernés et indique le type d'opérations envisagées et la
+structure de son organisation. Pour le service mentionné au 4 de l'article L. 321-1, le programme d'activité doit avoir été
+approuvé par l'Autorité des marchés financiers dans les conditions fixées à l'article L. 532-4.
 
 Le comité peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière de
 l'entreprise. Le comité peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par l'entreprise
@@ -31627,6 +31643,8 @@ Le comité peut refuser l'agrément lorsque l'exercice de la mission de surveill
 d'être entravé soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres
 personnes physiques ou morales, soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas
 partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
+
+L'entreprise d'investissement doit satisfaire à tout moment aux conditions de son agrément.
 
 **Liens relatifs à cet article**
 
@@ -31641,8 +31659,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Ordonnance n°2004-482 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 _Cité par_:
 
@@ -31689,6 +31706,16 @@ _Cité par_:
   - Code monétaire et financier - art. R532-8-1 (VD)
   - Code monétaire et financier - art. R533-17-1 (V)
 
+_Cite_:
+
+  - Code monétaire et financier - art. L321-1 (M)
+  - Code monétaire et financier - art. L532-4 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 93-22 CE 1993-05-10
+  - TXT_SOURCE: Directive 97-9 CE 1997-03-03
+
 
 ###### Article L532-3
 
@@ -31701,11 +31728,16 @@ entend fournir ;
 
 2. D'une forme juridique adéquate à la fourniture de services d'investissement ;
 
-3. D'un programme d'activité approuvé pour chacun des services qu'il entend fournir.
+3. D'un programme d'activité pour chacun des services qu'il entend fournir qui précise les conditions dans lesquelles il
+envisage de fournir les services d'investissement concernés et indique le type d'opérations envisagées et la structure de son
+organisation. Pour le service mentionné au 4 de l'article L. 321-1, le programme d'activité doit avoir été approuvé par
+l'Autorité des marchés financiers dans les conditions fixées à l'article L. 532-4.
 
 Le comité peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière de
 l'établissement. Le comité peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par
 l'établissement requérant.
+
+L'établissement de crédit doit satisfaire à tout moment aux conditions de cet agrément.
 
 **Liens relatifs à cet article**
 
@@ -31713,14 +31745,9 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 13 (Ab)
 
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Ordonnance n°2004-482 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
 
 _Cité par_:
 
@@ -31733,6 +31760,21 @@ _Cité par_:
   - Code monétaire et financier - art. L532-3-1 (MMN)
   - Code monétaire et financier - art. L533-6 (M)
   - Code monétaire et financier - art. R533-17 (VD)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L321-1 (M)
+  - Code monétaire et financier - art. L511-10 (M)
+  - Code monétaire et financier - art. L532-4 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 93-22 CE 1993-05-10
+  - TXT_SOURCE: Directive 97-9 CE 1997-03-03
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
 ###### Article L532-3-1
@@ -32010,24 +32052,26 @@ _Cite_:
 L'entreprise d'investissement qui exerce, à titre principal, le service mentionné au 4 de l'article L. 321-1, est agréée par
 l'Autorité des marchés financiers et prend le nom de société de gestion de portefeuille.
 
-Pour délivrer l'agrément à une société de gestion de portefeuille, la commission vérifie si celle-ci :
+Pour délivrer l'agrément à une société de gestion de portefeuille, l'Autorité vérifie si celle-ci :
 
 1. A son siège social et son administration centrale en France ;
 
-2. Dispose d'un capital initial suffisant ;
+2. Dispose d'un capital initial suffisant ainsi que des moyens financiers adaptés et suffisants ;
 
 3. Fournit l'identité de ses actionnaires, directs ou indirects, personnes physiques ou morales, qui détiennent une
-participation qualifiée, ainsi que le montant de leur participation ; la commission apprécie la qualité de ces actionnaires
-au regard de la nécessité de garantir une gestion saine et prudente ;
+participation qualifiée, ainsi que le montant de leur participation ; l'Autorité apprécie la qualité de ces actionnaires au
+regard de la nécessité de garantir une gestion saine et prudente ;
 
 4. Est dirigée effectivement par des personnes possédant l'honorabilité et la compétence nécessaires ainsi que l'expérience
 adéquate à leur fonction ;
 
-5. Voit son orientation déterminée par deux personnes au moins ;
+5. Voit son orientation déterminée par deux personnes au moins remplissant les conditions fixées au 4 ;
 
 6. Dispose d'une forme juridique adéquate à la fourniture du service mentionné au 4 de l'article L. 321-1 ;
 
-7. Dispose d'un programme d'activité pour chacun des services qu'elle entend fournir.
+7. Dispose d'un programme d'activité pour chacun des services qu'elle entend exercer qui précise les conditions dans
+lesquelles elle envisage de fournir les services d'investissement concernés et indique le type d'opérations envisagées et la
+structure de son organisation.
 
 L'Autorité des marchés financiers peut refuser l'agrément lorsque l'exercice de la mission de surveillance de la société de
 gestion de portefeuille est susceptible d'être entravé soit par l'existence d'un lien de capital ou de contrôle direct ou
@@ -32038,22 +32082,15 @@ une ou plusieurs de ces personnes.
 L'Autorité des marchés financiers statue dans un délai de trois mois à compter de la présentation de la demande. Sa décision
 est motivée et notifiée au demandeur.
 
-La commission peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière
-de la société de gestion. Elle peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par la
+L'Autorité peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière de
+la société de gestion. Elle peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par la
 société requérante.
 
 Un règlement général de l'Autorité des marchés financiers précise les conditions d'agrément des sociétés de gestion de
 portefeuille.
 
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil de discipline de la gestion financière sont remplacées
-par la références à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-fianciers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+L'entreprise d'investissement qui exerce à titre principal le service mentionné au 4 de l'article L. 321-1 doit satisfaire à
+tout moment aux conditions de son agrément.
 
 **Liens relatifs à cet article**
 
@@ -32134,8 +32171,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 2003-08-01 art. 46 III 13°, V 1°, 2° JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Ordonnance n°2004-482 du 3 juin 2004 - art. 3 () JORF 5 juin 2004
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 93-22 CE 1993-05-10
+  - TXT_SOURCE: Directive 97-9 CE 1997-03-03
 
 _Cite_:
 
@@ -33148,7 +33189,9 @@ financiers ;
 3. Les obligations qui s'imposent à eux en vue d'éviter la circulation indue d'informations confidentielles.
 
 Les dispositions du règlement intérieur énonçant ces conditions et obligations sont intégrées au programme d'activité
-présenté au Conseil des marchés financiers en application de l'article L. 532-1.
+présenté à l'Autorité des marchés financiers en application de l'article L. 532-1 préalablement à la délivrance d'un agrément
+portant sur le service mentionné au 4 de l'article L. 321-1 ou au comité des établissements de crédit et des entreprises
+d'investissement en application des articles L. 532-2 et L. 532-3.
 
 **Liens relatifs à cet article**
 
@@ -33160,14 +33203,26 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2004-482 du 3 juin 2004 - art. 4 () JORF 5 juin 2004
+
 _Cite_:
 
+  - Code monétaire et financier - art. L321-1 (M)
   - Code monétaire et financier - art. L421-8 (M)
   - Code monétaire et financier - art. L532-1 (M)
+  - Code monétaire et financier - art. L532-2 (M)
+  - Code monétaire et financier - art. L532-3 (M)
 
 _Cité par_:
 
   - Code monétaire et financier - art. L532-18-2 (VD)
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 93-22 CE 1993-05-10
+  - TXT_SOURCE: Directive 97-9 CE 1997-03-03
 
 
 ###### Article L533-7
@@ -33841,7 +33896,8 @@ Seuls peuvent exercer les activités de conservation ou d'administration d'instr
 3° Les entreprises d'investissement établies en France ;
 
 4° Les personnes morales dont les membres ou associés sont indéfiniment et solidairement responsables des dettes et
-engagements, à condition que ces membres ou associés soient des établissements ou entreprises mentionnées aux 2° et 3° ;
+engagements, à condition que ces membres ou associés soient des établissements ou entreprises mentionnées aux 2° et 3°
+habilités en vue de l'administration ou de la conservation d'instruments financiers ;
 
 5° Les personnes morales établies en France ayant pour objet principal ou unique l'activité de conservation ou
 d'administration d'instruments financiers ;
@@ -33852,10 +33908,13 @@ d'administration d'instruments financiers ;
 les entreprises d'investissement et les personnes morales ayant pour objet principal ou unique l'activité de conservation ou
 d'administration d'instruments financiers qui ne sont pas établis en France.
 
-Les personnes mentionnées aux 1° à 5° sont soumises, pour leur activité de conservation ou d'administration d'instruments
-financiers, aux règles de contrôle et de sanction fixées par le présent code pour les prestataires de services
-d'investissement. En outre, les personnes mentionnées au 5° sont soumises aux règles d'agrément fixées par le présent code
-pour les entreprises d'investissement.
+Les personnes mentionnées au 1° sont soumises, pour leur activité d'administration ou de conservation d'instruments
+financiers, au pouvoir de contrôle et de sanction de l'Autorité des marchés financiers. Les personnes mentionnées aux 2° à 5°
+sont soumises, pour leur activité d'administration ou de conservation d'instruments financiers, aux obligations législatives
+et réglementaires et aux règles de contrôle et de sanction fixées par le présent code pour les prestataires de services
+d'investissement. Les personnes mentionnées aux 2° et 3° font l'objet, pour leur activité d'administration ou de conservation
+d'instruments financiers, d'une habilitation délivrée dans le cadre de leur agrément. Les personnes mentionnées au 5° sont
+soumises aux règles d'agrément fixées par le présent code pour les entreprises d'investissement.
 
 Les personnes mentionnées au 7° doivent être soumises dans leur Etat d'origine à des règles d'exercice de l'activité de
 conservation ou d'administration d'instruments financiers et de contrôle équivalentes à celles en vigueur en France.
@@ -33928,14 +33987,18 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-706 2003-08-01 art. 41 II, III JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 41 () JORF 2 août 2003
+  - Ordonnance n°2004-482 du 3 juin 2004 - art. 5 () JORF 5 juin 2004
 
 _Cite_:
 
   - Code monétaire et financier - art. L518-1 (M)
+
+**Liens**:
+
+  - TXT_SOURCE: Directive 93-22 CE 1993-05-10
+  - TXT_SOURCE: Directive 97-9 CE 1997-03-03
 
 
 #### Chapitre IV : Services d'analyse financière et agences de notation<a id=380></a>
