@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-08-31
+Version Consolidée au 2001-11-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -33,7 +33,7 @@ Version Consolidée au 2001-08-31
             - [Sous-section 11 : Protêt. (art. L131-61 à L131-68)](#30)
             - [Sous-section 12 : Incidents de paiement et sanctions. (art. L131-69 à L131-87)](#31)
           - [Section 2 : Le chèque postal. (art. L131-88)](#32)
-        - [Chapitre II : La carte de paiement. (art. L132-1 à L132-2)](#33)
+        - [Chapitre II : La carte de paiement. (art. L132-1 à L132-6)](#33)
         - [Chapitre III : Le virement au sein de l'Espace économique européen. (art. L133-1)](#34)
         - [Chapitre IV : La lettre de change et le billet à ordre. (art. L134-1 à L134-2)](#35)
       - [Titre IV : La Banque de France (art. L141-1 à L144-5)](#36)
@@ -3858,8 +3858,8 @@ _Cite_:
 
 L'ordre ou l'engagement de payer donné au moyen d'une carte de paiement est irrévocable.
 
-Il ne peut être fait opposition au paiement qu'en cas de perte ou de vol de la carte, de redressement ou de liquidation
-judiciaires du bénéficiaire.
+Il ne peut être fait opposition au paiement qu'en cas de perte, de vol ou d'utilisation frauduleuse de la carte ou des
+données liées à son utilisation, de redressement ou de liquidation judiciaires du bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -3871,7 +3871,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 34 () JORF 16 novembre 2001
 
 _Cité par_:
 
@@ -3881,6 +3884,123 @@ _Cité par_:
   - Code monétaire et financier - art. L731-1 (M)
   - Code monétaire et financier - art. L741-2 (M)
   - Code monétaire et financier - art. L751-2 (M)
+
+
+###### Article L132-3
+
+Le titulaire d'une carte mentionnée à l'article L. 132-1 supporte la perte subie, en cas de perte ou de vol, avant la mise en
+opposition prévue à l'article L. 132-2, dans la limite d'un plafond qui ne peut dépasser 400 euros. Toutefois, s'il a agi
+avec une négligence constituant une faute lourde ou si, après la perte ou le vol de ladite carte, il n'a pas effectué la mise
+en opposition dans les meilleurs délais, compte tenu de ses habitudes d'utilisation de la carte, le plafond prévu à la phrase
+précédente n'est pas applicable. Le contrat entre le titulaire de la carte et l'émetteur peut cependant prévoir le délai de
+mise en opposition au-delà duquel le titulaire de la carte est privé du bénéfice du plafond prévu au présent alinéa. Ce délai
+ne peut être inférieur à deux jours francs après la perte ou le vol de la carte.
+
+Le plafond visé à l'alinéa précédent est porté à 275 euros au 1er janvier 2002 et à 150 euros à compter du 1er janvier 2003.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 35 () JORF 16 novembre 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L132-1
+  - Code monétaire et financier - art. L132-2
+
+
+###### Article L132-4
+
+La responsabilité du titulaire d'une carte mentionnée à l'article L. 132-1 n'est pas engagée si le paiement contesté a été
+effectué frauduleusement, à distance, sans utilisation physique de sa carte. 
+
+De même, sa responsabilité n'est pas engagée en cas de contrefaçon de sa carte au sens de l'article L. 163-4 et si, au moment
+de l'opération contestée, il était en possession physique de sa carte. 
+
+Dans les cas prévus aux deux alinéas précédents, si le titulaire de la carte conteste par écrit avoir effectué un paiement ou
+un retrait, les sommes contestées lui sont recréditées sur son compte par l'émetteur de la carte ou restituées, sans frais,
+au plus tard dans le délai d'un mois à compter de la réception de la contestation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 36 () JORF 16 novembre 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L132-1 (VT)
+  - Code monétaire et financier - art. L163-4 (VT)
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L611-1 (V)
+
+
+###### Article L132-5
+
+En cas d'utilisation frauduleuse d'une carte mentionnée à l'article L. 132-1, l'émetteur de la carte rembourse à son
+titulaire la totalité des frais bancaires qu'il a supportés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 37 () JORF 16 novembre 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L132-1
+
+
+###### Article L132-6
+
+Le délai légal pendant lequel le titulaire d'une carte de paiement ou de retrait a la possibilité de déposer une réclamation
+est fixé à soixante-dix jours à compter de la date de l'opération contestée. Il peut être prolongé contractuellement, sans
+pouvoir dépasser cent vingt jours à compter de l'opération contestée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 38 () JORF 16 novembre 2001
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 1
 
 
 #### Chapitre III : Le virement au sein de l'Espace économique européen.<a id=34></a>
@@ -4111,6 +4231,27 @@ banques centrales et de la Banque centrale européenne sur les instruments finan
 nantis, cédés en propriété ou autrement constitués en garantie à leur profit ne sont pas affectées par l'ouverture des
 procédures mentionnées au III de l'article L. 330-2.
 
+La Banque de France s'assure de la sécurité des moyens de paiement tels que définis à l'article L. 311-3, autres que la
+monnaie fiduciaire, et de la pertinence des normes applicables en la matière. Si elle estime qu'un de ces moyens de paiement
+présente des garanties de sécurité insuffisantes, elle peut recommander à son émetteur de prendre toutes mesures destinées à
+y remédier. Si ces recommandations n'ont pas été suivies d'effet, elle peut, après avoir recueilli les observations de
+l'émetteur, décider de formuler un avis négatif publié au Journal officiel.
+
+Pour l'exercice de ces missions, la Banque de France procède aux expertises et se fait communiquer, par l'émetteur ou par
+toute personne intéressée, les informations utiles concernant les moyens de paiement et les terminaux ou les dispositifs
+techniques qui leur sont associés.
+
+Il est institué un Observatoire de la sécurité des cartes de paiement, qui regroupe des parlementaires, des représentants des
+administrations concernées, des émetteurs de cartes de paiement et des associations de commerçants et de consommateurs.
+L'Observatoire de la sécurité des cartes de paiement assure, en particulier, le suivi des mesures de sécurisation entreprises
+par les émetteurs et les commerçants, l'établissement de statistiques de la fraude et une veille technologique en matière de
+cartes de paiement, avec pour objet de proposer des moyens de lutter contre les atteintes d'ordre technologique à la sécurité
+des cartes de paiement. Le secrétariat de l'observatoire est assuré par la Banque de France. Le président est désigné parmi
+ses membres. Un décret en Conseil d'Etat précise sa composition et ses compétences.
+
+L'observatoire établit chaque année un rapport d'activité remis au ministre chargé de l'économie, des finances et de
+l'industrie et transmis au Parlement.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -4120,12 +4261,13 @@ _Anciens textes_:
 
 _Codifié par_:
 
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 30 () JORF 16 mai 2001
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 39 () JORF 16 novembre 2001
 
 **Liens**:
 
@@ -4161,6 +4303,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code monétaire et financier - art. L311-3 (V)
   - Code monétaire et financier - art. L330-2 (M)
   - Traité CEE 1957-03-25 art. 105
 
@@ -5402,12 +5545,77 @@ _Cite_:
   - Code monétaire et financier - art. L163-3 (M)
 
 
+###### Article L163-4-1
+
+Est puni de sept ans d'emprisonnement et de 750 000 euros d'amende le fait, pour toute personne, de fabriquer, d'acquérir, de
+détenir, de céder, d'offrir ou de mettre à disposition des équipements, instruments, programmes informatiques ou toutes
+données conçus ou spécialement adaptés pour commettre les infractions prévues au 1° de l'article L. 163-3 et au 1° de
+l'article L. 163-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 40 () JORF 16 novembre 2001
+
+_Transféré par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 2
+
+_Cite_:
+
+  - Code monétaire et financier - art. L163-3 (M)
+  - Code monétaire et financier - art. L163-4 (M)
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L163-4 (V)
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L163-4-2 (V)
+
+
+###### Article L163-4-2
+
+La tentative des délits prévus au 1° de l'article L. 163-3, au 1° de l'article L. 163-4 et à l'article L. 163-4-1 est punie
+des mêmes peines.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 40 () JORF 16 novembre 2001
+
+_Transféré par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 2
+
+_Cite_:
+
+  - Code monétaire et financier - art. L163-3 (M)
+  - Code monétaire et financier - art. L163-4 (M)
+  - Code monétaire et financier - art. L163-4-1 (V)
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L163-4-1 (VD)
+
+
 ###### Article L163-5
 
 La confiscation, aux fins de destruction, des chèques et cartes de paiement ou de retrait contrefaits ou falsifiés est
-obligatoire dans les cas prévus par les articles L. 163-3 et L. 163-4. Est également obligatoire la confiscation des
-matières, machines, appareils ou instruments qui ont servi ou étaient destinés à servir à la fabrication desdits objets, sauf
-lorsqu'ils ont été utilisés à l'insu du propriétaire.
+obligatoire dans les cas prévus aux articles L. 163-3 à L. 163-4-1. Est également obligatoire la confiscation des matières,
+machines, appareils, instruments, programmes informatiques ou de toutes données qui ont servi ou étaient destinés à servir à
+la fabrication desdits objets, sauf lorsqu'ils ont été utilisés à l'insu du propriétaire.
 
 **Liens relatifs à cet article**
 
@@ -5419,25 +5627,29 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 42 () JORF 16 novembre 2001
 
 _Cite_:
 
-  - Code monétaire et financier - art. L163-3 (M)
-  - Code monétaire et financier - art. L163-4 (M)
+  - Code monétaire et financier L163-3 à L163-4-1
 
 
 ###### Article L163-6
 
-Dans tous les cas prévus aux articles L. 163-2 à L. 163-4, et L. 163-7, le tribunal peut prononcer, pour une durée de cinq
-ans, l'interdiction des droits civiques, civils et de famille prévue à l'article 131-26 du code pénal.
+Dans tous les cas prévus aux articles L. 163-2 à L. 163-4-1 et L. 163-7, le tribunal peut prononcer l'interdiction des droits
+civiques, civils et de famille prévue par l'article 131-26 du code pénal ainsi que l'interdiction, pour une durée de cinq ans
+au plus, d'exercer une activité professionnelle ou sociale, en application des dispositions des articles 131-27 et 131-28 du
+code pénal. 
 
 Dans les mêmes cas, il peut interdire au condamné, pour une durée de cinq ans, d'émettre des chèques autres que ceux qui
 permettent exclusivement le retrait de fonds par le tireur auprès du tiré ou ceux qui sont certifiés. Cette interdiction peut
 être déclarée exécutoire par provision. Elle est assortie d'une injonction adressée au condamné d'avoir à restituer aux
 banquiers qui les avaient délivrées les formules en sa possession et en celle de ses mandataires. Le tribunal peut ordonner,
 aux frais du condamné, la publication par extraits de la décision portant interdiction dans les journaux qu'il désigne et
-selon les modalités qu'il fixe.
+selon les modalités qu'il fixe. 
 
 En conséquence de l'interdiction, tout banquier informé de celle-ci par la Banque de France doit s'abstenir de délivrer au
 condamné et à ses mandataires des formules de chèques autres que celles mentionnées à l'alinéa précédent.
@@ -5452,12 +5664,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 43 () JORF 16 novembre 2001
 
 _Cite_:
 
   - Code pénal - art. 131-26 (V)
-  - Code monétaire et financier L163-2 à L163-4
+  - Code pénal - art. 131-27 (V)
 
 _Cité par_:
 
@@ -5620,6 +5835,40 @@ _Cite_:
 _Cité par_:
 
   - Code monétaire et financier - art. L163-10-1 (V)
+
+
+###### Article L163-10-1
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions définies aux articles L. 163-2 à L. 163-4-1, L. 163-7 et L. 163-10.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 44 () JORF 16 novembre 2001
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
+  - Code monétaire et financier - art. L163-10 (M)
+  - Code monétaire et financier - art. L163-7 (M)
+  - Code monétaire et financier L163-2 à L163-4-1, L163-7, L163-10
 
 
 ###### Article L163-11
@@ -21515,10 +21764,19 @@ d'évolution d'un instrument financier admis sur un marché réglementé, de ré
 directement, soit par personne interposée, une ou plusieurs opérations avant que le public ait connaissance de ces
 informations.
 
-Est puni de six mois d'emprisonnement et de cent mille francs d'amende le fait, pour toute personne disposant dans l'exercice
-de sa profession ou de ses fonctions d'une information privilégiée sur les perspectives ou la situation d'un émetteur dont
-les titres sont négociés sur un marché réglementé ou sur les perspectives d'évolution d'un instrument financier admis sur un
+Est puni d'un an d'emprisonnement et de 150.000 Euro d'amende le fait, pour toute personne disposant dans l'exercice de sa
+profession ou de ses fonctions d'une information privilégiée sur les perspectives ou la situation d'un émetteur dont les
+titres sont négociés sur un marché réglementé ou sur les perspectives d'évolution d'un instrument financier admis sur un
 marché réglementé, de la communiquer à un tiers en dehors du cadre normal de sa profession ou de ses fonctions.
+
+Est puni d'un an d'emprisonnement et d'une amende de 150 000 Euro dont le montant peut être porté au-delà de ce chiffre,
+jusqu'au décuple du montant du profit réalisé, sans que l'amende puisse être inférieure à ce même profit, le fait pour toute
+personne autre que celles visées aux deux alinéas précédents, possédant en connaissance de cause des informations
+privilégiées sur la situation ou les perspectives d'un émetteur dont les titres sont négociés sur un marché réglementé ou sur
+les perspectives d'évolution d'un instrument financier admis sur un marché réglementé, de réaliser ou de permettre de
+réaliser, directement ou indirectement, une opération ou de communiquer à un tiers ces informations, avant que le public en
+ait connaissance. Lorsque les informations en cause concernent la commission d'un crime ou d'un délit, les peines encourues
+sont portées à sept ans d'emprisonnement et à 1 500 000 Euro si le montant des profits réalisés est inférieur à ce chiffre.
 
 Est puni des peines prévues au premier alinéa le fait, pour toute personne, de répandre dans le public par des voies et
 moyens quelconques des informations fausses ou trompeuses sur les perspectives ou la situation d'un émetteur dont les titres
@@ -21529,17 +21787,16 @@ réglementé, de nature à agir sur les cours.
 
 _Anciens textes_:
 
-  - Ordonnance n°67-833 du 28 septembre 1967 - art. 10-1 (M)
   - Ordonnance n°67-833 du 28 septembre 1967 - art. 10-1 (Ab)
-
-_Créé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
 
 _Cité par_:
 
@@ -39666,17 +39923,31 @@ mer assure, en liaison avec la Banque de France, la centralisation des incidents
 d'identifier l'ensemble des comptes détenus par les personnes mentionnées à l'article L. 131-72 et au deuxième alinéa de
 l'article L. 163-6.
 
+L'institut d'émission d'outre-mer s'assure, en liaison avec la Banque de France, de la sécurité des moyens de paiement tels
+que définis à l'article L. 311-3, autres que la monnaie fiduciaire, et de la pertinence des normes applicables en la matière.
+S'il estime qu'un de ces moyens de paiement présente des garanties de sécurité insuffisantes, il peut recommander à son
+émetteur de prendre toutes mesures destinées à y remédier. Si ces recommandations n'ont pas été suivies d'effet, il peut,
+après avoir recueilli les observations de l'émetteur, décider de formuler un avis négatif publié au Journal officiel.
+
+Pour l'exercice de ces missions, l'institut d'émission d'outre-mer procède ou fait procéder par la Banque de France aux
+expertises et se fait communiquer, par l'émetteur ou par toute personne intéressée, les informations utiles concernant les
+moyens de paiement et les terminaux ou les dispositifs techniques qui leur sont associés.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 2001-11-15 art. 71 V JORF 16 novembre 2001
 
 _Cite_:
 
   - Code monétaire et financier - art. L131-72 (M)
   - Code monétaire et financier - art. L163-6 (M)
+  - Code monétaire et financier - art. L311-3 (V)
 
 _Cité par_:
 
@@ -40083,7 +40354,7 @@ _Cite_:
 ###### Article L731-1
 
 Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, les
-articles L. 132-1, L. 132-2, ainsi que les articles L. 163-1 à L. 163-12 sont applicables à Mayotte dans des conditions
+articles L. 132-1 à L. 132-6, ainsi que les articles L. 163-1 à L. 163-12 sont applicables à Mayotte dans des conditions
 précisées par décret en Conseil d'Etat.
 
 A Mayotte, l'institut d'émission des départements d'outre-mer assure, en liaison avec la Banque de France, la centralisation
@@ -40092,23 +40363,24 @@ mentionnées à l'article L. 131-72 et au deuxième alinéa de l'article L. 163-
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Décret-loi 1935-10-30 art. 74-3
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 2001-11-15 art. 71 VI JORF 16 novembre 2001
 
 _Cite_:
 
   - Code monétaire et financier - art. L131-71 (M)
   - Code monétaire et financier - art. L131-72 (M)
-  - Code monétaire et financier - art. L132-1 (V)
-  - Code monétaire et financier - art. L132-2 (M)
   - Code monétaire et financier - art. L163-6 (M)
-  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1, L132-2, L163-1 à L163-12, L131-72, L163-6
-
-_Anciens textes_:
-
-  - Décret-loi 1935-10-30 art. 74-3
+  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L163-1 à L163-12, L131-72, L163-6
 
 
 ##### Section 2 : Les relations financières avec l'étranger<a id=492></a>
@@ -41589,19 +41861,18 @@ _Cite_:
 ###### Article L741-2
 
 Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, les
-articles L. 132-1, L. 132-2 et L. 163-1 à L. 163-12 sont applicables en Nouvelle-Calédonie dans des conditions précisées par
+articles L. 132-1 à L. 132-6 et L. 163-1 à L. 163-12 sont applicables en Nouvelle-Calédonie dans des conditions précisées par
 décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret-loi 1935-10-30 art. 74-3
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 2001-11-15 art. 71 VI JORF 16 novembre 2001
 
 _Cité par_:
 
@@ -41610,9 +41881,11 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. L131-71 (M)
-  - Code monétaire et financier - art. L132-1 (V)
-  - Code monétaire et financier - art. L132-2 (M)
-  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1, L132-2, L163-1 à L163-12
+  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L163-1 à L163-12
+
+_Anciens textes_:
+
+  - Décret-loi 1935-10-30 art. 74-3
 
 
 ##### Section 3 : Les relations financières avec l'étranger<a id=568></a>
@@ -43084,22 +43357,23 @@ _Cite_:
 ###### Article L751-2
 
 Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, les
-articles L. 132-1, L. 132-2 et L. 163-1 à L. 163-12 sont applicables en Polynésie française dans des conditions précisées par
-décret en Conseil d'Etat.
+articles L. 132-1 à L. 132-6 et L. 163-1 à L. 163-12 sont applicables en Polynésie française dans des conditions précisées
+par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 2001-11-15 art. 71 VI JORF 16 novembre 2001
 
 _Cite_:
 
   - Code monétaire et financier - art. L131-71 (M)
-  - Code monétaire et financier - art. L132-1 (V)
-  - Code monétaire et financier - art. L132-2 (M)
-  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1, L132-2, L163-1 à L163-12
+  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L163-1 à L163-12
 
 _Anciens textes_:
 
@@ -44569,8 +44843,8 @@ _Cite_:
 
 ###### Article L761-1
 
-Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, L. 132-1,
-L. 132-2 et L. 163-1 à L. 163-12 sont applicables dans le territoire des îles Wallis-et-Futuna dans des conditions précisées
+Les articles L. 131-1 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, L. 132-1 à
+L. 132-6 et L. 163-1 à L. 163-12 sont applicables dans le territoire des îles Wallis-et-Futuna dans des conditions précisées
 par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
@@ -44578,7 +44852,7 @@ par décret en Conseil d'Etat.
 _Cite_:
 
   - Code monétaire et financier - art. L131-71 (M)
-  - Code monétaire et financier L131-1 à L131-87, L131-71
+  - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6
 
 _Nouveaux textes_:
 
@@ -44591,7 +44865,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1062 2001-11-15 art. 71 VI JORF 16 novembre 2001
 
 
 ##### Section 2 : Les relations financières avec l'étranger<a id=724></a>
