@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-08-21
+Version Consolidée au 2004-09-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -42923,24 +42923,33 @@ _Cite_:
 
 ###### Article L732-8
 
-Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 sont applicables à Mayotte.
+Les règles relatives à l'épargne-logement sont applicables à Mayotte dans les conditions prévues à l'article L. 371-4 du code
+de la construction et de l'habitation. Les articles L. 223-1 à L. 223-4 ainsi que les articles L. 232-1 et L. 232-2 sont
+applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°69-1163 1969-12-24
   - Décret n°1968-12-05 art. 1
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2004-937 du 2 septembre 2004 - art. 2 () JORF 4 septembre 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+
 _Cite_:
 
-  - Code monétaire et financier - art. L232-1 (V)
+  - Code monétaire et financier - art. L232-1
   - Code monétaire et financier - art. L232-2 (M)
-  - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
+  - Code de la construction et de l'habitation. - art. L371-4 (V)
 
 
 #### Chapitre III : Les services<a id=493></a>
