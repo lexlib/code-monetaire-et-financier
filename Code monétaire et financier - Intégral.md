@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -1014,11 +1014,11 @@ _Codifié par_:
 
 ###### Article L112-6
 
-I. - Les règlements qui excèdent la somme de cinq mille francs ou qui ont pour objet le paiement par fraction d'une dette
-supérieure à ce montant, portant sur les loyers, les transports, les services, fournitures et travaux ou afférents à des
-acquisitions d'immeubles ou d'objets mobiliers ainsi que le paiement des produits de titres nominatifs et des primes ou
-cotisations d'assurance doivent être effectués par chèque barré, virement ou carte de paiement ; il en est de même pour les
-transactions sur des animaux vivants ou sur les produits de l'abattage.
+I. - Les règlements qui excèdent la somme de 750 euros ou qui ont pour objet le paiement par fraction d'une dette supérieure
+à ce montant, portant sur les loyers, les transports, les services, fournitures et travaux ou afférents à des acquisitions
+d'immeubles ou d'objets mobiliers ainsi que le paiement des produits de titres nominatifs et des primes ou cotisations
+d'assurance doivent être effectués par chèque barré, virement ou carte de paiement ; il en est de même pour les transactions
+sur des animaux vivants ou sur les produits de l'abattage.
 
 Le paiement des traitements et salaires est soumis aux mêmes conditions au-delà d'un montant fixé par décret.
 
@@ -1036,8 +1036,8 @@ qu'aucun des deux intéressés n'exerce par ailleurs une profession non agricole
 
 d) Au règlement des dépenses de l'Etat et des collectivités et établissements publics.
 
-Par dérogation aux dispositions du I ci-dessus, les dépenses des services concédés qui excèdent la somme de trois mille
-francs doivent être payées par virement.
+Par dérogation aux dispositions du I ci-dessus, les dépenses des services concédés qui excèdent la somme de 450 euros doivent
+être payées par virement.
 
 **Liens relatifs à cet article**
 
@@ -1045,12 +1045,15 @@ _Anciens textes_:
 
   - Loi n°1940-10-22 du 22 octobre 1940 - art. 1 (MMN)
   - Loi n°1940-10-22 du 22 octobre 1940 - art. 2 (Ab)
-  - Loi n°1940-10-22 art. 1 et art. 2
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -1112,39 +1115,35 @@ _Cite_:
 
 ###### Article L112-8
 
-Tout règlement d'un montant supérieur à vingt mille francs effectué par un particulier non commerçant, en paiement d'un bien
-ou d'un service, doit être opéré soit par chèque, répondant aux caractéristiques de barrement d'avance et de non-
-transmissibilité par voie d'endossement, mentionné à l'article L. 96 du livre des procédures fiscales, soit par tout autre
-moyen inscrivant le montant réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise d'investissement
-ou une institution mentionnée à l'article L. 518-1.
+Tout règlement d'un montant supérieur à 3 000 euros effectué par un particulier non commerçant, en paiement d'un bien ou d'un
+service, doit être opéré soit par chèque, répondant aux caractéristiques de barrement d'avance et de non-transmissibilité par
+voie d'endossement, mentionné à l'article L. 96 du livre des procédures fiscales, soit par tout autre moyen inscrivant le
+montant réglé au débit d'un compte tenu chez un établissement de crédit, une entreprise d'investissement ou une institution
+mentionnée à l'article L. 518-1.
 
 Toutefois, les particuliers non commerçants n'ayant pas leur domicile fiscal en France peuvent continuer d'effectuer le
-règlement de tout bien ou service d'un montant supérieur à vingt mille francs en chèque de voyage ou en espèces, après
-relevé, par le vendeur du bien ou le prestataire de services, de leurs identité et domicile justifiés.
+règlement de tout bien ou service d'un montant supérieur à 3 000 euros en chèque de voyage ou en espèces, après relevé, par
+le vendeur du bien ou le prestataire de services, de leurs identité et domicile justifiés.
 
-Tout règlement d'un montant supérieur à vingt mille francs en paiement d'un ou de plusieurs biens vendus aux enchères, à
-l'occasion d'une même vente, doit être opéré selon les modalités prévues au premier alinéa.
+Tout règlement d'un montant supérieur à 3 000 euros en paiement d'un ou de plusieurs biens vendus aux enchères, à l'occasion
+d'une même vente, doit être opéré selon les modalités prévues au premier alinéa.
 
 Tout versement d'une prime ou d'une cotisation d'assurance au titre d'un contrat d'assurance vie ou d'une assurance décès
-doit être opéré selon les modalités prévues au premier alinéa, au-delà de vingt mille francs par an et par contrat.
+doit être opéré selon les modalités prévues au premier alinéa, au-delà de 3 000 euros par an et par contrat.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI Livre des procédures fiscales L96
-  - Code monétaire et financier - art. L518-1 (M)
-
 _Anciens textes_:
 
-  - Loi n°89-935 1989-12-29 art. 107
   - Loi n°89-936 du 29 décembre 1989 - art. 107 (Ab)
-  - Loi n°98-1266 1998-12-30 art. 102 III
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -1153,6 +1152,11 @@ _Cité par_:
   - Ordonnance n°2013-792 du 30 août 2013 - art. 7 (V)
   - Code général des impôts, CGI. - art. 1649 quater B (P)
   - Code monétaire et financier - art. L161-1 (Ab)
+
+_Cite_:
+
+  - Livre des procédures fiscales - art. L96 (M)
+  - Code monétaire et financier - art. L518-1 (M)
 
 
 ###### Article L112-9
@@ -3110,7 +3114,7 @@ _Codifié par_:
 
 Le tireur qui émet un chèque ne portant pas l'indication du lieu de l'émission ou sans date, celui qui revêt un chèque d'une
 fausse date, celui qui tire un chèque sur une personne autre qu'un banquier, est passible d'une amende maximale de 6 % de la
-somme pour laquelle le chèque est tiré, sans que cette amende puisse être inférieure à cinq francs.
+somme pour laquelle le chèque est tiré, sans que cette amende puisse être inférieure à 0,75 euro.
 
 **Liens relatifs à cet article**
 
@@ -3119,10 +3123,13 @@ _Anciens textes_:
   - Décret-loi du 30 octobre 1935 - art. 64 (Ab)
   - Décret-loi 1935-10-30 art. 64
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -3133,7 +3140,7 @@ _Cité par_:
 ###### Article L131-70
 
 Tout banquier qui délivre à son créancier des formules de chèques en blanc, payables à sa caisse, doit, sous peine d'une
-amende de cinquante francs par infraction, mentionner sur chaque formule le nom de la personne à laquelle cette formule est
+amende de 7,5 euros par infraction, mentionner sur chaque formule le nom de la personne à laquelle cette formule est
 délivrée.
 
 Tout banquier qui, ayant provision et en l'absence de toute opposition, refuse de payer un chèque régulièrement assigné sur
@@ -3147,10 +3154,13 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 65
   - Décret-loi du 30 octobre 1935 - art. 65 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L131-71
@@ -3602,8 +3612,8 @@ _Cité par_:
 ###### Article L131-82
 
 Le tiré doit payer, nonobstant l'absence, l'insuffisance ou l'indisponibilité de provision, tout chèque établi sur une
-formule délivrée par lui d'un montant égal ou inférieur à cent francs, le titulaire du compte et le tiré étant en ce cas
-réputés légalement avoir conclu lors de la délivrance de la formule une convention portant ouverture de crédit irrévocable.
+formule délivrée par lui d'un montant égal ou inférieur à 15 euros, le titulaire du compte et le tiré étant en ce cas réputés
+légalement avoir conclu lors de la délivrance de la formule une convention portant ouverture de crédit irrévocable.
 
 L'obligation du tiré résultant des dispositions du présent article n'est pas soumise à la prescription de l'article L.
 131-59 ; elle prend fin un mois après la date d'émission du chèque. Elle ne s'impose pas au tiré si celui-ci ne doit ou ne
@@ -3615,13 +3625,15 @@ Les dispositions du présent article sont d'ordre public.
 
 _Anciens textes_:
 
-  - Décret-loi 1935-10-30 art. 73-1
   - Décret-loi du 30 octobre 1935 - art. 73-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -5139,19 +5151,17 @@ Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'
 l'intermédiaire d'un établissement de crédit, ou d'un organisme ou service mentionné à l'article L. 518-1 doivent en faire la
 déclaration dans des conditions fixées par décret.
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à cinquante
-mille francs.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 600 euros.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°89-935 1989-12-29 art. 98 1
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -5274,8 +5284,7 @@ _Cité par_:
 
 ###### Article L152-5
 
-Les infractions aux dispositions de l'article L. 152-2 sont passibles d'une amende de cinq mille francs par compte non
-déclaré.
+Les infractions aux dispositions de l'article L. 152-2 sont passibles d'une amende de 750 euros par compte non déclaré.
 
 **Nota:**
 
@@ -5286,39 +5295,41 @@ monétaire et financier, dans cette même rédaction, est contraire à la Consti
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 98 4
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 110 (V)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L152-2 (V)
+  - Code monétaire et financier - art. L152-2
 
 
 ###### Article L152-6
 
 Les organismes qui ne se conforment pas aux obligations prévues à l'article L. 152-3 sont passibles d'une amende égale à 50 %
 du montant des sommes non communiquées. Lorsque le contribuable apporte la preuve que le Trésor n'a subi aucun préjudice, le
-taux de l'amende est ramené à 5 % et son montant plafonné à cinq mille francs en cas de première infraction.
+taux de l'amende est ramené à 5 % et son montant plafonné à 750 euros en cas de première infraction.
 
 L'infraction est constatée et l'amende recouvrée, garantie et contestée dans les conditions prévues pour les contraventions
 aux dispositions relatives au droit de communication de l'administration des impôts mentionnées à l'article L. 152-3.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°89-935 1989-12-29 art. 98 5
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -5331,22 +5342,25 @@ _Cite_:
 
 ###### Article L161-1
 
-Est punie d'une amende de cent mille francs le fait de méconnaître les obligations prescrites à l'article L. 112-8.
+Est punie d'une amende de 15 000 euros le fait de méconnaître les obligations prescrites à l'article L. 112-8.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°90-614 1990-07-12 art. 23
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-104 du 30 janvier 2009 - art. 8
 
 _Cite_:
 
-  - Code monétaire et financier - art. L112-8 (M)
+  - Code monétaire et financier - art. L112-8
 
 _Cité par_:
 
@@ -5407,8 +5421,8 @@ _Anciens textes_:
 
 ###### Article L163-1
 
-Est puni d'une amende de quarante mille francs le fait, pour le tiré, de refuser le paiement d'un chèque hors les cas
-mentionnés au deuxième alinéa de l'article L. 131-35, au motif que le tireur y a fait opposition.
+Est puni d'une amende de 6 000 euros le fait, pour le tiré, de refuser le paiement d'un chèque hors les cas mentionnés au
+deuxième alinéa de l'article L. 131-35, au motif que le tireur y a fait opposition.
 
 **Liens relatifs à cet article**
 
@@ -5417,14 +5431,17 @@ _Anciens textes_:
   - Décret-loi du 30 octobre 1935 - art. 65-1 A (Ab)
   - Décret-loi 1935-10-30 art. 65-1 A
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - Code monétaire et financier - art. L131-35 (M)
+  - Code monétaire et financier - art. L131-35 (V)
 
 _Cité par_:
 
@@ -5436,19 +5453,19 @@ _Cité par_:
 
 ###### Article L163-2
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de deux millions cinq cent mille francs, le fait pour toute personne
-d'effectuer après l'émission d'un chèque, dans l'intention de porter atteinte aux droits d'autrui, le retrait de tout ou
-partie de la provision, par transfert, virement ou quelque moyen que ce soit, ou de faire dans les mêmes conditions défense
-au tiré de payer.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros, le fait pour toute personne d'effectuer après
+l'émission d'un chèque, dans l'intention de porter atteinte aux droits d'autrui, le retrait de tout ou partie de la
+provision, par transfert, virement ou quelque moyen que ce soit, ou de faire dans les mêmes conditions défense au tiré de
+payer. 
 
 Est puni des mêmes peines le fait, pour toute personne, d'accepter de recevoir ou d'endosser en connaissance de cause un
-chèque émis dans les conditions définies à l'alinéa précédent.
+chèque émis dans les conditions définies à l'alinéa précédent. 
 
 Est puni des mêmes peines le fait, pour toute personne, d'émettre un ou plusieurs chèques au mépris de l'injonction qui lui a
-été adressée en application de l'article L. 131-73.
+été adressée en application de l'article L. 131-73. 
 
 Est puni des mêmes peines le fait, pour un mandataire, d'émettre, en connaissance de cause, un ou plusieurs chèques dont
-l'émission était interdite à son mandant en application de l'article L. 131-73.
+l'émission était interdite à son mandant en application de l'article L. 131-73. 
 
 Pour la recherche, la poursuite, l'instruction et le jugement des infractions mentionnées aux alinéas précédents, le tribunal
 du lieu où le chèque est payable est compétent, sans préjudice de l'application des articles 43, 52 et 382 du code de
@@ -5462,17 +5479,20 @@ _Anciens textes_:
   - Décret-loi du 30 octobre 1935 - art. 75 (Ab)
   - Décret-loi 1935-10-30 art. 66 et art. 75
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 382 (M)
-  - CODE DE PROCEDURE PENALE - art. 43 (M)
-  - CODE DE PROCEDURE PENALE - art. 52 (M)
-  - Code monétaire et financier - art. L131-73 (M)
+  - Code de procédure pénale - art. 382 (V)
+  - Code de procédure pénale - art. 43 (V)
+  - Code de procédure pénale - art. 52 (VT)
+  - Code monétaire et financier - art. L131-73 (V)
 
 _Cité par_:
 
@@ -5488,7 +5508,7 @@ _Cité par_:
 
 ###### Article L163-3
 
-Est puni d'un emprisonnement de sept ans et d'une amende de cinq millions de francs le fait pour toute personne :
+Est puni d'un emprisonnement de sept ans et d'une amende de 750 000 euros le fait pour toute personne :
 
 1. De contrefaire ou de falsifier un chèque ;
 
@@ -5498,16 +5518,6 @@ Est puni d'un emprisonnement de sept ans et d'une amende de cinq millions de fra
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret-loi 1935-10-30 art. 67
-  - Décret-loi du 30 octobre 1935 - art. 67 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
 _Cité par_:
 
   - Code monétaire et financier - art. L163-4 (VT)
@@ -5515,6 +5525,19 @@ _Cité par_:
   - Code monétaire et financier - art. L163-4-2 (V)
   - Code monétaire et financier - art. L163-5 (VD)
   - Code monétaire et financier - art. L163-8 (V)
+
+_Anciens textes_:
+
+  - Décret-loi 1935-10-30 art. 67
+  - Décret-loi du 30 octobre 1935 - art. 67 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
 ###### Article L163-4
@@ -5710,35 +5733,38 @@ _Cité par_:
 
 ###### Article L163-7
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de deux millions cinq cent mille francs le fait, pour toute
-personne, d'émettre un ou plusieurs chèques en violation de l'interdiction prononcée en application de l'article L. 163-6.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros le fait, pour toute personne, d'émettre un ou
+plusieurs chèques en violation de l'interdiction prononcée en application de l'article L. 163-6. 
 
 Est puni des mêmes peines le fait, pour un mandataire, d'émettre, en connaissance de cause, un ou plusieurs chèques dont
-l'émission était interdite à son mandant en application de l'article L. 163-6.
+l'émission était interdite à son mandant en application de l'article L. 163-6. 
 
 Pour la recherche, la poursuite, l'instruction et le jugement des infractions mentionnées aux alinéas précédents, le tribunal
-du lieu où le chèque est payable est compétent, sans préjudice de l'application des articles 43, 52 et 382 du code de
-procédure pénale.
+du lieu où le chèque est payable est compétent, sans préjudice de l'application des articles 43
+,52 et 382 du code de procédure pénale.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Décret-loi 1935-10-30 art. 69 et art. 75
   - Décret-loi du 30 octobre 1935 - art. 69 (Ab)
   - Décret-loi du 30 octobre 1935 - art. 75 (Ab)
-  - Décret-loi 1935-10-30 art. 69 et art. 75
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 382 (M)
-  - CODE DE PROCEDURE PENALE - art. 43 (M)
-  - CODE DE PROCEDURE PENALE - art. 52 (M)
-  - Code monétaire et financier - art. L163-6 (M)
+  - Code de procédure pénale - art. 382 (V)
+  - Code de procédure pénale - art. 43 (V)
+  - Code de procédure pénale - art. 52 (VT)
+  - Code monétaire et financier - art. L163-6 (V)
 
 _Cité par_:
 
@@ -5805,16 +5831,16 @@ _Cite_:
 
 ###### Article L163-10
 
-Est puni d'une amende de quatre vingt mille francs le fait, pour le tiré :
+Est puni d'une amende de 12 000 euros le fait, pour le tiré : 
 
-1. D'indiquer une provision inférieure à la provision existante et disponible ;
+1. D'indiquer une provision inférieure à la provision existante et disponible ; 
 
 2. De rejeter un chèque pour insuffisance ou indisponibilité de la provision sans indiquer, lorsque tel est le cas, que le
 chèque a été émis au mépris d'une injonction adressée en application de l'article L. 131-73 ou en violation d'une
-interdiction prononcée en application de l'article L. 163-6 ;
+interdiction prononcée en application de l'article L. 163-6 ; 
 
 3. De ne pas déclarer, dans les conditions prévues par décret en Conseil d'Etat, les incidents de paiement ainsi que les
-infractions prévues par le troisième alinéa de l'article L. 163-2 et les premier et deuxième alinéas de l'article L. 163-7 ;
+infractions prévues par le troisième alinéa de l'article L. 163-2 et les premier et deuxième alinéas de l'article L. 163-7 ; 
 
 4. De contrevenir aux dispositions des articles L. 131-72, L. 131-73 et au troisième alinéa de l'article L. 163-6.
 
@@ -5825,18 +5851,21 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 72
   - Décret-loi du 30 octobre 1935 - art. 72 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - Code monétaire et financier - art. L131-72 (M)
-  - Code monétaire et financier - art. L131-73 (M)
-  - Code monétaire et financier - art. L163-2 (M)
-  - Code monétaire et financier - art. L163-6 (M)
-  - Code monétaire et financier - art. L163-7 (M)
+  - Code monétaire et financier - art. L131-72 (V)
+  - Code monétaire et financier - art. L131-73 (V)
+  - Code monétaire et financier - art. L163-2 (V)
+  - Code monétaire et financier - art. L163-6 (V)
+  - Code monétaire et financier - art. L163-7 (V)
 
 _Cité par_:
 
@@ -7581,18 +7610,17 @@ _Codifié par_:
 ###### Article L213-23
 
 Les établissements de crédit et les entreprises d'investissement doivent déposer à la Banque de France les bons du Trésor
-leur appartenant, si le montant nominal de ces bons dépasse au total cinq mille francs.
+leur appartenant, si le montant nominal de ces bons dépasse au total 750 euros.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 45-679 1945-04-13 art. 1 al. 1
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -8012,7 +8040,7 @@ supérieure à 10 % des actifs.
 Un organisme de placement collectif en valeurs mobilières ne peut détenir plus de 10 % d'une même catégorie de valeurs
 mobilières d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de valeurs mobilières ainsi que les conditions
 dans lesquelles il peut être dérogé à cette limite. Ce seuil est porté à 25 % lorsque l'émetteur est une entreprise solidaire
-visée à l'article L. 443-3-1 du code du travail, et dont les fonds propres sont inférieurs à un million de francs.
+visée à l'article L. 443-3-1 du code du travail, et dont les fonds propres sont inférieurs à 152449,02 euros.
 
 **Liens relatifs à cet article**
 
@@ -8076,14 +8104,13 @@ _Cité par_:
   - Code monétaire et financier - art. R214-8 (Ab)
   - Code monétaire et financier - art. R214-80 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi n°2001-152 du 19 février 2001 - art. 19 () JORF 20 février 2001
 
 _Cite_:
 
@@ -10669,19 +10696,18 @@ _Cité par_:
 
 ###### Article L214-53
 
-Le capital social minimum ne peut être inférieur à cinq millions de francs. Les parts sont nominatives et d'un montant
-nominal minimum de mille francs.
+Le capital social minimum ne peut être inférieur à 760 000 euros. Les parts sont nominatives et d'un montant nominal minimum
+de 150 euros.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°70-1300 1970-12-31 art. 2 al. 1
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 5 (V)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -11099,13 +11125,23 @@ _Cité par_:
 
 ###### Article L214-67
 
-La société de gestion est constituée sous la forme d'une société anonyme dont le capital minimum ne peut être inférieur à un
-million cinq cent mille francs ou d'une société en nom collectif à la condition que, dans ce cas, l'un au moins des associés
-soit une société anonyme justifiant du capital social minimum susmentionné.
+La société de gestion est constituée sous la forme d'une société anonyme dont le capital minimum ne peut être inférieur à
+deux cent vingt cinq mille euros ou d'une société en nom collectif à la condition que, dans ce cas, l'un au moins des
+associés soit une société anonyme justifiant du capital social minimum susmentionné.
 
 La société de gestion doit être agréée par la commission des opérations de bourse.
 
 La commission des opérations de bourse peut, par décision motivée, retirer l'agrément d'une société de gestion.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -11113,10 +11149,13 @@ _Anciens textes_:
 
   - Loi n°70-1300 du 31 décembre 1970 - art. 9-1 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 art. 5 IV JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -12997,20 +13036,27 @@ _Cité par_:
 
 ###### Article L231-2
 
-Est puni d'une amende de soixante mille francs le fait, pour tout dirigeant, de droit ou de fait, d'association, d'émettre
-des obligations sans respecter les conditions prévues par les articles L. 213-8 et L. 213-10.
+Est puni d'une amende de 9 000 euros le fait, pour tout dirigeant, de droit ou de fait, d'association, d'émettre des
+obligations sans respecter les conditions prévues par les articles L. 213-8 et L. 213-10.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°85-698 du 11 juillet 1985 - art. 16, v. init.
   - Loi n°85-698 du 11 juillet 1985 - art. 16 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Loi n°2003-591 du 2 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 23
 
 _Cité par_:
 
@@ -13019,8 +13065,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L213-10 (V)
-  - Code monétaire et financier - art. L213-8 (V)
+  - Code monétaire et financier - art. L213-10
+  - Code monétaire et financier - art. L213-8
 
 
 ##### Section 2 : Infractions relatives aux placements collectifs<a id=141></a>
@@ -13029,16 +13075,26 @@ _Cite_:
 
 ###### Article L231-3
 
-Est puni d'un emprisonnement de deux ans et d'une amende de cinq millions de francs le fait de diriger en droit ou en fait un
-organisme qui procède à des placements collectifs en valeurs mobilières sans avoir été agréé ou qui poursuit son activité
-malgré un retrait d'agrément.
+Est puni d'un emprisonnement de deux ans et d'une amende de 750 000 euros le fait de diriger en droit ou en fait un organisme
+qui procède à des placements collectifs en valeurs mobilières sans avoir été agréé ou qui poursuit son activité malgré un
+retrait d'agrément.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
+suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
+portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
+placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°88-1201 1988-12-23 art. 24 al. 4
   - Loi n°88-1201 du 23 décembre 1988 - art. 24 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -13055,26 +13111,37 @@ _Cité par_:
 
 ###### Article L231-4
 
-I.-Est puni d'un emprisonnement de deux ans et d'une amende de cent mille francs le fait, pour les dirigeants de la société
-de gestion d'un fonds commun de placement ou d'un fonds commun de créances, de ne pas provoquer la désignation du commissaire
-aux comptes du fonds dans les conditions prévues à l'article L. 214-29. 
+I. - Est puni d'un emprisonnement de deux ans et d'une amende de 15 000 euros le fait, pour les dirigeants de la société de
+gestion d'un fonds commun de placement ou d'un fonds commun de créances, de ne pas provoquer la désignation du commissaire
+aux comptes du fonds dans les conditions prévues à l'article L. 214-29.
 
-II.-Est puni d'un emprisonnement de cinq ans et d'une amende de cent vingt mille francs le fait, pour tout commissaire aux
-comptes, soit en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou
-confirmer des informations mensongères sur la situation du fonds commun de placement ou du fonds commun de créances, ou de ne
-pas révéler au procureur de la République les faits délictueux dont il a eu connaissance. 
+II. - Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour tout commissaire aux comptes,
+soit en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou confirmer des
+informations mensongères sur la situation du fonds commun de placement ou du fonds commun de créances, ou de ne pas révéler
+au procureur de la République les faits délictueux dont il a eu connaissance.
 
-III.-Est puni d'un emprisonnement de cinq ans et d'une amende de cent vingt mille francs le fait, pour les dirigeants de la
-société de gestion ou de la personne morale dépositaire d'un fonds commun de placement ou d'un fonds commun de créances, et
-pour toutes personnes placées sous leur autorité, de mettre obstacle aux vérifications ou contrôles des commissaires aux
-comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur mission et, notamment,
-de tous contrats, livres, documents comptables et registres de procès-verbaux.
+III. - Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour les dirigeants de la société de
+gestion ou de la personne morale dépositaire d'un fonds commun de placement ou d'un fonds commun de créances, et pour toutes
+personnes placées sous leur autorité, de mettre obstacle aux vérifications ou contrôles des commissaires aux comptes ou de
+leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur mission et, notamment, de tous
+contrats, livres, documents comptables et registres de procès-verbaux.
+
+**Nota:**
+
+NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
+suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
+portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
+placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°88-1201 du 23 décembre 1988 - art. 46 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -13083,7 +13150,7 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L214-29 (V)
+  - Code monétaire et financier - art. L214-29 (M)
 
 _Cité par_:
 
@@ -13173,16 +13240,29 @@ _Cite_:
 
 ###### Article L231-7
 
-Est puni d'un emprisonnement de deux ans et d'une amende de cinq millions de francs le fait, pour les promoteurs d'un fonds
-commun de créances, de procéder au placement de parts de ce fonds sans agrément de la société de gestion du fonds ou sans
-visa de la commission des opérations de bourse.
+Est puni d'un emprisonnement de deux ans et d'une amende de 750000 euros le fait, pour les promoteurs d'un fonds commun de
+créances, de procéder au placement de parts de ce fonds sans agrément de la société de gestion du fonds ou sans visa de la
+commission des opérations de bourse.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°88-1201 du 23 décembre 1988 - art. 39 (M)
   - Loi n°88-1201 du 23 décembre 1988 - art. 39 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -13198,15 +13278,22 @@ _Cité par_:
 
 ###### Article L231-8
 
-Est puni d'une amende de cent vingt mille francs le fait, pour les dirigeants de la société de gestion d'une société civile
-de placement immobilier, de ne pas se conformer aux dispositions des articles L. 214-53 à L. 214-55 et L. 214-59 à L. 214-62.
+Est puni d'une amende de 18 000 euros le fait, pour les dirigeants de la société de gestion d'une société civile de placement
+immobilier, de ne pas se conformer aux dispositions des articles L. 214-53 à L. 214-55 et L. 214-59 à L. 214-62.
+
+**Nota:**
+
+L'article L. 214-61 du code monétaire et financier a été abrogé par l'article 9V 7° de la loi n° 2001-602 du 9 juillet 2001.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 21 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 21 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -13225,16 +13312,18 @@ _Cite_:
 
 ###### Article L231-9
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de soixante mille francs le fait, pour les dirigeants de la société
-de gestion d'une société civile de placement immobilier, de ne pas se conformer aux dispositions des articles L. 214-50 et L.
-214-63.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 9 000 euros le fait, pour les dirigeants de la société de gestion
+d'une société civile de placement immobilier, de ne pas se conformer aux dispositions des articles L. 214-50 et L. 214-63.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 22 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 22 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -13249,7 +13338,7 @@ _Cite_:
 
 ###### Article L231-10
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de soixante mille francs le fait, pour toute personne :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 9 000 euros le fait, pour toute personne :
 
 1. D'affirmer, sincères et véritables des souscriptions qu'elle sait fictives ou de déclarer que des fonds qui n'ont pas été
 mis définitivement à la disposition de la société ont été effectivement versés ;
@@ -13266,19 +13355,21 @@ comme étant ou devant être attachées à la société à un titre quelconque ;
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 23 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 23 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L231-11
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de deux millions cinq cent mille francs le fait, pour les dirigeants
-de la société de gestion d'une société civile de placement immobilier :
+Est puni d'un emprisonnement de cinq ans et d'une amende de 375 000 euros le fait, pour les dirigeants de la société de
+gestion d'une société civile de placement immobilier :
 
 1. D'opérer la répartition de dividendes fictifs entre les associés ;
 
@@ -13297,7 +13388,6 @@ sont intéressés directement ou indirectement.
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 24 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 24 (Ab)
 
 _Cité par_:
@@ -13305,19 +13395,18 @@ _Cité par_:
   - Loi n°77-1468 du 30 décembre 1977 - art. 19 (VD)
   - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L231-12
 
-Est puni d'une amende de soixante mille francs le fait, pour les dirigeants de la société de gestion :
+Est puni d'une amende de 9 000 euros le fait, pour les dirigeants de la société de gestion :
 
 1. De ne pas se conformer aux dispositions de l'article L. 214-72 ;
 
@@ -13334,13 +13423,15 @@ aux premier et deuxième alinéas de l'article L. 214-78.
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 25 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 25 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -13351,9 +13442,9 @@ _Cite_:
 
 ###### Article L231-13
 
-Est puni d'une amende de vingt-cinq mille francs le fait, pour les dirigeants de la société de gestion d'une société civile
-de placement immobilier, de ne pas adresser à tout associé qui en fait la demande une formule de procuration conforme aux
-prescriptions fixées par décret ainsi que :
+Est puni d'une amende de 3 750 euros le fait, pour les dirigeants de la société de gestion d'une société civile de placement
+immobilier, de ne pas adresser à tout associé qui en fait la demande une formule de procuration conforme aux prescriptions
+fixées par décret ainsi que :
 
 1. Le texte et l'exposé des motifs des projets de résolution inscrits à l'ordre du jour ;
 
@@ -13363,18 +13454,24 @@ prescriptions fixées par décret ainsi que :
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 26 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 26 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 23
 
 
 ###### Article L231-14
 
-Est puni d'un emprisonnement de deux ans et d'une amende de soixante mille francs le fait, pour toute personne :
+Est puni d'un emprisonnement de deux ans et d'une amende de 9 000 euros le fait, pour toute personne :
 
 1. D'empêcher un associé de participer à une assemblée ;
 
@@ -13388,19 +13485,21 @@ vote, ou d'accorder, garantir ou promettre ces avantages.
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 27 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 27 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L231-15
 
-Est puni d'une amende de vingt-cinq mille francs le fait, pour les dirigeants de la société de gestion d'une société civile
-de placement immobilier, de :
+Est puni d'une amende de 3 750 euros le fait, pour les dirigeants de la société de gestion d'une société civile de placement
+immobilier, de :
 
 1. Ne pas faire tenir, pour toute réunion de l'assemblée des associés, une feuille de présence émargée par les associés
 présents et les mandataires, certifiée exacte par le bureau de l'assemblée, et contenant :
@@ -13422,51 +13521,60 @@ soumis à l'assemblée, un résumé des débats, le texte des résolutions mis a
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 28 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 28 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 23
 
 
 ###### Article L231-16
 
-Est puni d'un emprisonnement de deux ans et d'une amende de soixante mille francs le fait, pour les dirigeants de la société
-de gestion, de ne pas provoquer la désignation du ou des commissaires aux comptes de la société.
+Est puni d'un emprisonnement de deux ans et d'une amende de 9 000 euros le fait, pour les dirigeants de la société de
+gestion, de ne pas provoquer la désignation du ou des commissaires aux comptes de la société.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 29 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 29 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L231-17
 
-Est puni d'un emprisonnement de six mois et d'une amende de soixante mille francs le fait, pour toute personne, en son nom
-personnel ou au titre d'associé dans une société de commissaires aux comptes, d'accepter, d'exercer ou de conserver les
-fonctions de commissaire aux comptes nonobstant les incompatibilités légales prévues au deuxième alinéa de l'article L.
-214-79.
+Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros le fait, pour toute personne, en son nom personnel ou
+au titre d'associé dans une société de commissaires aux comptes, d'accepter, d'exercer ou de conserver les fonctions de
+commissaire aux comptes nonobstant les incompatibilités légales prévues au deuxième alinéa de l'article L. 214-79.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 30 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 30 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -13475,10 +13583,10 @@ _Cite_:
 
 ###### Article L231-18
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de cent vingt mille francs le fait, pour un commissaire aux comptes,
-en son nom personnel ou au titre d'associé dans une société de commissaires aux comptes, de donner ou de confirmer des
-informations mensongères sur la situation de la société civile de placement immobilier ou de ne pas révéler au procureur de
-la République les faits délictueux dont il a eu connaissance.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour un commissaire aux comptes, en son nom
+personnel ou au titre d'associé dans une société de commissaires aux comptes, de donner ou de confirmer des informations
+mensongères sur la situation de la société civile de placement immobilier ou de ne pas révéler au procureur de la République
+les faits délictueux dont il a eu connaissance. 
 
 Les articles 226-13 et 226-14 du code pénal sont applicables aux commissaires aux comptes.
 
@@ -13486,77 +13594,92 @@ Les articles 226-13 et 226-14 du code pénal sont applicables aux commissaires a
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 31 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 31 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
+  - Code pénal - art. 226-13 (V)
 
 
 ###### Article L231-19
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de cent vingt mille francs le fait, pour les dirigeants de la
-société de gestion ou toute personne au service de la société, de mettre obstacle aux vérifications ou contrôles des
-commissaires aux comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur
-mission.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour les dirigeants de la société de
+gestion ou toute personne au service de la société, de mettre obstacle aux vérifications ou contrôles des commissaires aux
+comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur mission.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 32 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 32 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L231-20
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de soixante mille francs le fait, pour le liquidateur, de faire, de
-mauvaise foi, des biens ou du crédit de la société en liquidation un usage qu'il sait contraire à l'intérêt de celle-ci, à
-des fins personnelles ou pour favoriser une autre société ou entreprise dans laquelle il est intéressé directement ou
-indirectement.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 9 000 euros le fait, pour le liquidateur, de faire, de mauvaise
+foi, des biens ou du crédit de la société en liquidation un usage qu'il sait contraire à l'intérêt de celle-ci, à des fins
+personnelles ou pour favoriser une autre société ou entreprise dans laquelle il est intéressé directement ou indirectement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 33 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 33 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L231-21
 
-Est puni d'un emprisonnement de deux ans et d'une amende de cinq millions de francs le fait, pour les dirigeants de la
-société de gestion, d'exercer leurs fonctions sans que celle-ci ait obtenu l'agrément de la commission des opérations de
-bourse conformément aux dispositions de l'article L. 214-67, ou après le retrait de cet agrément.
+Est puni d'un emprisonnement de deux ans et d'une amende de 750000 euros le fait, pour les dirigeants de la société de
+gestion, d'exercer leurs fonctions sans que celle-ci ait obtenu l'agrément de la commission des opérations de bourse
+conformément aux dispositions de l'article L. 214-67, ou après le retrait de cet agrément.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°70-1300 du 31 décembre 1970 - art. 34-1 (M)
   - Loi n°70-1300 du 31 décembre 1970 - art. 34-1 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -13606,25 +13729,33 @@ _Anciens textes_:
 ###### Article L232-2
 
 Toute infraction aux dispositions de l'article L. 223-1, du premier alinéa de l'article L. 223-2 et de l'article L. 223-3 est
-punie d'une amende de vingt-cinq mille francs. En cas de récidive dans un délai de cinq ans, une peine d'emprisonnement de
-deux ans peut être prononcée.
+punie d'une amende de 3 750 euros. En cas de récidive dans un délai de cinq ans, une peine d'emprisonnement de deux ans peut
+être prononcée.
 
 Les infractions mentionnées tant au présent article qu'à l'article L. 232-1 peuvent être constatées par les agents de
 l'enregistrement.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Abrogé par_:
+
+  - Loi n°2012-387 du 22 mars 2012 - art. 23
+
 _Cite_:
 
-  - Code monétaire et financier - art. L223-1 (V)
-  - Code monétaire et financier - art. L223-2 (V)
-  - Code monétaire et financier - art. L223-3 (V)
-  - Code monétaire et financier - art. L232-1 (V)
+  - Code monétaire et financier - art. L223-1
+  - Code monétaire et financier - art. L223-2
+  - Code monétaire et financier - art. L223-3
+  - Code monétaire et financier - art. L232-1
 
 _Cité par_:
 
@@ -13969,7 +14100,7 @@ ainsi autorisés.
 
 Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la commission bancaire, les infractions aux
 dispositions du présent article sont punies d'une amende fiscale dont le taux est égal au montant des intérêts payés, sans
-que cette amende puisse être inférieure à cinq cents francs.
+que cette amende puisse être inférieure à 75 euros.
 
 Un décret pris sur le rapport du ministre chargé de l'économie fixe les modalités d'application du présent article, et
 notamment les conditions dans lesquelles seront constatées et poursuivies les infractions.
@@ -13981,8 +14112,11 @@ dépositaires, au régime de l'épargne populaire défini à la section 2 du cha
 
 _Anciens textes_:
 
-  - Loi n°56-760 du 2 août 1956 - art. 17, v. init.
   - Loi n°82-357 du 27 avril 1982 - art. 7 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -18370,8 +18504,8 @@ _Cité par_:
 
 ###### Article L353-1
 
-Est puni d'un emprisonnement de deux ans et d'une amende de trois cent mille francs, le fait, pour toute personne, de
-méconnaître les obligations prévues aux articles L. 341-1 et L. 341-2 portant sur des opérations de banque.
+Est puni d'un emprisonnement de deux ans et d'une amende de 45000 euros, le fait, pour toute personne, de méconnaître les
+obligations prévues aux articles L. 341-1 et L. 341-2 portant sur des opérations de banque.
 
 Le tribunal peut, en outre, prononcer la fermeture, provisoire ou définitive, de l'entreprise dont l'une des personnes
 chargées de l'administration ou de la direction est condamnée en application du premier alinéa et assortir éventuellement sa
@@ -18401,10 +18535,13 @@ _Cité par_:
   - Code monétaire et financier - art. L753-10 (VT)
   - Code monétaire et financier - art. L763-10 (MMN)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -18415,9 +18552,9 @@ _Cite_:
 
 ###### Article L353-2
 
-Est puni d'une amende de trente mille francs, le fait, pour toute personne, de méconnaître les obligations prescrites au
-titre des opérations de banque à l'article L. 341-3, au deuxième alinéa de l'article L. 341-4 et au premier alinéa de
-l'article L. 341-5.
+Est puni d'une amende de 4500 euros, le fait, pour toute personne, de méconnaître les obligations prescrites au titre des
+opérations de banque à l'article L. 341-3, au deuxième alinéa de l'article L. 341-4 et au premier alinéa de l'article L.
+341-5.
 
 Est puni de la même peine le fait, pour le démarcheur, de ne pas restituer à l'établissement qui la lui a délivrée la carte
 d'emploi prévue à l'article L. 341-4, dans les vingt-quatre heures de la demande qui lui est faite par lettre recommandée.
@@ -18436,10 +18573,13 @@ _Cité par_:
   - Code monétaire et financier - art. L753-10 (M)
   - Code monétaire et financier - art. L763-10 (M)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -18451,20 +18591,22 @@ _Cite_:
 
 ###### Article L353-3
 
-Est puni d'une amende de trente mille francs, le fait, pour toute personne, de méconnaître les obligations prescrites au
-titre des opérations sur valeurs mobilières par l'article L. 342-8.
+Est puni d'une amende de 4500 euros, le fait, pour toute personne, de méconnaître les obligations prescrites au titre des
+opérations sur valeurs mobilières par l'article L. 342-8.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°72-6 1972-01-03 art. 8 al. 7
   - Loi n°72-6 du 3 janvier 1972 - art. 8 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -18516,8 +18658,8 @@ _Cite_:
 
 ###### Article L353-5
 
-Est puni d'un emprisonnement de deux ans et d'une amende de quarante mille francs, le fait, pour toute personne, de
-méconnaître les obligations prescrites par les articles L. 342-6, L. 342-13 à L. 342-17 et L. 342-19.
+Est puni d'un emprisonnement de deux ans et d'une amende de 6000 euros, le fait, pour toute personne, de méconnaître les
+obligations prescrites par les articles L. 342-6, L. 342-13 à L. 342-17 et L. 342-19.
 
 **Liens relatifs à cet article**
 
@@ -18525,10 +18667,13 @@ _Anciens textes_:
 
   - Loi n°72-6 du 3 janvier 1972 - art. 33 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -18582,30 +18727,29 @@ _Cité par_:
 
 ###### Article L353-7
 
-Est puni d'un emprisonnement de six mois et d'une amende de soixante mille francs, le fait, pour toute personne, de
-méconnaître les obligations prescrites au titre des opérations sur matières précieuses et des billets de banque, par les
-articles L. 344-1 à L. 344-3.
+Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros, le fait, pour toute personne, de méconnaître les
+obligations prescrites au titre des opérations sur matières précieuses et des billets de banque, par les articles L. 344-1 à
+L. 344-3.
 
 La saisie et la confiscation des matières mentionnées aux articles L. 344-1 à L. 344-3 sont obligatoires.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Transféré par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
 
 _Nouveaux textes_:
 
   - Code monétaire et financier - art. L353-6 (V)
-
-_Cite_:
-
-  - Code monétaire et financier L344-1 à L344-3
-
-_Anciens textes_:
-
-  - Décret n°1938-11-12 art. 6
 
 
 ## Livre IV : Les marchés<a id=202></a>
@@ -21403,43 +21547,45 @@ _Nouveaux textes_:
 
 Sans préjudice des dispositions relatives à l'appel public à l'épargne, les obligations d'information des sociétés dont les
 actions sont admises aux négociations sur un marché réglementé sont fixées par les articles L. 232-7 et L. 232-8 du code de
-commerce, reproduits ci-après :
+commerce, reproduits ci-après : 
 
-" Art. L. 232-7. - Les sociétés dont les actions sont admises aux négociations sur un marché réglementé sont tenues d'annexer
-à leurs comptes annuels un inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice.
+" Art.L. 232-7.-Les sociétés dont les actions sont admises aux négociations sur un marché réglementé sont tenues d'annexer à
+leurs comptes annuels un inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice. 
 
 Elles annexent également un tableau relatif à la répartition et à l'affectation des sommes distribuables qui seront proposées
-à l'assemblée générale.
+à l'assemblée générale. 
 
 Ces sociétés, à l'exception des sociétés d'investissement à capital variable, sont également tenues d'établir et de publier,
 au plus tard dans les quatre mois qui suivent le premier semestre de l'exercice, un rapport commentant les données chiffrées
 relatives au chiffre d'affaires et aux résultats de la société au cours du semestre écoulé et décrivant son activité au cours
 de cette période ainsi que son évolution prévisible au cours de l'exercice et les événements importants survenus au cours du
 semestre écoulé. Les mentions obligatoires du rapport semestriel et les modalités de sa publication sont fixées par décret en
-Conseil d'Etat. Les commissaires aux comptes vérifient la sincérité des informations contenues dans le rapport semestriel. "
+Conseil d'Etat. Les commissaires aux comptes vérifient la sincérité des informations contenues dans le rapport semestriel. " 
 
-" Art. L. 232-8. - Lorsque la moitié de leur capital appartient à une ou plusieurs sociétés dont les actions sont admises aux
+" Art.L. 232-8.-Lorsque la moitié de leur capital appartient à une ou plusieurs sociétés dont les actions sont admises aux
 négociations sur un marché réglementé, les sociétés dont les actions n'y sont pas admises et celles qui ne revêtent pas la
-forme de sociétés par actions sont tenues, si leur bilan dépasse 20 000 000 F ou si la valeur d'inventaire ou la valeur
-boursière de leur portefeuille excède 2 000 000 F, d'annexer à leurs comptes annuels un inventaire des valeurs mobilières
+forme de sociétés par actions sont tenues, si leur bilan dépasse 3 000 000 d'euros ou si la valeur d'inventaire ou la valeur
+boursière de leur portefeuille excède 300 000 euros, d'annexer à leurs comptes annuels un inventaire des valeurs mobilières
 détenues en portefeuille à la clôture de l'exercice. "
 
 **Liens relatifs à cet article**
 
+_Créé par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 4 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de commerce. - art. L232-7 (V)
-  - Code de commerce. - art. L232-8 (M)
+  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 4
 
-_Anciens textes_:
+**Liens**:
 
-  - Code de commerce. - art. L232-7 (V)
-  - Code de commerce. - art. L232-8 (M)
+  - PILOTE_SUIVEUR: Code de commerce - art. L232-7
+  - PILOTE_SUIVEUR: Code de commerce - art. L232-8
 
 
 ##### Section 2 : Obligation d'information sur les prises de participations<a id=241></a>
@@ -21723,7 +21869,7 @@ _Anciens textes_:
 
 ###### Article L462-1
 
-Est puni d'un emprisonnement de 2 ans et d'une amende de quarante mille francs, le fait, pour toute personne, de porter à la
+Est puni d'un emprisonnement de deux ans et d'une amende de 6 000 euros, le fait, pour toute personne, de porter à la
 connaissance du public, par voie de publication, communication de circulaires ou autrement, tout cours qui ne serait pas
 extrait de la cote ou d'un relevé de cours établi dans les conditions fixées par décret.
 
@@ -21736,10 +21882,17 @@ _Anciens textes_:
 
   - Loi n°42-290 du 14 février 1942 - art. 22 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
 
 _Cité par_:
 
@@ -21921,7 +22074,7 @@ _Cité par_:
 
 ###### Article L465-1
 
-Est puni de deux ans d'emprisonnement et d'une amende de dix millions de francs dont le montant peut être porté au-delà de ce
+Est puni de deux ans d'emprisonnement et d'une amende de 1 500 000 euros dont le montant peut être porté au-delà de ce
 chiffre, jusqu'au décuple du montant du profit éventuellement réalisé, sans que l'amende puisse être inférieure à ce même
 profit, le fait, pour les dirigeants d'une société mentionnée à l'article L. 225-109 du code de commerce, et pour les
 personnes disposant, à l'occasion de l'exercice de leur profession ou de leurs fonctions, d'informations privilégiées sur les
@@ -21930,19 +22083,19 @@ d'évolution d'un instrument financier admis sur un marché réglementé, de ré
 directement, soit par personne interposée, une ou plusieurs opérations avant que le public ait connaissance de ces
 informations.
 
-Est puni d'un an d'emprisonnement et de 150.000 Euro d'amende le fait, pour toute personne disposant dans l'exercice de sa
+Est puni d'un an d'emprisonnement et de 150 000 euros d'amende le fait, pour toute personne disposant dans l'exercice de sa
 profession ou de ses fonctions d'une information privilégiée sur les perspectives ou la situation d'un émetteur dont les
 titres sont négociés sur un marché réglementé ou sur les perspectives d'évolution d'un instrument financier admis sur un
 marché réglementé, de la communiquer à un tiers en dehors du cadre normal de sa profession ou de ses fonctions.
 
-Est puni d'un an d'emprisonnement et d'une amende de 150 000 Euro dont le montant peut être porté au-delà de ce chiffre,
+Est puni d'un an d'emprisonnement et d'une amende de 150 000 euros dont le montant peut être porté au-delà de ce chiffre,
 jusqu'au décuple du montant du profit réalisé, sans que l'amende puisse être inférieure à ce même profit, le fait pour toute
 personne autre que celles visées aux deux alinéas précédents, possédant en connaissance de cause des informations
 privilégiées sur la situation ou les perspectives d'un émetteur dont les titres sont négociés sur un marché réglementé ou sur
 les perspectives d'évolution d'un instrument financier admis sur un marché réglementé, de réaliser ou de permettre de
 réaliser, directement ou indirectement, une opération ou de communiquer à un tiers ces informations, avant que le public en
 ait connaissance. Lorsque les informations en cause concernent la commission d'un crime ou d'un délit, les peines encourues
-sont portées à sept ans d'emprisonnement et à 1 500 000 Euro si le montant des profits réalisés est inférieur à ce chiffre.
+sont portées à sept ans d'emprisonnement et à 1 500 000 euros si le montant des profits réalisés est inférieur à ce chiffre.
 
 Est puni des peines prévues au premier alinéa le fait, pour toute personne, de répandre dans le public par des voies et
 moyens quelconques des informations fausses ou trompeuses sur les perspectives ou la situation d'un émetteur dont les titres
@@ -21955,14 +22108,13 @@ _Anciens textes_:
 
   - Ordonnance n°67-833 du 28 septembre 1967 - art. 10-1 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 33 () JORF 16 novembre 2001
 
 _Cité par_:
 
@@ -22078,7 +22230,7 @@ Les sanctions applicables aux infractions relatives à l'obligation d'informatio
 significatives sont fixées par le 1° et le 2° du I et le III de l'article L. 247-1 et par l'article L. 247-2 du code de
 commerce, reproduits ci-après :
 
-" I. - Est puni d'un emprisonnement de deux ans et d'une amende de 60 000 F le fait, pour les présidents, les
+" I. - Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait, pour les présidents, les
 administrateurs, les directeurs généraux ou les gérants de toute société :
 
 1° De ne pas faire mention dans le rapport annuel présenté aux associés sur les opérations de l'exercice, d'une prise de
@@ -22092,7 +22244,7 @@ la société et des sociétés qu'elle contrôle par branche d'activité ;
 III. - Est puni des peines mentionnées au I le fait, pour le commissaire aux comptes, de ne pas faire figurer dans son
 rapport les mentions visées au 1° du I du présent article.
 
-Art. L. 247-2. - I. - Est puni d'une amende de 120 000 F le fait, pour les présidents, les administrateurs, les membres du
+Art. L. 247-2. - I. - Est puni d'une amende de 18000 euros le fait pour les présidents, les administrateurs, les membres du
 directoire, les gérants ou les directeurs généraux des personnes morales, ainsi que pour les personnes physiques de
 s'abstenir de remplir les obligations d'informations auxquelles cette personne est tenue, en application de l'article L.
 233-7, du fait des participations qu'elle détient.
@@ -22113,21 +22265,34 @@ III.
 V. - Pour les sociétés faisant publiquement appel à l'épargne, les poursuites sont engagées après que l'avis de la Commission
 des opérations de bourse a été demandé. "
 
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Anciens textes_:
-
-  - Code de commerce. - art. L247-2 (M)
 
 _Cite_:
 
   - Code de commerce. - art. L247-2 (M)
   - Code monétaire et financier L247-1, L233-7, L233-12, L233-13
+
+_Anciens textes_:
+
+  - Code de commerce. - art. L247-2 (M)
 
 _Cité par_:
 
@@ -27364,24 +27529,24 @@ _Cite_:
 
 Des sociétés de caution mutuelle peuvent être constituées entre commerçants, industriels, fabricants, artisans, sociétés
 commerciales et membres des professions libérales. Elles ont pour objet de cautionner leurs membres à raison de leurs
-opérations professionnelles.
+opérations professionnelles. 
 
 En outre, des sociétés de caution mutuelle peuvent être constituées entre propriétaires d'immeubles ou de droits immobiliers.
 Elles ont pour objet de cautionner leurs membres à raison de prêts contractés pour l'accession à la propriété ou
-l'aménagement et la réparation de leurs immeubles.
+l'aménagement et la réparation de leurs immeubles. 
 
 Les sociétés mentionnées aux premier et deuxième alinéas sont autorisées à effectuer au profit de leurs membres, à l'occasion
 d'une opération de cautionnement et en relation directe avec celle-ci, les opérations de conseil mentionnées au 5 de
 l'article L. 311-2, sans toutefois qu'il puisse y avoir obligation pour le demandeur d'une caution d'accepter un service de
-conseil.
+conseil. 
 
 La caution peut être donnée par l'aval ou l'endos des effets de commerce et billets créés, souscrits ou endossés par les
-membres des sociétés ou sous toute autre forme.
+membres des sociétés ou sous toute autre forme. 
 
 Le capital des sociétés de caution mutuelle est formé de parts nominatives qui peuvent être de valeur inégale sans cependant
-qu'aucune d'entre elles puisse être inférieure à dix francs, et à la souscription desquelles peuvent concourir, en dehors des
+qu'aucune d'entre elles puisse être inférieure à 1,5 euros, et à la souscription desquelles peuvent concourir, en dehors des
 membres qui participent aux avantages de la société, des membres non participants qui n'ont droit qu'à la rémunération de
-leurs apports.
+leurs apports. 
 
 Les sociétés ne sont constituées qu'après versement du quart du capital souscrit. Par dérogation aux dispositions de
 l'article 12 de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, la libération du surplus se fait par
@@ -27393,18 +27558,18 @@ de manière à permettre à la société de proportionner le montant du fonds so
 _Anciens textes_:
 
   - Loi n°1917-03-13 du 13 mars 1917 - art. 1 (Ab)
-  - Loi n°1917-03-13 art. 1
 
 _Cite_:
 
-  - Loi n°47-1775 du 10 septembre 1947 - art. 12 (M)
-  - Code monétaire et financier - art. L311-2 (M)
+  - Loi n°47-1775 du 10 septembre 1947 - art. 12 (V)
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -29593,20 +29758,19 @@ suivantes :
 3. L'interdiction d'exercer la profession de changeur manuel.
 
 En outre, la commission bancaire peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au
-plus égale à deux cent cinquante mille francs.
+plus égale à 37500 euros.
 
 Les sommes correspondantes sont recouvrées par le Trésor public et versées au budget de l'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°90-614 1990-07-12 art. 25 III
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -33142,7 +33306,7 @@ _Cite_:
 ###### Article L571-3
 
 Le fait, pour toute personne, de méconnaître l'une des interdictions prescrites par les articles L. 511-5 et L. 511-8 est
-puni de trois ans d'emprisonnement et de deux millions cinq cent mille francs d'amende.
+puni de trois ans d'emprisonnement et de 375 000 euros d'amende. 
 
 Le tribunal peut ordonner l'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article
 131-35 du code pénal.
@@ -33163,17 +33327,19 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°84-46 1984-01-24 art. 75
   - Loi n°84-46 du 24 janvier 1984 - art. 75 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - Code pénal - art. 131-35 (M)
+  - Code pénal - art. 131-35 (V)
   - Code monétaire et financier - art. L511-5 (V)
   - Code monétaire et financier - art. L511-8 (V)
 
@@ -33183,7 +33349,7 @@ _Cite_:
 Le fait, pour tout dirigeant d'un établissement de crédit ou d'une des personnes morales ou filiales mentionnées à l'article
 L. 613-10, de ne pas répondre, après mise en demeure, aux demandes d'informations de la commission bancaire, de mettre
 obstacle de quelque manière que ce soit à l'exercice par celle-ci de sa mission de contrôle ou de lui communiquer des
-renseignements inexacts est puni d'un an d'emprisonnement et de cent mille francs d'amende.
+renseignements inexacts est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 Le fait pour les personnes mentionnées aux articles L. 511-33 et L. 511-34 de méconnaître le secret professionnel est
 sanctionné par les peines prévues aux articles 226-13 et 226-14 du code pénal.
@@ -33192,14 +33358,16 @@ sanctionné par les peines prévues aux articles 226-13 et 226-14 du code pénal
 
 _Anciens textes_:
 
-  - Loi n°84-46 1984-01-24 art. 57 et art. 79
   - Loi n°84-46 du 24 janvier 1984 - art. 57 (Ab)
   - Loi n°84-46 du 24 janvier 1984 - art. 79 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -33221,14 +33389,6 @@ _Cité par_:
   - Code monétaire et financier - art. L572-2 (V)
   - Code monétaire et financier - art. L745-1-1 (V)
   - Code monétaire et financier - art. L755-1-1 (VD)
-
-_Cite_:
-
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-  - Code monétaire et financier - art. L511-33 (V)
-  - Code monétaire et financier - art. L511-34 (M)
-  - Code monétaire et financier - art. L613-10 (M)
 
 
 ###### Article L571-5
@@ -33260,24 +33420,25 @@ _Cité par_:
 ###### Article L571-6
 
 Le fait, pour les dirigeants d'un établissement de crédit, de ne pas, pour chaque exercice, dresser l'inventaire, établir des
-comptes annuels et un rapport de gestion dans les conditions prévues à l'article L. 511-35 est puni de cent mille francs
-d'amende.
+comptes annuels et un rapport de gestion dans les conditions prévues à l'article L. 511-35 est puni de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-46 du 24 janvier 1984 - art. 80 (M)
   - Loi n°84-46 du 24 janvier 1984 - art. 80 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - Code monétaire et financier - art. L511-35 (M)
+  - Code monétaire et financier - art. L511-35 (V)
 
 _Cité par_:
 
@@ -33287,69 +33448,75 @@ _Cité par_:
 ###### Article L571-7
 
 Le fait, pour les dirigeants d'un établissement de crédit, de ne pas provoquer la désignation des commissaires aux comptes de
-l'établissement ou de ne pas les convoquer à toute assemblée générale est puni de deux ans d'emprisonnement et de deux cent
-mille francs d'amende.
+l'établissement ou de ne pas les convoquer à toute assemblée générale est puni de deux ans d'emprisonnement et de 30 000
+euros d'amende.
 
-Est puni de cinq ans d'emprisonnement et de cinq cent mille francs d'amende, le fait, pour tout dirigeant d'un établissement
-de crédit ou pour toute personne au service de l'établissement, de mettre obstacle aux vérifications ou contrôles des
-commissaires aux comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur
-mission, et notamment de tous contrats, livres, documents comptables et registres de procès-verbaux.
+Est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende, le fait, pour tout dirigeant d'un établissement de crédit
+ou pour toute personne au service de l'établissement, de mettre obstacle aux vérifications ou contrôles des commissaires aux
+comptes ou de leur refuser la communication sur place de toutes les pièces utiles à l'exercice de leur mission, et notamment
+de tous contrats, livres, documents comptables et registres de procès-verbaux.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-46 du 24 janvier 1984 - art. 81 (M)
   - Loi n°84-46 du 24 janvier 1984 - art. 81 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L571-8
 
 Le fait, pour les dirigeants d'un établissement de crédit, de ne pas publier les comptes annuels dans les conditions prévues
-à l'article L. 511-37 est puni d'une amende de cent mille francs.
+à l'article L. 511-37 est puni d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-46 1984-01-24 art. 82
   - Loi n°84-46 du 24 janvier 1984 - art. 82 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - Code monétaire et financier - art. L511-37 (M)
+  - Code monétaire et financier - art. L511-37 (V)
 
 
 ###### Article L571-9
 
 Le fait, pour les dirigeants d'un établissement de crédit, de ne pas établir les comptes sous forme consolidée, conformément
-à l'article L. 511-36, est puni de cent mille francs d'amende.
+à l'article L. 511-36, est puni de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°84-46 du 24 janvier 1984 - art. 83 (M)
   - Loi n°84-46 du 24 janvier 1984 - art. 83 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
-  - Code monétaire et financier - art. L511-36 (M)
+  - Code monétaire et financier - art. L511-36 (V)
 
 _Cité par_:
 
@@ -33411,8 +33578,8 @@ _Cite_:
 
 ###### Article L571-12
 
-Est puni de six mois d'emprisonnement et de soixante mille francs d'amende le fait, pour toute personne, d'ouvrir ou de tenir
-une maison de prêts sur gages ou nantissement sans autorisation légale.
+Est puni de six mois d'emprisonnement et de 9 000 euros d'amende le fait, pour toute personne, d'ouvrir ou de tenir une
+maison de prêts sur gages ou nantissement sans autorisation légale.
 
 Est puni des mêmes peines le fait, pour une personne ayant une autorisation, de ne pas tenir un registre conforme aux
 règlements, contenant de suite, sans aucun blanc ni interligne, les sommes ou les objets prêtés, les noms, domicile et
@@ -33427,10 +33594,13 @@ _Anciens textes_:
 
   - Loi n°66-1010 du 28 décembre 1966 - art. 16-1 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ##### Section 4 : Sociétés de crédit-bail<a id=382></a>
@@ -33469,7 +33639,7 @@ _Cité par_:
 ###### Article L571-14
 
 Le fait, pour les dirigeants d'une compagnie financière, de ne pas établir les comptes sous une forme consolidée,
-conformément à l'article L. 517-1, est puni de cent mille francs d'amende.
+conformément à l'article L. 517-1, est puni de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -33488,21 +33658,15 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°84-46 du 24 janvier 1984 - art. 84 (M)
   - Loi n°84-46 du 24 janvier 1984 - art. 84 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L517-1 (M)
 
 
 ##### Section 6 : Intermédiaires en opérations de banque<a id=384></a>
@@ -33510,7 +33674,7 @@ _Cite_:
 ###### Article L571-15
 
 Le fait, pour toute personne physique, d'enfreindre l'une des interdictions prévues par les articles L. 519-1 et L. 519-2 est
-puni de deux ans d'emprisonnement et de deux cent mille francs d'amende.
+puni de deux ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -33527,24 +33691,21 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°84-46 du 24 janvier 1984 - art. 77 (M)
   - Loi n°84-46 du 24 janvier 1984 - art. 77 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L519-1 (V)
-  - Code monétaire et financier - art. L519-2 (V)
 
 
 ###### Article L571-16
 
 Le fait, pour tout intermédiaire en opérations de banque, de ne pas satisfaire à l'obligation instituée à l'article L. 519-4
-est puni d'un an d'emprisonnement et de cent mille francs d'amende.
+est puni d'un an d'emprisonnement et de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -33560,13 +33721,15 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Loi n°84-46 du 24 janvier 1984 - art. 78 (M)
   - Loi n°84-46 du 24 janvier 1984 - art. 78 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -33610,24 +33773,22 @@ _Cite_:
 
 ###### Article L572-4
 
-Est puni d'un emprisonnement de six mois et d'une amende de cinquante mille francs, le fait, pour toute personne, de
-s'opposer à l'exercice par les agents des douanes des pouvoirs qu'ils tiennent de l'article L. 520-4.
+Est puni d'un emprisonnement de six mois et d'une amende de 7 500 euros, le fait, pour toute personne, de s'opposer à
+l'exercice par les agents des douanes des pouvoirs qu'ils tiennent de l'article L. 520-4.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°90-614 1990-07-12 art. 25 bis V
   - Loi n°90-614 du 12 juillet 1990 - art. 25 bis (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L520-4 (V)
 
 
 ##### Section 1 : Changeurs manuels<a id=386></a>
@@ -33679,8 +33840,7 @@ _Cite_:
 
 ###### Article L573-1
 
-I. - Est puni de trois ans d'emprisonnement et de deux millions cinq cent mille francs d'amende le fait, pour toute personne
-physique ;
+I. - Est puni de trois ans d'emprisonnement et de 375000 euros d'amende le fait, pour toute personne physique ;
 
 1. De fournir des services d'investissement à des tiers à titre de profession habituelle sans y avoir été autorisée dans les
 conditions prévues à l'article L. 532-1 ou sans figurer au nombre des personnes mentionnées à l'article L. 531-2 ;
@@ -33714,10 +33874,13 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 82 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -33728,20 +33891,11 @@ _Cité par_:
   - Code monétaire et financier - art. L755-11 (VD)
   - Code monétaire et financier - art. L765-11 (VD)
 
-_Cite_:
-
-  - Code pénal - art. 131-26 (V)
-  - Code pénal - art. 131-27 (V)
-  - Code pénal - art. 131-39 (MMN)
-  - Code monétaire et financier - art. L421-7 (M)
-  - Code monétaire et financier - art. L531-2 (M)
-  - Code monétaire et financier - art. L532-1 (M)
-
 
 ###### Article L573-2
 
 Le fait, pour toute personne physique, de méconnaître l'une des interdictions prescrites par l'article L. 531-11 est puni de
-trois ans d'emprisonnement et de deux millions cinq cent mille francs d'amende.
+trois ans d'emprisonnement et de 375000 euros d'amende.
 
 Le tribunal peut également ordonner l'affichage ou la diffusion de la décision prononcée dans les conditions prévues à
 l'article 131-39 du code pénal.
@@ -33752,22 +33906,20 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 83 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Cite_:
-
-  - Code pénal - art. 131-39 (MMN)
-  - Code monétaire et financier - art. L531-11 (V)
 
 
 ###### Article L573-3
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, de ne pas, pour chaque exercice, dresser l'inventaire et
-établir les comptes annuels et un rapport de gestion dans les conditions prévues à l'article L. 533-2 est puni de cent mille
-francs d'amende.
+établir les comptes annuels et un rapport de gestion dans les conditions prévues à l'article L. 533-2 est puni de 15000 euros
+d'amende.
 
 **Liens relatifs à cet article**
 
@@ -33775,30 +33927,29 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 84 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
   - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
 
-_Cite_:
-
-  - Code monétaire et financier - art. L533-2 (M)
-
 
 ###### Article L573-4
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, de ne pas provoquer la désignation des commissaires aux
-comptes de l'entreprise ou de ne pas les convoquer à l'assemblée générale est puni de deux ans d'emprisonnement et de deux
-cent mille francs d'amende.
+comptes de l'entreprise ou de ne pas les convoquer à l'assemblée générale est puni de deux ans d'emprisonnement et de 30000
+euros d'amende.
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, ou pour toute personne au service de cette entreprise, de
 mettre obstacle aux vérifications ou aux contrôles des commissaires aux comptes ou de refuser la communication sur place de
 toutes les pièces utiles à l'exercice de leur mission et notamment tous contrats, livres, documents comptables et registres
-de procès-verbaux est puni de cinq ans d'emprisonnement et de cinq cent mille francs d'amende.
+de procès-verbaux est puni de cinq ans d'emprisonnement et de 75000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -33806,16 +33957,19 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 85 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L573-5
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, de ne pas publier les comptes annuels de l'entreprise dans
-les conditions prévues à l'article L. 533-2 est puni d'une amende de cent mille francs.
+les conditions prévues à l'article L. 533-2 est puni d'une amende de 15000 euros.
 
 **Liens relatifs à cet article**
 
@@ -33823,20 +33977,19 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 86 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L533-2 (M)
 
 
 ###### Article L573-6
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, de ne pas établir, conformément à l'article L. 533-2, les
-comptes de l'entreprise sous une forme consolidée est puni de cent mille francs d'amende.
+comptes de l'entreprise sous une forme consolidée est puni de 15000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -33844,14 +33997,13 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 87 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L533-2 (M)
 
 
 ###### Article L573-7
@@ -33893,28 +34045,30 @@ _Cité par_:
 
 ###### Article L573-8
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de cent vingt mille francs, le fait, pour toute personne de
-méconnaître les obligations prescrites aux articles L. 550-3 et L. 550-4.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 18000 euros, le fait, pour toute personne de méconnaître les
+obligations prescrites aux articles L. 550-3 et L. 550-4.
 
-Est puni d'un emprisonnement de deux ans et d'une amende de soixante mille francs le fait, pour le gestionnaire, de ne pas se
-conformer aux dispositions de l'article L. 550-5.
+Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait, pour le gestionnaire, de ne pas se conformer
+aux dispositions de l'article L. 550-5.
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de cent vingt mille francs le fait, pour le commissaire aux comptes,
-soit en son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou confirmer des
-informations mensongères sur les documents mentionnés à l'article L. 550-4 ou de ne pas révéler au procureur de la République
-les faits délictueux dont il a eu connaissance.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 18000 euros le fait, pour le commissaire aux comptes, soit en son
+nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou confirmer des informations
+mensongères sur les documents mentionnés à l'article L. 550-4 ou de ne pas révéler au procureur de la République les faits
+délictueux dont il a eu connaissance.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°83-1 du 3 janvier 1983 - art. 40 (M)
   - Loi n°83-1 du 3 janvier 1983 - art. 40 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -33926,22 +34080,16 @@ _Cité par_:
   - Code monétaire et financier - art. L755-12 (V)
   - Code monétaire et financier - art. L765-12 (V)
 
-_Cite_:
-
-  - Code monétaire et financier - art. L550-3 (M)
-  - Code monétaire et financier - art. L550-4 (V)
-  - Code monétaire et financier - art. L550-5 (M)
-
 
 #### Chapitre IV : Dispositions relatives au blanchiment de capitaux<a id=388></a>
 
 ###### Article L574-1
 
-Est puni d'une amende de cent cinquante mille francs, sans préjudice de l'application des peines prévues pour l'une des
-infractions réprimées par les articles 222-34 à 222-41 du code pénal et 415 du code des douanes, le fait, pour les dirigeants
-ou les agents d'organismes financiers ou les autres personnes visés à l'article L. 562-1, de porter à la connaissance du
-propriétaire des sommes ou de l'auteur de l'une des opérations mentionnées à l'article L. 562-2 l'existence de la déclaration
-faite auprès du service institué à l'article L. 562-4 ou de donner des informations sur les suites qui lui ont été réservées.
+Est puni d'une amende de 22500 euros, sans préjudice de l'application des peines prévues pour l'une des infractions réprimées
+par les articles 222-34 à 222-41 du code pénal et 415 du code des douanes, le fait, pour les dirigeants ou les agents
+d'organismes financiers ou les autres personnes visés à l'article L. 562-1, de porter à la connaissance du propriétaire des
+sommes ou de l'auteur de l'une des opérations mentionnées à l'article L. 562-2 l'existence de la déclaration faite auprès du
+service institué à l'article L. 562-4 ou de donner des informations sur les suites qui lui ont été réservées.
 
 **Liens relatifs à cet article**
 
@@ -33949,14 +34097,13 @@ _Anciens textes_:
 
   - Loi n°90-614 du 12 juillet 1990 - art. 10 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 33 () JORF 16 mai 2001
 
 _Cité par_:
 
@@ -37131,7 +37278,7 @@ _Cité par_:
 A l'encontre des auteurs des pratiques mentionnées à L. 621-14, la Commission des opérations de bourse peut, après une
 procédure contradictoire, prononcer les sanctions suivantes :
 
-1. Une sanction pécuniaire qui ne peut excéder dix millions de francs ;
+1. Une sanction pécuniaire qui ne peut excéder 1500000 euros ;
 
 2. Ou, lorsque des profits ont été réalisés, une sanction pécuniaire qui ne peut excéder le décuple de leur montant.
 
@@ -37225,10 +37372,13 @@ _Cité par_:
   - Code monétaire et financier - art. R621-41-6 (V)
   - Code monétaire et financier - art. R621-9 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
 ###### Article L621-16
@@ -37580,19 +37730,22 @@ Ces interdictions emportent, selon le cas, suspension ou retrait de l'autorisati
 de l'article L. 532-1.
 
 En outre, la Commission des opérations de bourse peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire dont le montant ne peut être supérieur à cinq millions de francs ou au décuple du montant des profits
-éventuellement réalisés. Les sommes sont versées au Trésor public. La Commission des opérations de bourse peut également
-prononcer la radiation d'une société de gestion de portefeuille, ainsi qu'il est prévu à l'article L. 532-12.
+pécuniaire dont le montant ne peut être supérieur à 750000 euros ou au décuple du montant des profits éventuellement
+réalisés. Les sommes sont versées au Trésor public. La Commission des opérations de bourse peut également prononcer la
+radiation d'une société de gestion de portefeuille, ainsi qu'il est prévu à l'article L. 532-12.
 
 La commission bancaire et le comité des établissements de crédit et des entreprises d'investissement sont informés de toute
 mesure d'interdiction à titre temporaire ou définitif de tout ou partie des activités.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -37626,22 +37779,25 @@ appelées.
 
 Les sanctions applicables sont l'avertissement, le blâme et le retrait temporaire ou définitif de la carte professionnelle.
 En outre, la Commission des opérations de bourse peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire dont le montant ne peut être supérieur à quatre cent mille francs ou au triple du montant des profits
-éventuellement réalisés. Les sommes sont versées au Trésor public.
+pécuniaire dont le montant ne peut être supérieur à 60000 euros ou au triple du montant des profits éventuellement réalisés.
+Les sommes sont versées au Trésor public.
 
 En cas d'urgence, les personnes mentionnées au présent article contre lesquelles des procédures sont engagées peuvent être
 suspendues d'activité par la Commission des opérations de bourse.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°96-597 1996-07-02 art. 71 III
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 _Cite_:
 
@@ -38487,9 +38643,9 @@ de tout ou partie des services fournis. Ces interdictions emportent, selon le ca
 prévue à l'article L. 532-1 pour le service concerné.
 
 En outre, le Conseil des marchés financiers peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire dont le montant ne peut être supérieur à cinq millions de francs ou au décuple du montant des profits
-éventuellement réalisés. Les sommes sont versées au fonds de garantie auquel est affiliée la personne sanctionnée ou, à
-défaut, au Trésor public.
+pécuniaire dont le montant ne peut être supérieur à 750000 euros ou au décuple du montant des profits éventuellement
+réalisés. Les sommes sont versées au fonds de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Trésor
+public.
 
 IV. - La commission bancaire et le comité des établissements de crédit et des entreprises d'investissement sont informés de
 toute mesure d'interdiction à titre temporaire ou définitif de tout ou partie des activités.
@@ -38498,13 +38654,20 @@ toute mesure d'interdiction à titre temporaire ou définitif de tout ou partie 
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 69 II
   - Loi n°96-597 du 2 juillet 1996 - art. 69 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 _Cite_:
 
@@ -38529,9 +38692,9 @@ Aucune sanction ne peut être prononcée sans que les personnes en cause aient �
 
 Les sanctions applicables sont l'avertissement, le blâme et le retrait temporaire ou définitif de la carte professionnelle.
 En outre, le Conseil des marchés financiers peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire dont le montant ne peut être supérieur à quatre cent mille francs ou au triple du montant des profits
-éventuellement réalisés. Les sommes sont versées au fonds de garantie auquel est affiliée la personne morale sous l'autorité
-ou pour le compte de qui agit la personne sanctionnée ou, à défaut, au Trésor public.
+pécuniaire dont le montant ne peut être supérieur à 60000 euros ou au triple du montant des profits éventuellement réalisés.
+Les sommes sont versées au fonds de garantie auquel est affiliée la personne morale sous l'autorité ou pour le compte de qui
+agit la personne sanctionnée ou, à défaut, au Trésor public.
 
 En cas d'urgence, les personnes mentionnées au présent article contre lesquelles des procédures sont engagées peuvent être
 suspendues d'activité par le Conseil des marchés financiers.
@@ -38540,13 +38703,20 @@ suspendues d'activité par le Conseil des marchés financiers.
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 69 III
   - Loi n°96-597 du 2 juillet 1996 - art. 69 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 _Cite_:
 
@@ -38619,20 +38789,26 @@ défaut, dûment appelé.
 Les sanctions sont l'avertissement, le blâme, le retrait de la carte d'emploi délivrée en application de l'article L. 343-3.
 
 Le Conseil des marchés financiers peut également infliger des sanctions pécuniaires dont le montant ne peut être supérieur à
-deux cent mille francs. Le produit en est versé aux fonds de garantie mentionnés à l'article L. 533-13 ou, à défaut, au
-Trésor public.
+30000 euros. Le produit en est versé aux fonds de garantie mentionnés à l'article L. 533-13 ou, à défaut, au Trésor public.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°1885-03-28 art. 15
   - Loi n°1885-03-28 du 28 mars 1885 - art. 15 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 _Cite_:
 
@@ -38938,8 +39114,8 @@ _Cité par_:
 ###### Article L623-4
 
 Les sanctions sont l'avertissement, le blâme et l'interdiction à titre temporaire ou définitif de tout ou partie des
-activités. Le conseil peut également prononcer des sanctions pécuniaires dont le montant ne peut être supérieur à cinq
-millions de francs ni au décuple du montant des profits éventuellement réalisés.
+activités. Le conseil peut également prononcer des sanctions pécuniaires dont le montant ne peut être supérieur à 750000
+euros ni au décuple du montant des profits éventuellement réalisés.
 
 Les sommes sont versées au Trésor public.
 
@@ -38949,10 +39125,18 @@ _Anciens textes_:
 
   - Loi n°88-1201 du 23 décembre 1988 - art. 33-4 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
+
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 
 ### Titre III : Échanges d'informations<a id=442></a>
@@ -39254,28 +39438,30 @@ _Cite_:
 
 ###### Article L642-3
 
-Est puni d'un emprisonnement de deux ans et d'une amende de deux millions de francs le fait, pour toute personne, de mettre
-obstacle à une mission des enquêteurs de la Commission des opérations de bourse effectuée dans les conditions prévues à
-l'article L. 621-10.
+Est puni d'un emprisonnement de deux ans et d'une amende de 300000 euros le fait, pour toute personne, de mettre obstacle à
+une mission des enquêteurs de la Commission des opérations de bourse effectuée dans les conditions prévues à l'article L.
+621-10.
 
 Est également puni des mêmes peines le fait, pour toute personne, de mettre obstacle aux mesures de séquestre ou de ne pas
 respecter l'interdiction temporaire d'activité professionnelle prononcées en application de l'article L. 621-13.
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 500 000 francs le fait, pour toute personne, de ne pas consigner
-la somme fixée par le juge, en application de l'article L. 621-13, dans le délai de quarante-huit heures suivant la date à
+Est puni d'un emprisonnement de deux ans et d'une amende de 75000 euros le fait, pour toute personne, de ne pas consigner la
+somme fixée par le juge, en application de l'article L. 621-13, dans le délai de quarante-huit heures suivant la date à
 laquelle la décision est devenue exécutoire.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance n°67-833 du 28 septembre 1967 - art. 10 (M)
   - Ordonnance n°67-833 du 28 septembre 1967 - art. 10 (Ab)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cité par_:
 
@@ -40211,24 +40397,24 @@ Dans la collectivité territoriale de Saint-Pierre-et-Miquelon, les personnes ph
 valeurs qu'elles transfèrent en provenance ou à destination de l'étranger, sans l'intermédiaire d'un organisme soumis aux
 dispositions du titre Ier du livre V ou de l'article L. 518-1.
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à cinquante
-mille francs.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 622,45
+euros.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Ordonnance 98-525 1998-06-24 art. 4 I A
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°2002-1440 2002-12-05 (modalités d'application)
   - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002
   - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 2 (Ab)
@@ -40624,24 +40810,23 @@ A Mayotte, les personnes physiques doivent déclarer les sommes, titres ou valeu
 destination de l'étranger sans l'intermédiaire d'un organisme soumis soit aux dispositions du titre Ier du livre V soit à
 celles de l'article L. 518-1.
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à cinquante
-mille francs.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 600 euros.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Ordonnance 98-525 1998-06-24 art. 4 I A
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 **Liens**:
 
+  - SPEC_APPLI: Décret n°2002-1440 2002-12-05 (modalités d'application)
   - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002
   - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2002-1440 du 5 décembre 2002 - art. 2 (Ab)
@@ -42045,16 +42230,24 @@ _Cite_:
 
 ###### Article L741-1
 
-L'article L. 112-6 est applicable en Nouvelle-Calédonie. Au I de cet article, les mots : " la somme de cinq mille francs "
-sont remplacés par les mots " la somme de cent mille francs CFP ". Au II, les mots " la somme de trois mille francs " sont
-remplacés par les mots " la somme de soixante mille francs CFP ".
+L'article L. 112-6 est applicable en Nouvelle-Calédonie. Au I de cet article, les mots : "la somme de cinq mille francs" sont
+remplacés par les mots "la somme de 838 euros". Au II, les mots "la somme de trois mille francs" sont remplacés par les mots
+"la somme de 502,80 euros".
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1998-12-31
+  - SPEC_APPLI: Décret n°98-1152 1998-12-16 (modalités de fixation de la parité du franc CFP avec l'euro)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
@@ -42134,21 +42327,19 @@ En Nouvelle-Calédonie, les personnes physiques doivent déclarer, dans des cond
 sommes, titres ou valeurs qu'elles transfèrent en provenance ou à destination de l'étranger sans l'intermédiaire d'un
 organisme soumis aux dispositions du titre Ier du livre V ou de l'article L. 518-1.
 
-Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à neuf cent
-mille francs CFP.
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 7 542 euros.
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Ordonnance 98-525 1998-06-24 art. 4 I A
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 **Liens**:
 
@@ -43550,16 +43741,25 @@ _Cite_:
 
 ###### Article L751-1
 
-L'article L. 112-6 est applicable en Polynésie française. Au I de cet article, les mots : " la somme de cinq mille francs "
-sont remplacés par les mots : " la somme de cent mille francs CFP ". Au II, les mots : " la somme de trois mille francs "
-sont remplacés par les mots : " la somme de soixante mille francs CFP ".
+L'article L. 112-6 est applicable en Polynésie française. Au I de cet article, les mots : "la somme de cinq mille francs"
+sont remplacés par les mots : "la somme de 838 euros". Au II, les mots :
+
+la somme de trois mille francs" sont remplacés par les mots : "la somme de 502,80 euros".
 
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - SPEC_APPLI: Arrêté 1998-12-31
+  - SPEC_APPLI: Décret n°98-1152 1998-12-16 (modalités de fixation de la parité franc CFP avec l'euro)
+
+_Modifié par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Cite_:
 
