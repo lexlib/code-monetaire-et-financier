@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-06-19
+Version Consolidée au 2004-06-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -39799,8 +39799,8 @@ _Cité par_:
 
 Les enquêteurs peuvent, pour les nécessités de l'enquête, se faire communiquer tous documents, quel qu'en soit le support, y
 compris les données conservées et traitées par les opérateurs de télécommunications dans le cadre de l'article L. 32-3-1 du
-code des postes et télécommunications et les prestataires mentionnés aux articles 43-7 et 43-8 de la loi n° 86-1067 du 30
-septembre 1986 relative à la liberté de communication et en obtenir la copie. Ils peuvent convoquer et entendre toute
+code des postes et télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du
+21 juin 2004 pour la confiance dans l'économie numérique et en obtenir la copie. Ils peuvent convoquer et entendre toute
 personne susceptible de leur fournir des informations. Ils peuvent accéder aux locaux à usage professionnel.
 
 **Liens relatifs à cet article**
@@ -39808,8 +39808,7 @@ personne susceptible de leur fournir des informations. Ils peuvent accéder aux 
 _Cite_:
 
   - Code des postes et télécommunications L32-3-1
-  - Loi n°86-1067 du 30 septembre 1986 - art. 43-7 (Ab)
-  - Loi n°86-1067 du 30 septembre 1986 - art. 43-8 (Ab)
+  - Loi n°2004-575 2004-06-21 art. 6
 
 _Anciens textes_:
 
@@ -39821,9 +39820,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 11 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 9 () JORF 2 août 2003
+  - Loi n°2004-575 du 21 juin 2004 - art. 56 () JORF 22 juin 2004
 
 _Cité par_:
 
