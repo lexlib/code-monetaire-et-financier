@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -902,22 +902,22 @@ Les dispositions du précédent alinéa ne s'appliquent pas aux dispositions sta
 dettes d'aliments.
 
 Doivent être regardées comme dettes d'aliments les rentes viagères constituées entre particuliers, notamment en exécution des
-dispositions du dernier alinéa de l'article 767 du code civil et de celles de l'article 1094-2 du même code.
+dispositions de l'article 759 du code civil.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance 58-1374 1958-12-30 art. 79, 3 al. 1
-  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79, v. init.
   - Ordonnance n°58-1374 du 30 décembre 1958 - art. 79 (V)
-  - Loi n°63-699 du 13 juillet 1963 - art. 4, v. init.
   - Loi n°63-699 du 13 juillet 1963 - art. 4 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1135 du 3 décembre 2001 - art. 21 () JORF 4 décembre 2001 en vigueur le 1er juillet 2002
 
 _Cité par_:
 
@@ -929,11 +929,6 @@ _Cité par_:
   - Code monétaire et financier - art. L112-1 (V)
   - Code monétaire et financier - art. L112-3 (V)
   - Code monétaire et financier - art. L221-17 (V)
-
-_Cite_:
-
-  - Code civil - art. 1094-2 (Ab)
-  - Code civil - art. 767 (M)
 
 
 ###### Article L112-3
