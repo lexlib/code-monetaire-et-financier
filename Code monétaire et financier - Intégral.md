@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-02-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -386,7 +386,7 @@ Version Consolidée au 2003-12-31
       - [Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L561-1 à L564-3)](#383)
         - [Chapitre Ier : Déclaration de certaines sommes ou opérations (art. L561-1)](#384)
         - [Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite (art. L562-1 à L562-10)](#385)
-        - [Chapitre III : Autres obligations de vigilance des organismes financiers (art. L563-1 à L563-6)](#386)
+        - [Chapitre III : Autres obligations de vigilance (art. L563-1 à L563-6)](#386)
         - [Chapitre IV : Dispositions diverses (art. L564-1 à L564-3)](#387)
       - [Titre VII : Dispositions pénales (art. L571-1 à L574-2)](#388)
         - [Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire (art. L571-1 à L571-16)](#389)
@@ -34139,6 +34139,14 @@ d'antiquités et d'oeuvres d'art.
 
 10. Aux entreprises bénéficiant de l'exemption prévue par le II de l'article L. 511-7.
 
+11. Aux experts comptables et aux commissaires aux comptes ;
+
+12. Aux notaires, huissiers de justice, administrateurs judiciaires et mandataires judiciaires à la liquidation des
+entreprises ainsi qu'aux avocats au Conseil d'Etat et à la Cour de cassation, aux avocats et aux avoués près les cours
+d'appel, dans les conditions prévues à l'article L. 562-2-1 ;
+
+13. Aux commissaires-priseurs judiciaires et aux sociétés de ventes volontaires de meubles aux enchères publiques.
+
 Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont désignées sous le nom d'organismes financiers.
 
 **Liens relatifs à cet article**
@@ -34152,11 +34160,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Modifié par_:
-
-  - Loi n°2003-706 2003-08-01 art. 43 I, art. 70 2° JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 43 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -34209,6 +34212,10 @@ _Cité par_:
   - Code monétaire et financier - art. R565-1 (Ab)
   - Livre des procédures fiscales - art. L135 T (V)
 
+_Modifié par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
+
 _Cite_:
 
   - Code monétaire et financier - art. L214-1 (M)
@@ -34226,11 +34233,11 @@ _Cite_:
 Les organismes financiers et les personnes mentionnés à l'article L. 562-1 sont tenus, dans les conditions fixées par le
 présent titre, de déclarer au service institué à l'article L. 562-4 :
 
-1. Les sommes inscrites dans leurs livres qui pourraient provenir du trafic de stupéfiants ou d'activités criminelles
-organisées ;
+1. Les sommes inscrites dans leurs livres qui pourraient provenir du trafic de stupéfiants, de la fraude aux intérêts
+financiers des Communautés européennes, de la corruption ou d'activités criminelles organisées ;
 
-2. Les opérations qui portent sur des sommes lorsque celles-ci pourraient provenir du trafic de stupéfiants ou d'activités
-criminelles organisées.
+2. Les opérations qui portent sur des sommes lorsque celles-ci pourraient provenir du trafic de stupéfiants, de la fraude aux
+intérêts financiers des Communautés européennes, de la corruption ou d'activités criminelles organisées.
 
 Les organismes financiers sont également tenus de déclarer à ce service :
 
@@ -34262,8 +34269,6 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 37 (lutte contre le blanchiment de l'argent)
-  - SPEC_APPLI: Décret n°2002-145 2002-02-07 art. 1 (montant des déclarations)
   - TXT_SOURCE: Décret n°2002-145 du 7 février 2002
   - TXT_SOURCE: Décret n°2002-145 du 7 février 2002 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2002-145 du 7 février 2002 - art. 2 (Ab)
@@ -34273,7 +34278,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 34 () JORF 16 mai 2001
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -34316,6 +34321,84 @@ _Cite_:
 
   - Code monétaire et financier - art. L562-1 (M)
   - Code monétaire et financier - art. L563-1 (M)
+
+
+###### Article L562-2-1
+
+Les personnes mentionnées au 12 de l'article L. 562-1 sont tenues de procéder à la déclaration prévue à l'article L. 562-2
+lorsque, dans le cadre de leur activité professionnelle, elles réalisent au nom et pour le compte de leur client toute
+transaction financière ou immobilière ou lorsqu'elles participent en assistant leur client à la préparation ou à la
+réalisation des transactions concernant :
+
+1° L'achat et la vente de biens immeubles ou de fonds de commerce ;
+
+2° La gestion de fonds, titres ou autres actifs appartenant au client ;
+
+3° L'ouverture de comptes bancaires, d'épargne ou de titres ;
+
+4° L'organisation des apports nécessaires à la création de sociétés ;
+
+5° La constitution, la gestion ou la direction des sociétés ;
+
+6° La constitution, la gestion ou la direction de fiducies de droit étranger ou de toute autre structure similaire.
+
+Les personnes mentionnées au 12 de l'article L. 562-1 dans l'exercice des activités relatives aux transactions visées ci-
+dessus et les experts-comptables lorsqu'ils effectuent des consultations juridiques conformément aux dispositions de
+l'article 22 de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et
+réglementant le titre et la profession d'expert-comptable ne sont pas tenus de procéder à la déclaration prévue à l'article
+L. 562-2 lorsque les informations ont été reçues d'un de leurs clients ou obtenues sur l'un d'eux, soit dans le cadre d'une
+consultation juridique sauf si celle-ci est fournie aux fins de blanchiment de capitaux ou si ces personnes y procèdent en
+sachant que leur client souhaite obtenir des conseils juridiques aux fins de blanchiment de capitaux, soit dans l'exercice de
+leur activité dans l'intérêt de ce client lorsque cette activité se rattache à une procédure juridictionnelle, que ces
+informations soient reçues ou obtenues avant, pendant ou après cette procédure, y compris dans le cadre de conseils relatifs
+à la manière d'engager ou d'éviter une telle procédure.
+
+Par dérogation à l'article L. 562-2, l'avocat au Conseil d'Etat et à la Cour de cassation, l'avocat ou l'avoué près la cour
+d'appel communique la déclaration, selon le cas, au président de l'ordre des avocats au Conseil d'Etat et à la Cour de
+cassation, au bâtonnier de l'ordre auprès duquel l'avocat est inscrit ou au président de la compagnie dont relève l'avoué.
+Ces autorités transmettent, dans les délais et selon les modalités procédurales définis par décret en Conseil d'Etat, la
+déclaration qui leur a été remise par l'avocat ou l'avoué au service institué à l'article L. 562-4, sauf si elles considèrent
+qu'il n'existe pas de soupçon de blanchiment de capitaux.
+
+Dans ce cas, le président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le bâtonnier de l'ordre auprès
+duquel l'avocat est inscrit ou le président de la compagnie dont relève l'avoué informe l'avocat ou l'avoué des raisons pour
+lesquelles il a estimé ne pas devoir transmettre les informations qui lui avaient été communiquées par celui-ci. Le bâtonnier
+de l'ordre ou le président de la compagnie destinataire d'une déclaration qu'il n'a pas transmise au service institué à
+l'article L. 562-4 transmet les informations contenues dans cette déclaration au président du Conseil national des barreaux
+ou au président de la Chambre nationale des avoués. Cette transmission ne contient pas d'éléments relatifs à l'identification
+des personnes. Dans les mêmes conditions, le président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, le
+président du Conseil national des barreaux et le président de la Chambre nationale des avoués font rapport au garde des
+sceaux, ministre de la justice, selon une périodicité définie par décret en Conseil d'Etat, sur les situations n'ayant pas
+donné lieu à communication des déclarations.
+
+Le service institué à l'article L. 562-4 est rendu destinataire de ces informations par le garde des sceaux, ministre de la
+justice.
+
+Les dispositions du présent article sont applicables en Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Ordonnance n°45-2138 du 19 septembre 1945 - art. 22 (M)
+  - Code monétaire et financier - art. L562-2 (M)
+  - Code monétaire et financier - art. L562-4 (M)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
+
+_Cité par_:
+
+  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
+  - Code monétaire et financier - art. L562-1 (V)
+  - Code monétaire et financier - art. R562-1 (Ab)
+  - Code monétaire et financier - art. R562-2-2 (Ab)
+  - Code monétaire et financier - art. R562-2-3 (Ab)
 
 
 ###### Article L562-3
@@ -34647,18 +34730,25 @@ _Cite_:
   - Code monétaire et financier - art. L562-4 (M)
 
 
-#### Chapitre III : Autres obligations de vigilance des organismes financiers<a id=386></a>
+#### Chapitre III : Autres obligations de vigilance<a id=386></a>
 
 ###### Article L563-1
 
-Les organismes financiers mentionnés à l'article L. 562-1 doivent, avant d'ouvrir un compte, s'assurer de l'identité de leur
-cocontractant par la présentation de tout document écrit probant. Ils s'assurent dans les mêmes conditions de l'identité de
-leur client occasionnel qui leur demande de faire des opérations dont la nature et le montant sont fixés par décret en
-Conseil d'Etat.
+Les organismes financiers ou les personnes visées à l'article L. 562-1 doivent, avant de nouer une relation contractuelle ou
+d'assister leur client dans la préparation ou la réalisation d'une transaction, s'assurer de l'identité de leur cocontractant
+par la présentation de tout document écrit probant. Ils s'assurent dans les mêmes conditions de l'identité de leur client
+occasionnel qui leur demande de faire des opérations dont la nature et le montant sont fixés par décret en Conseil d'Etat.
+Les personnes visées au 8 de l'article L. 562-1 satisfont à cette obligation en appliquant les mesures prévues à l'article L.
+564-1.
 
-Ils se renseignent sur l'identité véritable des personnes au bénéfice desquelles un compte est ouvert ou une opération
-réalisée lorsqu'il leur apparaît que les personnes qui demandent l'ouverture du compte ou la réalisation de l'opération
+Ils se renseignent sur l'identité véritable des personnes avec lesquelles ils nouent une relation contractuelle ou qui
+demandent leur assistance dans la préparation ou la réalisation d'une transaction lorsqu'il leur apparaît que ces personnes
 pourraient ne pas agir pour leur propre compte.
+
+Les organismes financiers et les personnes mentionnés à l'article L. 562-1 prennent les dispositions spécifiques et
+adéquates, dans les conditions définies par un décret, nécessaires pour faire face au risque accru de blanchiment de capitaux
+qui existe lorsqu'elles nouent des relations contractuelles avec un client qui n'est pas physiquement présent aux fins de
+l'identification ou lorsqu'elles l'assistent dans la préparation ou la réalisation d'une transaction.
 
 **Liens relatifs à cet article**
 
@@ -34671,6 +34761,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-130 2004-02-11 art. 70 IV, X JORF 12 février 2004
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -34688,6 +34783,7 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. L562-1 (M)
+  - Code monétaire et financier - art. L564-1 (M)
 
 
 ###### Article L563-1-1
@@ -34705,13 +34801,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°2001-420 2001-05-15 art. 37 (rapport annuel du Gouvernement au Parlement)
-
-_Créé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 36 () JORF 16 mai 2001
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -34743,8 +34835,12 @@ bons, titres et valeurs mentionnés à l'article 990 A et au deuxième alinéa d
 _Cite_:
 
   - CGI 990 A, 537
-  - CGI Livre des procédures fiscales L83, L85, L87, L89
+  - Livre des procédures fiscales - art. L83 (MMN)
+  - Livre des procédures fiscales - art. L85 (MMN)
+  - Livre des procédures fiscales - art. L87 (MMN)
+  - Livre des procédures fiscales - art. L89 (MMN)
   - Code monétaire et financier - art. L563-1 (M)
+  - Code monétaire et financier L563-1, 990
 
 _Anciens textes_:
 
@@ -34754,6 +34850,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -34777,17 +34877,17 @@ _Cité par_:
 Toute opération importante portant sur des sommes dont le montant unitaire ou total est supérieur à une somme fixée par
 décret en Conseil d'Etat et qui, sans entrer dans le champ d'application de l'article L. 562-2, se présente dans des
 conditions inhabituelles de complexité et ne paraît pas avoir de justification économique ou d'objet licite, doit faire
-l'objet de la part de l'organisme financier d'un examen particulier. En ce cas, l'organisme financier se renseigne auprès du
-client sur l'origine et la destination de ces sommes ainsi que sur l'objet de la transaction et l'identité de la personne qui
-en bénéficie.
+l'objet de la part de l'organisme financier ou de la personne mentionnés à l'article L. 562-1 d'un examen particulier. En ce
+cas, l'organisme financier ou la personne mentionnés à l'article L. 562-1 se renseigne auprès du client sur l'origine et la
+destination de ces sommes ainsi que sur l'objet de la transaction et l'identité de la personne qui en bénéficie.
 
-Les caractéristiques de l'opération sont consignées par écrit et conservées par l'organisme financier dans les conditions
-prévues à l'article L. 563-4. Le service institué à l'article L. 562-4 et l'autorité de contrôle peuvent seuls obtenir
-communication de ce document et des pièces qui s'y rattachent.
+Les caractéristiques de l'opération sont consignées par écrit et conservées par l'organisme financier ou la personne
+mentionnés à l'article L. 562-1 dans les conditions prévues à l'article L. 563-4. Le service institué à l'article L. 562-4 et
+l'autorité de contrôle peuvent seuls obtenir communication de ce document et des pièces qui s'y rattachent.
 
-L'organisme financier doit s'assurer que les obligations définies par l'alinéa précédent sont appliquées par ses succursales
-ou sociétés filiales dont le siège est à l'étranger, à moins que la législation locale y fasse obstacle, auquel cas il en
-informe le service institué à l'article L. 562-4.
+L'organisme financier ou la personne mentionnés à l'article L. 562-1 doit s'assurer que les obligations définies par l'alinéa
+précédent sont appliquées par ses succursales ou sociétés filiales dont le siège est à l'étranger, à moins que la législation
+locale y fasse obstacle, auquel cas ils en informent le service institué à l'article L. 562-4.
 
 **Liens relatifs à cet article**
 
@@ -34800,6 +34900,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-130 2004-02-11 art. 70 V, X JORF 12 février 2004
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -34814,15 +34919,16 @@ _Cité par_:
 
 _Cite_:
 
+  - Code monétaire et financier - art. L562-1 (M)
   - Code monétaire et financier - art. L562-2 (M)
 
 
 ###### Article L563-4
 
-Sans préjudice des dispositions édictant des obligations plus contraignantes, les organismes financiers conservent pendant
-cinq ans à compter de la clôture de leurs comptes ou de la cessation de leurs relations avec eux les documents relatifs à
-l'identité de leurs clients habituels ou occasionnels. Ils conservent également les documents relatifs aux opérations faites
-par ceux-ci pendant cinq ans à compter de leur exécution.
+Sans préjudice des dispositions édictant des obligations plus contraignantes, les organismes financiers et les personnes
+mentionnés à l'article L. 562-1 conservent pendant cinq ans à compter de la clôture de leurs comptes ou de la cessation de
+leurs relations avec eux les documents relatifs à l'identité de leurs clients habituels ou occasionnels. Ils conservent
+également les documents relatifs aux opérations faites par ceux-ci pendant cinq ans à compter de leur exécution.
 
 Pour l'application du présent titre, le service institué à l'article L. 562-4 et l'autorité de contrôle peuvent demander que
 ces pièces leur soient communiquées, dans le but de reconstituer l'ensemble des transactions faites par une personne physique
@@ -34843,7 +34949,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 38 () JORF 16 mai 2001
+  - Loi n°2004-130 2004-02-11 art. 70 VI, X JORF 12 février 2004
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -34858,6 +34965,7 @@ _Cite_:
   - Code monétaire et financier - art. L562-4 (M)
   - Code monétaire et financier - art. L563-5 (M)
   - Code monétaire et financier - art. L564-2 (T)
+  - Code monétaire et financier L562-4, L562-2, L562-1 L563-3, L563-5, L564-2
 
 
 ###### Article L563-5
@@ -34898,7 +35006,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 39 () JORF 16 mai 2001
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cite_:
 
@@ -34910,8 +35018,9 @@ _Cite_:
 ###### Article L563-6
 
 Lorsque par suite soit d'un grave défaut de vigilance, soit d'une carence dans l'organisation de ses procédures internes de
-contrôle, un organisme financier a méconnu les obligations que lui impose le présent chapitre, l'autorité ayant pouvoir
-disciplinaire peut agir d'office dans les conditions prévues par les règlements professionnels ou administratifs.
+contrôle, un organisme financier ou une personne mentionnés à l'article L. 562-1 a méconnu les obligations que lui impose le
+présent chapitre, l'autorité ayant pouvoir disciplinaire peut agir d'office dans les conditions prévues par les règlements
+professionnels ou administratifs.
 
 **Liens relatifs à cet article**
 
@@ -34924,9 +35033,18 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2004-130 2004-02-11 art. 70 VII, X JORF 12 février 2004
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
+
 _Cité par_:
 
   - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L562-1 (M)
 
 
 #### Chapitre IV : Dispositions diverses<a id=387></a>
@@ -35028,7 +35146,8 @@ _Nouveaux textes_:
 ###### Article L564-3
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent titre, sans préjudice des règlements professionnels
-ou administratifs prévus par les législations applicables aux organismes financiers mentionnés à l'article L. 562-1.
+ou administratifs prévus par les législations applicables aux organismes financiers et aux personnes mentionnés à l'article
+L. 562-1.
 
 Pour l'application du présent titre :
 
@@ -35069,8 +35188,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 2003-08-01 art. 43 II, III, IV JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 43 () JORF 2 août 2003
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cité par_:
 
@@ -36065,11 +36183,12 @@ _Cite_:
 
 ###### Article L574-1
 
-Est puni d'une amende de 22500 euros, sans préjudice de l'application des peines prévues pour l'une des infractions réprimées
-par les articles 222-34 à 222-41 du code pénal et 415 du code des douanes, le fait, pour les dirigeants ou les agents
-d'organismes financiers ou les autres personnes visés à l'article L. 562-1, de porter à la connaissance du propriétaire des
-sommes ou de l'auteur de l'une des opérations mentionnées à l'article L. 562-2 l'existence de la déclaration faite auprès du
-service institué à l'article L. 562-4 ou de donner des informations sur les suites qui lui ont été réservées.
+Est puni d'une amende de 22 500 euros, sans préjudice de l'application des peines prévues pour l'une des infractions
+réprimées par les articles 222-34 à 222-41 du code pénal et 415 du code des douanes, le fait, pour les dirigeants ou les
+agents d'organismes financiers ou les autres personnes visés à l'article L. 562-1, à l'exception des avocats, des avoués et
+des avocats au Conseil d'Etat et à la Cour de cassation, de porter à la connaissance du propriétaire des sommes ou de
+l'auteur de l'une des opérations mentionnées à l'article L. 562-2 l'existence de la déclaration faite auprès du service
+institué à l'article L. 562-4 ou de donner des informations sur les suites qui lui ont été réservées.
 
 **Liens relatifs à cet article**
 
@@ -36078,13 +36197,13 @@ _Anciens textes_:
   - Loi n°90-614 1990-07-12 art. 10
   - Loi n°90-614 du 12 juillet 1990 - art. 10 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-130 du 11 février 2004 - art. 70 () JORF 12 février 2004
 
 _Cité par_:
 
