@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-05-16
+Version Consolidée au 2001-07-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -59,7 +59,7 @@ Version Consolidée au 2001-05-16
         - [Chapitre IV : Infractions concernant la Banque de France (art. L164-1 à L164-2)](#56)
         - [Chapitre V : Infractions à la législation sur les relations financières avec l'étranger (art. L165-1)](#57)
     - [Livre II : Les produits (art. L211-1 à L232-2)](#58)
-      - [Titre Ier : Les instruments financiers (art. L211-1 à L214-85)](#59)
+      - [Titre Ier : Les instruments financiers (art. L211-1 à L214-88)](#59)
         - [Chapitre Ier : Définition et règles générales (art. L211-1 à L211-5)](#60)
           - [Section 1 : Définitions (art. L211-1)](#61)
           - [Section 2 : Règles générales applicables aux valeurs mobilières. (art. L211-2 à L211-5)](#62)
@@ -95,7 +95,7 @@ Version Consolidée au 2001-05-16
             - [Sous-section 1 : Emprunts d'Etat (art. L213-22)](#92)
             - [Sous-section 2 : Bons du Trésor (art. L213-23 à L213-31)](#93)
           - [Section 4 : Les titres participatifs (art. L213-32 à L213-35)](#94)
-        - [Chapitre IV : Placements collectifs (art. L214-1 à L214-85)](#95)
+        - [Chapitre IV : Placements collectifs (art. L214-1 à L214-88)](#95)
           - [Section 1 : Les organismes de placement collectif en valeurs mobilières (art. L214-2 à L214-42)](#96)
             - [Sous-section 1 : Dispositions communes aux organismes de placement collectif en valeurs mobilières (art. L214-2 à L214-13)](#97)
             - [Sous-section 2 : Règles particulières relatives aux sociétés d'investissement à capital variable (art. L214-15 à L214-19)](#98)
@@ -108,685 +108,687 @@ Version Consolidée au 2001-05-16
             - [Sous-section 9 : Fonds communs de placement dans l'innovation. (art. L214-41)](#105)
             - [Sous-section 10 : Fonds communs d'intervention sur les marchés à terme. (art. L214-42)](#106)
           - [Section 2 : Les fonds communs de créances. (art. L214-43 à L214-49)](#107)
-          - [Section 3 : Les sociétés civiles de placement immobilier (art. L214-50 à L214-85)](#108)
+          - [Section 3 : Les sociétés civiles de placement immobilier (art. L214-50 à L214-84)](#108)
             - [Sous-section 1 : Régime général (art. L214-50 à L214-58)](#109)
             - [Sous-section 2 : Souscription des parts (art. L214-59 à L214-65)](#110)
             - [Sous-section 3 : Gestion (art. L214-66 à L214-72)](#111)
             - [Sous-section 4 : Assemblée générale (art. L214-73 à L214-77)](#112)
             - [Sous-section 5 : Dispositions comptables (art. L214-78 à L214-79)](#113)
             - [Sous-section 6 : Fusion (art. L214-80 à L214-83)](#114)
-            - [Sous-section 7 : Contrôle. (art. L214-84 à L214-85)](#115)
-      - [Titre II : Les produits d'épargne (art. L221-1 à L223-4)](#116)
-        - [Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique (art. L221-1 à L221-29)](#117)
-          - [Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel (art. L221-1 à L221-12)](#118)
-            - [Sous-section 1 : Dispositions communes (art. L221-1 à L221-6)](#119)
-              - [Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel. (art. L221-1)](#120)
-              - [Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne. (art. L221-2 à L221-6)](#121)
-            - [Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance. (art. L221-7 à L221-8)](#122)
-            - [Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne. (art. L221-9 à L221-10)](#123)
-            - [Sous-section 4 : Dispositions spécifiques au Crédit mutuel. (art. L221-11 à L221-12)](#124)
-          - [Section 2 : L'épargne populaire (art. L221-13 à L221-23)](#125)
-            - [Sous-section 1 : Le compte sur livret d'épargne populaire (art. L221-13 à L221-17)](#126)
-            - [Sous-section 2 : Le plan d'épargne populaire (art. L221-18 à L221-23)](#127)
-          - [Section 3 : Le livret jeune (art. L221-24 à L221-26)](#128)
-          - [Section 4 : Le compte pour le développement industriel. (art. L221-27 à L221-28)](#129)
-          - [Section 5 : L'épargne-logement (art. L221-29)](#130)
-        - [Chapitre II : Produits d'épargne salariale (art. L222-1)](#131)
-          - [Section unique : Le plan d'épargne d'entreprise (art. L222-1)](#132)
-        - [Chapitre III : Bons de caisse (art. L223-1 à L223-4)](#133)
-      - [Titre III : Dispositions pénales (art. L231-1 à L232-2)](#134)
-        - [Chapitre Ier : Infractions relatives aux instruments financiers (art. L231-1 à L231-21)](#135)
-          - [Section 1 : Infractions relatives aux titres (art. L231-1 à L231-2)](#136)
-            - [Sous-section 1 : Obligations. (art. L231-1)](#137)
-            - [Sous-section 2 : Titres émis par des associations. (art. L231-2)](#138)
-          - [Section 2 : Infractions relatives aux placements collectifs (art. L231-3 à L231-21)](#139)
-            - [Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières. (art. L231-3 à L231-7)](#140)
-            - [Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier (art. L231-8 à L231-21)](#141)
-        - [Chapitre II : Infractions relatives aux produits d'épargne (art. L232-1 à L232-2)](#142)
-          - [Section unique : Bons de caisse (art. L232-1 à L232-2)](#143)
-    - [Livre III : Les services (art. L311-1 à L353-7)](#144)
-      - [Titre Ier : Les opérations de banque (art. L311-1 à L313-51)](#145)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-4)](#146)
-          - [Section 1 : Définition des opérations de banque (art. L311-1)](#147)
-          - [Section 2 : Définition des opérations connexes aux opérations de banque (art. L311-2)](#148)
-          - [Section 3 : Définition des moyens de paiement. (art. L311-3)](#149)
-          - [Section 4 : Compensation. (art. L311-4)](#150)
-        - [Chapitre II : Comptes et dépôts (art. L312-1 à L312-18)](#151)
-          - [Section 1 : Droit au compte et relations avec le client (art. L312-1)](#152)
-            - [Sous-section 2 : Relations des établissements de crédit avec le client (art. L312-1)](#153)
-          - [Section 2 : Fonds reçus du public (art. L312-2 à L312-3)](#154)
-            - [Sous-section 1 : Définition. (art. L312-2)](#155)
-            - [Sous-section 2 : Rémunération. (art. L312-3)](#156)
-          - [Section 3 : Garantie des déposants (art. L312-4 à L312-18)](#157)
-        - [Chapitre III : Crédits (art. L313-1 à L313-51)](#158)
-          - [Section 1 : Dispositions générales (art. L313-1 à L313-6)](#159)
-            - [Sous-section 1 : Définition (art. L313-1)](#160)
-            - [Sous-section 2 : Taux d'intérêt (art. L313-2 à L313-4)](#161)
-              - [Paragraphe 1 : Taux de l'intérêt légal (art. L313-2 à L313-3)](#162)
-              - [Paragraphe 2 : Taux effectif global (art. L313-4)](#163)
-            - [Sous-section 3 : Fichier des incidents de paiement caractérisés (art. L313-6)](#164)
-          - [Section 2 : Catégories de crédits (art. L313-7 à L313-22)](#165)
-            - [Sous-section 1 : Crédit-bail. (art. L313-7 à L313-11)](#166)
-            - [Sous-section 2 : Crédits aux entreprises (art. L313-12 à L313-22)](#167)
-              - [Paragraphe 1 : Crédit d'exploitation. (art. L313-12)](#168)
-              - [Paragraphe 2 : Prêts participatifs. (art. L313-13 à L313-20)](#169)
-                - [Sous-paragraphe 1 : Régime général. (art. L313-14 à L313-17)](#170)
-                - [Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat. (art. L313-18 à L313-20)](#171)
-              - [Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels. (art. L313-21)](#172)
-              - [Paragraphe 4 : Information des cautions. (art. L313-22)](#173)
-          - [Section 3 : Procédures de mobilisation des créances professionnelles (art. L313-23 à L313-49)](#174)
-            - [Sous-section 1 : Cession et nantissement des créances professionnelles (art. L313-23 à L313-29)](#175)
-            - [Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti (art. L313-30 à L313-49)](#176)
-              - [Paragraphe 1 : Dispositions générales (art. L313-30 à L313-35)](#177)
-              - [Paragraphe 2 : Mobilisation des crédits à moyen terme (art. L313-36 à L313-41)](#178)
-              - [Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées (art. L313-42 à L313-49)](#179)
-          - [Section 4 : Garantie des cautions (art. L313-50 à L313-51)](#180)
-      - [Titre II : Les services d'investissement et leurs services connexes (art. L321-1 à L322-4)](#181)
-        - [Chapitre Ier : Dispositions générales (art. L321-1 à L321-3)](#182)
-        - [Chapitre II : Garantie des investisseurs (art. L322-1 à L322-4)](#183)
-      - [Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers. (art. L330-1 à L330-2)](#184)
-      - [Titre IV : Le démarchage et le colportage (art. L341-1 à L344-3)](#185)
-        - [Chapitre Ier : Démarchage concernant les opérations de banque. (art. L341-1 à L341-6)](#186)
-        - [Chapitre II : Démarchage concernant les valeurs mobilières. (art. L342-1 à L342-21)](#187)
-        - [Chapitre III : Démarchage concernant les opérations sur le marché à terme. (art. L343-1 à L343-6)](#188)
-        - [Chapitre IV : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers (art. L344-1 à L344-3)](#189)
-          - [Section 1 : Opérations sur matières précieuses. (art. L344-1 à L344-2)](#190)
-          - [Section 2 : Opérations sur les billets de banque étrangers. (art. L344-3)](#191)
-      - [Titre V : Dispositions pénales (art. L351-1 à L353-7)](#192)
-        - [Chapitre Ier : Infractions relatives aux opérations de banque et aux opérations connexes. (art. L351-1)](#193)
-        - [Chapitre II : Infractions relatives au fonds de garantie des déposants (art. L352-1)](#194)
-        - [Chapitre III : Infractions relatives au démarchage (art. L353-1 à L353-7)](#195)
-          - [Section 1 : Opérations de banque. (art. L353-1 à L353-2)](#196)
-          - [Section 2 : Opérations sur les valeurs mobilières. (art. L353-3 à L353-5)](#197)
-          - [Section 3 : Marché à terme. (art. L353-6)](#198)
-          - [Section 4 : Opérations sur matières précieuses et billets de banque étrangers. (art. L353-7)](#199)
-    - [Livre IV : Les marchés (art. L411-1 à L466-1)](#200)
-      - [Titre Ier : L'appel public à l'épargne (art. L411-1 à L412-4)](#201)
-        - [Chapitre Ier : Définition. (art. L411-1 à L411-2)](#202)
-        - [Chapitre II : Conditions de l'appel public à l'épargne (art. L412-1 à L412-4)](#203)
-          - [Section 1 : Obligations générales de publicité. (art. L412-1)](#204)
-          - [Section 2 : Interdictions et sanctions (art. L412-2 à L412-4)](#205)
-      - [Titre II : Les catégories de marchés (art. L421-1 à L424-1)](#206)
-        - [Chapitre Ier : Marchés réglementés français (art. L421-1 à L421-13)](#207)
-          - [Section 1 : Reconnaissance et retrait de la qualité de marché réglementé. (art. L421-1 à L421-2)](#208)
-          - [Section 2 : Conditions de fonctionnement des marchés réglementés. (art. L421-3 à L421-5)](#209)
-          - [Section 3 : Obligation d'intermédiation et monopole de négociation. (art. L421-6 à L421-7)](#210)
-          - [Section 4 : Régime des membres d'un marché réglementé. (art. L421-8 à L421-11)](#211)
-          - [Section 5 : Centralisation des ordres sur les marchés réglementés. (art. L421-12 à L421-13)](#212)
-        - [Chapitre II : Marchés réglementés européens. (art. L422-1)](#213)
-        - [Chapitre III : Marchés étrangers reconnus. (art. L423-1)](#214)
-        - [Chapitre IV : Marché de l'or. (art. L424-1)](#215)
-      - [Titre III : Les négociations sur instruments financiers (art. L431-1 à L433-4)](#216)
-        - [Chapitre Ier : Dispositions générales (art. L431-1 à L431-7)](#217)
-          - [Section 1 : Transfert de propriété des titres et mise en gage (art. L431-1 à L431-6)](#218)
-            - [Sous-section 1 : Transfert de propriété des titres. (art. L431-1 à L431-3)](#219)
-            - [Sous-section 2 : Mise en gage. (art. L431-4 à L431-6)](#220)
-          - [Section 2 : Compensation. (art. L431-7)](#221)
-        - [Chapitre II : Formes particulières de cessions d'instruments financiers (art. L432-1 à L432-21)](#222)
-          - [Section 1 : Vente à crédit. (art. L432-1 à L432-4)](#223)
-          - [Section 2 : Adjudication. (art. L432-5)](#224)
-          - [Section 3 : Cessions temporaires (art. L432-6 à L432-19)](#225)
-            - [Sous-section 1 : Prêt de titres. (art. L432-6 à L432-11)](#226)
-            - [Sous-section 2 : Pension. (art. L432-12 à L432-19)](#227)
-          - [Section 4 : Opérations à terme. (art. L432-20 à L432-21)](#228)
-        - [Chapitre III : Opérations spécifiques aux marchés réglementés (art. L433-1 à L433-4)](#229)
-          - [Section 1 : Offres publiques d'achat et d'échange (art. L433-1 à L433-2)](#230)
-          - [Section 2 : Obligation de déposer un projet d'offre publique (art. L433-3)](#231)
-          - [Section 3 : Offres publiques de retrait et retrait obligatoire (art. L433-4)](#232)
-      - [Titre IV : Les entreprises de marché et les chambres de compensation (art. L441-1 à L442-9)](#233)
-        - [Chapitre Ier : Entreprises de marché. (art. L441-1 à L441-2)](#234)
-        - [Chapitre II : Chambres de compensation. (art. L442-1 à L442-9)](#235)
-      - [Titre V : La protection des investisseurs (art. L451-1 à L452-4)](#236)
-        - [Chapitre Ier : La transparence des marchés (art. L451-1 à L451-2)](#237)
-          - [Section 1 : Les obligations d'information relative aux comptes (art. L451-1)](#238)
-          - [Section 2 : Obligation d'information sur les prises de participations (art. L451-2)](#239)
-        - [Chapitre II : Associations de défense des investisseurs (art. L452-1 à L452-4)](#240)
-      - [Titre VI : Dispositions pénales (art. L461-1 à L466-1)](#241)
-        - [Chapitre Ier : Infractions relatives à l'appel public à l'épargne. (art. L461-1)](#242)
-        - [Chapitre II : Infractions relatives aux marchés réglementés (art. L462-1 à L462-2)](#243)
-        - [Chapitre III : Infractions relatives aux négociations sur instruments financiers. (art. L463-1 à L463-2)](#244)
-        - [Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation (art. L464-1)](#245)
-        - [Chapitre V : Infractions relatives à la protection des investisseurs (art. L465-1 à L465-4)](#246)
-          - [Section 1 : Atteintes à la transparence des marchés (art. L465-1 à L465-3)](#247)
-          - [Section 2 : Prises de participations (art. L465-4)](#248)
-        - [Chapitre VI : Dispositions communes (art. L466-1)](#249)
-    - [Livre V : Les prestataires de services (art. L511-1 à L574-2)](#250)
-      - [Titre Ier : Etablissements du secteur bancaire (art. L511-1 à L519-5)](#251)
-        - [Chapitre Ier : Règles générales applicables aux établissements de crédit (art. L511-1 à L511-43)](#252)
-          - [Section 1 : Définitions et activités (art. L511-1 à L511-4)](#253)
-          - [Section 2 : Interdictions (art. L511-5 à L511-8)](#254)
-          - [Section 3 : Conditions d'accès à la profession (art. L511-9 à L511-28)](#255)
-            - [Sous-section 1 : Agrément (art. L511-9 à L511-20)](#256)
-            - [Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen (art. L511-21 à L511-28)](#257)
-          - [Section 4 : Organes de la profession (art. L511-29 à L511-32)](#258)
-            - [Sous-section 1 : L'association française des établissements de crédit et des entreprises d'investissement et les autres organismes professionnels (art. L511-29)](#259)
-            - [Sous-section 2 : Les organes centraux (art. L511-30 à L511-32)](#260)
-          - [Section 5 : Le secret professionnel (art. L511-33 à L511-34)](#261)
-          - [Section 6 : Dispositions comptables (art. L511-35 à L511-39)](#262)
-            - [Sous-section 1 : Comptes sociaux et documents comptables (art. L511-35 à L511-37)](#263)
-            - [Sous-section 2 : Commissaires aux comptes (art. L511-38 à L511-39)](#264)
-          - [Section 7 : Dispositions prudentielles. (art. L511-40 à L511-43)](#265)
-        - [Chapitre II : Les banques mutualistes ou coopératives (art. L512-1 à L512-104)](#266)
-          - [Section 1 : Dispositions générales (art. L512-1)](#267)
-          - [Section 2 : Les banques populaires (art. L512-2 à L512-13)](#268)
-            - [Sous-section 1 : Dispositions générales (art. L512-2 à L512-9)](#269)
-            - [Sous-section 2 : Banque fédérale des banques populaires (art. L512-10 à L512-12)](#270)
-            - [Sous-section 3 : Dispositions diverses (art. L512-13)](#271)
-          - [Section 3 : Le crédit agricole (art. L512-20 à L512-54)](#272)
-            - [Sous-section 1 : Les caisses de crédit agricole mutuel (art. L512-21 à L512-46)](#273)
-              - [Paragraphe 1 : Organisation (art. L512-21 à L512-35)](#274)
-              - [Paragraphe 2 : Fonctionnement (art. L512-36 à L512-43)](#275)
-              - [Paragraphe 3 : Ressources (art. L512-44 à L512-46)](#276)
-            - [Sous-section 2 : La Caisse nationale de crédit agricole (art. L512-47 à L512-50)](#277)
-              - [Paragraphe 1 : Organisation. (art. L512-47 à L512-49)](#278)
-              - [Paragraphe 2 : Ressources. (art. L512-50)](#279)
-            - [Sous-section 3 : Contrôles (art. L512-51 à L512-54)](#280)
-          - [Section 4 : Le crédit mutuel (art. L512-55 à L512-59)](#281)
-          - [Section 5 : Le crédit coopératif. (art. L512-60)](#282)
-          - [Section 6 : Les sociétés coopératives de banque (art. L512-61 à L512-67)](#283)
-            - [Sous-section 1 : Dispositions générales (art. L512-61 à L512-63)](#284)
-            - [Sous-section 2 : Conseil d'administration (art. L512-64)](#285)
-            - [Sous-section 3 : Commissaire du Gouvernement (art. L512-65)](#286)
-            - [Sous-section 4 : Statuts (art. L512-66 à L512-67)](#287)
-          - [Section 7 : Le crédit maritime mutuel (art. L512-68 à L512-84)](#288)
-            - [Sous-section 1 : Dispositions générales (art. L512-68 à L512-75)](#289)
-            - [Sous-section 2 : Administration (art. L512-76 à L512-81)](#290)
-            - [Sous-section 4 : Dispositions diverses (art. L512-83 à L512-84)](#291)
-          - [Section 8 : Le réseau des caisses d'épargne (art. L512-85 à L512-104)](#292)
-            - [Sous-section 1 : Missions (art. L512-85)](#293)
-            - [Sous-section 2 : Le réseau (art. L512-86)](#294)
-            - [Sous-section 3 : Les caisses d'épargne et de prévoyance (art. L512-87 à L512-91)](#295)
-            - [Sous-section 4 : Les sociétés locales d'épargne (art. L512-92 à L512-93)](#296)
-            - [Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance. (art. L512-94 à L512-98)](#297)
-            - [Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance (art. L512-99 à L512-100)](#298)
-            - [Sous-section 7 : Fonds de réserve et de garantie. (art. L512-101)](#299)
-            - [Sous-section 8 : Dispositions générales (art. L512-102 à L512-104)](#300)
-        - [Chapitre III : Les sociétés anonymes de crédit immobilier (art. L513-1)](#301)
-        - [Chapitre IV : Les caisses de crédit municipal (art. L514-1 à L514-4)](#302)
-          - [Section 1 : Missions (art. L514-1)](#303)
-          - [Section 2 : Création et administration (art. L514-2 à L514-4)](#304)
-        - [Chapitre V : Les sociétés financières (art. L515-1 à L515-33)](#305)
-          - [Section 1 : Dispositions communes (art. L515-1)](#306)
-          - [Section 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L515-2 à L515-3)](#307)
-          - [Section 3 : Les sociétés de caution mutuelle (art. L515-4 à L515-12)](#308)
-            - [Sous-section 1 : Objet (art. L515-4)](#309)
-            - [Sous-section 2 : Statuts (art. L515-5 à L515-7)](#310)
-            - [Sous-section 3 : Emploi des fonds (art. L515-8 à L515-9)](#311)
-            - [Sous-section 4 : Publicité (art. L515-10 à L515-12)](#312)
-          - [Section 4 : Les sociétés de crédit foncier (art. L515-13 à L515-33)](#313)
-            - [Sous-section 1 : Statut et objet (art. L515-13)](#314)
-            - [Sous-section 2 : Opérations (art. L515-14 à L515-18)](#315)
-            - [Sous-section 3 : Privilège des créances nées des opérations (art. L515-19)](#316)
-            - [Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier (art. L515-20 à L515-24)](#317)
-            - [Sous-section 5 : Redressement et liquidation judiciaires (art. L515-25 à L515-28)](#318)
-            - [Sous-section 6 : Contrôles (art. L515-29 à L515-31)](#319)
-            - [Sous-section 7 : Dispositions diverses (art. L515-32 à L515-33)](#320)
-        - [Chapitre VI : Les institutions financières spécialisées (art. L516-1 à L516-2)](#321)
-        - [Chapitre VII : Compagnies financières (art. L517-1)](#322)
-        - [Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque (art. L518-1 à L518-28)](#323)
-          - [Section 1 : Dispositions générales (art. L518-1)](#324)
-          - [Section 2 : La Caisse des dépôts et consignations (art. L518-2 à L518-24)](#325)
-            - [Sous-section 1 : Commission de surveillance (art. L518-4 à L518-10)](#326)
-              - [Paragraphe 1 : Composition (art. L518-4 à L518-6)](#327)
-              - [Paragraphe 2 : Missions (art. L518-7 à L518-9)](#328)
-              - [Paragraphe 3 : Rapport au Parlement (art. L518-10)](#329)
-            - [Sous-section 2 : Administration de la Caisse des dépôts et consignations (art. L518-11 à L518-15)](#330)
-              - [Paragraphe 1 : Le directeur général (art. L518-11 à L518-12)](#331)
-              - [Paragraphe 2 : Le caissier général (art. L518-13)](#332)
-              - [Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor (art. L518-14)](#333)
-              - [Paragraphe 4 : Contrôle par la Cour des comptes (art. L518-15)](#334)
-            - [Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations (art. L518-16)](#335)
-            - [Sous-section 4 : Opérations (art. L518-17 à L518-24)](#336)
-              - [Paragraphe 1 : Consignations et dépôts (art. L518-17 à L518-22)](#337)
-              - [Paragraphe 2 : Rémunération des dépôts et des consignations (art. L518-23)](#338)
-              - [Paragraphe 3 : Règles de déchéance (art. L518-24)](#339)
-          - [Section 3 : La Poste (art. L518-25)](#340)
-          - [Section 4 : La Caisse nationale d'épargne (art. L518-26 à L518-28)](#341)
-        - [Chapitre IX : Les intermédiaires en opérations de banque (art. L519-1 à L519-5)](#342)
-      - [Titre II : Les changeurs manuels. (art. L520-1 à L520-4)](#343)
-      - [Titre III : Les prestataires de services d'investissement (art. L531-1 à L533-13)](#344)
-        - [Chapitre Ier : Définitions (art. L531-1 à L531-11)](#345)
-          - [Section 1 : Dispositions générales (art. L531-1 à L531-3)](#346)
-          - [Section 2 : Les entreprises d'investissement (art. L531-4 à L531-8)](#347)
-          - [Section 3 : Interdictions (art. L531-10 à L531-11)](#348)
-        - [Chapitre II : Conditions d'exercice de la profession (art. L532-1 à L532-27)](#349)
-          - [Section 1 : Agrément (art. L532-1 à L532-15)](#350)
-            - [Sous-section 1 : Conditions et procédures d'agrément (art. L532-1 à L532-5)](#351)
-            - [Sous-section 2 : Retrait d'agrément et radiation (art. L532-6 à L532-8)](#352)
-            - [Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille (art. L532-9 à L532-13)](#353)
-              - [Paragraphe 1 : Agrément (art. L532-9 à L532-9-1)](#354)
-              - [Paragraphe 2 : Retrait d'agrément et radiation (art. L532-10 à L532-13)](#355)
-            - [Sous-section 4 : Bureaux de représentation (art. L532-14 à L532-15)](#356)
-          - [Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen (art. L532-16 à L532-27)](#357)
-            - [Sous-section 1 : Dispositions générales (art. L532-16 à L532-17)](#358)
-            - [Sous-section 2 : Libre prestation de services et liberté d'établissement en France (art. L532-18 à L532-22)](#359)
-            - [Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen (art. L532-23 à L532-27)](#360)
-        - [Chapitre III : Obligations des prestataires de services d'investissement (art. L533-1 à L533-13)](#361)
-          - [Section 1 : Normes de gestion (art. L533-1)](#362)
-          - [Section 2 : Obligations comptables et déclaratives (art. L533-2 à L533-3)](#363)
-          - [Section 3 : Règles de bonne conduite (art. L533-4 à L533-12)](#364)
-          - [Section 4 : Garantie des investisseurs. (art. L533-13)](#365)
-      - [Titre IV : Les sociétés de gestion collective (art. L540)](#366)
-      - [Titre V : Intermédiaires en biens divers (art. L550-1 à L550-5)](#367)
-      - [Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L561-1 à L564-3)](#368)
-        - [Chapitre Ier : Déclaration de certaines sommes ou opérations (art. L561-1)](#369)
-        - [Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite (art. L562-1 à L562-10)](#370)
-        - [Chapitre III : Autres obligations de vigilance des organismes financiers (art. L563-1 à L563-6)](#371)
-        - [Chapitre IV : Dispositions diverses (art. L564-1 à L564-3)](#372)
-      - [Titre VII : Dispositions pénales (art. L571-1 à L574-2)](#373)
-        - [Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire (art. L571-1 à L571-16)](#374)
-          - [Section 1 : Dispositions générales (art. L571-1 à L571-9)](#375)
-          - [Section 2 : Banques mutualistes ou coopératives (art. L571-10 à L571-11)](#376)
-            - [Sous-section 1 : Les banques populaires (art. L571-10)](#377)
-            - [Sous-section 2 : Le réseau des caisses d'épargne (art. L571-11)](#378)
-          - [Section 3 : Caisses de crédit municipal (art. L571-12)](#379)
-          - [Section 4 : Sociétés de crédit-bail (art. L571-13)](#380)
-          - [Section 5 : Compagnies financières (art. L571-14)](#381)
-          - [Section 6 : Intermédiaires en opérations de banque (art. L571-15 à L571-16)](#382)
-        - [Chapitre II : Changeurs manuels. (art. L572-1 à L572-3)](#383)
-          - [Section 1 : Changeurs manuels (art. L572-2 à L572-3)](#384)
-        - [Chapitre III : Dispositions relatives aux prestataires de services d'investissement (art. L573-1 à L573-8)](#385)
-        - [Chapitre IV : Dispositions relatives au blanchiment de capitaux (art. L574-1 à L574-2)](#386)
-    - [Livre VI : Les institutions en matière bancaire et financière (art. L611-1 à L642-7)](#387)
-      - [Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L611-1 à L614-7)](#388)
-        - [Chapitre Ier : Comité de la réglementation bancaire et financière (art. L611-1 à L611-9)](#389)
-          - [Section 1 : Missions (art. L611-1 à L611-6)](#390)
-          - [Section 2 : Composition (art. L611-7)](#391)
-          - [Section 3 : Règles de fonctionnement (art. L611-8 à L611-9)](#392)
-        - [Chapitre II : Comité des établissements de crédit et des entreprises d'investissement (art. L612-1 à L612-7)](#393)
-          - [Section 1 : Missions. (art. L612-1 à L612-2)](#394)
-          - [Section 2 : Composition. (art. L612-3)](#395)
-          - [Section 3 : Règles de fonctionnement. (art. L612-4 à L612-7)](#396)
-        - [Chapitre III : Commission bancaire (art. L613-1 à L613-34)](#397)
-          - [Section 1 : Missions (art. L613-1 à L613-2)](#398)
-          - [Section 2 : Composition. (art. L613-3)](#399)
-          - [Section 3 : Règles de fonctionnement. (art. L613-4 à L613-5)](#400)
-          - [Section 4 : Exercice du contrôle. (art. L613-6 à L613-13)](#401)
-            - [Sous-section 1 : Dispositions générales. (art. L613-13)](#402)
-          - [Section 5 : Exercice du pouvoir disciplinaire. (art. L613-21 à L613-24)](#403)
-          - [Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires. (art. L613-25 à L613-31)](#404)
-          - [Section 7 : Régime de contrôle spécifique. (art. L613-32 à L613-33)](#405)
-          - [Section 8 : Mise en oeuvre du fonds de garantie des dépôts. (art. L613-34)](#406)
-        - [Chapitre IV : Institutions consultatives (art. L614-1 à L614-7)](#407)
-          - [Section 1 : Conseil national du crédit et du titre et comité consultatif (art. L614-1 à L614-6)](#408)
-            - [Sous-section 1 : Conseil national du crédit et du titre (art. L614-1 à L614-5)](#409)
-            - [Sous-section 2 : Comité consultatif (art. L614-6)](#410)
-          - [Section 2 : Haut conseil du secteur financier public et semi-public (art. L614-7)](#411)
-      - [Titre II : Les autorités des marchés financiers (art. L621-1 à L623-4)](#412)
-        - [Chapitre Ier : Commission des opérations de bourse (art. L621-1 à L621-31)](#413)
-          - [Section 1 : Missions (art. L621-1)](#414)
-          - [Section 2 : Composition (art. L621-2)](#415)
-          - [Section 3 : Règles de fonctionnement (art. L621-3 à L621-5)](#416)
-          - [Section 4 : Pouvoirs (art. L621-6 à L621-21)](#417)
-            - [Sous-section 1 : Réglementation (art. L621-6 à L621-7)](#418)
-            - [Sous-section 2 : Autorisation des opérations d'appel public à l'épargne (art. L621-8)](#419)
-            - [Sous-section 3 : Enquête (art. L621-9 à L621-13)](#420)
-            - [Sous-section 4 : Injonctions et sanctions administratives (art. L621-14 à L621-17)](#421)
-            - [Sous-section 5 : Autres compétences (art. L621-18 à L621-21)](#422)
-          - [Section 5 : Contrôle des gestionnaires de portefeuille (art. L621-22 à L621-27)](#423)
-          - [Section 6 : Comité consultatif de la gestion financière (art. L621-28 à L621-29)](#424)
-          - [Section 7 : Voies de recours (art. L621-30 à L621-31)](#425)
-        - [Chapitre II : Conseil des marchés financiers (art. L622-1 à L622-25)](#426)
-          - [Section 1 : Organisation (art. L622-1 à L622-6)](#427)
-            - [Sous-section 1 : Composition et mode de décision (art. L622-1 à L622-2)](#428)
-            - [Sous-section 2 : Formations spécialisées (art. L622-3)](#429)
-            - [Sous-section 3 : Formations disciplinaires (art. L622-4)](#430)
-            - [Sous-section 4 : Obligations déontologiques et professionnelles (art. L622-5 à L622-6)](#431)
-          - [Section 2 : Attributions (art. L622-7 à L622-24)](#432)
-            - [Sous-section 1 : Attributions réglementaires (art. L622-7)](#433)
-            - [Sous-section 2 : Pouvoirs de décision, de contrôle et de sanction (art. L622-8 à L622-20-1)](#434)
-            - [Sous-section 3 : Autres attributions (art. L622-21 à L622-24)](#435)
-          - [Section 3 : Voies de recours (art. L622-25)](#436)
-        - [Chapitre III : Conseil de discipline de la gestion financière (art. L623-1 à L623-4)](#437)
-          - [Section 1 : Composition (art. L623-1)](#438)
-          - [Section 2 : Exercice du pouvoir disciplinaire (art. L623-2 à L623-4)](#439)
-      - [Titre III : Échanges d'informations (art. L631-1 à L632-1)](#440)
-        - [Chapitre Ier : Echanges d'informations sur le territoire national (art. L631-1 à L631-2)](#441)
-          - [Section 1 : Echange d'informations entre les autorités (art. L631-1)](#442)
-          - [Section 2 : Le collège des autorités de contrôle des entreprises du secteur financier (art. L631-2)](#443)
-        - [Chapitre II : Echanges d'informations avec l'étranger (art. L632-1)](#444)
-      - [Titre IV : Dispositions pénales (art. L641-1 à L642-7)](#445)
-        - [Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L641-1 à L641-2)](#446)
-          - [Section 1 : Comité des établissements de crédit et des entreprises d'investissement (art. L641-1)](#447)
-          - [Section 2 : Commission bancaire (art. L641-2)](#448)
-        - [Chapitre II : Dispositions relatives aux autorités des marchés financiers (art. L642-1 à L642-7)](#449)
-          - [Section 1 : Commission des opérations de bourse (art. L642-1 à L642-3)](#450)
-          - [Section 2 : Conseil des marchés financiers (art. L642-4 à L642-5)](#451)
-          - [Section 3 : Conseil de discipline de la gestion financière (art. L642-6 à L642-7)](#452)
-    - [Livre VII : Régime de l'outre-mer (art. L711-1 à L766-8)](#453)
-      - [Titre Ier : Dispositions communes à plusieurs collectivités territoriales (art. L711-1 à L712-5)](#454)
-        - [Chapitre Ier : Dispositions applicables dans les départements d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L711-1 à L711-12)](#455)
-          - [Section 1 : Les signes monétaires (art. L711-1)](#456)
-          - [Section 2 : L'institut d'émission des départements d'outre-mer (art. L711-2 à L711-12)](#457)
-        - [Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna (art. L712-1 à L712-5)](#458)
-          - [Section 1 : Les signes monétaires (art. L712-1 à L712-3)](#459)
-          - [Section 2 : L'institut d'émission d'outre-mer (art. L712-4)](#460)
-          - [Section 3 : Les instruments de la monnaie scripturale (art. L712-5)](#461)
-      - [Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L721-1 à L726-4)](#462)
-        - [Chapitre Ier : La monnaie (art. L721-1 à L721-4)](#463)
-          - [Section 1 : Règles d'usage de la monnaie (art. L721-1)](#464)
-          - [Section 2 : Les relations financières avec l'étranger (art. L721-2 à L721-4)](#465)
-            - [Sous-section 1 : Obligations de déclaration (art. L721-2)](#466)
-            - [Sous-section 2 : Constatation et poursuite des infractions (art. L721-3 à L721-4)](#467)
-        - [Chapitre II : Les produits (art. L722-1 à L722-3)](#468)
-          - [Section 1 : Les organismes de placements collectifs (art. L722-1)](#469)
-          - [Section 2 : Les produits à régime fiscal spécifique (art. L722-2 à L722-3)](#470)
-        - [Chapitre III : Les services (art. L723-1)](#471)
-        - [Chapitre IV : Les marchés (art. L724-1)](#472)
-        - [Chapitre V : Les prestataires de services (art. L725-1 à L725-3)](#473)
-          - [Section 1 : Les établissements du secteur bancaire (art. L725-1)](#474)
-          - [Section 2 : Les prestataires de services d'investissement (art. L725-2)](#475)
-          - [Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L725-3)](#476)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L726-1 à L726-4)](#477)
-          - [Section 1 : Le comité des établissements de crédit et des entreprises d'investissement (art. L726-1)](#478)
-          - [Section 2 : La commission bancaire (art. L726-2)](#479)
-          - [Section 4 : Le Conseil des marchés financiers (art. L726-4)](#480)
-      - [Titre III : Dispositions applicables à mayotte (art. L731-1 à L736-7)](#481)
-        - [Chapitre Ier : La monnaie (art. L731-1 à L731-5)](#482)
-          - [Section 1 : Les instruments de la monnaie scripturale (art. L731-1)](#483)
-          - [Section 2 : Les relations financières avec l'étranger (art. L731-2 à L731-5)](#484)
-            - [Sous-section 1 : Dispositions générales (art. L731-2)](#485)
-            - [Sous-section 2 : Obligations de déclaration (art. L731-3)](#486)
-            - [Sous-section 3 : Constatation et poursuite des infractions (art. L731-4 à L731-5)](#487)
-        - [Chapitre II : Les produits (art. L732-1 à L732-8)](#488)
-          - [Section 1 : Les instruments financiers (art. L732-1 à L732-7)](#489)
-            - [Sous-section 1 : Définition et règles générales (art. L732-1)](#490)
-            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L732-2)](#491)
-            - [Sous-section 3 : Les titres de créance (art. L732-3 à L732-6)](#492)
-              - [Paragraphe 1 : Les titres de créances négociables (art. L732-3)](#493)
-              - [Paragraphe 2 : Les obligations (art. L732-4 à L732-5)](#494)
-              - [Paragraphe 3 : Les titres participatifs (art. L732-6)](#495)
-            - [Sous-section 4 : Les placements collectifs (art. L732-7)](#496)
-          - [Section 2 : Les produits d'épargne (art. L732-8)](#497)
-        - [Chapitre III : Les services (art. L733-1 à L733-11)](#498)
-          - [Section 1 : Les opérations de banque (art. L733-1 à L733-7)](#499)
-            - [Sous-section 1 : Dispositions générales (art. L733-1)](#500)
-            - [Sous-section 2 : Comptes et dépôts (art. L733-2)](#501)
-            - [Sous-section 3 : Crédits (art. L733-3 à L733-7)](#502)
-              - [Paragraphe 1 : Dispositions générales (art. L733-3)](#503)
-              - [Paragraphe 2 : Catégories de crédits (art. L733-4 à L733-5)](#504)
-                - [Sous-paragraphe 1 : Crédit-bail (art. L733-4)](#505)
-                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L733-5)](#506)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L733-6)](#507)
-              - [Paragraphe 4 : Garantie des cautions (art. L733-7)](#508)
-          - [Section 2 : Les services d'investissement et leurs services connexes (art. L733-8)](#509)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L733-9)](#510)
-          - [Section 4 : Démarchage (art. L733-10 à L733-11)](#511)
-            - [Sous-section 1 : Démarchage concernant les opérations de banque. (art. L733-10)](#512)
-            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L733-11)](#513)
-        - [Chapitre IV : Les marchés (art. L734-1 à L734-13)](#514)
-          - [Section 1 : L'appel public à l'épargne (art. L734-1 à L734-2)](#515)
-            - [Sous-section 1 : Définition (art. L734-1)](#516)
-            - [Sous-section 2 : Conditions de l'appel public à l'épargne (art. L734-2)](#517)
-          - [Section 2 : Les catégories de marché (art. L734-3 à L734-4)](#518)
-          - [Section 3 : Les négociations sur instruments financiers (art. L734-5 à L734-10)](#519)
-            - [Sous-section 1 : Dispositions générales (art. L734-5 à L734-7)](#520)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L734-5 à L734-6)](#521)
-              - [Paragraphe 2 : Compensation (art. L734-7)](#522)
-            - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L734-8 à L734-9)](#523)
-              - [Paragraphe 1 : Adjudication (art. L734-8)](#524)
-              - [Paragraphe 2 : Les opérations à terme (art. L734-9)](#525)
-            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L734-10)](#526)
-          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L734-11)](#527)
-          - [Section 5 : La protection des investisseurs (art. L734-12 à L734-13)](#528)
-            - [Sous-section 1 : Obligations d'information relatives aux comptes (art. L734-12)](#529)
-            - [Sous-section 2 : Obligations d'information sur les prises de participation (art. L734-13)](#530)
-        - [Chapitre V : Les prestataires de services (art. L735-1 à L735-13)](#531)
-          - [Section 1 : Les établissements du secteur bancaire (art. L735-1 à L735-7)](#532)
-            - [Sous-section 1 : Les sociétés financières (art. L735-2 à L735-4)](#533)
-              - [Paragraphe 1 : Dispositions communes (art. L735-2)](#534)
-              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L735-3)](#535)
-              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L735-4)](#536)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. L735-5)](#537)
-            - [Sous-section 3 : Les compagnies financières (art. L735-6)](#538)
-            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L735-7)](#539)
-          - [Section 2 : Les changeurs manuels (art. L735-8)](#540)
-          - [Section 3 : Les prestataires de services d'investissement (art. L735-9 à L735-11)](#541)
-            - [Sous-section 1 : Définitions (art. L735-9)](#542)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. L735-10)](#543)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L735-11)](#544)
-          - [Section 4 : Les intermédiaires en biens divers (art. L735-12)](#545)
-          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L735-13)](#546)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L736-5 à L736-7)](#547)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L736-1 à L736-4)](#548)
-            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L736-1)](#549)
-            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L736-2)](#550)
-            - [Sous-section 3 : La commission bancaire (art. L736-3)](#551)
-            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L736-4)](#552)
-          - [Section 2 : Les autorités des marchés financiers (art. L736-6 à L736-7)](#553)
-            - [Sous-section 2 : Le Conseil des marchés financiers (art. L736-6)](#554)
-            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L736-7)](#555)
-      - [Titre IV : Dispositions applicables en Nouvelle-Calédonie (art. L741-1 à L746-8)](#556)
-        - [Chapitre Ier : La monnaie (art. L741-1 à L741-6)](#557)
-          - [Section 1 : Règles d'usage de la monnaie (art. L741-1)](#558)
-          - [Section 2 : Les instruments de la monnaie scripturale (art. L741-2)](#559)
-          - [Section 3 : Les relations financières avec l'étranger (art. L741-3 à L741-6)](#560)
-            - [Sous-section 1 : Dispositions générales (art. L741-3)](#561)
-            - [Sous-section 2 : Obligations de déclaration (art. L741-4)](#562)
-            - [Sous-section 3 : Constatation et poursuite des infractions (art. L741-5 à L741-6)](#563)
-        - [Chapitre II : Les produits (art. L742-1 à L742-7)](#564)
-          - [Section unique : Les instruments financiers (art. L742-1 à L742-7)](#565)
-            - [Sous-section 1 : Définition et règles générales (art. L742-1)](#566)
-            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L742-2)](#567)
-            - [Sous-section 3 : Les titres de créance (art. L742-3 à L742-5)](#568)
-              - [Paragraphe 1 : Les titres de créances négociables (art. L742-3)](#569)
-              - [Paragraphe 2 : Les obligations (art. L742-4 à L742-5)](#570)
-            - [Sous-section 4 : Les placements collectifs (art. L742-6 à L742-7)](#571)
-        - [Chapitre III : Les services (art. L743-1 à L743-11)](#572)
-          - [Section 1 : Les opérations de banque (art. L743-1 à L743-7)](#573)
-            - [Sous-section 1 : Dispositions générales (art. L743-1)](#574)
-            - [Sous-section 2 : Comptes et dépôts (art. L743-2)](#575)
-            - [Sous-section 3 : Crédits (art. L743-3 à L743-7)](#576)
-              - [Paragraphe 1 : Dispositions générales (art. L743-3)](#577)
-              - [Paragraphe 2 : Catégories de crédits (art. L743-4 à L743-5)](#578)
-                - [Sous-paragraphe 1 : Crédit-bail (art. L743-4)](#579)
-                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L743-5)](#580)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L743-6)](#581)
-              - [Paragraphe 4 : Garantie des cautions (art. L743-7)](#582)
-          - [Section 2 : Les services d'investissement et leurs services connexes (art. L743-8)](#583)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L743-9)](#584)
-          - [Section 4 : Démarchage (art. L743-10 à L743-11)](#585)
-            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L743-10)](#586)
-            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L743-11)](#587)
-        - [Chapitre IV : Les marchés (art. L744-1 à L744-13)](#588)
-          - [Section 1 : L'appel public à l'épargne (art. L744-1 à L744-2)](#589)
-            - [Sous-section 1 : Définition. (art. L744-1)](#590)
-            - [Sous-section 2 : Conditions de l'appel public à l'épargne. (art. L744-2)](#591)
-          - [Section 2 : Les catégories de marché (art. L744-3 à L744-4)](#592)
-          - [Section 3 : Les négociations sur instruments financiers (art. L744-5 à L744-10)](#593)
-            - [Sous-section 1 : Dispositions générales (art. L744-5 à L744-7)](#594)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L744-5 à L744-6)](#595)
-              - [Paragraphe 2 : Compensation. (art. L744-7)](#596)
-            - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L744-8 à L744-9)](#597)
-              - [Paragraphe 1 : Adjudication (art. L744-8)](#598)
-              - [Paragraphe 2 : Les opérations à terme (art. L744-9)](#599)
-            - [Sous-section 3 : Modalités spécifiques aux marchés réglementés (art. L744-10)](#600)
-          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L744-11)](#601)
-          - [Section 5 : La protection des investisseurs (art. L744-12 à L744-13)](#602)
-            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L744-12)](#603)
-            - [Sous-section 2 : Obligation d'information sur les prises de participation (art. L744-13)](#604)
-        - [Chapitre V : Les prestataires de services (art. L745-1 à L745-13)](#605)
-          - [Section 1 : Les établissements du secteur bancaire (art. L745-1 à L745-7)](#606)
-            - [Sous-section 1 : Définitions et activités (art. L745-1)](#607)
-            - [Sous-section 3 : Les sociétés financières (art. L745-2 à L745-4)](#608)
-              - [Paragraphe 1 : Dispositions communes (art. L745-2)](#609)
-              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L745-3)](#610)
-              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L745-4)](#611)
-            - [Sous-section 4 : Les institutions financières spécialisées (art. L745-5)](#612)
-            - [Sous-section 5 : Les compagnies financières (art. L745-6)](#613)
-            - [Sous-section 6 : Les intermédiaires en opérations de banque (art. L745-7)](#614)
-          - [Section 2 : Les changeurs manuels (art. L745-8)](#615)
-          - [Section 3 : Les prestataires de services d'investissement (art. L745-9 à L745-11)](#616)
-            - [Sous-section 1 : Définitions (art. L745-9)](#617)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. L745-10)](#618)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L745-11)](#619)
-          - [Section 4 : Intermédiaires en biens divers (art. L745-12)](#620)
-          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L745-13)](#621)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L746-1 à L746-8)](#622)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L746-1 à L746-4)](#623)
-            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L746-1)](#624)
-            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L746-2)](#625)
-            - [Sous-section 3 : La commission bancaire. (art. L746-3)](#626)
-            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L746-4)](#627)
-          - [Section 2 : Les autorités des marchés financiers (art. L746-5 à L746-7)](#628)
-            - [Sous-section 1 : La Commission des opérations de bourse (art. L746-5)](#629)
-            - [Sous-section 2 : Le Conseil des marchés financiers (art. L746-6)](#630)
-            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L746-7)](#631)
-          - [Section 3 : Echanges d'informations (art. L746-8)](#632)
-      - [Titre V : Dispositions applicables en Polynésie française (art. L751-1 à L756-8)](#633)
-        - [Chapitre Ier : La monnaie (art. L751-1 à L751-6)](#634)
-          - [Section 1 : Règles d'usage de la monnaie (art. L751-1)](#635)
-          - [Section 2 : Les instruments de la monnaie scripturale (art. L751-2)](#636)
-          - [Section 3 : Les relations financières avec l'étranger (art. L751-3 à L751-6)](#637)
-            - [Sous-section 1 : Dispositions générales (art. L751-3)](#638)
-            - [Sous-section 2 : Obligations de déclaration (art. L751-4)](#639)
-            - [Sous-section 3 : Constatation et poursuite des infractions (art. L751-5 à L751-6)](#640)
-        - [Chapitre II : Les produits (art. L752-1 à L752-7)](#641)
-          - [Section 1 : Les instruments financiers (art. L752-1 à L752-6)](#642)
-            - [Sous-section 1 : Définition et règles générales (art. L752-1)](#643)
-            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L752-2)](#644)
-            - [Sous-section 3 : Les titres de créance (art. L752-3 à L752-5)](#645)
-              - [Paragraphe 1 : Les titres de créances négociables (art. L752-3)](#646)
-              - [Paragraphe 2 : Les obligations (art. L752-4 à L752-5)](#647)
-            - [Sous-section 4 : Les placements collectifs (art. L752-6)](#648)
-          - [Section 2 : Les produits d'épargne (art. L752-7)](#649)
-        - [Chapitre III : Les services (art. L753-1 à L753-11)](#650)
-          - [Section 1 : Les opérations de banque (art. L753-1 à L753-7)](#651)
-            - [Sous-section 1 : Dispositions générales (art. L753-1)](#652)
-            - [Sous-section 2 : Comptes et dépôts (art. L753-2)](#653)
-            - [Sous-section 3 : Crédits (art. L753-3 à L753-7)](#654)
-              - [Paragraphe 1 : Dispositions générales (art. L753-3)](#655)
-              - [Paragraphe 2 : Catégories de crédits (art. L753-4 à L753-5)](#656)
-                - [Sous-paragraphe 1 : Crédit-bail (art. L753-4)](#657)
-                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L753-5)](#658)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L753-6)](#659)
-              - [Paragraphe 4 : Garanties des cautions (art. L753-7)](#660)
-          - [Section 2 : Les services d'investissement et leurs services connexes (art. L753-8)](#661)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L753-9)](#662)
-          - [Section 4 : Démarchage (art. L753-10 à L753-11)](#663)
-            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L753-10)](#664)
-            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L753-11)](#665)
-        - [Chapitre IV : Les marchés (art. L754-1 à L754-13)](#666)
-          - [Section 1 : L'appel public à l'épargne (art. L754-1 à L754-2)](#667)
-            - [Sous-section 1 : Définition. (art. L754-1)](#668)
-            - [Sous-section 2 : Conditions de l'appel public à l'épargne. (art. L754-2)](#669)
-          - [Section 2 : Les catégories de marché (art. L754-3 à L754-4)](#670)
-          - [Section 3 : Les négociations sur instruments financiers (art. L754-5 à L754-10)](#671)
-            - [Sous-section 1 : Dispositions générales (art. L754-5 à L754-7)](#672)
-              - [Paragraphe 1 : Transfert de propriété des titres et mise en gage (art. L754-5 à L754-6)](#673)
-              - [Paragraphe 2 : Compensation (art. L754-7)](#674)
-            - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L754-8 à L754-9)](#675)
-              - [Paragraphe 1 : Adjudication (art. L754-8)](#676)
-              - [Paragraphe 2 : Les opérations à terme (art. L754-9)](#677)
-            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L754-10)](#678)
-          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L754-11)](#679)
-          - [Section 5 : La protection des investisseurs (art. L754-12 à L754-13)](#680)
-            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L754-12)](#681)
-            - [Sous-section 2 : Obligations d'information sur les prises de participation (art. L754-13)](#682)
-        - [Chapitre V : Les prestataires de services (art. L755-1 à L755-13)](#683)
-          - [Section 1 : Les établissements du secteur bancaire (art. L755-1 à L755-7)](#684)
-            - [Sous-section 1 : Les sociétés financières (art. L755-2 à L755-4)](#685)
-              - [Paragraphe 1 : Dispositions communes (art. L755-2)](#686)
-              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L755-3)](#687)
-              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L755-4)](#688)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. L755-5)](#689)
-            - [Sous-section 3 : Les compagnies financières (art. L755-6)](#690)
-            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L755-7)](#691)
-          - [Section 2 : Les changeurs manuels (art. L755-8)](#692)
-          - [Section 3 : Les prestataires de services d'investissement (art. L755-9 à L755-11)](#693)
-            - [Sous-section 1 : Définitions (art. L755-9)](#694)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. L755-10)](#695)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L755-11)](#696)
-          - [Section 4 : Les intermédiaires en biens divers (art. L755-12)](#697)
-          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L755-13)](#698)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L756-1 à L756-8)](#699)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L756-1 à L756-4)](#700)
-            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L756-1)](#701)
-            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L756-2)](#702)
-            - [Sous-section 3 : La commission bancaire. (art. L756-3)](#703)
-            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L756-4)](#704)
-          - [Section 2 : Les autorités des marchés financiers (art. L756-5 à L756-7)](#705)
-            - [Sous-section 1 : La Commission des opérations de bourse (art. L756-5)](#706)
-            - [Sous-section 2 : Le Conseil des marchés financiers (art. L756-6)](#707)
-            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L756-7)](#708)
-          - [Section 3 : Echanges d'informations (art. L756-8)](#709)
-      - [Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna (art. L764-4)](#710)
-        - [Chapitre IV : Les marchés (art. L764-4)](#711)
-          - [Section 2 : Les plates-formes de négociation (art. L764-4)](#712)
-      - [Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna (art. L761-1 à L766-8)](#713)
-        - [Chapitre Ier : La monnaie (art. L761-1 à L761-5)](#714)
-          - [Section 1 : Les instruments de la monnaie scripturale (art. L761-1)](#715)
-          - [Section 2 : Les relations financières avec l'étranger (art. L761-2 à L761-5)](#716)
-            - [Sous-section 1 : Dispositions générales (art. L761-2)](#717)
-            - [Sous-section 2 : Obligations de déclaration (art. L761-3 à L761-5)](#718)
-        - [Chapitre II : Les produits (art. L762-1 à L762-7)](#719)
-          - [Section 1 : Les instruments financiers (art. L762-1 à L762-6)](#720)
-            - [Sous-section 1 : Définition et règles générales (art. L762-1)](#721)
-            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L762-2)](#722)
-            - [Sous-section 3 : Les titres de créance (art. L762-3 à L762-5)](#723)
-              - [Paragraphe 1 : Les titres de créances négociables (art. L762-3)](#724)
-              - [Paragraphe 2 : Les obligations (art. L762-4 à L762-5)](#725)
-            - [Sous-section 4 : Les placements collectifs (art. L762-6)](#726)
-          - [Section 2 : Les produits d'épargne (art. L762-7)](#727)
-        - [Chapitre III : Les services (art. L763-1 à L763-11)](#728)
-          - [Section 1 : Les opérations de banque (art. L763-1 à L763-7)](#729)
-            - [Sous-section 1 : Dispositions générales (art. L763-1)](#730)
-            - [Sous-section 2 : Comptes et dépôts (art. L763-2)](#731)
-            - [Sous-section 3 : Crédits (art. L763-3 à L763-7)](#732)
-              - [Paragraphe 1 : Dispositions générales (art. L763-3)](#733)
-              - [Paragraphe 2 : Catégories de crédits (art. L763-4 à L763-5)](#734)
-                - [Sous-paragraphe 1 : Crédit-bail (art. L763-4)](#735)
-                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L763-5)](#736)
-              - [Paragraphe 3 : Procédures de mobilisation des créances (art. L763-6)](#737)
-              - [Paragraphe 4 : Garantie des cautions (art. L763-7)](#738)
-          - [Section 2 : Les services d'investissement et leurs services connexes (art. L763-8)](#739)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L763-9)](#740)
-          - [Section 4 : Démarchage (art. L763-10 à L763-11)](#741)
-            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L763-10)](#742)
-            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L763-11)](#743)
-        - [Chapitre IV : Les marchés (art. L764-1 à L764-13)](#744)
-          - [Section 1 : L'appel public à l'épargne (art. L764-1 à L764-2)](#745)
-            - [Sous-section 1 : Définition (art. L764-1)](#746)
-            - [Sous-section 2 : Conditions de l'appel public à l'épargne (art. L764-2)](#747)
-          - [Section 2 : Les catégories de marché (art. L764-3)](#748)
-          - [Section 3 : Les négociations sur instruments financiers (art. L764-5 à L764-10)](#749)
-            - [Sous-section 1 : Dispositions générales (art. L764-5 à L764-7)](#750)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L764-5 à L764-6)](#751)
-              - [Paragraphe 2 : Compensation (art. L764-7)](#752)
-            - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L764-8 à L764-9)](#753)
-              - [Paragraphe 1 : Adjudication (art. L764-8)](#754)
-              - [Paragraphe 2 : Les opérations à terme (art. L764-9)](#755)
-            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L764-10)](#756)
-          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L764-11)](#757)
-          - [Section 5 : La protection des investisseurs (art. L764-12 à L764-13)](#758)
-            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L764-12)](#759)
-            - [Sous-section 2 : Obligations d'information relative aux prises de participation (art. L764-13)](#760)
-        - [Chapitre V : Les prestataires de services (art. L765-1 à L765-13)](#761)
-          - [Section 1 : Les établissements du secteur bancaire (art. L765-1 à L765-7)](#762)
-            - [Sous-section 1 : Les sociétés financières (art. L765-2 à L765-4)](#763)
-              - [Paragraphe 1 : Dispositions communes (art. L765-2)](#764)
-              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L765-3)](#765)
-              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L765-4)](#766)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. L765-5)](#767)
-            - [Sous-section 3 : Les compagnies financières (art. L765-6)](#768)
-            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L765-7)](#769)
-          - [Section 2 : Les changeurs manuels (art. L765-8)](#770)
-          - [Section 3 : Les prestataires de services d'investissement (art. L765-9 à L765-11)](#771)
-            - [Sous-section 1 : Définitions (art. L765-9)](#772)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. L765-10)](#773)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L765-11)](#774)
-          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L765-13)](#775)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L766-1 à L766-8)](#776)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L766-1 à L766-4)](#777)
-            - [Sous-section 1 : Le comité de la réglementation bancaire et financière (art. L766-1)](#778)
-            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L766-2)](#779)
-            - [Sous-section 3 : La commission bancaire (art. L766-3)](#780)
-            - [Sous-section 4 : Le conseil national du crédit et du titre (art. L766-4)](#781)
-          - [Section 2 : Les autorités des marchés financiers (art. L766-5 à L766-7)](#782)
-            - [Sous-section 1 : La commission des opérations de bourse (art. L766-5)](#783)
-            - [Sous-section 2 : Le conseil des marchés financiers (art. L766-6)](#784)
-            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L766-7)](#785)
-          - [Section 3 : Echanges d'informations (art. L766-8)](#786)
+            - [Sous-section 6-1 : Règles de bonne conduite. (art. L214-83-1)](#115)
+            - [Sous-section 7 : Contrôle. (art. L214-84)](#116)
+          - [Section 4 : Les sociétés d'épargne forestière (art. L214-85 à L214-88)](#117)
+      - [Titre II : Les produits d'épargne (art. L221-1 à L223-4)](#118)
+        - [Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique (art. L221-1 à L221-29)](#119)
+          - [Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel (art. L221-1 à L221-12)](#120)
+            - [Sous-section 1 : Dispositions communes (art. L221-1 à L221-6)](#121)
+              - [Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel. (art. L221-1)](#122)
+              - [Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne. (art. L221-2 à L221-6)](#123)
+            - [Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance. (art. L221-7 à L221-8)](#124)
+            - [Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne. (art. L221-9 à L221-10)](#125)
+            - [Sous-section 4 : Dispositions spécifiques au Crédit mutuel. (art. L221-11 à L221-12)](#126)
+          - [Section 2 : L'épargne populaire (art. L221-13 à L221-23)](#127)
+            - [Sous-section 1 : Le compte sur livret d'épargne populaire (art. L221-13 à L221-17)](#128)
+            - [Sous-section 2 : Le plan d'épargne populaire (art. L221-18 à L221-23)](#129)
+          - [Section 3 : Le livret jeune (art. L221-24 à L221-26)](#130)
+          - [Section 4 : Le compte pour le développement industriel. (art. L221-27 à L221-28)](#131)
+          - [Section 5 : L'épargne-logement (art. L221-29)](#132)
+        - [Chapitre II : Produits d'épargne salariale (art. L222-1)](#133)
+          - [Section unique : Le plan d'épargne d'entreprise (art. L222-1)](#134)
+        - [Chapitre III : Bons de caisse (art. L223-1 à L223-4)](#135)
+      - [Titre III : Dispositions pénales (art. L231-1 à L232-2)](#136)
+        - [Chapitre Ier : Infractions relatives aux instruments financiers (art. L231-1 à L231-21)](#137)
+          - [Section 1 : Infractions relatives aux titres (art. L231-1 à L231-2)](#138)
+            - [Sous-section 1 : Obligations. (art. L231-1)](#139)
+            - [Sous-section 2 : Titres émis par des associations. (art. L231-2)](#140)
+          - [Section 2 : Infractions relatives aux placements collectifs (art. L231-3 à L231-21)](#141)
+            - [Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières. (art. L231-3 à L231-7)](#142)
+            - [Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier (art. L231-8 à L231-21)](#143)
+        - [Chapitre II : Infractions relatives aux produits d'épargne (art. L232-1 à L232-2)](#144)
+          - [Section unique : Bons de caisse (art. L232-1 à L232-2)](#145)
+    - [Livre III : Les services (art. L311-1 à L353-7)](#146)
+      - [Titre Ier : Les opérations de banque (art. L311-1 à L313-51)](#147)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-4)](#148)
+          - [Section 1 : Définition des opérations de banque (art. L311-1)](#149)
+          - [Section 2 : Définition des opérations connexes aux opérations de banque (art. L311-2)](#150)
+          - [Section 3 : Définition des moyens de paiement. (art. L311-3)](#151)
+          - [Section 4 : Compensation. (art. L311-4)](#152)
+        - [Chapitre II : Comptes et dépôts (art. L312-1 à L312-18)](#153)
+          - [Section 1 : Droit au compte et relations avec le client (art. L312-1)](#154)
+            - [Sous-section 2 : Relations des établissements de crédit avec le client (art. L312-1)](#155)
+          - [Section 2 : Fonds reçus du public (art. L312-2 à L312-3)](#156)
+            - [Sous-section 1 : Définition. (art. L312-2)](#157)
+            - [Sous-section 2 : Rémunération. (art. L312-3)](#158)
+          - [Section 3 : Garantie des déposants (art. L312-4 à L312-18)](#159)
+        - [Chapitre III : Crédits (art. L313-1 à L313-51)](#160)
+          - [Section 1 : Dispositions générales (art. L313-1 à L313-6)](#161)
+            - [Sous-section 1 : Définition (art. L313-1)](#162)
+            - [Sous-section 2 : Taux d'intérêt (art. L313-2 à L313-4)](#163)
+              - [Paragraphe 1 : Taux de l'intérêt légal (art. L313-2 à L313-3)](#164)
+              - [Paragraphe 2 : Taux effectif global (art. L313-4)](#165)
+            - [Sous-section 3 : Fichier des incidents de paiement caractérisés (art. L313-6)](#166)
+          - [Section 2 : Catégories de crédits (art. L313-7 à L313-22)](#167)
+            - [Sous-section 1 : Crédit-bail. (art. L313-7 à L313-11)](#168)
+            - [Sous-section 2 : Crédits aux entreprises (art. L313-12 à L313-22)](#169)
+              - [Paragraphe 1 : Crédit d'exploitation. (art. L313-12)](#170)
+              - [Paragraphe 2 : Prêts participatifs. (art. L313-13 à L313-20)](#171)
+                - [Sous-paragraphe 1 : Régime général. (art. L313-14 à L313-17)](#172)
+                - [Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat. (art. L313-18 à L313-20)](#173)
+              - [Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels. (art. L313-21)](#174)
+              - [Paragraphe 4 : Information des cautions. (art. L313-22)](#175)
+          - [Section 3 : Procédures de mobilisation des créances professionnelles (art. L313-23 à L313-49)](#176)
+            - [Sous-section 1 : Cession et nantissement des créances professionnelles (art. L313-23 à L313-29)](#177)
+            - [Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti (art. L313-30 à L313-49)](#178)
+              - [Paragraphe 1 : Dispositions générales (art. L313-30 à L313-35)](#179)
+              - [Paragraphe 2 : Mobilisation des crédits à moyen terme (art. L313-36 à L313-41)](#180)
+              - [Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées (art. L313-42 à L313-49)](#181)
+          - [Section 4 : Garantie des cautions (art. L313-50 à L313-51)](#182)
+      - [Titre II : Les services d'investissement et leurs services connexes (art. L321-1 à L322-4)](#183)
+        - [Chapitre Ier : Dispositions générales (art. L321-1 à L321-3)](#184)
+        - [Chapitre II : Garantie des investisseurs (art. L322-1 à L322-4)](#185)
+      - [Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers. (art. L330-1 à L330-2)](#186)
+      - [Titre IV : Le démarchage et le colportage (art. L341-1 à L344-3)](#187)
+        - [Chapitre Ier : Démarchage concernant les opérations de banque. (art. L341-1 à L341-6)](#188)
+        - [Chapitre II : Démarchage concernant les valeurs mobilières. (art. L342-1 à L342-21)](#189)
+        - [Chapitre III : Démarchage concernant les opérations sur le marché à terme. (art. L343-1 à L343-6)](#190)
+        - [Chapitre IV : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers (art. L344-1 à L344-3)](#191)
+          - [Section 1 : Opérations sur matières précieuses. (art. L344-1 à L344-2)](#192)
+          - [Section 2 : Opérations sur les billets de banque étrangers. (art. L344-3)](#193)
+      - [Titre V : Dispositions pénales (art. L351-1 à L353-7)](#194)
+        - [Chapitre Ier : Infractions relatives aux opérations de banque et aux opérations connexes. (art. L351-1)](#195)
+        - [Chapitre II : Infractions relatives au fonds de garantie des déposants (art. L352-1)](#196)
+        - [Chapitre III : Infractions relatives au démarchage (art. L353-1 à L353-7)](#197)
+          - [Section 1 : Opérations de banque. (art. L353-1 à L353-2)](#198)
+          - [Section 2 : Opérations sur les valeurs mobilières. (art. L353-3 à L353-5)](#199)
+          - [Section 3 : Marché à terme. (art. L353-6)](#200)
+          - [Section 4 : Opérations sur matières précieuses et billets de banque étrangers. (art. L353-7)](#201)
+    - [Livre IV : Les marchés (art. L411-1 à L466-1)](#202)
+      - [Titre Ier : L'appel public à l'épargne (art. L411-1 à L412-4)](#203)
+        - [Chapitre Ier : Définition. (art. L411-1 à L411-2)](#204)
+        - [Chapitre II : Conditions de l'appel public à l'épargne (art. L412-1 à L412-4)](#205)
+          - [Section 1 : Obligations générales de publicité. (art. L412-1)](#206)
+          - [Section 2 : Interdictions et sanctions (art. L412-2 à L412-4)](#207)
+      - [Titre II : Les catégories de marchés (art. L421-1 à L424-1)](#208)
+        - [Chapitre Ier : Marchés réglementés français (art. L421-1 à L421-13)](#209)
+          - [Section 1 : Reconnaissance et retrait de la qualité de marché réglementé. (art. L421-1 à L421-2)](#210)
+          - [Section 2 : Conditions de fonctionnement des marchés réglementés. (art. L421-3 à L421-5)](#211)
+          - [Section 3 : Obligation d'intermédiation et monopole de négociation. (art. L421-6 à L421-7)](#212)
+          - [Section 4 : Régime des membres d'un marché réglementé. (art. L421-8 à L421-11)](#213)
+          - [Section 5 : Centralisation des ordres sur les marchés réglementés. (art. L421-12 à L421-13)](#214)
+        - [Chapitre II : Marchés réglementés européens. (art. L422-1)](#215)
+        - [Chapitre III : Marchés étrangers reconnus. (art. L423-1)](#216)
+        - [Chapitre IV : Marché de l'or. (art. L424-1)](#217)
+      - [Titre III : Les négociations sur instruments financiers (art. L431-1 à L433-4)](#218)
+        - [Chapitre Ier : Dispositions générales (art. L431-1 à L431-7)](#219)
+          - [Section 1 : Transfert de propriété des titres et mise en gage (art. L431-1 à L431-6)](#220)
+            - [Sous-section 1 : Transfert de propriété des titres. (art. L431-1 à L431-3)](#221)
+            - [Sous-section 2 : Mise en gage. (art. L431-4 à L431-6)](#222)
+          - [Section 2 : Compensation. (art. L431-7)](#223)
+        - [Chapitre II : Formes particulières de cessions d'instruments financiers (art. L432-1 à L432-21)](#224)
+          - [Section 1 : Vente à crédit. (art. L432-1 à L432-4)](#225)
+          - [Section 2 : Adjudication. (art. L432-5)](#226)
+          - [Section 3 : Cessions temporaires (art. L432-6 à L432-19)](#227)
+            - [Sous-section 1 : Prêt de titres. (art. L432-6 à L432-11)](#228)
+            - [Sous-section 2 : Pension. (art. L432-12 à L432-19)](#229)
+          - [Section 4 : Opérations à terme. (art. L432-20 à L432-21)](#230)
+        - [Chapitre III : Opérations spécifiques aux marchés réglementés (art. L433-1 à L433-4)](#231)
+          - [Section 1 : Offres publiques d'achat et d'échange (art. L433-1 à L433-2)](#232)
+          - [Section 2 : Obligation de déposer un projet d'offre publique (art. L433-3)](#233)
+          - [Section 3 : Offres publiques de retrait et retrait obligatoire (art. L433-4)](#234)
+      - [Titre IV : Les entreprises de marché et les chambres de compensation (art. L441-1 à L442-9)](#235)
+        - [Chapitre Ier : Entreprises de marché. (art. L441-1 à L441-2)](#236)
+        - [Chapitre II : Chambres de compensation. (art. L442-1 à L442-9)](#237)
+      - [Titre V : La protection des investisseurs (art. L451-1 à L452-4)](#238)
+        - [Chapitre Ier : La transparence des marchés (art. L451-1 à L451-2)](#239)
+          - [Section 1 : Les obligations d'information relative aux comptes (art. L451-1)](#240)
+          - [Section 2 : Obligation d'information sur les prises de participations (art. L451-2)](#241)
+        - [Chapitre II : Associations de défense des investisseurs (art. L452-1 à L452-4)](#242)
+      - [Titre VI : Dispositions pénales (art. L461-1 à L466-1)](#243)
+        - [Chapitre Ier : Infractions relatives à l'appel public à l'épargne. (art. L461-1)](#244)
+        - [Chapitre II : Infractions relatives aux marchés réglementés (art. L462-1 à L462-2)](#245)
+        - [Chapitre III : Infractions relatives aux négociations sur instruments financiers. (art. L463-1 à L463-2)](#246)
+        - [Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation (art. L464-1)](#247)
+        - [Chapitre V : Infractions relatives à la protection des investisseurs (art. L465-1 à L465-4)](#248)
+          - [Section 1 : Atteintes à la transparence des marchés (art. L465-1 à L465-3)](#249)
+          - [Section 2 : Prises de participations (art. L465-4)](#250)
+        - [Chapitre VI : Dispositions communes (art. L466-1)](#251)
+    - [Livre V : Les prestataires de services (art. L511-1 à L574-2)](#252)
+      - [Titre Ier : Etablissements du secteur bancaire (art. L511-1 à L519-5)](#253)
+        - [Chapitre Ier : Règles générales applicables aux établissements de crédit (art. L511-1 à L511-43)](#254)
+          - [Section 1 : Définitions et activités (art. L511-1 à L511-4)](#255)
+          - [Section 2 : Interdictions (art. L511-5 à L511-8)](#256)
+          - [Section 3 : Conditions d'accès à la profession (art. L511-9 à L511-28)](#257)
+            - [Sous-section 1 : Agrément (art. L511-9 à L511-20)](#258)
+            - [Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen (art. L511-21 à L511-28)](#259)
+          - [Section 4 : Organes de la profession (art. L511-29 à L511-32)](#260)
+            - [Sous-section 1 : L'association française des établissements de crédit et des entreprises d'investissement et les autres organismes professionnels (art. L511-29)](#261)
+            - [Sous-section 2 : Les organes centraux (art. L511-30 à L511-32)](#262)
+          - [Section 5 : Le secret professionnel (art. L511-33 à L511-34)](#263)
+          - [Section 6 : Dispositions comptables (art. L511-35 à L511-39)](#264)
+            - [Sous-section 1 : Comptes sociaux et documents comptables (art. L511-35 à L511-37)](#265)
+            - [Sous-section 2 : Commissaires aux comptes (art. L511-38 à L511-39)](#266)
+          - [Section 7 : Dispositions prudentielles. (art. L511-40 à L511-43)](#267)
+        - [Chapitre II : Les banques mutualistes ou coopératives (art. L512-1 à L512-104)](#268)
+          - [Section 1 : Dispositions générales (art. L512-1)](#269)
+          - [Section 2 : Les banques populaires (art. L512-2 à L512-13)](#270)
+            - [Sous-section 1 : Dispositions générales (art. L512-2 à L512-9)](#271)
+            - [Sous-section 2 : Banque fédérale des banques populaires (art. L512-10 à L512-12)](#272)
+            - [Sous-section 3 : Dispositions diverses (art. L512-13)](#273)
+          - [Section 3 : Le crédit agricole (art. L512-20 à L512-54)](#274)
+            - [Sous-section 1 : Les caisses de crédit agricole mutuel (art. L512-21 à L512-46)](#275)
+              - [Paragraphe 1 : Organisation (art. L512-21 à L512-35)](#276)
+              - [Paragraphe 2 : Fonctionnement (art. L512-36 à L512-43)](#277)
+              - [Paragraphe 3 : Ressources (art. L512-44 à L512-46)](#278)
+            - [Sous-section 2 : La Caisse nationale de crédit agricole (art. L512-47 à L512-50)](#279)
+              - [Paragraphe 1 : Organisation. (art. L512-47 à L512-49)](#280)
+              - [Paragraphe 2 : Ressources. (art. L512-50)](#281)
+            - [Sous-section 3 : Contrôles (art. L512-51 à L512-54)](#282)
+          - [Section 4 : Le crédit mutuel (art. L512-55 à L512-59)](#283)
+          - [Section 5 : Le crédit coopératif. (art. L512-60)](#284)
+          - [Section 6 : Les sociétés coopératives de banque (art. L512-61 à L512-67)](#285)
+            - [Sous-section 1 : Dispositions générales (art. L512-61 à L512-63)](#286)
+            - [Sous-section 2 : Conseil d'administration (art. L512-64)](#287)
+            - [Sous-section 3 : Commissaire du Gouvernement (art. L512-65)](#288)
+            - [Sous-section 4 : Statuts (art. L512-66 à L512-67)](#289)
+          - [Section 7 : Le crédit maritime mutuel (art. L512-68 à L512-84)](#290)
+            - [Sous-section 1 : Dispositions générales (art. L512-68 à L512-75)](#291)
+            - [Sous-section 2 : Administration (art. L512-76 à L512-81)](#292)
+            - [Sous-section 4 : Dispositions diverses (art. L512-83 à L512-84)](#293)
+          - [Section 8 : Le réseau des caisses d'épargne (art. L512-85 à L512-104)](#294)
+            - [Sous-section 1 : Missions (art. L512-85)](#295)
+            - [Sous-section 2 : Le réseau (art. L512-86)](#296)
+            - [Sous-section 3 : Les caisses d'épargne et de prévoyance (art. L512-87 à L512-91)](#297)
+            - [Sous-section 4 : Les sociétés locales d'épargne (art. L512-92 à L512-93)](#298)
+            - [Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance. (art. L512-94 à L512-98)](#299)
+            - [Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance (art. L512-99 à L512-100)](#300)
+            - [Sous-section 7 : Fonds de réserve et de garantie. (art. L512-101)](#301)
+            - [Sous-section 8 : Dispositions générales (art. L512-102 à L512-104)](#302)
+        - [Chapitre III : Les sociétés anonymes de crédit immobilier (art. L513-1)](#303)
+        - [Chapitre IV : Les caisses de crédit municipal (art. L514-1 à L514-4)](#304)
+          - [Section 1 : Missions (art. L514-1)](#305)
+          - [Section 2 : Création et administration (art. L514-2 à L514-4)](#306)
+        - [Chapitre V : Les sociétés financières (art. L515-1 à L515-33)](#307)
+          - [Section 1 : Dispositions communes (art. L515-1)](#308)
+          - [Section 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L515-2 à L515-3)](#309)
+          - [Section 3 : Les sociétés de caution mutuelle (art. L515-4 à L515-12)](#310)
+            - [Sous-section 1 : Objet (art. L515-4)](#311)
+            - [Sous-section 2 : Statuts (art. L515-5 à L515-7)](#312)
+            - [Sous-section 3 : Emploi des fonds (art. L515-8 à L515-9)](#313)
+            - [Sous-section 4 : Publicité (art. L515-10 à L515-12)](#314)
+          - [Section 4 : Les sociétés de crédit foncier (art. L515-13 à L515-33)](#315)
+            - [Sous-section 1 : Statut et objet (art. L515-13)](#316)
+            - [Sous-section 2 : Opérations (art. L515-14 à L515-18)](#317)
+            - [Sous-section 3 : Privilège des créances nées des opérations (art. L515-19)](#318)
+            - [Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier (art. L515-20 à L515-24)](#319)
+            - [Sous-section 5 : Redressement et liquidation judiciaires (art. L515-25 à L515-28)](#320)
+            - [Sous-section 6 : Contrôles (art. L515-29 à L515-31)](#321)
+            - [Sous-section 7 : Dispositions diverses (art. L515-32 à L515-33)](#322)
+        - [Chapitre VI : Les institutions financières spécialisées (art. L516-1 à L516-2)](#323)
+        - [Chapitre VII : Compagnies financières (art. L517-1)](#324)
+        - [Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque (art. L518-1 à L518-28)](#325)
+          - [Section 1 : Dispositions générales (art. L518-1)](#326)
+          - [Section 2 : La Caisse des dépôts et consignations (art. L518-2 à L518-24)](#327)
+            - [Sous-section 1 : Commission de surveillance (art. L518-4 à L518-10)](#328)
+              - [Paragraphe 1 : Composition (art. L518-4 à L518-6)](#329)
+              - [Paragraphe 2 : Missions (art. L518-7 à L518-9)](#330)
+              - [Paragraphe 3 : Rapport au Parlement (art. L518-10)](#331)
+            - [Sous-section 2 : Administration de la Caisse des dépôts et consignations (art. L518-11 à L518-15)](#332)
+              - [Paragraphe 1 : Le directeur général (art. L518-11 à L518-12)](#333)
+              - [Paragraphe 2 : Le caissier général (art. L518-13)](#334)
+              - [Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor (art. L518-14)](#335)
+              - [Paragraphe 4 : Contrôle par la Cour des comptes (art. L518-15)](#336)
+            - [Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations (art. L518-16)](#337)
+            - [Sous-section 4 : Opérations (art. L518-17 à L518-24)](#338)
+              - [Paragraphe 1 : Consignations et dépôts (art. L518-17 à L518-22)](#339)
+              - [Paragraphe 2 : Rémunération des dépôts et des consignations (art. L518-23)](#340)
+              - [Paragraphe 3 : Règles de déchéance (art. L518-24)](#341)
+          - [Section 3 : La Poste (art. L518-25)](#342)
+          - [Section 4 : La Caisse nationale d'épargne (art. L518-26 à L518-28)](#343)
+        - [Chapitre IX : Les intermédiaires en opérations de banque (art. L519-1 à L519-5)](#344)
+      - [Titre II : Les changeurs manuels. (art. L520-1 à L520-4)](#345)
+      - [Titre III : Les prestataires de services d'investissement (art. L531-1 à L533-13)](#346)
+        - [Chapitre Ier : Définitions (art. L531-1 à L531-11)](#347)
+          - [Section 1 : Dispositions générales (art. L531-1 à L531-3)](#348)
+          - [Section 2 : Les entreprises d'investissement (art. L531-4 à L531-8)](#349)
+          - [Section 3 : Interdictions (art. L531-10 à L531-11)](#350)
+        - [Chapitre II : Conditions d'exercice de la profession (art. L532-1 à L532-27)](#351)
+          - [Section 1 : Agrément (art. L532-1 à L532-15)](#352)
+            - [Sous-section 1 : Conditions et procédures d'agrément (art. L532-1 à L532-5)](#353)
+            - [Sous-section 2 : Retrait d'agrément et radiation (art. L532-6 à L532-8)](#354)
+            - [Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille (art. L532-9 à L532-13)](#355)
+              - [Paragraphe 1 : Agrément (art. L532-9 à L532-9-1)](#356)
+              - [Paragraphe 2 : Retrait d'agrément et radiation (art. L532-10 à L532-13)](#357)
+            - [Sous-section 4 : Bureaux de représentation (art. L532-14 à L532-15)](#358)
+          - [Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen (art. L532-16 à L532-27)](#359)
+            - [Sous-section 1 : Dispositions générales (art. L532-16 à L532-17)](#360)
+            - [Sous-section 2 : Libre prestation de services et liberté d'établissement en France (art. L532-18 à L532-22)](#361)
+            - [Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen (art. L532-23 à L532-27)](#362)
+        - [Chapitre III : Obligations des prestataires de services d'investissement (art. L533-1 à L533-13)](#363)
+          - [Section 1 : Normes de gestion (art. L533-1)](#364)
+          - [Section 2 : Obligations comptables et déclaratives (art. L533-2 à L533-3)](#365)
+          - [Section 3 : Règles de bonne conduite (art. L533-4 à L533-12)](#366)
+          - [Section 4 : Garantie des investisseurs. (art. L533-13)](#367)
+      - [Titre IV : Les sociétés de gestion collective (art. L540)](#368)
+      - [Titre V : Intermédiaires en biens divers (art. L550-1 à L550-5)](#369)
+      - [Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L561-1 à L564-3)](#370)
+        - [Chapitre Ier : Déclaration de certaines sommes ou opérations (art. L561-1)](#371)
+        - [Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite (art. L562-1 à L562-10)](#372)
+        - [Chapitre III : Autres obligations de vigilance des organismes financiers (art. L563-1 à L563-6)](#373)
+        - [Chapitre IV : Dispositions diverses (art. L564-1 à L564-3)](#374)
+      - [Titre VII : Dispositions pénales (art. L571-1 à L574-2)](#375)
+        - [Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire (art. L571-1 à L571-16)](#376)
+          - [Section 1 : Dispositions générales (art. L571-1 à L571-9)](#377)
+          - [Section 2 : Banques mutualistes ou coopératives (art. L571-10 à L571-11)](#378)
+            - [Sous-section 1 : Les banques populaires (art. L571-10)](#379)
+            - [Sous-section 2 : Le réseau des caisses d'épargne (art. L571-11)](#380)
+          - [Section 3 : Caisses de crédit municipal (art. L571-12)](#381)
+          - [Section 4 : Sociétés de crédit-bail (art. L571-13)](#382)
+          - [Section 5 : Compagnies financières (art. L571-14)](#383)
+          - [Section 6 : Intermédiaires en opérations de banque (art. L571-15 à L571-16)](#384)
+        - [Chapitre II : Changeurs manuels. (art. L572-1 à L572-3)](#385)
+          - [Section 1 : Changeurs manuels (art. L572-2 à L572-3)](#386)
+        - [Chapitre III : Dispositions relatives aux prestataires de services d'investissement (art. L573-1 à L573-8)](#387)
+        - [Chapitre IV : Dispositions relatives au blanchiment de capitaux (art. L574-1 à L574-2)](#388)
+    - [Livre VI : Les institutions en matière bancaire et financière (art. L611-1 à L642-7)](#389)
+      - [Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L611-1 à L614-7)](#390)
+        - [Chapitre Ier : Comité de la réglementation bancaire et financière (art. L611-1 à L611-9)](#391)
+          - [Section 1 : Missions (art. L611-1 à L611-6)](#392)
+          - [Section 2 : Composition (art. L611-7)](#393)
+          - [Section 3 : Règles de fonctionnement (art. L611-8 à L611-9)](#394)
+        - [Chapitre II : Comité des établissements de crédit et des entreprises d'investissement (art. L612-1 à L612-7)](#395)
+          - [Section 1 : Missions. (art. L612-1 à L612-2)](#396)
+          - [Section 2 : Composition. (art. L612-3)](#397)
+          - [Section 3 : Règles de fonctionnement. (art. L612-4 à L612-7)](#398)
+        - [Chapitre III : Commission bancaire (art. L613-1 à L613-34)](#399)
+          - [Section 1 : Missions (art. L613-1 à L613-2)](#400)
+          - [Section 2 : Composition. (art. L613-3)](#401)
+          - [Section 3 : Règles de fonctionnement. (art. L613-4 à L613-5)](#402)
+          - [Section 4 : Exercice du contrôle. (art. L613-6 à L613-13)](#403)
+            - [Sous-section 1 : Dispositions générales. (art. L613-13)](#404)
+          - [Section 5 : Exercice du pouvoir disciplinaire. (art. L613-21 à L613-24)](#405)
+          - [Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires. (art. L613-25 à L613-31)](#406)
+          - [Section 7 : Régime de contrôle spécifique. (art. L613-32 à L613-33)](#407)
+          - [Section 8 : Mise en oeuvre du fonds de garantie des dépôts. (art. L613-34)](#408)
+        - [Chapitre IV : Institutions consultatives (art. L614-1 à L614-7)](#409)
+          - [Section 1 : Conseil national du crédit et du titre et comité consultatif (art. L614-1 à L614-6)](#410)
+            - [Sous-section 1 : Conseil national du crédit et du titre (art. L614-1 à L614-5)](#411)
+            - [Sous-section 2 : Comité consultatif (art. L614-6)](#412)
+          - [Section 2 : Haut conseil du secteur financier public et semi-public (art. L614-7)](#413)
+      - [Titre II : Les autorités des marchés financiers (art. L621-1 à L623-4)](#414)
+        - [Chapitre Ier : Commission des opérations de bourse (art. L621-1 à L621-31)](#415)
+          - [Section 1 : Missions (art. L621-1)](#416)
+          - [Section 2 : Composition (art. L621-2)](#417)
+          - [Section 3 : Règles de fonctionnement (art. L621-3 à L621-5)](#418)
+          - [Section 4 : Pouvoirs (art. L621-6 à L621-21)](#419)
+            - [Sous-section 1 : Réglementation (art. L621-6 à L621-7)](#420)
+            - [Sous-section 2 : Autorisation des opérations d'appel public à l'épargne (art. L621-8)](#421)
+            - [Sous-section 3 : Enquête (art. L621-9 à L621-13)](#422)
+            - [Sous-section 4 : Injonctions et sanctions administratives (art. L621-14 à L621-17)](#423)
+            - [Sous-section 5 : Autres compétences (art. L621-18 à L621-21)](#424)
+          - [Section 5 : Contrôle des gestionnaires de portefeuille (art. L621-22 à L621-27)](#425)
+          - [Section 6 : Comité consultatif de la gestion financière (art. L621-28 à L621-29)](#426)
+          - [Section 7 : Voies de recours (art. L621-30 à L621-31)](#427)
+        - [Chapitre II : Conseil des marchés financiers (art. L622-1 à L622-25)](#428)
+          - [Section 1 : Organisation (art. L622-1 à L622-6)](#429)
+            - [Sous-section 1 : Composition et mode de décision (art. L622-1 à L622-2)](#430)
+            - [Sous-section 2 : Formations spécialisées (art. L622-3)](#431)
+            - [Sous-section 3 : Formations disciplinaires (art. L622-4)](#432)
+            - [Sous-section 4 : Obligations déontologiques et professionnelles (art. L622-5 à L622-6)](#433)
+          - [Section 2 : Attributions (art. L622-7 à L622-24)](#434)
+            - [Sous-section 1 : Attributions réglementaires (art. L622-7)](#435)
+            - [Sous-section 2 : Pouvoirs de décision, de contrôle et de sanction (art. L622-8 à L622-20-1)](#436)
+            - [Sous-section 3 : Autres attributions (art. L622-21 à L622-24)](#437)
+          - [Section 3 : Voies de recours (art. L622-25)](#438)
+        - [Chapitre III : Conseil de discipline de la gestion financière (art. L623-1 à L623-4)](#439)
+          - [Section 1 : Composition (art. L623-1)](#440)
+          - [Section 2 : Exercice du pouvoir disciplinaire (art. L623-2 à L623-4)](#441)
+      - [Titre III : Échanges d'informations (art. L631-1 à L632-1)](#442)
+        - [Chapitre Ier : Echanges d'informations sur le territoire national (art. L631-1 à L631-2)](#443)
+          - [Section 1 : Echange d'informations entre les autorités (art. L631-1)](#444)
+          - [Section 2 : Le collège des autorités de contrôle des entreprises du secteur financier (art. L631-2)](#445)
+        - [Chapitre II : Echanges d'informations avec l'étranger (art. L632-1)](#446)
+      - [Titre IV : Dispositions pénales (art. L641-1 à L642-7)](#447)
+        - [Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L641-1 à L641-2)](#448)
+          - [Section 1 : Comité des établissements de crédit et des entreprises d'investissement (art. L641-1)](#449)
+          - [Section 2 : Commission bancaire (art. L641-2)](#450)
+        - [Chapitre II : Dispositions relatives aux autorités des marchés financiers (art. L642-1 à L642-7)](#451)
+          - [Section 1 : Commission des opérations de bourse (art. L642-1 à L642-3)](#452)
+          - [Section 2 : Conseil des marchés financiers (art. L642-4 à L642-5)](#453)
+          - [Section 3 : Conseil de discipline de la gestion financière (art. L642-6 à L642-7)](#454)
+    - [Livre VII : Régime de l'outre-mer (art. L711-1 à L766-8)](#455)
+      - [Titre Ier : Dispositions communes à plusieurs collectivités territoriales (art. L711-1 à L712-5)](#456)
+        - [Chapitre Ier : Dispositions applicables dans les départements d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L711-1 à L711-12)](#457)
+          - [Section 1 : Les signes monétaires (art. L711-1)](#458)
+          - [Section 2 : L'institut d'émission des départements d'outre-mer (art. L711-2 à L711-12)](#459)
+        - [Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna (art. L712-1 à L712-5)](#460)
+          - [Section 1 : Les signes monétaires (art. L712-1 à L712-3)](#461)
+          - [Section 2 : L'institut d'émission d'outre-mer (art. L712-4)](#462)
+          - [Section 3 : Les instruments de la monnaie scripturale (art. L712-5)](#463)
+      - [Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L721-1 à L726-4)](#464)
+        - [Chapitre Ier : La monnaie (art. L721-1 à L721-4)](#465)
+          - [Section 1 : Règles d'usage de la monnaie (art. L721-1)](#466)
+          - [Section 2 : Les relations financières avec l'étranger (art. L721-2 à L721-4)](#467)
+            - [Sous-section 1 : Obligations de déclaration (art. L721-2)](#468)
+            - [Sous-section 2 : Constatation et poursuite des infractions (art. L721-3 à L721-4)](#469)
+        - [Chapitre II : Les produits (art. L722-1 à L722-3)](#470)
+          - [Section 1 : Les organismes de placements collectifs (art. L722-1)](#471)
+          - [Section 2 : Les produits à régime fiscal spécifique (art. L722-2 à L722-3)](#472)
+        - [Chapitre III : Les services (art. L723-1)](#473)
+        - [Chapitre IV : Les marchés (art. L724-1)](#474)
+        - [Chapitre V : Les prestataires de services (art. L725-1 à L725-3)](#475)
+          - [Section 1 : Les établissements du secteur bancaire (art. L725-1)](#476)
+          - [Section 2 : Les prestataires de services d'investissement (art. L725-2)](#477)
+          - [Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L725-3)](#478)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L726-1 à L726-4)](#479)
+          - [Section 1 : Le comité des établissements de crédit et des entreprises d'investissement (art. L726-1)](#480)
+          - [Section 2 : La commission bancaire (art. L726-2)](#481)
+          - [Section 4 : Le Conseil des marchés financiers (art. L726-4)](#482)
+      - [Titre III : Dispositions applicables à mayotte (art. L731-1 à L736-7)](#483)
+        - [Chapitre Ier : La monnaie (art. L731-1 à L731-5)](#484)
+          - [Section 1 : Les instruments de la monnaie scripturale (art. L731-1)](#485)
+          - [Section 2 : Les relations financières avec l'étranger (art. L731-2 à L731-5)](#486)
+            - [Sous-section 1 : Dispositions générales (art. L731-2)](#487)
+            - [Sous-section 2 : Obligations de déclaration (art. L731-3)](#488)
+            - [Sous-section 3 : Constatation et poursuite des infractions (art. L731-4 à L731-5)](#489)
+        - [Chapitre II : Les produits (art. L732-1 à L732-8)](#490)
+          - [Section 1 : Les instruments financiers (art. L732-1 à L732-7)](#491)
+            - [Sous-section 1 : Définition et règles générales (art. L732-1)](#492)
+            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L732-2)](#493)
+            - [Sous-section 3 : Les titres de créance (art. L732-3 à L732-6)](#494)
+              - [Paragraphe 1 : Les titres de créances négociables (art. L732-3)](#495)
+              - [Paragraphe 2 : Les obligations (art. L732-4 à L732-5)](#496)
+              - [Paragraphe 3 : Les titres participatifs (art. L732-6)](#497)
+            - [Sous-section 4 : Les placements collectifs (art. L732-7)](#498)
+          - [Section 2 : Les produits d'épargne (art. L732-8)](#499)
+        - [Chapitre III : Les services (art. L733-1 à L733-11)](#500)
+          - [Section 1 : Les opérations de banque (art. L733-1 à L733-7)](#501)
+            - [Sous-section 1 : Dispositions générales (art. L733-1)](#502)
+            - [Sous-section 2 : Comptes et dépôts (art. L733-2)](#503)
+            - [Sous-section 3 : Crédits (art. L733-3 à L733-7)](#504)
+              - [Paragraphe 1 : Dispositions générales (art. L733-3)](#505)
+              - [Paragraphe 2 : Catégories de crédits (art. L733-4 à L733-5)](#506)
+                - [Sous-paragraphe 1 : Crédit-bail (art. L733-4)](#507)
+                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L733-5)](#508)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L733-6)](#509)
+              - [Paragraphe 4 : Garantie des cautions (art. L733-7)](#510)
+          - [Section 2 : Les services d'investissement et leurs services connexes (art. L733-8)](#511)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L733-9)](#512)
+          - [Section 4 : Démarchage (art. L733-10 à L733-11)](#513)
+            - [Sous-section 1 : Démarchage concernant les opérations de banque. (art. L733-10)](#514)
+            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L733-11)](#515)
+        - [Chapitre IV : Les marchés (art. L734-1 à L734-13)](#516)
+          - [Section 1 : L'appel public à l'épargne (art. L734-1 à L734-2)](#517)
+            - [Sous-section 1 : Définition (art. L734-1)](#518)
+            - [Sous-section 2 : Conditions de l'appel public à l'épargne (art. L734-2)](#519)
+          - [Section 2 : Les catégories de marché (art. L734-3 à L734-4)](#520)
+          - [Section 3 : Les négociations sur instruments financiers (art. L734-5 à L734-10)](#521)
+            - [Sous-section 1 : Dispositions générales (art. L734-5 à L734-7)](#522)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L734-5 à L734-6)](#523)
+              - [Paragraphe 2 : Compensation (art. L734-7)](#524)
+            - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L734-8 à L734-9)](#525)
+              - [Paragraphe 1 : Adjudication (art. L734-8)](#526)
+              - [Paragraphe 2 : Les opérations à terme (art. L734-9)](#527)
+            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L734-10)](#528)
+          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L734-11)](#529)
+          - [Section 5 : La protection des investisseurs (art. L734-12 à L734-13)](#530)
+            - [Sous-section 1 : Obligations d'information relatives aux comptes (art. L734-12)](#531)
+            - [Sous-section 2 : Obligations d'information sur les prises de participation (art. L734-13)](#532)
+        - [Chapitre V : Les prestataires de services (art. L735-1 à L735-13)](#533)
+          - [Section 1 : Les établissements du secteur bancaire (art. L735-1 à L735-7)](#534)
+            - [Sous-section 1 : Les sociétés financières (art. L735-2 à L735-4)](#535)
+              - [Paragraphe 1 : Dispositions communes (art. L735-2)](#536)
+              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L735-3)](#537)
+              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L735-4)](#538)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. L735-5)](#539)
+            - [Sous-section 3 : Les compagnies financières (art. L735-6)](#540)
+            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L735-7)](#541)
+          - [Section 2 : Les changeurs manuels (art. L735-8)](#542)
+          - [Section 3 : Les prestataires de services d'investissement (art. L735-9 à L735-11)](#543)
+            - [Sous-section 1 : Définitions (art. L735-9)](#544)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. L735-10)](#545)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L735-11)](#546)
+          - [Section 4 : Les intermédiaires en biens divers (art. L735-12)](#547)
+          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L735-13)](#548)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L736-5 à L736-7)](#549)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L736-1 à L736-4)](#550)
+            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L736-1)](#551)
+            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L736-2)](#552)
+            - [Sous-section 3 : La commission bancaire (art. L736-3)](#553)
+            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L736-4)](#554)
+          - [Section 2 : Les autorités des marchés financiers (art. L736-6 à L736-7)](#555)
+            - [Sous-section 2 : Le Conseil des marchés financiers (art. L736-6)](#556)
+            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L736-7)](#557)
+      - [Titre IV : Dispositions applicables en Nouvelle-Calédonie (art. L741-1 à L746-8)](#558)
+        - [Chapitre Ier : La monnaie (art. L741-1 à L741-6)](#559)
+          - [Section 1 : Règles d'usage de la monnaie (art. L741-1)](#560)
+          - [Section 2 : Les instruments de la monnaie scripturale (art. L741-2)](#561)
+          - [Section 3 : Les relations financières avec l'étranger (art. L741-3 à L741-6)](#562)
+            - [Sous-section 1 : Dispositions générales (art. L741-3)](#563)
+            - [Sous-section 2 : Obligations de déclaration (art. L741-4)](#564)
+            - [Sous-section 3 : Constatation et poursuite des infractions (art. L741-5 à L741-6)](#565)
+        - [Chapitre II : Les produits (art. L742-1 à L742-7)](#566)
+          - [Section unique : Les instruments financiers (art. L742-1 à L742-7)](#567)
+            - [Sous-section 1 : Définition et règles générales (art. L742-1)](#568)
+            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L742-2)](#569)
+            - [Sous-section 3 : Les titres de créance (art. L742-3 à L742-5)](#570)
+              - [Paragraphe 1 : Les titres de créances négociables (art. L742-3)](#571)
+              - [Paragraphe 2 : Les obligations (art. L742-4 à L742-5)](#572)
+            - [Sous-section 4 : Les placements collectifs (art. L742-6 à L742-7)](#573)
+        - [Chapitre III : Les services (art. L743-1 à L743-11)](#574)
+          - [Section 1 : Les opérations de banque (art. L743-1 à L743-7)](#575)
+            - [Sous-section 1 : Dispositions générales (art. L743-1)](#576)
+            - [Sous-section 2 : Comptes et dépôts (art. L743-2)](#577)
+            - [Sous-section 3 : Crédits (art. L743-3 à L743-7)](#578)
+              - [Paragraphe 1 : Dispositions générales (art. L743-3)](#579)
+              - [Paragraphe 2 : Catégories de crédits (art. L743-4 à L743-5)](#580)
+                - [Sous-paragraphe 1 : Crédit-bail (art. L743-4)](#581)
+                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L743-5)](#582)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L743-6)](#583)
+              - [Paragraphe 4 : Garantie des cautions (art. L743-7)](#584)
+          - [Section 2 : Les services d'investissement et leurs services connexes (art. L743-8)](#585)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L743-9)](#586)
+          - [Section 4 : Démarchage (art. L743-10 à L743-11)](#587)
+            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L743-10)](#588)
+            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L743-11)](#589)
+        - [Chapitre IV : Les marchés (art. L744-1 à L744-13)](#590)
+          - [Section 1 : L'appel public à l'épargne (art. L744-1 à L744-2)](#591)
+            - [Sous-section 1 : Définition. (art. L744-1)](#592)
+            - [Sous-section 2 : Conditions de l'appel public à l'épargne. (art. L744-2)](#593)
+          - [Section 2 : Les catégories de marché (art. L744-3 à L744-4)](#594)
+          - [Section 3 : Les négociations sur instruments financiers (art. L744-5 à L744-10)](#595)
+            - [Sous-section 1 : Dispositions générales (art. L744-5 à L744-7)](#596)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L744-5 à L744-6)](#597)
+              - [Paragraphe 2 : Compensation. (art. L744-7)](#598)
+            - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L744-8 à L744-9)](#599)
+              - [Paragraphe 1 : Adjudication (art. L744-8)](#600)
+              - [Paragraphe 2 : Les opérations à terme (art. L744-9)](#601)
+            - [Sous-section 3 : Modalités spécifiques aux marchés réglementés (art. L744-10)](#602)
+          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L744-11)](#603)
+          - [Section 5 : La protection des investisseurs (art. L744-12 à L744-13)](#604)
+            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L744-12)](#605)
+            - [Sous-section 2 : Obligation d'information sur les prises de participation (art. L744-13)](#606)
+        - [Chapitre V : Les prestataires de services (art. L745-1 à L745-13)](#607)
+          - [Section 1 : Les établissements du secteur bancaire (art. L745-1 à L745-7)](#608)
+            - [Sous-section 1 : Définitions et activités (art. L745-1)](#609)
+            - [Sous-section 3 : Les sociétés financières (art. L745-2 à L745-4)](#610)
+              - [Paragraphe 1 : Dispositions communes (art. L745-2)](#611)
+              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L745-3)](#612)
+              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L745-4)](#613)
+            - [Sous-section 4 : Les institutions financières spécialisées (art. L745-5)](#614)
+            - [Sous-section 5 : Les compagnies financières (art. L745-6)](#615)
+            - [Sous-section 6 : Les intermédiaires en opérations de banque (art. L745-7)](#616)
+          - [Section 2 : Les changeurs manuels (art. L745-8)](#617)
+          - [Section 3 : Les prestataires de services d'investissement (art. L745-9 à L745-11)](#618)
+            - [Sous-section 1 : Définitions (art. L745-9)](#619)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. L745-10)](#620)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L745-11)](#621)
+          - [Section 4 : Intermédiaires en biens divers (art. L745-12)](#622)
+          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L745-13)](#623)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L746-1 à L746-8)](#624)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L746-1 à L746-4)](#625)
+            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L746-1)](#626)
+            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L746-2)](#627)
+            - [Sous-section 3 : La commission bancaire. (art. L746-3)](#628)
+            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L746-4)](#629)
+          - [Section 2 : Les autorités des marchés financiers (art. L746-5 à L746-7)](#630)
+            - [Sous-section 1 : La Commission des opérations de bourse (art. L746-5)](#631)
+            - [Sous-section 2 : Le Conseil des marchés financiers (art. L746-6)](#632)
+            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L746-7)](#633)
+          - [Section 3 : Echanges d'informations (art. L746-8)](#634)
+      - [Titre V : Dispositions applicables en Polynésie française (art. L751-1 à L756-8)](#635)
+        - [Chapitre Ier : La monnaie (art. L751-1 à L751-6)](#636)
+          - [Section 1 : Règles d'usage de la monnaie (art. L751-1)](#637)
+          - [Section 2 : Les instruments de la monnaie scripturale (art. L751-2)](#638)
+          - [Section 3 : Les relations financières avec l'étranger (art. L751-3 à L751-6)](#639)
+            - [Sous-section 1 : Dispositions générales (art. L751-3)](#640)
+            - [Sous-section 2 : Obligations de déclaration (art. L751-4)](#641)
+            - [Sous-section 3 : Constatation et poursuite des infractions (art. L751-5 à L751-6)](#642)
+        - [Chapitre II : Les produits (art. L752-1 à L752-7)](#643)
+          - [Section 1 : Les instruments financiers (art. L752-1 à L752-6)](#644)
+            - [Sous-section 1 : Définition et règles générales (art. L752-1)](#645)
+            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L752-2)](#646)
+            - [Sous-section 3 : Les titres de créance (art. L752-3 à L752-5)](#647)
+              - [Paragraphe 1 : Les titres de créances négociables (art. L752-3)](#648)
+              - [Paragraphe 2 : Les obligations (art. L752-4 à L752-5)](#649)
+            - [Sous-section 4 : Les placements collectifs (art. L752-6)](#650)
+          - [Section 2 : Les produits d'épargne (art. L752-7)](#651)
+        - [Chapitre III : Les services (art. L753-1 à L753-11)](#652)
+          - [Section 1 : Les opérations de banque (art. L753-1 à L753-7)](#653)
+            - [Sous-section 1 : Dispositions générales (art. L753-1)](#654)
+            - [Sous-section 2 : Comptes et dépôts (art. L753-2)](#655)
+            - [Sous-section 3 : Crédits (art. L753-3 à L753-7)](#656)
+              - [Paragraphe 1 : Dispositions générales (art. L753-3)](#657)
+              - [Paragraphe 2 : Catégories de crédits (art. L753-4 à L753-5)](#658)
+                - [Sous-paragraphe 1 : Crédit-bail (art. L753-4)](#659)
+                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L753-5)](#660)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L753-6)](#661)
+              - [Paragraphe 4 : Garanties des cautions (art. L753-7)](#662)
+          - [Section 2 : Les services d'investissement et leurs services connexes (art. L753-8)](#663)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L753-9)](#664)
+          - [Section 4 : Démarchage (art. L753-10 à L753-11)](#665)
+            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L753-10)](#666)
+            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L753-11)](#667)
+        - [Chapitre IV : Les marchés (art. L754-1 à L754-13)](#668)
+          - [Section 1 : L'appel public à l'épargne (art. L754-1 à L754-2)](#669)
+            - [Sous-section 1 : Définition. (art. L754-1)](#670)
+            - [Sous-section 2 : Conditions de l'appel public à l'épargne. (art. L754-2)](#671)
+          - [Section 2 : Les catégories de marché (art. L754-3 à L754-4)](#672)
+          - [Section 3 : Les négociations sur instruments financiers (art. L754-5 à L754-10)](#673)
+            - [Sous-section 1 : Dispositions générales (art. L754-5 à L754-7)](#674)
+              - [Paragraphe 1 : Transfert de propriété des titres et mise en gage (art. L754-5 à L754-6)](#675)
+              - [Paragraphe 2 : Compensation (art. L754-7)](#676)
+            - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L754-8 à L754-9)](#677)
+              - [Paragraphe 1 : Adjudication (art. L754-8)](#678)
+              - [Paragraphe 2 : Les opérations à terme (art. L754-9)](#679)
+            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L754-10)](#680)
+          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L754-11)](#681)
+          - [Section 5 : La protection des investisseurs (art. L754-12 à L754-13)](#682)
+            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L754-12)](#683)
+            - [Sous-section 2 : Obligations d'information sur les prises de participation (art. L754-13)](#684)
+        - [Chapitre V : Les prestataires de services (art. L755-1 à L755-13)](#685)
+          - [Section 1 : Les établissements du secteur bancaire (art. L755-1 à L755-7)](#686)
+            - [Sous-section 1 : Les sociétés financières (art. L755-2 à L755-4)](#687)
+              - [Paragraphe 1 : Dispositions communes (art. L755-2)](#688)
+              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L755-3)](#689)
+              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L755-4)](#690)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. L755-5)](#691)
+            - [Sous-section 3 : Les compagnies financières (art. L755-6)](#692)
+            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L755-7)](#693)
+          - [Section 2 : Les changeurs manuels (art. L755-8)](#694)
+          - [Section 3 : Les prestataires de services d'investissement (art. L755-9 à L755-11)](#695)
+            - [Sous-section 1 : Définitions (art. L755-9)](#696)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. L755-10)](#697)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L755-11)](#698)
+          - [Section 4 : Les intermédiaires en biens divers (art. L755-12)](#699)
+          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L755-13)](#700)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L756-1 à L756-8)](#701)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L756-1 à L756-4)](#702)
+            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L756-1)](#703)
+            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L756-2)](#704)
+            - [Sous-section 3 : La commission bancaire. (art. L756-3)](#705)
+            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L756-4)](#706)
+          - [Section 2 : Les autorités des marchés financiers (art. L756-5 à L756-7)](#707)
+            - [Sous-section 1 : La Commission des opérations de bourse (art. L756-5)](#708)
+            - [Sous-section 2 : Le Conseil des marchés financiers (art. L756-6)](#709)
+            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L756-7)](#710)
+          - [Section 3 : Echanges d'informations (art. L756-8)](#711)
+      - [Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna (art. L764-4)](#712)
+        - [Chapitre IV : Les marchés (art. L764-4)](#713)
+          - [Section 2 : Les plates-formes de négociation (art. L764-4)](#714)
+      - [Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna (art. L761-1 à L766-8)](#715)
+        - [Chapitre Ier : La monnaie (art. L761-1 à L761-5)](#716)
+          - [Section 1 : Les instruments de la monnaie scripturale (art. L761-1)](#717)
+          - [Section 2 : Les relations financières avec l'étranger (art. L761-2 à L761-5)](#718)
+            - [Sous-section 1 : Dispositions générales (art. L761-2)](#719)
+            - [Sous-section 2 : Obligations de déclaration (art. L761-3 à L761-5)](#720)
+        - [Chapitre II : Les produits (art. L762-1 à L762-7)](#721)
+          - [Section 1 : Les instruments financiers (art. L762-1 à L762-6)](#722)
+            - [Sous-section 1 : Définition et règles générales (art. L762-1)](#723)
+            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L762-2)](#724)
+            - [Sous-section 3 : Les titres de créance (art. L762-3 à L762-5)](#725)
+              - [Paragraphe 1 : Les titres de créances négociables (art. L762-3)](#726)
+              - [Paragraphe 2 : Les obligations (art. L762-4 à L762-5)](#727)
+            - [Sous-section 4 : Les placements collectifs (art. L762-6)](#728)
+          - [Section 2 : Les produits d'épargne (art. L762-7)](#729)
+        - [Chapitre III : Les services (art. L763-1 à L763-11)](#730)
+          - [Section 1 : Les opérations de banque (art. L763-1 à L763-7)](#731)
+            - [Sous-section 1 : Dispositions générales (art. L763-1)](#732)
+            - [Sous-section 2 : Comptes et dépôts (art. L763-2)](#733)
+            - [Sous-section 3 : Crédits (art. L763-3 à L763-7)](#734)
+              - [Paragraphe 1 : Dispositions générales (art. L763-3)](#735)
+              - [Paragraphe 2 : Catégories de crédits (art. L763-4 à L763-5)](#736)
+                - [Sous-paragraphe 1 : Crédit-bail (art. L763-4)](#737)
+                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L763-5)](#738)
+              - [Paragraphe 3 : Procédures de mobilisation des créances (art. L763-6)](#739)
+              - [Paragraphe 4 : Garantie des cautions (art. L763-7)](#740)
+          - [Section 2 : Les services d'investissement et leurs services connexes (art. L763-8)](#741)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L763-9)](#742)
+          - [Section 4 : Démarchage (art. L763-10 à L763-11)](#743)
+            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L763-10)](#744)
+            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L763-11)](#745)
+        - [Chapitre IV : Les marchés (art. L764-1 à L764-13)](#746)
+          - [Section 1 : L'appel public à l'épargne (art. L764-1 à L764-2)](#747)
+            - [Sous-section 1 : Définition (art. L764-1)](#748)
+            - [Sous-section 2 : Conditions de l'appel public à l'épargne (art. L764-2)](#749)
+          - [Section 2 : Les catégories de marché (art. L764-3)](#750)
+          - [Section 3 : Les négociations sur instruments financiers (art. L764-5 à L764-10)](#751)
+            - [Sous-section 1 : Dispositions générales (art. L764-5 à L764-7)](#752)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L764-5 à L764-6)](#753)
+              - [Paragraphe 2 : Compensation (art. L764-7)](#754)
+            - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L764-8 à L764-9)](#755)
+              - [Paragraphe 1 : Adjudication (art. L764-8)](#756)
+              - [Paragraphe 2 : Les opérations à terme (art. L764-9)](#757)
+            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L764-10)](#758)
+          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L764-11)](#759)
+          - [Section 5 : La protection des investisseurs (art. L764-12 à L764-13)](#760)
+            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L764-12)](#761)
+            - [Sous-section 2 : Obligations d'information relative aux prises de participation (art. L764-13)](#762)
+        - [Chapitre V : Les prestataires de services (art. L765-1 à L765-13)](#763)
+          - [Section 1 : Les établissements du secteur bancaire (art. L765-1 à L765-7)](#764)
+            - [Sous-section 1 : Les sociétés financières (art. L765-2 à L765-4)](#765)
+              - [Paragraphe 1 : Dispositions communes (art. L765-2)](#766)
+              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L765-3)](#767)
+              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L765-4)](#768)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. L765-5)](#769)
+            - [Sous-section 3 : Les compagnies financières (art. L765-6)](#770)
+            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L765-7)](#771)
+          - [Section 2 : Les changeurs manuels (art. L765-8)](#772)
+          - [Section 3 : Les prestataires de services d'investissement (art. L765-9 à L765-11)](#773)
+            - [Sous-section 1 : Définitions (art. L765-9)](#774)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. L765-10)](#775)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L765-11)](#776)
+          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L765-13)](#777)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L766-1 à L766-8)](#778)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L766-1 à L766-4)](#779)
+            - [Sous-section 1 : Le comité de la réglementation bancaire et financière (art. L766-1)](#780)
+            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L766-2)](#781)
+            - [Sous-section 3 : La commission bancaire (art. L766-3)](#782)
+            - [Sous-section 4 : Le conseil national du crédit et du titre (art. L766-4)](#783)
+          - [Section 2 : Les autorités des marchés financiers (art. L766-5 à L766-7)](#784)
+            - [Sous-section 1 : La commission des opérations de bourse (art. L766-5)](#785)
+            - [Sous-section 2 : Le conseil des marchés financiers (art. L766-6)](#786)
+            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L766-7)](#787)
+          - [Section 3 : Echanges d'informations (art. L766-8)](#788)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : La monnaie<a id=2></a>
@@ -10599,8 +10601,36 @@ _Cite_:
 
 ###### Article L214-59
 
-Il est tenu au siège de la société et à la disposition des associés et des tiers un registre où sont recensées les offres de
-cession de parts ainsi que les demandes d'acquisition portées à la connaissance de la société.
+I. Les ordres d'achat et de vente sont, à peine de nullité, inscrits sur un registre tenu au siège de la société. Le prix
+d'exécution résulte de la confrontation de l'offre et de la demande ; il est établi et publié par la société de gestion au
+terme de chaque période d'enregistrement des ordres.
+
+Toute transaction donne lieu à une inscription sur le registre des associés qui est réputée constituer l'acte de cession
+écrit prévu par l'article 1865 du code civil. Le transfert de propriété qui en résulte est opposable, dès cet instant, à la
+société et aux tiers. La société de gestion garantit la bonne fin de ces transactions.
+
+Un règlement de la Commission des opérations de bourse fixe les modalités de mise en oeuvre du présent I, et en particulier
+les conditions d'information sur le marché secondaire des parts et de détermination de la période d'enregistrement des
+ordres.
+
+II. Lorsque la société de gestion constate que les ordres de vente inscrits depuis plus de douze mois sur le registre
+mentionné au I représentent au moins 10 % des parts émises par la société, elle en informe sans délai la Commission des
+opérations de bourse. La même procédure est applicable au cas où les demandes de retrait non satisfaites dans un délai de
+douze mois représentent au moins 10 % des parts.
+
+Dans les deux mois à compter de cette information, la société de gestion convoque une assemblée générale extraordinaire et
+lui propose la cession partielle ou totale du patrimoine et toute autre mesure appropriée. De telles cessions sont réputées
+conformes à l'article L. 214-50.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -10611,7 +10641,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 6° JORF 11 juillet 2001
 
 _Cité par_:
 
@@ -10621,6 +10654,11 @@ _Cité par_:
   - Code monétaire et financier - art. L214-62 (M)
   - Code monétaire et financier - art. L214-63 (V)
   - Code monétaire et financier - art. L214-84-3 (Ab)
+
+_Cite_:
+
+  - Code civil - art. 1865 (V)
+  - Code monétaire et financier - art. L214-50 (V)
 
 
 ###### Article L214-60
@@ -10656,52 +10694,7 @@ _Cite_:
   - Code monétaire et financier - art. L214-78 (V)
 
 
-###### Article L214-61
-
-Sauf pour les sociétés à capital variable, la société de gestion établit un prix de cession conseillé des parts et doit
-rechercher un acquéreur pour toute offre de cession à ce prix.
-
-En période d'augmentation de capital, le prix de cession conseillé des parts est égal au prix de souscription.
-
-Lorsque la société n'augmente plus son capital, le montant des frais pris en compte dans le calcul du prix conseillé doit
-être progressivement réduit afin de rapprocher, au plus tard à la date prévue par les statuts pour la liquidation de la
-société, le prix conseillé du prix déterminé sur la base de la valeur de réalisation mentionnée à l'article L. 214-78.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-1300 du 31 décembre 1970 - art. 3-2 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2001-602 2001-07-09 art. 9 V 7° JORF 11 juillet 2001
-
-_Cité par_:
-
-  - Code des assurances - art. L160-19 (V)
-  - Code général des impôts, CGI. - art. 199 ter-0 B (V)
-  - Code général des impôts, CGI. - art. 242 ter B (V)
-  - Code général des impôts, CGI. - art. 31 (VT)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L214-78 (V)
-
-
 ###### Article L214-62
-
-Lorsque la société de gestion constate que des offres de cession de parts d'associés, représentant au moins 5 % des parts de
-la société civile, ne trouvent pas acquéreur au prix conseillé six mois après l'inscription de leur demande sur le registre
-de la société mentionné à l'article L. 214-59, elle en informe sans délai la commission des opérations de bourse et convoque
-une assemblée générale extraordinaire dans un délai de deux mois à compter de cette information. La même procédure est
-applicable au cas où les demandes de retrait non satisfaites dans un délai de six mois représentent au moins 5 % des parts de
-la société à capital variable.
 
 La société de gestion propose à l'assemblée générale, après audition du rapport des commissaires aux comptes, soit la
 diminution du prix de la part sous réserve que celui-ci ne soit pas diminué de plus de 30 %, soit la cession partielle ou
@@ -10709,6 +10702,16 @@ totale du patrimoine. De telles cessions sont réputées répondre aux condition
 
 Les rapports de la société de gestion, des commissaires aux comptes ainsi que les projets de résolution de l'assemblée
 générale sont transmis à la commission des opérations de bourse un mois avant la date de l'assemblée générale.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -10719,7 +10722,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 7° JORF 11 juillet 2001
 
 _Cité par_:
 
@@ -10730,7 +10736,6 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. L214-50 (V)
-  - Code monétaire et financier - art. L214-59 (M)
 
 
 ###### Article L214-63
@@ -11467,7 +11472,32 @@ _Cité par_:
   - Code monétaire et financier - art. R214-119 (V)
 
 
-##### Sous-section 7 : Contrôle.<a id=115></a>
+##### Sous-section 6-1 : Règles de bonne conduite.<a id=115></a>
+
+###### Article L214-83-1
+
+Les sociétés de gestion de sociétés civiles de placement immobilier et les personnes placées sous leur autorité ou agissant
+pour leur compte sont tenues de respecter des règles de bonne conduite destinées à garantir la protection des investisseurs
+et la régularité des opérations, établies par la Commission des opérations de bourse, en application de l'article L. 533-4.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 4° JORF 11 juillet 2001
+
+_Cité par_:
+
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+  - Code monétaire et financier - art. L341-11 (VD)
+  - Code monétaire et financier - art. L533-4 (M)
+
+
+##### Sous-section 7 : Contrôle.<a id=116></a>
 
 ###### Article L214-84
 
@@ -11502,11 +11532,24 @@ _Cite_:
   - Code monétaire et financier - art. L642-3 (M)
 
 
+##### Section 4 : Les sociétés d'épargne forestière<a id=117></a>
+
 ###### Article L214-85
 
-Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2 et 3 du présent chapitre.
+Les sociétés d'épargne forestière ont pour objet principal l'acquisition et la gestion d'un patrimoine forestier ; leur actif
+est constitué, d'une part, pour 60 % au moins de bois ou forêts, de parts d'intérêt de groupements forestiers ou de sociétés
+dont l'objet exclusif est la détention de bois et forêts et, d'autre part, de liquidités ou valeurs assimilées.
+
+Les bois et forêts détenus par ces sociétés doivent être gérés conformément à un plan simple de gestion agréé.
+
+Les parts des sociétés d'épargne forestière sont assimilées aux parts d'intérêt détenues dans un groupement forestier pour
+l'application de la loi fiscale, à l'exception de l'article 885 H du code général des impôts.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 885 H
 
 _Anciens textes_:
 
@@ -11516,7 +11559,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 1°, 2° JORF 11 juillet 2001
 
 **Liens**:
 
@@ -11569,15 +11615,113 @@ _Cité par_:
   - Code monétaire et financier - art. R214-159 (V)
 
 
-### Titre II : Les produits d'épargne<a id=116></a>
+###### Article L214-86
 
-#### Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique<a id=117></a>
+La part de l'actif des sociétés d'épargne forestière constituée de bois et forêts est fixée à 51 % lorsque ces sociétés
+consacrent, dans des conditions définies par décret en Conseil d'Etat, une fraction de leur actif à la bonification ou à la
+garantie de prêts accordés par des établissements de crédit agréés par l'autorité administrative pour financer des opérations
+d'investissement, de valorisation ou d'exploitation des bois et forêts.
 
-##### Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel<a id=118></a>
+**Liens relatifs à cet article**
 
-##### Sous-section 1 : Dispositions communes<a id=119></a>
+_Codifié par_:
 
-##### Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel.<a id=120></a>
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 1° et 3° JORF 11 juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 12 novembre 2004 - art. 422-190 (V)
+  - Décret n°2020-493 du 28 avril 2020 - art. 1
+  - Code forestier (nouveau) - art. L331-4-1 (V)
+  - Code général des impôts, CGI. - art. 239 septies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 71 (V)
+  - Code monétaire et financier - art. L214-86 (VD)
+  - Code monétaire et financier - art. L621-5-3 (V)
+
+
+###### Article L214-87
+
+Les sociétés d'épargne forestière et leurs sociétés de gestion sont soumises aux mêmes règles que celles prévues pour les
+sociétés civiles de placement immobilier et leurs sociétés de gestion.
+
+Toutefois :
+
+- le délai mentionné à l'article L. 214-54 est porté à deux ans ;
+
+- l'agrément de la société de gestion prévu à l'article L. 214-67 est soumis à l'avis préalable du Centre national
+professionnel de la propriété forestière ;
+
+- par dérogation au premier alinéa de l'article L. 214-72, un décret en Conseil d'Etat fixe les échanges, aliénations ou
+constitutions de droits réels portant sur le patrimoine forestier des sociétés d'épargne forestière qui relèvent des
+opérations normales de gestion et ne sont pas soumises à l'autorisation de l'assemblée générale ordinaire des associés ;
+
+- par dérogation au premier alinéa de l'article L. 214-80, une société d'épargne forestière peut également fusionner avec un
+groupement forestier gérant un patrimoine dont les forêts sont soumises à des plans simples de gestion agréés ; la fusion est
+alors soumise à l'agrément de la Commission des opérations de bourse.
+
+En outre, l'assemblée générale des associés approuve les plans simples de gestion des bois et forêts détenus par la société.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 1° et 3° JORF 11 juillet 2001
+
+_Cité par_:
+
+  - Arrêté du 12 novembre 2004 - art. 423-3 (V)
+  - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 quater-0 ZZ quater (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 217 terdecies (V)
+  - Code forestier (nouveau) - art. L321-1 (VD)
+  - Code forestier - art. L221-1 (VT)
+  - Code forestier - art. L221-8 (VT)
+  - Code général des impôts, CGI. - art. 199 decies H (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-54 (V)
+  - Code monétaire et financier - art. L214-67 (M)
+  - Code monétaire et financier - art. L214-72 (V)
+  - Code monétaire et financier - art. L214-80 (M)
+
+
+###### Article L214-88
+
+Un décret en Conseil d'Etat fixe les modalités d'application des sections 1, 2, 3 et 4 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 1° et 3° JORF 11 juillet 2001
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L231-8 (V)
+  - Code monétaire et financier - art. L752-6 (M)
+
+
+### Titre II : Les produits d'épargne<a id=118></a>
+
+#### Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique<a id=119></a>
+
+##### Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel<a id=120></a>
+
+##### Sous-section 1 : Dispositions communes<a id=121></a>
+
+##### Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel.<a id=122></a>
 
 ###### Article L221-1
 
@@ -11626,7 +11770,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne.<a id=121></a>
+##### Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne.<a id=123></a>
 
 ###### Article L221-2
 
@@ -11815,7 +11959,7 @@ _Anciens textes_:
   - Code des caisses d'épargne - art. 26 (Ab)
 
 
-##### Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.<a id=122></a>
+##### Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.<a id=124></a>
 
 ###### Article L221-7
 
@@ -11887,7 +12031,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-6-1 (VD)
 
 
-##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.<a id=123></a>
+##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.<a id=125></a>
 
 ###### Article L221-9
 
@@ -11927,7 +12071,7 @@ _Anciens textes_:
   - Code des caisses d'épargne - art. 27 (M)
 
 
-##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.<a id=124></a>
+##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.<a id=126></a>
 
 ###### Article L221-11
 
@@ -11976,9 +12120,9 @@ _Cité par_:
   - Code monétaire et financier - art. L512-63 (V)
 
 
-##### Section 2 : L'épargne populaire<a id=125></a>
+##### Section 2 : L'épargne populaire<a id=127></a>
 
-##### Sous-section 1 : Le compte sur livret d'épargne populaire<a id=126></a>
+##### Sous-section 1 : Le compte sur livret d'épargne populaire<a id=128></a>
 
 ###### Article L221-13
 
@@ -12111,7 +12255,7 @@ _Cité par_:
   - Code monétaire et financier - art. R221-48 (Ab)
 
 
-##### Sous-section 2 : Le plan d'épargne populaire<a id=127></a>
+##### Sous-section 2 : Le plan d'épargne populaire<a id=129></a>
 
 ###### Article L221-18
 
@@ -12275,7 +12419,7 @@ _Cite_:
   - Code rural ancien - art. 1050 (Ab)
 
 
-##### Section 3 : Le livret jeune<a id=128></a>
+##### Section 3 : Le livret jeune<a id=130></a>
 
 ###### Article L221-24
 
@@ -12347,7 +12491,7 @@ _Cité par_:
   - Code monétaire et financier - art. R221-81 (V)
 
 
-##### Section 4 : Le compte pour le développement industriel.<a id=129></a>
+##### Section 4 : Le compte pour le développement industriel.<a id=131></a>
 
 ###### Article L221-27
 
@@ -12414,7 +12558,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : L'épargne-logement<a id=130></a>
+##### Section 5 : L'épargne-logement<a id=132></a>
 
 ###### Article L221-29
 
@@ -12463,9 +12607,9 @@ _Anciens textes_:
   - Code de la construction et de l'habitation L315-1 à L315-3
 
 
-#### Chapitre II : Produits d'épargne salariale<a id=131></a>
+#### Chapitre II : Produits d'épargne salariale<a id=133></a>
 
-##### Section unique : Le plan d'épargne d'entreprise<a id=132></a>
+##### Section unique : Le plan d'épargne d'entreprise<a id=134></a>
 
 ###### Article L222-1
 
@@ -12486,7 +12630,7 @@ _Cite_:
   - Code du travail L443-1 à L443-8
 
 
-#### Chapitre III : Bons de caisse<a id=133></a>
+#### Chapitre III : Bons de caisse<a id=135></a>
 
 ###### Article L223-1
 
@@ -12597,13 +12741,13 @@ _Anciens textes_:
   - Décret-loi du 25 août 1937 - art. 6 (Ab)
 
 
-### Titre III : Dispositions pénales<a id=134></a>
+### Titre III : Dispositions pénales<a id=136></a>
 
-#### Chapitre Ier : Infractions relatives aux instruments financiers<a id=135></a>
+#### Chapitre Ier : Infractions relatives aux instruments financiers<a id=137></a>
 
-##### Section 1 : Infractions relatives aux titres<a id=136></a>
+##### Section 1 : Infractions relatives aux titres<a id=138></a>
 
-##### Sous-section 1 : Obligations.<a id=137></a>
+##### Sous-section 1 : Obligations.<a id=139></a>
 
 ###### Article L231-1
 
@@ -12637,7 +12781,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-4 (V)
 
 
-##### Sous-section 2 : Titres émis par des associations.<a id=138></a>
+##### Sous-section 2 : Titres émis par des associations.<a id=140></a>
 
 ###### Article L231-2
 
@@ -12667,9 +12811,9 @@ _Cite_:
   - Code monétaire et financier - art. L213-8 (V)
 
 
-##### Section 2 : Infractions relatives aux placements collectifs<a id=139></a>
+##### Section 2 : Infractions relatives aux placements collectifs<a id=141></a>
 
-##### Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières.<a id=140></a>
+##### Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières.<a id=142></a>
 
 ###### Article L231-3
 
@@ -12838,7 +12982,7 @@ _Cité par_:
   - Code monétaire et financier - art. L231-6 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier<a id=141></a>
+##### Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier<a id=143></a>
 
 ###### Article L231-8
 
@@ -13211,9 +13355,9 @@ _Cité par_:
   - Code monétaire et financier - art. L752-6 (M)
 
 
-#### Chapitre II : Infractions relatives aux produits d'épargne<a id=142></a>
+#### Chapitre II : Infractions relatives aux produits d'épargne<a id=144></a>
 
-##### Section unique : Bons de caisse<a id=143></a>
+##### Section unique : Bons de caisse<a id=145></a>
 
 ###### Article L232-1
 
@@ -13283,13 +13427,13 @@ _Anciens textes_:
   - Décret-loi du 25 août 1937 - art. 5 (Ab)
 
 
-## Livre III : Les services<a id=144></a>
+## Livre III : Les services<a id=146></a>
 
-### Titre Ier : Les opérations de banque<a id=145></a>
+### Titre Ier : Les opérations de banque<a id=147></a>
 
-#### Chapitre Ier : Dispositions générales<a id=146></a>
+#### Chapitre Ier : Dispositions générales<a id=148></a>
 
-##### Section 1 : Définition des opérations de banque<a id=147></a>
+##### Section 1 : Définition des opérations de banque<a id=149></a>
 
 ###### Article L311-1
 
@@ -13336,7 +13480,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-1 (VD)
 
 
-##### Section 2 : Définition des opérations connexes aux opérations de banque<a id=148></a>
+##### Section 2 : Définition des opérations connexes aux opérations de banque<a id=150></a>
 
 ###### Article L311-2
 
@@ -13396,7 +13540,7 @@ _Cite_:
   - Code monétaire et financier - art. L532-1 (M)
 
 
-##### Section 3 : Définition des moyens de paiement.<a id=149></a>
+##### Section 3 : Définition des moyens de paiement.<a id=151></a>
 
 ###### Article L311-3
 
@@ -13421,7 +13565,7 @@ _Cité par_:
   - Code monétaire et financier - art. L712-5 (VD)
 
 
-##### Section 4 : Compensation.<a id=150></a>
+##### Section 4 : Compensation.<a id=152></a>
 
 ###### Article L311-4
 
@@ -13463,11 +13607,11 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-#### Chapitre II : Comptes et dépôts<a id=151></a>
+#### Chapitre II : Comptes et dépôts<a id=153></a>
 
-##### Section 1 : Droit au compte et relations avec le client<a id=152></a>
+##### Section 1 : Droit au compte et relations avec le client<a id=154></a>
 
-##### Sous-section 2 : Relations des établissements de crédit avec le client<a id=153></a>
+##### Sous-section 2 : Relations des établissements de crédit avec le client<a id=155></a>
 
 ###### Article L312-1
 
@@ -13552,9 +13696,9 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°2001-45 du 17 janvier 2001 - art. 2 (Ab)
 
 
-##### Section 2 : Fonds reçus du public<a id=154></a>
+##### Section 2 : Fonds reçus du public<a id=156></a>
 
-##### Sous-section 1 : Définition.<a id=155></a>
+##### Sous-section 1 : Définition.<a id=157></a>
 
 ###### Article L312-2
 
@@ -13602,7 +13746,7 @@ _Cité par_:
   - Code monétaire et financier - art. R312-7 (T)
 
 
-##### Sous-section 2 : Rémunération.<a id=156></a>
+##### Sous-section 2 : Rémunération.<a id=158></a>
 
 ###### Article L312-3
 
@@ -13647,7 +13791,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-2 (V)
 
 
-##### Section 3 : Garantie des déposants<a id=157></a>
+##### Section 3 : Garantie des déposants<a id=159></a>
 
 ###### Article L312-4
 
@@ -14245,11 +14389,11 @@ _Cité par_:
   - Code monétaire et financier - art. L763-8 (MMN)
 
 
-#### Chapitre III : Crédits<a id=158></a>
+#### Chapitre III : Crédits<a id=160></a>
 
-##### Section 1 : Dispositions générales<a id=159></a>
+##### Section 1 : Dispositions générales<a id=161></a>
 
-##### Sous-section 1 : Définition<a id=160></a>
+##### Sous-section 1 : Définition<a id=162></a>
 
 ###### Article L313-1
 
@@ -14289,9 +14433,9 @@ _Cité par_:
   - Code monétaire et financier - art. R561-13 (V)
 
 
-##### Sous-section 2 : Taux d'intérêt<a id=161></a>
+##### Sous-section 2 : Taux d'intérêt<a id=163></a>
 
-##### Paragraphe 1 : Taux de l'intérêt légal<a id=162></a>
+##### Paragraphe 1 : Taux de l'intérêt légal<a id=164></a>
 
 ###### Article L313-2
 
@@ -14374,7 +14518,7 @@ _Cité par_:
   - Code monétaire et financier - art. D313-2 (M)
 
 
-##### Paragraphe 2 : Taux effectif global<a id=163></a>
+##### Paragraphe 2 : Taux effectif global<a id=165></a>
 
 ###### Article L313-4
 
@@ -14412,7 +14556,7 @@ _Anciens textes_:
   - Code de la consommation - art. L313-1 (M)
 
 
-##### Sous-section 3 : Fichier des incidents de paiement caractérisés<a id=164></a>
+##### Sous-section 3 : Fichier des incidents de paiement caractérisés<a id=166></a>
 
 ###### Article L313-6
 
@@ -14482,9 +14626,9 @@ _Anciens textes_:
   - Code de la consommation - art. L333-5 (M)
 
 
-##### Section 2 : Catégories de crédits<a id=165></a>
+##### Section 2 : Catégories de crédits<a id=167></a>
 
-##### Sous-section 1 : Crédit-bail.<a id=166></a>
+##### Sous-section 1 : Crédit-bail.<a id=168></a>
 
 ###### Article L313-7
 
@@ -14675,9 +14819,9 @@ _Cite_:
   - Code monétaire et financier - art. L313-10 (M)
 
 
-##### Sous-section 2 : Crédits aux entreprises<a id=167></a>
+##### Sous-section 2 : Crédits aux entreprises<a id=169></a>
 
-##### Paragraphe 1 : Crédit d'exploitation.<a id=168></a>
+##### Paragraphe 1 : Crédit d'exploitation.<a id=170></a>
 
 ###### Article L313-12
 
@@ -14712,7 +14856,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Paragraphe 2 : Prêts participatifs.<a id=169></a>
+##### Paragraphe 2 : Prêts participatifs.<a id=171></a>
 
 ###### Article L313-13
 
@@ -14751,7 +14895,7 @@ _Cite_:
   - Code monétaire et financier L313-18 à L313-20, L313-14 à L313-20
 
 
-##### Sous-paragraphe 1 : Régime général.<a id=170></a>
+##### Sous-paragraphe 1 : Régime général.<a id=172></a>
 
 ###### Article L313-14
 
@@ -14840,7 +14984,7 @@ _Cite_:
   - Code de la consommation L313-1 à L313-6
 
 
-##### Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat.<a id=171></a>
+##### Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat.<a id=173></a>
 
 ###### Article L313-18
 
@@ -14905,7 +15049,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels.<a id=172></a>
+##### Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels.<a id=174></a>
 
 ###### Article L313-21
 
@@ -14947,7 +15091,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Paragraphe 4 : Information des cautions.<a id=173></a>
+##### Paragraphe 4 : Information des cautions.<a id=175></a>
 
 ###### Article L313-22
 
@@ -14982,9 +15126,9 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Section 3 : Procédures de mobilisation des créances professionnelles<a id=174></a>
+##### Section 3 : Procédures de mobilisation des créances professionnelles<a id=176></a>
 
-##### Sous-section 1 : Cession et nantissement des créances professionnelles<a id=175></a>
+##### Sous-section 1 : Cession et nantissement des créances professionnelles<a id=177></a>
 
 ###### Article L313-23
 
@@ -15253,9 +15397,9 @@ _Cité par_:
   - Code monétaire et financier - art. R313-19 (V)
 
 
-##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti<a id=176></a>
+##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti<a id=178></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=177></a>
+##### Paragraphe 1 : Dispositions générales<a id=179></a>
 
 ###### Article L313-30
 
@@ -15401,7 +15545,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-23 (V)
 
 
-##### Paragraphe 2 : Mobilisation des crédits à moyen terme<a id=178></a>
+##### Paragraphe 2 : Mobilisation des crédits à moyen terme<a id=180></a>
 
 ###### Article L313-36
 
@@ -15551,7 +15695,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-38 (V)
 
 
-##### Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées<a id=179></a>
+##### Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées<a id=181></a>
 
 ###### Article L313-42
 
@@ -15839,7 +15983,7 @@ _Cite_:
   - Code monétaire et financier L313-42 à L313-48
 
 
-##### Section 4 : Garantie des cautions<a id=180></a>
+##### Section 4 : Garantie des cautions<a id=182></a>
 
 ###### Article L313-50
 
@@ -15959,9 +16103,9 @@ _Cite_:
   - Code monétaire et financier - art. L511-30 (M)
 
 
-### Titre II : Les services d'investissement et leurs services connexes<a id=181></a>
+### Titre II : Les services d'investissement et leurs services connexes<a id=183></a>
 
-#### Chapitre Ier : Dispositions générales<a id=182></a>
+#### Chapitre Ier : Dispositions générales<a id=184></a>
 
 ###### Article L321-1
 
@@ -16250,7 +16394,7 @@ _Cite_:
   - Code monétaire et financier - art. L321-2 (M)
 
 
-#### Chapitre II : Garantie des investisseurs<a id=183></a>
+#### Chapitre II : Garantie des investisseurs<a id=185></a>
 
 ###### Article L322-1
 
@@ -16380,7 +16524,7 @@ _Cité par_:
   - Code monétaire et financier - art. L532-3 (V)
 
 
-### Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers.<a id=184></a>
+### Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers.<a id=186></a>
 
 ###### Article L330-1
 
@@ -16549,9 +16693,9 @@ _Cite_:
   - Code monétaire et financier - art. L431-4 (M)
 
 
-### Titre IV : Le démarchage et le colportage<a id=185></a>
+### Titre IV : Le démarchage et le colportage<a id=187></a>
 
-#### Chapitre Ier : Démarchage concernant les opérations de banque.<a id=186></a>
+#### Chapitre Ier : Démarchage concernant les opérations de banque.<a id=188></a>
 
 ###### Article L341-1
 
@@ -16868,7 +17012,7 @@ _Cité par_:
   - Code monétaire et financier - art. L753-10 (V)
 
 
-#### Chapitre II : Démarchage concernant les valeurs mobilières.<a id=187></a>
+#### Chapitre II : Démarchage concernant les valeurs mobilières.<a id=189></a>
 
 ###### Article L342-1
 
@@ -17651,7 +17795,7 @@ _Cité par_:
   - Code monétaire et financier - art. L342-7 (Ab)
 
 
-#### Chapitre III : Démarchage concernant les opérations sur le marché à terme.<a id=188></a>
+#### Chapitre III : Démarchage concernant les opérations sur le marché à terme.<a id=190></a>
 
 ###### Article L343-1
 
@@ -17866,9 +18010,9 @@ _Cité par_:
   - Code monétaire et financier - art. L353-6 (M)
 
 
-#### Chapitre IV : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers<a id=189></a>
+#### Chapitre IV : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers<a id=191></a>
 
-##### Section 1 : Opérations sur matières précieuses.<a id=190></a>
+##### Section 1 : Opérations sur matières précieuses.<a id=192></a>
 
 ###### Article L344-1
 
@@ -17939,7 +18083,7 @@ _Anciens textes_:
   - Décret n°1938-11-12 art. 4 al. 3 et al. 4
 
 
-##### Section 2 : Opérations sur les billets de banque étrangers.<a id=191></a>
+##### Section 2 : Opérations sur les billets de banque étrangers.<a id=193></a>
 
 ###### Article L344-3
 
@@ -17979,9 +18123,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L343-2 (V)
 
 
-### Titre V : Dispositions pénales<a id=192></a>
+### Titre V : Dispositions pénales<a id=194></a>
 
-#### Chapitre Ier : Infractions relatives aux opérations de banque et aux opérations connexes.<a id=193></a>
+#### Chapitre Ier : Infractions relatives aux opérations de banque et aux opérations connexes.<a id=195></a>
 
 ###### Article L351-1
 
@@ -18025,7 +18169,7 @@ _Cité par_:
   - Code monétaire et financier - art. R615-10 (Ab)
 
 
-#### Chapitre II : Infractions relatives au fonds de garantie des déposants<a id=194></a>
+#### Chapitre II : Infractions relatives au fonds de garantie des déposants<a id=196></a>
 
 ###### Article L352-1
 
@@ -18056,9 +18200,9 @@ _Cité par_:
   - Code monétaire et financier - art. L763-2 (VD)
 
 
-#### Chapitre III : Infractions relatives au démarchage<a id=195></a>
+#### Chapitre III : Infractions relatives au démarchage<a id=197></a>
 
-##### Section 1 : Opérations de banque.<a id=196></a>
+##### Section 1 : Opérations de banque.<a id=198></a>
 
 ###### Article L353-1
 
@@ -18139,7 +18283,7 @@ _Cite_:
   - Code monétaire et financier - art. L341-5 (M)
 
 
-##### Section 2 : Opérations sur les valeurs mobilières.<a id=197></a>
+##### Section 2 : Opérations sur les valeurs mobilières.<a id=199></a>
 
 ###### Article L353-3
 
@@ -18234,7 +18378,7 @@ _Cité par_:
   - Code monétaire et financier - art. L519-6 (V)
 
 
-##### Section 3 : Marché à terme.<a id=198></a>
+##### Section 3 : Marché à terme.<a id=200></a>
 
 ###### Article L353-6
 
@@ -18270,7 +18414,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-11 (V)
 
 
-##### Section 4 : Opérations sur matières précieuses et billets de banque étrangers.<a id=199></a>
+##### Section 4 : Opérations sur matières précieuses et billets de banque étrangers.<a id=201></a>
 
 ###### Article L353-7
 
@@ -18300,11 +18444,11 @@ _Anciens textes_:
   - Décret n°1938-11-12 art. 6
 
 
-## Livre IV : Les marchés<a id=200></a>
+## Livre IV : Les marchés<a id=202></a>
 
-### Titre Ier : L'appel public à l'épargne<a id=201></a>
+### Titre Ier : L'appel public à l'épargne<a id=203></a>
 
-#### Chapitre Ier : Définition.<a id=202></a>
+#### Chapitre Ier : Définition.<a id=204></a>
 
 ###### Article L411-1
 
@@ -18512,9 +18656,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-#### Chapitre II : Conditions de l'appel public à l'épargne<a id=203></a>
+#### Chapitre II : Conditions de l'appel public à l'épargne<a id=205></a>
 
-##### Section 1 : Obligations générales de publicité.<a id=204></a>
+##### Section 1 : Obligations générales de publicité.<a id=206></a>
 
 ###### Article L412-1
 
@@ -18599,7 +18743,7 @@ _Cité par_:
   - Code monétaire et financier - art. R533-15 (VT)
 
 
-##### Section 2 : Interdictions et sanctions<a id=205></a>
+##### Section 2 : Interdictions et sanctions<a id=207></a>
 
 ###### Article L412-2
 
@@ -18692,11 +18836,11 @@ _Anciens textes_:
   - Code de commerce L252-10 al. 1
 
 
-### Titre II : Les catégories de marchés<a id=206></a>
+### Titre II : Les catégories de marchés<a id=208></a>
 
-#### Chapitre Ier : Marchés réglementés français<a id=207></a>
+#### Chapitre Ier : Marchés réglementés français<a id=209></a>
 
-##### Section 1 : Reconnaissance et retrait de la qualité de marché réglementé.<a id=208></a>
+##### Section 1 : Reconnaissance et retrait de la qualité de marché réglementé.<a id=210></a>
 
 ###### Article L421-1
 
@@ -18823,7 +18967,7 @@ _Cite_:
   - Code monétaire et financier - art. L421-1 (M)
 
 
-##### Section 2 : Conditions de fonctionnement des marchés réglementés.<a id=209></a>
+##### Section 2 : Conditions de fonctionnement des marchés réglementés.<a id=211></a>
 
 ###### Article L421-3
 
@@ -18956,7 +19100,7 @@ _Cité par_:
   - Code monétaire et financier - art. L621-7 (V)
 
 
-##### Section 3 : Obligation d'intermédiation et monopole de négociation.<a id=210></a>
+##### Section 3 : Obligation d'intermédiation et monopole de négociation.<a id=212></a>
 
 ###### Article L421-6
 
@@ -19029,7 +19173,7 @@ _Cite_:
   - Code monétaire et financier - art. L421-6 (M)
 
 
-##### Section 4 : Régime des membres d'un marché réglementé.<a id=211></a>
+##### Section 4 : Régime des membres d'un marché réglementé.<a id=213></a>
 
 ###### Article L421-8
 
@@ -19169,7 +19313,7 @@ _Cité par_:
   - Code monétaire et financier - art. L621-7 (V)
 
 
-##### Section 5 : Centralisation des ordres sur les marchés réglementés.<a id=212></a>
+##### Section 5 : Centralisation des ordres sur les marchés réglementés.<a id=214></a>
 
 ###### Article L421-12
 
@@ -19249,7 +19393,7 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-#### Chapitre II : Marchés réglementés européens.<a id=213></a>
+#### Chapitre II : Marchés réglementés européens.<a id=215></a>
 
 ###### Article L422-1
 
@@ -19322,7 +19466,7 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-#### Chapitre III : Marchés étrangers reconnus.<a id=214></a>
+#### Chapitre III : Marchés étrangers reconnus.<a id=216></a>
 
 ###### Article L423-1
 
@@ -19362,7 +19506,7 @@ _Cité par_:
   - Code monétaire et financier - art. R214-93 (V)
 
 
-#### Chapitre IV : Marché de l'or.<a id=215></a>
+#### Chapitre IV : Marché de l'or.<a id=217></a>
 
 ###### Article L424-1
 
@@ -19416,13 +19560,13 @@ _Cité par_:
   - Code monétaire et financier - art. L764-3 (MMN)
 
 
-### Titre III : Les négociations sur instruments financiers<a id=216></a>
+### Titre III : Les négociations sur instruments financiers<a id=218></a>
 
-#### Chapitre Ier : Dispositions générales<a id=217></a>
+#### Chapitre Ier : Dispositions générales<a id=219></a>
 
-##### Section 1 : Transfert de propriété des titres et mise en gage<a id=218></a>
+##### Section 1 : Transfert de propriété des titres et mise en gage<a id=220></a>
 
-##### Sous-section 1 : Transfert de propriété des titres.<a id=219></a>
+##### Sous-section 1 : Transfert de propriété des titres.<a id=221></a>
 
 ###### Article L431-1
 
@@ -19553,7 +19697,7 @@ _Cite_:
   - Code monétaire et financier - art. L211-1 (M)
 
 
-##### Sous-section 2 : Mise en gage.<a id=220></a>
+##### Sous-section 2 : Mise en gage.<a id=222></a>
 
 ###### Article L431-4
 
@@ -19696,7 +19840,7 @@ _Cité par_:
   - Code monétaire et financier - art. L613-31 (M)
 
 
-##### Section 2 : Compensation.<a id=221></a>
+##### Section 2 : Compensation.<a id=223></a>
 
 ###### Article L431-7
 
@@ -19789,9 +19933,9 @@ _Cite_:
   - Code monétaire et financier - art. L531-2 (M)
 
 
-#### Chapitre II : Formes particulières de cessions d'instruments financiers<a id=222></a>
+#### Chapitre II : Formes particulières de cessions d'instruments financiers<a id=224></a>
 
-##### Section 1 : Vente à crédit.<a id=223></a>
+##### Section 1 : Vente à crédit.<a id=225></a>
 
 ###### Article L432-1
 
@@ -19892,7 +20036,7 @@ _Cité par_:
   - Code monétaire et financier - art. L463-2 (Ab)
 
 
-##### Section 2 : Adjudication.<a id=224></a>
+##### Section 2 : Adjudication.<a id=226></a>
 
 ###### Article L432-5
 
@@ -19931,9 +20075,9 @@ _Abrogé par_:
   - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 
-##### Section 3 : Cessions temporaires<a id=225></a>
+##### Section 3 : Cessions temporaires<a id=227></a>
 
-##### Sous-section 1 : Prêt de titres.<a id=226></a>
+##### Sous-section 1 : Prêt de titres.<a id=228></a>
 
 ###### Article L432-6
 
@@ -20171,7 +20315,7 @@ _Abrogé par_:
   - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 
-##### Sous-section 2 : Pension.<a id=227></a>
+##### Sous-section 2 : Pension.<a id=229></a>
 
 ###### Article L432-12
 
@@ -20424,7 +20568,7 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
 
 
-##### Section 4 : Opérations à terme.<a id=228></a>
+##### Section 4 : Opérations à terme.<a id=230></a>
 
 ###### Article L432-20
 
@@ -20496,9 +20640,9 @@ _Cité par_:
   - Code monétaire et financier - art. L764-9 (M)
 
 
-#### Chapitre III : Opérations spécifiques aux marchés réglementés<a id=229></a>
+#### Chapitre III : Opérations spécifiques aux marchés réglementés<a id=231></a>
 
-##### Section 1 : Offres publiques d'achat et d'échange<a id=230></a>
+##### Section 1 : Offres publiques d'achat et d'échange<a id=232></a>
 
 ###### Article L433-1
 
@@ -20587,7 +20731,7 @@ _Anciens textes_:
   - Code de commerce L225-129 IV
 
 
-##### Section 2 : Obligation de déposer un projet d'offre publique<a id=231></a>
+##### Section 2 : Obligation de déposer un projet d'offre publique<a id=233></a>
 
 ###### Article L433-3
 
@@ -20661,7 +20805,7 @@ _Cite_:
   - Code de commerce. - art. L233-10 (M)
 
 
-##### Section 3 : Offres publiques de retrait et retrait obligatoire<a id=232></a>
+##### Section 3 : Offres publiques de retrait et retrait obligatoire<a id=234></a>
 
 ###### Article L433-4
 
@@ -20715,9 +20859,9 @@ _Cite_:
   - Code de commerce. - art. L233-10 (M)
 
 
-### Titre IV : Les entreprises de marché et les chambres de compensation<a id=233></a>
+### Titre IV : Les entreprises de marché et les chambres de compensation<a id=235></a>
 
-#### Chapitre Ier : Entreprises de marché.<a id=234></a>
+#### Chapitre Ier : Entreprises de marché.<a id=236></a>
 
 ###### Article L441-1
 
@@ -20775,7 +20919,7 @@ _Cite_:
   - Code monétaire et financier - art. L622-7 (Ab)
 
 
-#### Chapitre II : Chambres de compensation.<a id=235></a>
+#### Chapitre II : Chambres de compensation.<a id=237></a>
 
 ###### Article L442-1
 
@@ -21075,11 +21219,11 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L440-10 (V)
 
 
-### Titre V : La protection des investisseurs<a id=236></a>
+### Titre V : La protection des investisseurs<a id=238></a>
 
-#### Chapitre Ier : La transparence des marchés<a id=237></a>
+#### Chapitre Ier : La transparence des marchés<a id=239></a>
 
-##### Section 1 : Les obligations d'information relative aux comptes<a id=238></a>
+##### Section 1 : Les obligations d'information relative aux comptes<a id=240></a>
 
 ###### Article L451-1
 
@@ -21124,7 +21268,7 @@ _Anciens textes_:
   - Code de commerce. - art. L232-8 (M)
 
 
-##### Section 2 : Obligation d'information sur les prises de participations<a id=239></a>
+##### Section 2 : Obligation d'information sur les prises de participations<a id=241></a>
 
 ###### Article L451-2
 
@@ -21259,7 +21403,7 @@ _Modifié par_:
   - Loi n°2001-420 2001-05-15 art. 119 3° et art. 121 JORF 16 mai 2001
 
 
-#### Chapitre II : Associations de défense des investisseurs<a id=240></a>
+#### Chapitre II : Associations de défense des investisseurs<a id=242></a>
 
 ###### Article L452-1
 
@@ -21373,9 +21517,9 @@ _Cite_:
   - Code monétaire et financier - art. L452-2 (V)
 
 
-### Titre VI : Dispositions pénales<a id=241></a>
+### Titre VI : Dispositions pénales<a id=243></a>
 
-#### Chapitre Ier : Infractions relatives à l'appel public à l'épargne.<a id=242></a>
+#### Chapitre Ier : Infractions relatives à l'appel public à l'épargne.<a id=244></a>
 
 ###### Article L461-1
 
@@ -21401,7 +21545,7 @@ _Anciens textes_:
   - Code de commerce. - art. L252-10 (M)
 
 
-#### Chapitre II : Infractions relatives aux marchés réglementés<a id=243></a>
+#### Chapitre II : Infractions relatives aux marchés réglementés<a id=245></a>
 
 ###### Article L462-1
 
@@ -21463,7 +21607,7 @@ _Cité par_:
   - Code monétaire et financier - art. L764-3 (AbD)
 
 
-#### Chapitre III : Infractions relatives aux négociations sur instruments financiers.<a id=244></a>
+#### Chapitre III : Infractions relatives aux négociations sur instruments financiers.<a id=246></a>
 
 ###### Article L463-1
 
@@ -21525,7 +21669,7 @@ _Anciens textes_:
   - Loi n°1926-12-14 art. 3
 
 
-#### Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation<a id=245></a>
+#### Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation<a id=247></a>
 
 ###### Article L464-1
 
@@ -21559,9 +21703,9 @@ _Cite_:
   - Code monétaire et financier - art. L442-3 (T)
 
 
-#### Chapitre V : Infractions relatives à la protection des investisseurs<a id=246></a>
+#### Chapitre V : Infractions relatives à la protection des investisseurs<a id=248></a>
 
-##### Section 1 : Atteintes à la transparence des marchés<a id=247></a>
+##### Section 1 : Atteintes à la transparence des marchés<a id=249></a>
 
 ###### Article L465-1
 
@@ -21706,7 +21850,7 @@ _Cité par_:
   - Code monétaire et financier - art. L465-2 (VD)
 
 
-##### Section 2 : Prises de participations<a id=248></a>
+##### Section 2 : Prises de participations<a id=250></a>
 
 ###### Article L465-4
 
@@ -21773,7 +21917,7 @@ _Cité par_:
   - Code monétaire et financier - art. L764-13 (VD)
 
 
-#### Chapitre VI : Dispositions communes<a id=249></a>
+#### Chapitre VI : Dispositions communes<a id=251></a>
 
 ###### Article L466-1
 
@@ -21816,13 +21960,13 @@ _Cité par_:
   - Code monétaire et financier - art. L764-13 (VD)
 
 
-## Livre V : Les prestataires de services<a id=250></a>
+## Livre V : Les prestataires de services<a id=252></a>
 
-### Titre Ier : Etablissements du secteur bancaire<a id=251></a>
+### Titre Ier : Etablissements du secteur bancaire<a id=253></a>
 
-#### Chapitre Ier : Règles générales applicables aux établissements de crédit<a id=252></a>
+#### Chapitre Ier : Règles générales applicables aux établissements de crédit<a id=254></a>
 
-##### Section 1 : Définitions et activités<a id=253></a>
+##### Section 1 : Définitions et activités<a id=255></a>
 
 ###### Article L511-1
 
@@ -22022,7 +22166,7 @@ _Cite_:
   - Code monétaire et financier - art. L511-3 (M)
 
 
-##### Section 2 : Interdictions<a id=254></a>
+##### Section 2 : Interdictions<a id=256></a>
 
 ###### Article L511-5
 
@@ -22260,9 +22404,9 @@ _Cité par_:
   - Code monétaire et financier - art. L571-3 (V)
 
 
-##### Section 3 : Conditions d'accès à la profession<a id=255></a>
+##### Section 3 : Conditions d'accès à la profession<a id=257></a>
 
-##### Sous-section 1 : Agrément<a id=256></a>
+##### Sous-section 1 : Agrément<a id=258></a>
 
 ###### Article L511-9
 
@@ -22937,7 +23081,7 @@ _Cite_:
   - Code de commerce. - art. L233-16 (M)
 
 
-##### Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen<a id=257></a>
+##### Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen<a id=259></a>
 
 ###### Article L511-21
 
@@ -23314,9 +23458,9 @@ _Cite_:
   - Code monétaire et financier L511-13, L511-33, L511-39, L613-1, L613-6 à L613-8, L613-10, L613-11, L613-15, L613-16, L613-18, L613-21, L511-27
 
 
-##### Section 4 : Organes de la profession<a id=258></a>
+##### Section 4 : Organes de la profession<a id=260></a>
 
-##### Sous-section 1 : L'association française des établissements de crédit et des entreprises d'investissement et les autres organismes professionnels<a id=259></a>
+##### Sous-section 1 : L'association française des établissements de crédit et des entreprises d'investissement et les autres organismes professionnels<a id=261></a>
 
 ###### Article L511-29
 
@@ -23363,7 +23507,7 @@ _Cité par_:
   - Code monétaire et financier - art. L755-1-1 (V)
 
 
-##### Sous-section 2 : Les organes centraux<a id=260></a>
+##### Sous-section 2 : Les organes centraux<a id=262></a>
 
 ###### Article L511-30
 
@@ -23559,7 +23703,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : Le secret professionnel<a id=261></a>
+##### Section 5 : Le secret professionnel<a id=263></a>
 
 ###### Article L511-33
 
@@ -23662,9 +23806,9 @@ _Anciens textes_:
   - Ordonnance n°2016-827 du 23 juin 2016 - art. 26
 
 
-##### Section 6 : Dispositions comptables<a id=262></a>
+##### Section 6 : Dispositions comptables<a id=264></a>
 
-##### Sous-section 1 : Comptes sociaux et documents comptables<a id=263></a>
+##### Sous-section 1 : Comptes sociaux et documents comptables<a id=265></a>
 
 ###### Article L511-35
 
@@ -23772,7 +23916,7 @@ _Cite_:
   - Code monétaire et financier - art. L442-2 (M)
 
 
-##### Sous-section 2 : Commissaires aux comptes<a id=264></a>
+##### Sous-section 2 : Commissaires aux comptes<a id=266></a>
 
 ###### Article L511-38
 
@@ -23877,7 +24021,7 @@ _Cite_:
   - Code monétaire et financier - art. L511-38 (V)
 
 
-##### Section 7 : Dispositions prudentielles.<a id=265></a>
+##### Section 7 : Dispositions prudentielles.<a id=267></a>
 
 ###### Article L511-40
 
@@ -24006,9 +24150,9 @@ _Cite_:
   - Code monétaire et financier - art. L312-4 (V)
 
 
-#### Chapitre II : Les banques mutualistes ou coopératives<a id=266></a>
+#### Chapitre II : Les banques mutualistes ou coopératives<a id=268></a>
 
-##### Section 1 : Dispositions générales<a id=267></a>
+##### Section 1 : Dispositions générales<a id=269></a>
 
 ###### Article L512-1
 
@@ -24048,9 +24192,9 @@ _Cite_:
   - Code de commerce. - art. L236-10 (V)
 
 
-##### Section 2 : Les banques populaires<a id=268></a>
+##### Section 2 : Les banques populaires<a id=270></a>
 
-##### Sous-section 1 : Dispositions générales<a id=269></a>
+##### Sous-section 1 : Dispositions générales<a id=271></a>
 
 ###### Article L512-2
 
@@ -24277,7 +24421,7 @@ _Cite_:
   - Code monétaire et financier - art. L512-8 (V)
 
 
-##### Sous-section 2 : Banque fédérale des banques populaires<a id=270></a>
+##### Sous-section 2 : Banque fédérale des banques populaires<a id=272></a>
 
 ###### Article L512-10
 
@@ -24387,7 +24531,7 @@ _Anciens textes_:
   - Loi n°1929-07-24 du 24 juillet 1929 - art. 10 (Ab)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=271></a>
+##### Sous-section 3 : Dispositions diverses<a id=273></a>
 
 ###### Article L512-13
 
@@ -24414,7 +24558,7 @@ _Anciens textes_:
   - Loi n°1929-07-24 du 24 juillet 1929 - art. 11 (Ab)
 
 
-##### Section 3 : Le crédit agricole<a id=272></a>
+##### Section 3 : Le crédit agricole<a id=274></a>
 
 ###### Article L512-20
 
@@ -24449,9 +24593,9 @@ _Anciens textes_:
   - Code rural ancien - art. 614 (Ab)
 
 
-##### Sous-section 1 : Les caisses de crédit agricole mutuel<a id=273></a>
+##### Sous-section 1 : Les caisses de crédit agricole mutuel<a id=275></a>
 
-##### Paragraphe 1 : Organisation<a id=274></a>
+##### Paragraphe 1 : Organisation<a id=276></a>
 
 ###### Article L512-21
 
@@ -24782,7 +24926,7 @@ _Anciens textes_:
   - Code rural ancien - art. 631 (Ab)
 
 
-##### Paragraphe 2 : Fonctionnement<a id=275></a>
+##### Paragraphe 2 : Fonctionnement<a id=277></a>
 
 ###### Article L512-36
 
@@ -24970,7 +25114,7 @@ _Anciens textes_:
   - Code rural ancien - art. 644 (Ab)
 
 
-##### Paragraphe 3 : Ressources<a id=276></a>
+##### Paragraphe 3 : Ressources<a id=278></a>
 
 ###### Article L512-44
 
@@ -25022,9 +25166,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : La Caisse nationale de crédit agricole<a id=277></a>
+##### Sous-section 2 : La Caisse nationale de crédit agricole<a id=279></a>
 
-##### Paragraphe 1 : Organisation.<a id=278></a>
+##### Paragraphe 1 : Organisation.<a id=280></a>
 
 ###### Article L512-47
 
@@ -25099,7 +25243,7 @@ _Cite_:
   - Code de commerce. - art. L225-18 (M)
 
 
-##### Paragraphe 2 : Ressources.<a id=279></a>
+##### Paragraphe 2 : Ressources.<a id=281></a>
 
 ###### Article L512-50
 
@@ -25116,7 +25260,7 @@ _Anciens textes_:
   - Code rural ancien - art. 718 (Ab)
 
 
-##### Sous-section 3 : Contrôles<a id=280></a>
+##### Sous-section 3 : Contrôles<a id=282></a>
 
 ###### Article L512-51
 
@@ -25192,7 +25336,7 @@ _Anciens textes_:
   - Code rural ancien - art. 741 (Ab)
 
 
-##### Section 4 : Le crédit mutuel<a id=281></a>
+##### Section 4 : Le crédit mutuel<a id=283></a>
 
 ###### Article L512-55
 
@@ -25327,7 +25471,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : Le crédit coopératif.<a id=282></a>
+##### Section 5 : Le crédit coopératif.<a id=284></a>
 
 ###### Article L512-60
 
@@ -25363,9 +25507,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 223 A (V)
 
 
-##### Section 6 : Les sociétés coopératives de banque<a id=283></a>
+##### Section 6 : Les sociétés coopératives de banque<a id=285></a>
 
-##### Sous-section 1 : Dispositions générales<a id=284></a>
+##### Sous-section 1 : Dispositions générales<a id=286></a>
 
 ###### Article L512-61
 
@@ -25449,7 +25593,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Conseil d'administration<a id=285></a>
+##### Sous-section 2 : Conseil d'administration<a id=287></a>
 
 ###### Article L512-64
 
@@ -25471,7 +25615,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 3 : Commissaire du Gouvernement<a id=286></a>
+##### Sous-section 3 : Commissaire du Gouvernement<a id=288></a>
 
 ###### Article L512-65
 
@@ -25499,7 +25643,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 4 : Statuts<a id=287></a>
+##### Sous-section 4 : Statuts<a id=289></a>
 
 ###### Article L512-66
 
@@ -25537,9 +25681,9 @@ _Cite_:
   - Code monétaire et financier - art. L512-61 (V)
 
 
-##### Section 7 : Le crédit maritime mutuel<a id=288></a>
+##### Section 7 : Le crédit maritime mutuel<a id=290></a>
 
-##### Sous-section 1 : Dispositions générales<a id=289></a>
+##### Sous-section 1 : Dispositions générales<a id=291></a>
 
 ###### Article L512-68
 
@@ -25814,7 +25958,7 @@ _Cite_:
   - Code monétaire et financier - art. L512-84 (V)
 
 
-##### Sous-section 2 : Administration<a id=290></a>
+##### Sous-section 2 : Administration<a id=292></a>
 
 ###### Article L512-76
 
@@ -25986,7 +26130,7 @@ _Cite_:
   - Code monétaire et financier - art. L512-82 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=291></a>
+##### Sous-section 4 : Dispositions diverses<a id=293></a>
 
 ###### Article L512-83
 
@@ -26038,9 +26182,9 @@ _Cité par_:
   - Code monétaire et financier - art. L512-83 (V)
 
 
-##### Section 8 : Le réseau des caisses d'épargne<a id=292></a>
+##### Section 8 : Le réseau des caisses d'épargne<a id=294></a>
 
-##### Sous-section 1 : Missions<a id=293></a>
+##### Sous-section 1 : Missions<a id=295></a>
 
 ###### Article L512-85
 
@@ -26076,7 +26220,7 @@ _Cité par_:
   - Code monétaire et financier - art. L512-95 (V)
 
 
-##### Sous-section 2 : Le réseau<a id=294></a>
+##### Sous-section 2 : Le réseau<a id=296></a>
 
 ###### Article L512-86
 
@@ -26100,7 +26244,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 223 A (V)
 
 
-##### Sous-section 3 : Les caisses d'épargne et de prévoyance<a id=295></a>
+##### Sous-section 3 : Les caisses d'épargne et de prévoyance<a id=297></a>
 
 ###### Article L512-87
 
@@ -26254,7 +26398,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Sous-section 4 : Les sociétés locales d'épargne<a id=296></a>
+##### Sous-section 4 : Les sociétés locales d'épargne<a id=298></a>
 
 ###### Article L512-92
 
@@ -26343,7 +26487,7 @@ _Cité par_:
   - Code monétaire et financier - art. R512-52 (V)
 
 
-##### Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance.<a id=297></a>
+##### Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance.<a id=299></a>
 
 ###### Article L512-94
 
@@ -26535,7 +26679,7 @@ _Abrogé par_:
   - Loi n°2009-715 du 18 juin 2009 - art. 1
 
 
-##### Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance<a id=298></a>
+##### Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance<a id=300></a>
 
 ###### Article L512-99
 
@@ -26608,7 +26752,7 @@ _Anciens textes_:
   - Code des caisses d'épargne - art. 57 (Ab)
 
 
-##### Sous-section 7 : Fonds de réserve et de garantie.<a id=299></a>
+##### Sous-section 7 : Fonds de réserve et de garantie.<a id=301></a>
 
 ###### Article L512-101
 
@@ -26646,7 +26790,7 @@ _Cité par_:
   - Code monétaire et financier - art. R518-52 (Ab)
 
 
-##### Sous-section 8 : Dispositions générales<a id=300></a>
+##### Sous-section 8 : Dispositions générales<a id=302></a>
 
 ###### Article L512-102
 
@@ -26707,7 +26851,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre III : Les sociétés anonymes de crédit immobilier<a id=301></a>
+#### Chapitre III : Les sociétés anonymes de crédit immobilier<a id=303></a>
 
 ###### Article L513-1
 
@@ -26739,9 +26883,9 @@ _Nouveaux textes_:
   - Code monétaire et financier art. L515-34
 
 
-#### Chapitre IV : Les caisses de crédit municipal<a id=302></a>
+#### Chapitre IV : Les caisses de crédit municipal<a id=304></a>
 
-##### Section 1 : Missions<a id=303></a>
+##### Section 1 : Missions<a id=305></a>
 
 ###### Article L514-1
 
@@ -26807,7 +26951,7 @@ _Cite_:
   - Code monétaire et financier - art. L311-2 (M)
 
 
-##### Section 2 : Création et administration<a id=304></a>
+##### Section 2 : Création et administration<a id=306></a>
 
 ###### Article L514-2
 
@@ -26917,9 +27061,9 @@ _Cité par_:
   - Code monétaire et financier - art. R514-34 (V)
 
 
-#### Chapitre V : Les sociétés financières<a id=305></a>
+#### Chapitre V : Les sociétés financières<a id=307></a>
 
-##### Section 1 : Dispositions communes<a id=306></a>
+##### Section 1 : Dispositions communes<a id=308></a>
 
 ###### Article L515-1
 
@@ -26957,7 +27101,7 @@ _Cite_:
   - Code monétaire et financier - art. L511-9 (V)
 
 
-##### Section 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=307></a>
+##### Section 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=309></a>
 
 ###### Article L515-2
 
@@ -27021,9 +27165,9 @@ _Cite_:
   - Code monétaire et financier - art. L613-21 (M)
 
 
-##### Section 3 : Les sociétés de caution mutuelle<a id=308></a>
+##### Section 3 : Les sociétés de caution mutuelle<a id=310></a>
 
-##### Sous-section 1 : Objet<a id=309></a>
+##### Sous-section 1 : Objet<a id=311></a>
 
 ###### Article L515-4
 
@@ -27083,7 +27227,7 @@ _Cité par_:
   - Code rural - art. D666-11 (V)
 
 
-##### Sous-section 2 : Statuts<a id=310></a>
+##### Sous-section 2 : Statuts<a id=312></a>
 
 ###### Article L515-5
 
@@ -27147,7 +27291,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 3 : Emploi des fonds<a id=311></a>
+##### Sous-section 3 : Emploi des fonds<a id=313></a>
 
 ###### Article L515-8
 
@@ -27206,7 +27350,7 @@ _Cite_:
   - Code de commerce - art. L232-10 (V)
 
 
-##### Sous-section 4 : Publicité<a id=312></a>
+##### Sous-section 4 : Publicité<a id=314></a>
 
 ###### Article L515-10
 
@@ -27279,9 +27423,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les sociétés de crédit foncier<a id=313></a>
+##### Section 4 : Les sociétés de crédit foncier<a id=315></a>
 
-##### Sous-section 1 : Statut et objet<a id=314></a>
+##### Sous-section 1 : Statut et objet<a id=316></a>
 
 ###### Article L515-13
 
@@ -27359,7 +27503,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L513-2 (V)
 
 
-##### Sous-section 2 : Opérations<a id=315></a>
+##### Sous-section 2 : Opérations<a id=317></a>
 
 ###### Article L515-14
 
@@ -27558,7 +27702,7 @@ _Cité par_:
   - Code monétaire et financier - art. R515-7-1 (T)
 
 
-##### Sous-section 3 : Privilège des créances nées des opérations<a id=316></a>
+##### Sous-section 3 : Privilège des créances nées des opérations<a id=318></a>
 
 ###### Article L515-19
 
@@ -27613,7 +27757,7 @@ _Cite_:
   - Code monétaire et financier L515-14 à L515-17, L515-18, L515-13, L515-22
 
 
-##### Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier<a id=317></a>
+##### Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier<a id=319></a>
 
 ###### Article L515-20
 
@@ -27747,7 +27891,7 @@ _Cité par_:
   - Code monétaire et financier - art. L515-30 (VT)
 
 
-##### Sous-section 5 : Redressement et liquidation judiciaires<a id=318></a>
+##### Sous-section 5 : Redressement et liquidation judiciaires<a id=320></a>
 
 ###### Article L515-25
 
@@ -27848,7 +27992,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-13 (M)
 
 
-##### Sous-section 6 : Contrôles<a id=319></a>
+##### Sous-section 6 : Contrôles<a id=321></a>
 
 ###### Article L515-29
 
@@ -27980,7 +28124,7 @@ _Cite_:
   - Code monétaire et financier - art. L613-9 (M)
 
 
-##### Sous-section 7 : Dispositions diverses<a id=320></a>
+##### Sous-section 7 : Dispositions diverses<a id=322></a>
 
 ###### Article L515-32
 
@@ -28026,7 +28170,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L513-27 (VD)
 
 
-#### Chapitre VI : Les institutions financières spécialisées<a id=321></a>
+#### Chapitre VI : Les institutions financières spécialisées<a id=323></a>
 
 ###### Article L516-1
 
@@ -28086,7 +28230,7 @@ _Cité par_:
   - Code monétaire et financier - art. L765-5 (M)
 
 
-#### Chapitre VII : Compagnies financières<a id=322></a>
+#### Chapitre VII : Compagnies financières<a id=324></a>
 
 ###### Article L517-1
 
@@ -28153,9 +28297,9 @@ _Cite_:
   - Code monétaire et financier L511-21, L511-13, L511-35 à L511-38, L511-41, L571-3, L571-4, L613-8 à L613-11, L613-16, L613-18, L613-21, L613-22
 
 
-#### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque<a id=323></a>
+#### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque<a id=325></a>
 
-##### Section 1 : Dispositions générales<a id=324></a>
+##### Section 1 : Dispositions générales<a id=326></a>
 
 ###### Article L518-1
 
@@ -28293,7 +28437,7 @@ _Modifié par_:
   - Loi n°2001-420 du 15 mai 2001 - art. 143 (V)
 
 
-##### Section 2 : La Caisse des dépôts et consignations<a id=325></a>
+##### Section 2 : La Caisse des dépôts et consignations<a id=327></a>
 
 ###### Article L518-2
 
@@ -28351,9 +28495,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 1 : Commission de surveillance<a id=326></a>
+##### Sous-section 1 : Commission de surveillance<a id=328></a>
 
-##### Paragraphe 1 : Composition<a id=327></a>
+##### Paragraphe 1 : Composition<a id=329></a>
 
 ###### Article L518-4
 
@@ -28430,7 +28574,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Missions<a id=328></a>
+##### Paragraphe 2 : Missions<a id=330></a>
 
 ###### Article L518-7
 
@@ -28500,7 +28644,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 3 : Rapport au Parlement<a id=329></a>
+##### Paragraphe 3 : Rapport au Parlement<a id=331></a>
 
 ###### Article L518-10
 
@@ -28527,9 +28671,9 @@ _Anciens textes_:
   - Loi n°1816-04-28 art. 114
 
 
-##### Sous-section 2 : Administration de la Caisse des dépôts et consignations<a id=330></a>
+##### Sous-section 2 : Administration de la Caisse des dépôts et consignations<a id=332></a>
 
-##### Paragraphe 1 : Le directeur général<a id=331></a>
+##### Paragraphe 1 : Le directeur général<a id=333></a>
 
 ###### Article L518-11
 
@@ -28576,7 +28720,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Le caissier général<a id=332></a>
+##### Paragraphe 2 : Le caissier général<a id=334></a>
 
 ###### Article L518-13
 
@@ -28600,7 +28744,7 @@ _Anciens textes_:
   - Ordonnance 1816-05-22 art. 15 al. 2 et art. 17
 
 
-##### Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor<a id=333></a>
+##### Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor<a id=335></a>
 
 ###### Article L518-14
 
@@ -28637,7 +28781,7 @@ _Anciens textes_:
   - Ordonnance 1816-07-03 art. 11 al. 1
 
 
-##### Paragraphe 4 : Contrôle par la Cour des comptes<a id=334></a>
+##### Paragraphe 4 : Contrôle par la Cour des comptes<a id=336></a>
 
 ###### Article L518-15
 
@@ -28663,7 +28807,7 @@ _Cité par_:
   - Code monétaire et financier - art. R518-38 (VD)
 
 
-##### Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations<a id=335></a>
+##### Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations<a id=337></a>
 
 ###### Article L518-16
 
@@ -28683,9 +28827,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 4 : Opérations<a id=336></a>
+##### Sous-section 4 : Opérations<a id=338></a>
 
-##### Paragraphe 1 : Consignations et dépôts<a id=337></a>
+##### Paragraphe 1 : Consignations et dépôts<a id=339></a>
 
 ###### Article L518-17
 
@@ -28789,7 +28933,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Rémunération des dépôts et des consignations<a id=338></a>
+##### Paragraphe 2 : Rémunération des dépôts et des consignations<a id=340></a>
 
 ###### Article L518-23
 
@@ -28825,7 +28969,7 @@ _Cité par_:
   - Code monétaire et financier - art. R312-22 (V)
 
 
-##### Paragraphe 3 : Règles de déchéance<a id=339></a>
+##### Paragraphe 3 : Règles de déchéance<a id=341></a>
 
 ###### Article L518-24
 
@@ -28874,7 +29018,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 3 : La Poste<a id=340></a>
+##### Section 3 : La Poste<a id=342></a>
 
 ###### Article L518-25
 
@@ -28914,7 +29058,7 @@ _Cite_:
   - Code monétaire et financier L518-26 à L518-28
 
 
-##### Section 4 : La Caisse nationale d'épargne<a id=341></a>
+##### Section 4 : La Caisse nationale d'épargne<a id=343></a>
 
 ###### Article L518-26
 
@@ -29001,7 +29145,7 @@ _Cité par_:
   - Code monétaire et financier - art. R518-54 (Ab)
 
 
-#### Chapitre IX : Les intermédiaires en opérations de banque<a id=342></a>
+#### Chapitre IX : Les intermédiaires en opérations de banque<a id=344></a>
 
 ###### Article L519-1
 
@@ -29153,7 +29297,7 @@ _Cite_:
   - Code monétaire et financier L341-1 à L341-6, L353-1, L353-2
 
 
-### Titre II : Les changeurs manuels.<a id=343></a>
+### Titre II : Les changeurs manuels.<a id=345></a>
 
 ###### Article L520-1
 
@@ -29363,11 +29507,11 @@ _Cité par_:
   - Code monétaire et financier - art. L572-4 (M)
 
 
-### Titre III : Les prestataires de services d'investissement<a id=344></a>
+### Titre III : Les prestataires de services d'investissement<a id=346></a>
 
-#### Chapitre Ier : Définitions<a id=345></a>
+#### Chapitre Ier : Définitions<a id=347></a>
 
-##### Section 1 : Dispositions générales<a id=346></a>
+##### Section 1 : Dispositions générales<a id=348></a>
 
 ###### Article L531-1
 
@@ -29533,7 +29677,7 @@ _Cite_:
   - Code monétaire et financier L422-1, L532-16 à L532-27, L612-2, L321-1, L211-1
 
 
-##### Section 2 : Les entreprises d'investissement<a id=347></a>
+##### Section 2 : Les entreprises d'investissement<a id=349></a>
 
 ###### Article L531-4
 
@@ -29713,7 +29857,7 @@ _Cité par_:
   - Code monétaire et financier - art. L532-50 (V)
 
 
-##### Section 3 : Interdictions<a id=348></a>
+##### Section 3 : Interdictions<a id=350></a>
 
 ###### Article L531-10
 
@@ -29769,11 +29913,11 @@ _Cité par_:
   - Code monétaire et financier - art. L745-9 (VD)
 
 
-#### Chapitre II : Conditions d'exercice de la profession<a id=349></a>
+#### Chapitre II : Conditions d'exercice de la profession<a id=351></a>
 
-##### Section 1 : Agrément<a id=350></a>
+##### Section 1 : Agrément<a id=352></a>
 
-##### Sous-section 1 : Conditions et procédures d'agrément<a id=351></a>
+##### Sous-section 1 : Conditions et procédures d'agrément<a id=353></a>
 
 ###### Article L532-1
 
@@ -30123,7 +30267,7 @@ _Cité par_:
   - Code monétaire et financier - art. L765-10 (VT)
 
 
-##### Sous-section 2 : Retrait d'agrément et radiation<a id=352></a>
+##### Sous-section 2 : Retrait d'agrément et radiation<a id=354></a>
 
 ###### Article L532-6
 
@@ -30253,9 +30397,9 @@ _Cite_:
   - Code monétaire et financier - art. L532-7 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille<a id=353></a>
+##### Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille<a id=355></a>
 
-##### Paragraphe 1 : Agrément<a id=354></a>
+##### Paragraphe 1 : Agrément<a id=356></a>
 
 ###### Article L532-9
 
@@ -30421,7 +30565,7 @@ _Cite_:
   - Code monétaire et financier - art. L532-9 (M)
 
 
-##### Paragraphe 2 : Retrait d'agrément et radiation<a id=355></a>
+##### Paragraphe 2 : Retrait d'agrément et radiation<a id=357></a>
 
 ###### Article L532-10
 
@@ -30574,7 +30718,7 @@ _Cite_:
   - Code monétaire et financier L532-10 à L532-12, L533-10, L533-13, L621-7, L621-22, L621-24 à L621-27
 
 
-##### Sous-section 4 : Bureaux de représentation<a id=356></a>
+##### Sous-section 4 : Bureaux de représentation<a id=358></a>
 
 ###### Article L532-14
 
@@ -30627,9 +30771,9 @@ _Cite_:
   - Code monétaire et financier - art. L532-14 (M)
 
 
-##### Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen<a id=357></a>
+##### Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen<a id=359></a>
 
-##### Sous-section 1 : Dispositions générales<a id=358></a>
+##### Sous-section 1 : Dispositions générales<a id=360></a>
 
 ###### Article L532-16
 
@@ -30701,7 +30845,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Libre prestation de services et liberté d'établissement en France<a id=359></a>
+##### Sous-section 2 : Libre prestation de services et liberté d'établissement en France<a id=361></a>
 
 ###### Article L532-18
 
@@ -30899,7 +31043,7 @@ _Cite_:
   - Code monétaire et financier L532-19 à L532-21
 
 
-##### Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen<a id=360></a>
+##### Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen<a id=362></a>
 
 ###### Article L532-23
 
@@ -31087,9 +31231,9 @@ _Cite_:
   - Code monétaire et financier L532-23 à L532-26
 
 
-#### Chapitre III : Obligations des prestataires de services d'investissement<a id=361></a>
+#### Chapitre III : Obligations des prestataires de services d'investissement<a id=363></a>
 
-##### Section 1 : Normes de gestion<a id=362></a>
+##### Section 1 : Normes de gestion<a id=364></a>
 
 ###### Article L533-1
 
@@ -31125,7 +31269,7 @@ _Cite_:
   - Code monétaire et financier - art. L621-25 (M)
 
 
-##### Section 2 : Obligations comptables et déclaratives<a id=363></a>
+##### Section 2 : Obligations comptables et déclaratives<a id=365></a>
 
 ###### Article L533-2
 
@@ -31188,12 +31332,13 @@ _Cité par_:
   - Code monétaire et financier - art. L532-18-1 (MMN)
 
 
-##### Section 3 : Règles de bonne conduite<a id=364></a>
+##### Section 3 : Règles de bonne conduite<a id=366></a>
 
 ###### Article L533-4
 
-Les prestataires de services d'investissement et les personnes mentionnées à l'article L. 421-8, sont tenus de respecter des
-règles de bonne conduite destinées à garantir la protection des investisseurs et la régularité des opérations.
+Les prestataires de services d'investissement et les personnes mentionnées à l'article L. 421-8 ainsi que les personnes
+mentionnées à l'article L. 214-83-1, sont tenus de respecter des règles de bonne conduite destinées à garantir la protection
+des investisseurs et la régularité des opérations.
 
 Ces règles sont établies par le Conseil des marchés financiers et, pour celles ayant trait aux services définis au 4 de
 l'article L. 321-1, par la Commission des opérations de bourse.
@@ -31233,7 +31378,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 5° JORF 11 juillet 2001
 
 _Cité par_:
 
@@ -31522,7 +31670,7 @@ _Cité par_:
   - Code monétaire et financier - art. L533-20 (VD)
 
 
-##### Section 4 : Garantie des investisseurs.<a id=365></a>
+##### Section 4 : Garantie des investisseurs.<a id=367></a>
 
 ###### Article L533-13
 
@@ -31575,7 +31723,7 @@ _Cite_:
   - Code monétaire et financier L421-8, L322-1 à L322-4
 
 
-### Titre IV : Les sociétés de gestion collective<a id=366></a>
+### Titre IV : Les sociétés de gestion collective<a id=368></a>
 
 ###### Article L540
 
@@ -31597,7 +31745,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L543-1 (Ab)
 
 
-### Titre V : Intermédiaires en biens divers<a id=367></a>
+### Titre V : Intermédiaires en biens divers<a id=369></a>
 
 ###### Article L550-1
 
@@ -31821,9 +31969,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L551-5 (V)
 
 
-### Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=368></a>
+### Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=370></a>
 
-#### Chapitre Ier : Déclaration de certaines sommes ou opérations<a id=369></a>
+#### Chapitre Ier : Déclaration de certaines sommes ou opérations<a id=371></a>
 
 ###### Article L561-1
 
@@ -31860,7 +32008,7 @@ _Cite_:
   - Code monétaire et financier - art. L574-1 (M)
 
 
-#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite<a id=370></a>
+#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite<a id=372></a>
 
 ###### Article L562-1
 
@@ -32386,7 +32534,7 @@ _Cite_:
   - Code monétaire et financier - art. L562-4 (M)
 
 
-#### Chapitre III : Autres obligations de vigilance des organismes financiers<a id=371></a>
+#### Chapitre III : Autres obligations de vigilance des organismes financiers<a id=373></a>
 
 ###### Article L563-1
 
@@ -32668,7 +32816,7 @@ _Cité par_:
   - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
 
 
-#### Chapitre IV : Dispositions diverses<a id=372></a>
+#### Chapitre IV : Dispositions diverses<a id=374></a>
 
 ###### Article L564-1
 
@@ -32806,11 +32954,11 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L565-3 (V)
 
 
-### Titre VII : Dispositions pénales<a id=373></a>
+### Titre VII : Dispositions pénales<a id=375></a>
 
-#### Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire<a id=374></a>
+#### Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire<a id=376></a>
 
-##### Section 1 : Dispositions générales<a id=375></a>
+##### Section 1 : Dispositions générales<a id=377></a>
 
 ###### Article L571-1
 
@@ -33098,9 +33246,9 @@ _Cité par_:
   - Code monétaire et financier - art. L571-14 (V)
 
 
-##### Section 2 : Banques mutualistes ou coopératives<a id=376></a>
+##### Section 2 : Banques mutualistes ou coopératives<a id=378></a>
 
-##### Sous-section 1 : Les banques populaires<a id=377></a>
+##### Sous-section 1 : Les banques populaires<a id=379></a>
 
 ###### Article L571-10
 
@@ -33124,7 +33272,7 @@ _Anciens textes_:
   - Loi n°1920-08-07 du 7 août 1920 - art. 3 (Ab)
 
 
-##### Sous-section 2 : Le réseau des caisses d'épargne<a id=378></a>
+##### Sous-section 2 : Le réseau des caisses d'épargne<a id=380></a>
 
 ###### Article L571-11
 
@@ -33149,7 +33297,7 @@ _Cite_:
   - Code monétaire et financier - art. L512-102 (V)
 
 
-##### Section 3 : Caisses de crédit municipal<a id=379></a>
+##### Section 3 : Caisses de crédit municipal<a id=381></a>
 
 ###### Article L571-12
 
@@ -33175,7 +33323,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 4 : Sociétés de crédit-bail<a id=380></a>
+##### Section 4 : Sociétés de crédit-bail<a id=382></a>
 
 ###### Article L571-13
 
@@ -33206,7 +33354,7 @@ _Cité par_:
   - Code monétaire et financier - art. L765-3 (V)
 
 
-##### Section 5 : Compagnies financières<a id=381></a>
+##### Section 5 : Compagnies financières<a id=383></a>
 
 ###### Article L571-14
 
@@ -33247,7 +33395,7 @@ _Cite_:
   - Code monétaire et financier - art. L517-1 (M)
 
 
-##### Section 6 : Intermédiaires en opérations de banque<a id=382></a>
+##### Section 6 : Intermédiaires en opérations de banque<a id=384></a>
 
 ###### Article L571-15
 
@@ -33315,7 +33463,7 @@ _Cite_:
   - Code monétaire et financier - art. L519-4 (V)
 
 
-#### Chapitre II : Changeurs manuels.<a id=383></a>
+#### Chapitre II : Changeurs manuels.<a id=385></a>
 
 ###### Article L572-1
 
@@ -33372,7 +33520,7 @@ _Cite_:
   - Code monétaire et financier - art. L520-4 (V)
 
 
-##### Section 1 : Changeurs manuels<a id=384></a>
+##### Section 1 : Changeurs manuels<a id=386></a>
 
 ###### Article L572-2
 
@@ -33417,7 +33565,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-2 (V)
 
 
-#### Chapitre III : Dispositions relatives aux prestataires de services d'investissement<a id=385></a>
+#### Chapitre III : Dispositions relatives aux prestataires de services d'investissement<a id=387></a>
 
 ###### Article L573-1
 
@@ -33675,7 +33823,7 @@ _Cite_:
   - Code monétaire et financier - art. L550-5 (M)
 
 
-#### Chapitre IV : Dispositions relatives au blanchiment de capitaux<a id=386></a>
+#### Chapitre IV : Dispositions relatives au blanchiment de capitaux<a id=388></a>
 
 ###### Article L574-1
 
@@ -33765,13 +33913,13 @@ _Cité par_:
   - Code monétaire et financier - art. L765-13 (M)
 
 
-## Livre VI : Les institutions en matière bancaire et financière<a id=387></a>
+## Livre VI : Les institutions en matière bancaire et financière<a id=389></a>
 
-### Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=388></a>
+### Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=390></a>
 
-#### Chapitre Ier : Comité de la réglementation bancaire et financière<a id=389></a>
+#### Chapitre Ier : Comité de la réglementation bancaire et financière<a id=391></a>
 
-##### Section 1 : Missions<a id=390></a>
+##### Section 1 : Missions<a id=392></a>
 
 ###### Article L611-1
 
@@ -34046,7 +34194,7 @@ _Cité par_:
   - Code monétaire et financier - art. L611-1 (M)
 
 
-##### Section 2 : Composition<a id=391></a>
+##### Section 2 : Composition<a id=393></a>
 
 ###### Article L611-7
 
@@ -34091,7 +34239,7 @@ _Cite_:
   - Code monétaire et financier - art. L532-9 (M)
 
 
-##### Section 3 : Règles de fonctionnement<a id=392></a>
+##### Section 3 : Règles de fonctionnement<a id=394></a>
 
 ###### Article L611-8
 
@@ -34136,9 +34284,9 @@ _Abrogé par_:
   - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 
-#### Chapitre II : Comité des établissements de crédit et des entreprises d'investissement<a id=393></a>
+#### Chapitre II : Comité des établissements de crédit et des entreprises d'investissement<a id=395></a>
 
-##### Section 1 : Missions.<a id=394></a>
+##### Section 1 : Missions.<a id=396></a>
 
 ###### Article L612-1
 
@@ -34337,7 +34485,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Composition.<a id=395></a>
+##### Section 2 : Composition.<a id=397></a>
 
 ###### Article L612-3
 
@@ -34382,7 +34530,7 @@ _Cite_:
   - Code monétaire et financier L312-4 à L312-18
 
 
-##### Section 3 : Règles de fonctionnement.<a id=396></a>
+##### Section 3 : Règles de fonctionnement.<a id=398></a>
 
 ###### Article L612-4
 
@@ -34529,9 +34677,9 @@ _Cité par_:
   - Code monétaire et financier - art. L766-2 (VD)
 
 
-#### Chapitre III : Commission bancaire<a id=397></a>
+#### Chapitre III : Commission bancaire<a id=399></a>
 
-##### Section 1 : Missions<a id=398></a>
+##### Section 1 : Missions<a id=400></a>
 
 ###### Article L613-1
 
@@ -34618,7 +34766,7 @@ _Cité par_:
   - Code monétaire et financier - art. L613-9 (Ab)
 
 
-##### Section 2 : Composition.<a id=399></a>
+##### Section 2 : Composition.<a id=401></a>
 
 ###### Article L613-3
 
@@ -34644,7 +34792,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 3 : Règles de fonctionnement.<a id=400></a>
+##### Section 3 : Règles de fonctionnement.<a id=402></a>
 
 ###### Article L613-4
 
@@ -34698,7 +34846,7 @@ _Abrogé par_:
   - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
 
 
-##### Section 4 : Exercice du contrôle.<a id=401></a>
+##### Section 4 : Exercice du contrôle.<a id=403></a>
 
 ###### Article L613-6
 
@@ -35208,7 +35356,7 @@ _Cité par_:
   - Code monétaire et financier - art. L641-2 (Ab)
 
 
-##### Sous-section 1 : Dispositions générales.<a id=402></a>
+##### Sous-section 1 : Dispositions générales.<a id=404></a>
 
 ###### Article L613-13
 
@@ -35261,7 +35409,7 @@ _Modifié par_:
   - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
 
 
-##### Section 5 : Exercice du pouvoir disciplinaire.<a id=403></a>
+##### Section 5 : Exercice du pouvoir disciplinaire.<a id=405></a>
 
 ###### Article L613-21
 
@@ -35489,7 +35637,7 @@ _Cite_:
   - Code monétaire et financier L571-3 à L571-11, L571-14 à L571-16
 
 
-##### Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires.<a id=404></a>
+##### Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires.<a id=406></a>
 
 ###### Article L613-25
 
@@ -35707,7 +35855,7 @@ _Cite_:
   - Code monétaire et financier L613-25 à L613-30, L431-6
 
 
-##### Section 7 : Régime de contrôle spécifique.<a id=405></a>
+##### Section 7 : Régime de contrôle spécifique.<a id=407></a>
 
 ###### Article L613-32
 
@@ -35816,7 +35964,7 @@ _Cité par_:
   - Code monétaire et financier - art. R613-34 (VD)
 
 
-##### Section 8 : Mise en oeuvre du fonds de garantie des dépôts.<a id=406></a>
+##### Section 8 : Mise en oeuvre du fonds de garantie des dépôts.<a id=408></a>
 
 ###### Article L613-34
 
@@ -35902,11 +36050,11 @@ _Cité par_:
   - Code monétaire et financier - art. R613-73 (V)
 
 
-#### Chapitre IV : Institutions consultatives<a id=407></a>
+#### Chapitre IV : Institutions consultatives<a id=409></a>
 
-##### Section 1 : Conseil national du crédit et du titre et comité consultatif<a id=408></a>
+##### Section 1 : Conseil national du crédit et du titre et comité consultatif<a id=410></a>
 
-##### Sous-section 1 : Conseil national du crédit et du titre<a id=409></a>
+##### Sous-section 1 : Conseil national du crédit et du titre<a id=411></a>
 
 ###### Article L614-1
 
@@ -36093,7 +36241,7 @@ _Cité par_:
   - Code monétaire et financier - art. L614-1 (M)
 
 
-##### Sous-section 2 : Comité consultatif<a id=410></a>
+##### Sous-section 2 : Comité consultatif<a id=412></a>
 
 ###### Article L614-6
 
@@ -36131,7 +36279,7 @@ _Cité par_:
   - Code monétaire et financier - art. L312-1-3 (M)
 
 
-##### Section 2 : Haut conseil du secteur financier public et semi-public<a id=411></a>
+##### Section 2 : Haut conseil du secteur financier public et semi-public<a id=413></a>
 
 ###### Article L614-7
 
@@ -36163,11 +36311,11 @@ _Abrogé par_:
   - Décret n°2008-1029 du 9 octobre 2008 - art. 1
 
 
-### Titre II : Les autorités des marchés financiers<a id=412></a>
+### Titre II : Les autorités des marchés financiers<a id=414></a>
 
-#### Chapitre Ier : Commission des opérations de bourse<a id=413></a>
+#### Chapitre Ier : Commission des opérations de bourse<a id=415></a>
 
-##### Section 1 : Missions<a id=414></a>
+##### Section 1 : Missions<a id=416></a>
 
 ###### Article L621-1
 
@@ -36204,7 +36352,7 @@ _Cité par_:
   - Code monétaire et financier - art. L766-5 (VT)
 
 
-##### Section 2 : Composition<a id=415></a>
+##### Section 2 : Composition<a id=417></a>
 
 ###### Article L621-2
 
@@ -36267,7 +36415,7 @@ _Cité par_:
   - Code monétaire et financier - art. R621-7 (V)
 
 
-##### Section 3 : Règles de fonctionnement<a id=416></a>
+##### Section 3 : Règles de fonctionnement<a id=418></a>
 
 ###### Article L621-3
 
@@ -36406,9 +36554,9 @@ _Cite_:
   - Code monétaire et financier - art. L621-15 (M)
 
 
-##### Section 4 : Pouvoirs<a id=417></a>
+##### Section 4 : Pouvoirs<a id=419></a>
 
-##### Sous-section 1 : Réglementation<a id=418></a>
+##### Sous-section 1 : Réglementation<a id=420></a>
 
 ###### Article L621-6
 
@@ -36494,7 +36642,7 @@ _Cite_:
   - Code monétaire et financier - art. L321-1 (M)
 
 
-##### Sous-section 2 : Autorisation des opérations d'appel public à l'épargne<a id=419></a>
+##### Sous-section 2 : Autorisation des opérations d'appel public à l'épargne<a id=421></a>
 
 ###### Article L621-8
 
@@ -36566,7 +36714,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Sous-section 3 : Enquête<a id=420></a>
+##### Sous-section 3 : Enquête<a id=422></a>
 
 ###### Article L621-9
 
@@ -36795,7 +36943,7 @@ _Cité par_:
   - Code monétaire et financier - art. L642-3 (V)
 
 
-##### Sous-section 4 : Injonctions et sanctions administratives<a id=421></a>
+##### Sous-section 4 : Injonctions et sanctions administratives<a id=423></a>
 
 ###### Article L621-14
 
@@ -37006,7 +37154,7 @@ _Cité par_:
   - Code monétaire et financier - art. L621-2 (V)
 
 
-##### Sous-section 5 : Autres compétences<a id=422></a>
+##### Sous-section 5 : Autres compétences<a id=424></a>
 
 ###### Article L621-18
 
@@ -37172,7 +37320,7 @@ _Cite_:
   - Code monétaire et financier - art. L621-3 (M)
 
 
-##### Section 5 : Contrôle des gestionnaires de portefeuille<a id=423></a>
+##### Section 5 : Contrôle des gestionnaires de portefeuille<a id=425></a>
 
 ###### Article L621-22
 
@@ -37373,6 +37521,31 @@ _Cité par_:
   - Code monétaire et financier - art. L621-26-1 (Ab)
 
 
+###### Article L621-26-1
+
+Les articles L. 621-25 et L. 621-26 sont applicables aux sociétés de gestion des sociétés civiles de placement immobilier et
+des sociétés d'épargne forestière ainsi qu'aux personnes agissant sous leur autorité ou pour leur compte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-602 2001-07-09 art. 9 V 8° JORF 11 juillet 2001
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L621-25 (M)
+  - Code monétaire et financier - art. L621-26 (M)
+
+
 ###### Article L621-27
 
 La Commission des opérations de bourse informe, le cas échéant, la Commission européenne et les autorités compétentes des
@@ -37395,7 +37568,7 @@ _Abrogé par_:
   - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 
-##### Section 6 : Comité consultatif de la gestion financière<a id=424></a>
+##### Section 6 : Comité consultatif de la gestion financière<a id=426></a>
 
 ###### Article L621-28
 
@@ -37468,7 +37641,7 @@ _Cité par_:
   - Code monétaire et financier - art. L532-9 (M)
 
 
-##### Section 7 : Voies de recours<a id=425></a>
+##### Section 7 : Voies de recours<a id=427></a>
 
 ###### Article L621-30
 
@@ -37533,11 +37706,11 @@ _Cite_:
   - Code monétaire et financier L621-24 à L621-27
 
 
-#### Chapitre II : Conseil des marchés financiers<a id=426></a>
+#### Chapitre II : Conseil des marchés financiers<a id=428></a>
 
-##### Section 1 : Organisation<a id=427></a>
+##### Section 1 : Organisation<a id=429></a>
 
-##### Sous-section 1 : Composition et mode de décision<a id=428></a>
+##### Sous-section 1 : Composition et mode de décision<a id=430></a>
 
 ###### Article L622-1
 
@@ -37638,7 +37811,7 @@ _Cite_:
   - Code monétaire et financier - art. L622-4 (Ab)
 
 
-##### Sous-section 2 : Formations spécialisées<a id=429></a>
+##### Sous-section 2 : Formations spécialisées<a id=431></a>
 
 ###### Article L622-3
 
@@ -37683,7 +37856,7 @@ _Cite_:
   - Code monétaire et financier L433-1 à L433-4
 
 
-##### Sous-section 3 : Formations disciplinaires<a id=430></a>
+##### Sous-section 3 : Formations disciplinaires<a id=432></a>
 
 ###### Article L622-4
 
@@ -37721,7 +37894,7 @@ _Cité par_:
   - Code monétaire et financier - art. L622-2 (Ab)
 
 
-##### Sous-section 4 : Obligations déontologiques et professionnelles<a id=431></a>
+##### Sous-section 4 : Obligations déontologiques et professionnelles<a id=433></a>
 
 ###### Article L622-5
 
@@ -37783,9 +37956,9 @@ _Cite_:
   - Code monétaire et financier - art. L642-4 (Ab)
 
 
-##### Section 2 : Attributions<a id=432></a>
+##### Section 2 : Attributions<a id=434></a>
 
-##### Sous-section 1 : Attributions réglementaires<a id=433></a>
+##### Sous-section 1 : Attributions réglementaires<a id=435></a>
 
 ###### Article L622-7
 
@@ -37879,7 +38052,7 @@ _Cité par_:
   - Code monétaire et financier - art. L441-2 (Ab)
 
 
-##### Sous-section 2 : Pouvoirs de décision, de contrôle et de sanction<a id=434></a>
+##### Sous-section 2 : Pouvoirs de décision, de contrôle et de sanction<a id=436></a>
 
 ###### Article L622-8
 
@@ -38370,7 +38543,7 @@ _Abrogé par_:
   - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 
-##### Sous-section 3 : Autres attributions<a id=435></a>
+##### Sous-section 3 : Autres attributions<a id=437></a>
 
 ###### Article L622-21
 
@@ -38467,7 +38640,7 @@ _Abrogé par_:
   - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 
-##### Section 3 : Voies de recours<a id=436></a>
+##### Section 3 : Voies de recours<a id=438></a>
 
 ###### Article L622-25
 
@@ -38500,9 +38673,9 @@ _Cite_:
   - Code monétaire et financier - art. L532-1 (M)
 
 
-#### Chapitre III : Conseil de discipline de la gestion financière<a id=437></a>
+#### Chapitre III : Conseil de discipline de la gestion financière<a id=439></a>
 
-##### Section 1 : Composition<a id=438></a>
+##### Section 1 : Composition<a id=440></a>
 
 ###### Article L623-1
 
@@ -38563,7 +38736,7 @@ _Cité par_:
   - Code monétaire et financier - art. L621-25 (M)
 
 
-##### Section 2 : Exercice du pouvoir disciplinaire<a id=439></a>
+##### Section 2 : Exercice du pouvoir disciplinaire<a id=441></a>
 
 ###### Article L623-2
 
@@ -38651,11 +38824,11 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-### Titre III : Échanges d'informations<a id=440></a>
+### Titre III : Échanges d'informations<a id=442></a>
 
-#### Chapitre Ier : Echanges d'informations sur le territoire national<a id=441></a>
+#### Chapitre Ier : Echanges d'informations sur le territoire national<a id=443></a>
 
-##### Section 1 : Echange d'informations entre les autorités<a id=442></a>
+##### Section 1 : Echange d'informations entre les autorités<a id=444></a>
 
 ###### Article L631-1
 
@@ -38717,7 +38890,7 @@ _Cite_:
   - Code des assurances - art. L423-1 (V)
 
 
-##### Section 2 : Le collège des autorités de contrôle des entreprises du secteur financier<a id=443></a>
+##### Section 2 : Le collège des autorités de contrôle des entreprises du secteur financier<a id=445></a>
 
 ###### Article L631-2
 
@@ -38767,7 +38940,7 @@ _Cité par_:
   - Code monétaire et financier - art. R631-3 (V)
 
 
-#### Chapitre II : Echanges d'informations avec l'étranger<a id=444></a>
+#### Chapitre II : Echanges d'informations avec l'étranger<a id=446></a>
 
 ###### Article L632-1
 
@@ -38812,11 +38985,11 @@ _Cité par_:
   - Code monétaire et financier - art. L766-8 (AbD)
 
 
-### Titre IV : Dispositions pénales<a id=445></a>
+### Titre IV : Dispositions pénales<a id=447></a>
 
-#### Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=446></a>
+#### Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=448></a>
 
-##### Section 1 : Comité des établissements de crédit et des entreprises d'investissement<a id=447></a>
+##### Section 1 : Comité des établissements de crédit et des entreprises d'investissement<a id=449></a>
 
 ###### Article L641-1
 
@@ -38852,7 +39025,7 @@ _Cité par_:
   - Code monétaire et financier - art. L766-2 (VD)
 
 
-##### Section 2 : Commission bancaire<a id=448></a>
+##### Section 2 : Commission bancaire<a id=450></a>
 
 ###### Article L641-2
 
@@ -38888,9 +39061,9 @@ _Cité par_:
   - Code monétaire et financier - art. L766-3 (VD)
 
 
-#### Chapitre II : Dispositions relatives aux autorités des marchés financiers<a id=449></a>
+#### Chapitre II : Dispositions relatives aux autorités des marchés financiers<a id=451></a>
 
-##### Section 1 : Commission des opérations de bourse<a id=450></a>
+##### Section 1 : Commission des opérations de bourse<a id=452></a>
 
 ###### Article L642-1
 
@@ -38990,7 +39163,7 @@ _Cite_:
   - Code monétaire et financier - art. L621-13 (M)
 
 
-##### Section 2 : Conseil des marchés financiers<a id=451></a>
+##### Section 2 : Conseil des marchés financiers<a id=453></a>
 
 ###### Article L642-4
 
@@ -39064,7 +39237,7 @@ _Cité par_:
   - Code monétaire et financier - art. L766-6 (Ab)
 
 
-##### Section 3 : Conseil de discipline de la gestion financière<a id=452></a>
+##### Section 3 : Conseil de discipline de la gestion financière<a id=454></a>
 
 ###### Article L642-6
 
@@ -39133,13 +39306,13 @@ _Cité par_:
   - Code monétaire et financier - art. L766-7 (Ab)
 
 
-## Livre VII : Régime de l'outre-mer<a id=453></a>
+## Livre VII : Régime de l'outre-mer<a id=455></a>
 
-### Titre Ier : Dispositions communes à plusieurs collectivités territoriales<a id=454></a>
+### Titre Ier : Dispositions communes à plusieurs collectivités territoriales<a id=456></a>
 
-#### Chapitre Ier : Dispositions applicables dans les départements d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=455></a>
+#### Chapitre Ier : Dispositions applicables dans les départements d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=457></a>
 
-##### Section 1 : Les signes monétaires<a id=456></a>
+##### Section 1 : Les signes monétaires<a id=458></a>
 
 ###### Article L711-1
 
@@ -39177,7 +39350,7 @@ _Cite_:
   - Code monétaire et financier - art. L141-5 (M)
 
 
-##### Section 2 : L'institut d'émission des départements d'outre-mer<a id=457></a>
+##### Section 2 : L'institut d'émission des départements d'outre-mer<a id=459></a>
 
 ###### Article L711-2
 
@@ -39444,9 +39617,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-#### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna<a id=458></a>
+#### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna<a id=460></a>
 
-##### Section 1 : Les signes monétaires<a id=459></a>
+##### Section 1 : Les signes monétaires<a id=461></a>
 
 ###### Article L712-1
 
@@ -39509,7 +39682,7 @@ _Cite_:
   - Code monétaire et financier - art. L712-4 (M)
 
 
-##### Section 2 : L'institut d'émission d'outre-mer<a id=460></a>
+##### Section 2 : L'institut d'émission d'outre-mer<a id=462></a>
 
 ###### Article L712-4
 
@@ -39535,7 +39708,7 @@ _Cité par_:
   - Code monétaire et financier - art. L712-3 (V)
 
 
-##### Section 3 : Les instruments de la monnaie scripturale<a id=461></a>
+##### Section 3 : Les instruments de la monnaie scripturale<a id=463></a>
 
 ###### Article L712-5
 
@@ -39580,11 +39753,11 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 74-3
 
 
-### Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=462></a>
+### Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=464></a>
 
-#### Chapitre Ier : La monnaie<a id=463></a>
+#### Chapitre Ier : La monnaie<a id=465></a>
 
-##### Section 1 : Règles d'usage de la monnaie<a id=464></a>
+##### Section 1 : Règles d'usage de la monnaie<a id=466></a>
 
 ###### Article L721-1
 
@@ -39607,9 +39780,9 @@ _Cite_:
   - Code monétaire et financier - art. L131-71 (M)
 
 
-##### Section 2 : Les relations financières avec l'étranger<a id=465></a>
+##### Section 2 : Les relations financières avec l'étranger<a id=467></a>
 
-##### Sous-section 1 : Obligations de déclaration<a id=466></a>
+##### Sous-section 1 : Obligations de déclaration<a id=468></a>
 
 ###### Article L721-2
 
@@ -39658,7 +39831,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Sous-section 2 : Constatation et poursuite des infractions<a id=467></a>
+##### Sous-section 2 : Constatation et poursuite des infractions<a id=469></a>
 
 ###### Article L721-3
 
@@ -39712,9 +39885,9 @@ _Cite_:
   - Code monétaire et financier - art. L721-3 (M)
 
 
-#### Chapitre II : Les produits<a id=468></a>
+#### Chapitre II : Les produits<a id=470></a>
 
-##### Section 1 : Les organismes de placements collectifs<a id=469></a>
+##### Section 1 : Les organismes de placements collectifs<a id=471></a>
 
 ###### Article L722-1
 
@@ -39731,7 +39904,7 @@ _Cite_:
   - Code monétaire et financier - art. L214-41 (M)
 
 
-##### Section 2 : Les produits à régime fiscal spécifique<a id=470></a>
+##### Section 2 : Les produits à régime fiscal spécifique<a id=472></a>
 
 ###### Article L722-2
 
@@ -39763,7 +39936,7 @@ _Cite_:
   - Code monétaire et financier - art. L222-1 (V)
 
 
-#### Chapitre III : Les services<a id=471></a>
+#### Chapitre III : Les services<a id=473></a>
 
 ###### Article L723-1
 
@@ -39782,7 +39955,7 @@ _Cite_:
   - Code monétaire et financier - art. L312-3 (M)
 
 
-#### Chapitre IV : Les marchés<a id=472></a>
+#### Chapitre IV : Les marchés<a id=474></a>
 
 ###### Article L724-1
 
@@ -39799,9 +39972,9 @@ _Cite_:
   - Code monétaire et financier L432-6 à L432-19
 
 
-#### Chapitre V : Les prestataires de services<a id=473></a>
+#### Chapitre V : Les prestataires de services<a id=475></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=474></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=476></a>
 
 ###### Article L725-1
 
@@ -39825,7 +39998,7 @@ _Cite_:
   - Code monétaire et financier L511-12, L511-21 à L511-28, L613-33
 
 
-##### Section 2 : Les prestataires de services d'investissement<a id=475></a>
+##### Section 2 : Les prestataires de services d'investissement<a id=477></a>
 
 ###### Article L725-2
 
@@ -39853,7 +40026,7 @@ _Cite_:
   - Code monétaire et financier L531-3, L532-16 à L532-27, L532-5, L422-1, L532-23 à L532-26
 
 
-##### Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=476></a>
+##### Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=478></a>
 
 ###### Article L725-3
 
@@ -39880,9 +40053,9 @@ _Cite_:
   - Code monétaire et financier - art. L563-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=477></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=479></a>
 
-##### Section 1 : Le comité des établissements de crédit et des entreprises d'investissement<a id=478></a>
+##### Section 1 : Le comité des établissements de crédit et des entreprises d'investissement<a id=480></a>
 
 ###### Article L726-1
 
@@ -39906,7 +40079,7 @@ _Cite_:
   - Code monétaire et financier - art. L612-6 (M)
 
 
-##### Section 2 : La commission bancaire<a id=479></a>
+##### Section 2 : La commission bancaire<a id=481></a>
 
 ###### Article L726-2
 
@@ -39930,7 +40103,7 @@ _Cite_:
   - Code monétaire et financier L613-12 à L613-14, L613-33
 
 
-##### Section 4 : Le Conseil des marchés financiers<a id=480></a>
+##### Section 4 : Le Conseil des marchés financiers<a id=482></a>
 
 ###### Article L726-4
 
@@ -39953,11 +40126,11 @@ _Cite_:
   - Code monétaire et financier - art. L622-14 (Ab)
 
 
-### Titre III : Dispositions applicables à mayotte<a id=481></a>
+### Titre III : Dispositions applicables à mayotte<a id=483></a>
 
-#### Chapitre Ier : La monnaie<a id=482></a>
+#### Chapitre Ier : La monnaie<a id=484></a>
 
-##### Section 1 : Les instruments de la monnaie scripturale<a id=483></a>
+##### Section 1 : Les instruments de la monnaie scripturale<a id=485></a>
 
 ###### Article L731-1
 
@@ -39990,9 +40163,9 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 74-3
 
 
-##### Section 2 : Les relations financières avec l'étranger<a id=484></a>
+##### Section 2 : Les relations financières avec l'étranger<a id=486></a>
 
-##### Sous-section 1 : Dispositions générales<a id=485></a>
+##### Sous-section 1 : Dispositions générales<a id=487></a>
 
 ###### Article L731-2
 
@@ -40022,7 +40195,7 @@ _Cite_:
   - Code monétaire et financier L151-1 à L151-4, L165-1, L151-2
 
 
-##### Sous-section 2 : Obligations de déclaration<a id=486></a>
+##### Sous-section 2 : Obligations de déclaration<a id=488></a>
 
 ###### Article L731-3
 
@@ -40069,7 +40242,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Sous-section 3 : Constatation et poursuite des infractions<a id=487></a>
+##### Sous-section 3 : Constatation et poursuite des infractions<a id=489></a>
 
 ###### Article L731-4
 
@@ -40120,11 +40293,11 @@ _Cite_:
   - Code monétaire et financier - art. L731-4 (M)
 
 
-#### Chapitre II : Les produits<a id=488></a>
+#### Chapitre II : Les produits<a id=490></a>
 
-##### Section 1 : Les instruments financiers<a id=489></a>
+##### Section 1 : Les instruments financiers<a id=491></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=490></a>
+##### Sous-section 1 : Définition et règles générales<a id=492></a>
 
 ###### Article L732-1
 
@@ -40151,7 +40324,7 @@ _Cite_:
   - Code monétaire et financier L211-1 à L211-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=491></a>
+##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=493></a>
 
 ###### Article L732-2
 
@@ -40170,9 +40343,9 @@ _Cite_:
   - Code monétaire et financier L212-1, L212-2, L212-4 à L212-12
 
 
-##### Sous-section 3 : Les titres de créance<a id=492></a>
+##### Sous-section 3 : Les titres de créance<a id=494></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=493></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=495></a>
 
 ###### Article L732-3
 
@@ -40194,7 +40367,7 @@ _Cite_:
   - Code monétaire et financier L213-1 à L213-4, L213-3
 
 
-##### Paragraphe 2 : Les obligations<a id=494></a>
+##### Paragraphe 2 : Les obligations<a id=496></a>
 
 ###### Article L732-4
 
@@ -40236,7 +40409,7 @@ _Cite_:
   - Code monétaire et financier - art. L213-7 (V)
 
 
-##### Paragraphe 3 : Les titres participatifs<a id=495></a>
+##### Paragraphe 3 : Les titres participatifs<a id=497></a>
 
 ###### Article L732-6
 
@@ -40255,7 +40428,7 @@ _Cite_:
   - Code de commerce. - art. L228-37 (V)
 
 
-##### Sous-section 4 : Les placements collectifs<a id=496></a>
+##### Sous-section 4 : Les placements collectifs<a id=498></a>
 
 ###### Article L732-7
 
@@ -40296,7 +40469,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les produits d'épargne<a id=497></a>
+##### Section 2 : Les produits d'épargne<a id=499></a>
 
 ###### Article L732-8
 
@@ -40320,11 +40493,11 @@ _Cite_:
   - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
 
 
-#### Chapitre III : Les services<a id=498></a>
+#### Chapitre III : Les services<a id=500></a>
 
-##### Section 1 : Les opérations de banque<a id=499></a>
+##### Section 1 : Les opérations de banque<a id=501></a>
 
-##### Sous-section 1 : Dispositions générales<a id=500></a>
+##### Sous-section 1 : Dispositions générales<a id=502></a>
 
 ###### Article L733-1
 
@@ -40345,7 +40518,7 @@ _Cite_:
   - Code monétaire et financier L311-1 à L311-3
 
 
-##### Sous-section 2 : Comptes et dépôts<a id=501></a>
+##### Sous-section 2 : Comptes et dépôts<a id=503></a>
 
 ###### Article L733-2
 
@@ -40375,9 +40548,9 @@ _Cite_:
   - Code monétaire et financier - art. L352-1
 
 
-##### Sous-section 3 : Crédits<a id=502></a>
+##### Sous-section 3 : Crédits<a id=504></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=503></a>
+##### Paragraphe 1 : Dispositions générales<a id=505></a>
 
 ###### Article L733-3
 
@@ -40401,9 +40574,9 @@ _Cite_:
   - Code monétaire et financier L313-1 à L313-5
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=504></a>
+##### Paragraphe 2 : Catégories de crédits<a id=506></a>
 
-##### Sous-paragraphe 1 : Crédit-bail<a id=505></a>
+##### Sous-paragraphe 1 : Crédit-bail<a id=507></a>
 
 ###### Article L733-4
 
@@ -40428,7 +40601,7 @@ _Cite_:
   - Code monétaire et financier L313-7 à L313-11
 
 
-##### Sous-paragraphe 2 : Crédits aux entreprises<a id=506></a>
+##### Sous-paragraphe 2 : Crédits aux entreprises<a id=508></a>
 
 ###### Article L733-5
 
@@ -40455,7 +40628,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-22 (M)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=507></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=509></a>
 
 ###### Article L733-6
 
@@ -40480,7 +40653,7 @@ _Cite_:
   - Code monétaire et financier L313-23 à L313-41
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=508></a>
+##### Paragraphe 4 : Garantie des cautions<a id=510></a>
 
 ###### Article L733-7
 
@@ -40506,7 +40679,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-51
 
 
-##### Section 2 : Les services d'investissement et leurs services connexes<a id=509></a>
+##### Section 2 : Les services d'investissement et leurs services connexes<a id=511></a>
 
 ###### Article L733-8
 
@@ -40530,7 +40703,7 @@ _Cite_:
   - Code monétaire et financier L322-22, L312-17, L312-18
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=510></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=512></a>
 
 ###### Article L733-9
 
@@ -40553,9 +40726,9 @@ _Cite_:
   - Code monétaire et financier - art. L330-2 (M)
 
 
-##### Section 4 : Démarchage<a id=511></a>
+##### Section 4 : Démarchage<a id=513></a>
 
-##### Sous-section 1 : Démarchage concernant les opérations de banque.<a id=512></a>
+##### Sous-section 1 : Démarchage concernant les opérations de banque.<a id=514></a>
 
 ###### Article L733-10
 
@@ -40577,7 +40750,7 @@ _Cite_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=513></a>
+##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=515></a>
 
 ###### Article L733-11
 
@@ -40602,11 +40775,11 @@ _Cite_:
   - Code monétaire et financier - art. L353-6 (M)
 
 
-#### Chapitre IV : Les marchés<a id=514></a>
+#### Chapitre IV : Les marchés<a id=516></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=515></a>
+##### Section 1 : L'appel public à l'épargne<a id=517></a>
 
-##### Sous-section 1 : Définition<a id=516></a>
+##### Sous-section 1 : Définition<a id=518></a>
 
 ###### Article L734-1
 
@@ -40628,7 +40801,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne<a id=517></a>
+##### Sous-section 2 : Conditions de l'appel public à l'épargne<a id=519></a>
 
 ###### Article L734-2
 
@@ -40650,7 +40823,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Section 2 : Les catégories de marché<a id=518></a>
+##### Section 2 : Les catégories de marché<a id=520></a>
 
 ###### Article L734-3
 
@@ -40703,11 +40876,11 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=519></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=521></a>
 
-##### Sous-section 1 : Dispositions générales<a id=520></a>
+##### Sous-section 1 : Dispositions générales<a id=522></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=521></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=523></a>
 
 ###### Article L734-5
 
@@ -40748,7 +40921,7 @@ _Cite_:
   - Code monétaire et financier L431-3 à L431-6
 
 
-##### Paragraphe 2 : Compensation<a id=522></a>
+##### Paragraphe 2 : Compensation<a id=524></a>
 
 ###### Article L734-7
 
@@ -40769,9 +40942,9 @@ _Cite_:
   - Code monétaire et financier - art. L431-7 (M)
 
 
-##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=523></a>
+##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=525></a>
 
-##### Paragraphe 1 : Adjudication<a id=524></a>
+##### Paragraphe 1 : Adjudication<a id=526></a>
 
 ###### Article L734-8
 
@@ -40792,7 +40965,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-5 (V)
 
 
-##### Paragraphe 2 : Les opérations à terme<a id=525></a>
+##### Paragraphe 2 : Les opérations à terme<a id=527></a>
 
 ###### Article L734-9
 
@@ -40814,7 +40987,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-21 (Ab)
 
 
-##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=526></a>
+##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=528></a>
 
 ###### Article L734-10
 
@@ -40831,7 +41004,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=527></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=529></a>
 
 ###### Article L734-11
 
@@ -40855,9 +41028,9 @@ _Cite_:
   - Code monétaire et financier - art. L464-1 (M)
 
 
-##### Section 5 : La protection des investisseurs<a id=528></a>
+##### Section 5 : La protection des investisseurs<a id=530></a>
 
-##### Sous-section 1 : Obligations d'information relatives aux comptes<a id=529></a>
+##### Sous-section 1 : Obligations d'information relatives aux comptes<a id=531></a>
 
 ###### Article L734-12
 
@@ -40878,7 +41051,7 @@ _Cite_:
   - Code monétaire et financier L465-1 à L465-3
 
 
-##### Sous-section 2 : Obligations d'information sur les prises de participation<a id=530></a>
+##### Sous-section 2 : Obligations d'information sur les prises de participation<a id=532></a>
 
 ###### Article L734-13
 
@@ -40904,9 +41077,9 @@ _Cite_:
   - Code monétaire et financier - art. L466-1 (M)
 
 
-#### Chapitre V : Les prestataires de services<a id=531></a>
+#### Chapitre V : Les prestataires de services<a id=533></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=532></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=534></a>
 
 ###### Article L735-1
 
@@ -40932,9 +41105,9 @@ _Cite_:
   - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9
 
 
-##### Sous-section 1 : Les sociétés financières<a id=533></a>
+##### Sous-section 1 : Les sociétés financières<a id=535></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=534></a>
+##### Paragraphe 1 : Dispositions communes<a id=536></a>
 
 ###### Article L735-2
 
@@ -40955,7 +41128,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-1 (M)
 
 
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=535></a>
+##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=537></a>
 
 ###### Article L735-3
 
@@ -40978,7 +41151,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-13 (V)
 
 
-##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=536></a>
+##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=538></a>
 
 ###### Article L735-4
 
@@ -40995,7 +41168,7 @@ _Cite_:
   - Code monétaire et financier L515-4 à L515-12
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=537></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=539></a>
 
 ###### Article L735-5
 
@@ -41021,7 +41194,7 @@ _Cite_:
   - Code monétaire et financier - art. L516-2 (M)
 
 
-##### Sous-section 3 : Les compagnies financières<a id=538></a>
+##### Sous-section 3 : Les compagnies financières<a id=540></a>
 
 ###### Article L735-6
 
@@ -41047,7 +41220,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-14 (M)
 
 
-##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=539></a>
+##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=541></a>
 
 ###### Article L735-7
 
@@ -41074,7 +41247,7 @@ _Cite_:
   - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
 
 
-##### Section 2 : Les changeurs manuels<a id=540></a>
+##### Section 2 : Les changeurs manuels<a id=542></a>
 
 ###### Article L735-8
 
@@ -41101,9 +41274,9 @@ _Cite_:
   - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=541></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=543></a>
 
-##### Sous-section 1 : Définitions<a id=542></a>
+##### Sous-section 1 : Définitions<a id=544></a>
 
 ###### Article L735-9
 
@@ -41133,7 +41306,7 @@ _Cite_:
   - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
 
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=543></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=545></a>
 
 ###### Article L735-10
 
@@ -41165,7 +41338,7 @@ _Cite_:
   - Code monétaire et financier L532-16 à L532-27, L532-5, L422-1, L532-23 à L532-26
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=544></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=546></a>
 
 ###### Article L735-11
 
@@ -41192,7 +41365,7 @@ _Cite_:
   - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Les intermédiaires en biens divers<a id=545></a>
+##### Section 4 : Les intermédiaires en biens divers<a id=547></a>
 
 ###### Article L735-12
 
@@ -41215,7 +41388,7 @@ _Cite_:
   - Code monétaire et financier - art. L573-8 (V)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=546></a>
+##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=548></a>
 
 ###### Article L735-13
 
@@ -41243,7 +41416,7 @@ _Cite_:
   - Code monétaire et financier - art. L574-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=547></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=549></a>
 
 ###### Article L736-5
 
@@ -41289,9 +41462,9 @@ _Cite_:
   - Code monétaire et financier - art. L632-1 (M)
 
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=548></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=550></a>
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=549></a>
+##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=551></a>
 
 ###### Article L736-1
 
@@ -41309,7 +41482,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=550></a>
+##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=552></a>
 
 ###### Article L736-2
 
@@ -41338,7 +41511,7 @@ _Cite_:
   - Code monétaire et financier L612-1, L612-2, L612-3 à L612-6, L612-7, L641-1
 
 
-##### Sous-section 3 : La commission bancaire<a id=551></a>
+##### Sous-section 3 : La commission bancaire<a id=553></a>
 
 ###### Article L736-3
 
@@ -41365,7 +41538,7 @@ _Cite_:
   - Code monétaire et financier L613-12 à L613-14, L613-33, L641-2
 
 
-##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=552></a>
+##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=554></a>
 
 ###### Article L736-4
 
@@ -41383,9 +41556,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les autorités des marchés financiers<a id=553></a>
+##### Section 2 : Les autorités des marchés financiers<a id=555></a>
 
-##### Sous-section 2 : Le Conseil des marchés financiers<a id=554></a>
+##### Sous-section 2 : Le Conseil des marchés financiers<a id=556></a>
 
 ###### Article L736-6
 
@@ -41413,7 +41586,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-5 (Ab)
 
 
-##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=555></a>
+##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=557></a>
 
 ###### Article L736-7
 
@@ -41439,11 +41612,11 @@ _Cite_:
   - Code monétaire et financier - art. L642-7 (Ab)
 
 
-### Titre IV : Dispositions applicables en Nouvelle-Calédonie<a id=556></a>
+### Titre IV : Dispositions applicables en Nouvelle-Calédonie<a id=558></a>
 
-#### Chapitre Ier : La monnaie<a id=557></a>
+#### Chapitre Ier : La monnaie<a id=559></a>
 
-##### Section 1 : Règles d'usage de la monnaie<a id=558></a>
+##### Section 1 : Règles d'usage de la monnaie<a id=560></a>
 
 ###### Article L741-1
 
@@ -41463,7 +41636,7 @@ _Cite_:
   - Code monétaire et financier - art. L112-6 (M)
 
 
-##### Section 2 : Les instruments de la monnaie scripturale<a id=559></a>
+##### Section 2 : Les instruments de la monnaie scripturale<a id=561></a>
 
 ###### Article L741-2
 
@@ -41494,9 +41667,9 @@ _Cite_:
   - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1, L132-2, L163-1 à L163-12
 
 
-##### Section 3 : Les relations financières avec l'étranger<a id=560></a>
+##### Section 3 : Les relations financières avec l'étranger<a id=562></a>
 
-##### Sous-section 1 : Dispositions générales<a id=561></a>
+##### Sous-section 1 : Dispositions générales<a id=563></a>
 
 ###### Article L741-3
 
@@ -41527,7 +41700,7 @@ _Cite_:
   - Code monétaire et financier - art. L165-1 (V)
 
 
-##### Sous-section 2 : Obligations de déclaration<a id=562></a>
+##### Sous-section 2 : Obligations de déclaration<a id=564></a>
 
 ###### Article L741-4
 
@@ -41575,7 +41748,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Sous-section 3 : Constatation et poursuite des infractions<a id=563></a>
+##### Sous-section 3 : Constatation et poursuite des infractions<a id=565></a>
 
 ###### Article L741-5
 
@@ -41629,11 +41802,11 @@ _Cite_:
   - Code monétaire et financier - art. L741-5 (M)
 
 
-#### Chapitre II : Les produits<a id=564></a>
+#### Chapitre II : Les produits<a id=566></a>
 
-##### Section unique : Les instruments financiers<a id=565></a>
+##### Section unique : Les instruments financiers<a id=567></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=566></a>
+##### Sous-section 1 : Définition et règles générales<a id=568></a>
 
 ###### Article L742-1
 
@@ -41660,7 +41833,7 @@ _Cite_:
   - Code monétaire et financier L211-1 à L212-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=567></a>
+##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=569></a>
 
 ###### Article L742-2
 
@@ -41687,9 +41860,9 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (V)
 
 
-##### Sous-section 3 : Les titres de créance<a id=568></a>
+##### Sous-section 3 : Les titres de créance<a id=570></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=569></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=571></a>
 
 ###### Article L742-3
 
@@ -41715,7 +41888,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (VD)
 
 
-##### Paragraphe 2 : Les obligations<a id=570></a>
+##### Paragraphe 2 : Les obligations<a id=572></a>
 
 ###### Article L742-4
 
@@ -41761,7 +41934,7 @@ _Cite_:
   - Code monétaire et financier - art. L213-7
 
 
-##### Sous-section 4 : Les placements collectifs<a id=571></a>
+##### Sous-section 4 : Les placements collectifs<a id=573></a>
 
 ###### Article L742-6
 
@@ -41824,11 +41997,11 @@ _Cite_:
   - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
 
 
-#### Chapitre III : Les services<a id=572></a>
+#### Chapitre III : Les services<a id=574></a>
 
-##### Section 1 : Les opérations de banque<a id=573></a>
+##### Section 1 : Les opérations de banque<a id=575></a>
 
-##### Sous-section 1 : Dispositions générales<a id=574></a>
+##### Sous-section 1 : Dispositions générales<a id=576></a>
 
 ###### Article L743-1
 
@@ -41849,7 +42022,7 @@ _Cite_:
   - Code monétaire et financier L311-1 à L311-3
 
 
-##### Sous-section 2 : Comptes et dépôts<a id=575></a>
+##### Sous-section 2 : Comptes et dépôts<a id=577></a>
 
 ###### Article L743-2
 
@@ -41878,9 +42051,9 @@ _Cite_:
   - Code monétaire et financier - art. L352-1 (V)
 
 
-##### Sous-section 3 : Crédits<a id=576></a>
+##### Sous-section 3 : Crédits<a id=578></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=577></a>
+##### Paragraphe 1 : Dispositions générales<a id=579></a>
 
 ###### Article L743-3
 
@@ -41903,9 +42076,9 @@ _Cite_:
   - Code monétaire et financier L313-1 à L313-5
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=578></a>
+##### Paragraphe 2 : Catégories de crédits<a id=580></a>
 
-##### Sous-paragraphe 1 : Crédit-bail<a id=579></a>
+##### Sous-paragraphe 1 : Crédit-bail<a id=581></a>
 
 ###### Article L743-4
 
@@ -41926,7 +42099,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-7 (V)
 
 
-##### Sous-paragraphe 2 : Crédits aux entreprises<a id=580></a>
+##### Sous-paragraphe 2 : Crédits aux entreprises<a id=582></a>
 
 ###### Article L743-5
 
@@ -41950,7 +42123,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-22 (M)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=581></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=583></a>
 
 ###### Article L743-6
 
@@ -41971,7 +42144,7 @@ _Cite_:
   - Code monétaire et financier L313-23 à L313-41
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=582></a>
+##### Paragraphe 4 : Garantie des cautions<a id=584></a>
 
 ###### Article L743-7
 
@@ -41992,7 +42165,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-50 (V)
 
 
-##### Section 2 : Les services d'investissement et leurs services connexes<a id=583></a>
+##### Section 2 : Les services d'investissement et leurs services connexes<a id=585></a>
 
 ###### Article L743-8
 
@@ -42020,7 +42193,7 @@ _Cite_:
   - Code monétaire et financier - art. L322-2 (V)
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=584></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=586></a>
 
 ###### Article L743-9
 
@@ -42044,9 +42217,9 @@ _Cite_:
   - Code monétaire et financier - art. L330-2 (M)
 
 
-##### Section 4 : Démarchage<a id=585></a>
+##### Section 4 : Démarchage<a id=587></a>
 
-##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=586></a>
+##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=588></a>
 
 ###### Article L743-10
 
@@ -42068,7 +42241,7 @@ _Cite_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=587></a>
+##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=589></a>
 
 ###### Article L743-11
 
@@ -42093,11 +42266,11 @@ _Cite_:
   - Code monétaire et financier - art. L353-6
 
 
-#### Chapitre IV : Les marchés<a id=588></a>
+#### Chapitre IV : Les marchés<a id=590></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=589></a>
+##### Section 1 : L'appel public à l'épargne<a id=591></a>
 
-##### Sous-section 1 : Définition.<a id=590></a>
+##### Sous-section 1 : Définition.<a id=592></a>
 
 ###### Article L744-1
 
@@ -42119,7 +42292,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne.<a id=591></a>
+##### Sous-section 2 : Conditions de l'appel public à l'épargne.<a id=593></a>
 
 ###### Article L744-2
 
@@ -42141,7 +42314,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Section 2 : Les catégories de marché<a id=592></a>
+##### Section 2 : Les catégories de marché<a id=594></a>
 
 ###### Article L744-3
 
@@ -42196,11 +42369,11 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=593></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=595></a>
 
-##### Sous-section 1 : Dispositions générales<a id=594></a>
+##### Sous-section 1 : Dispositions générales<a id=596></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=595></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=597></a>
 
 ###### Article L744-5
 
@@ -42240,7 +42413,7 @@ _Cite_:
   - Code monétaire et financier L431-4 à L431-6
 
 
-##### Paragraphe 2 : Compensation.<a id=596></a>
+##### Paragraphe 2 : Compensation.<a id=598></a>
 
 ###### Article L744-7
 
@@ -42261,9 +42434,9 @@ _Cite_:
   - Code monétaire et financier - art. L431-7 (M)
 
 
-##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=597></a>
+##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=599></a>
 
-##### Paragraphe 1 : Adjudication<a id=598></a>
+##### Paragraphe 1 : Adjudication<a id=600></a>
 
 ###### Article L744-8
 
@@ -42285,7 +42458,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-5 (V)
 
 
-##### Paragraphe 2 : Les opérations à terme<a id=599></a>
+##### Paragraphe 2 : Les opérations à terme<a id=601></a>
 
 ###### Article L744-9
 
@@ -42307,7 +42480,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-21 (Ab)
 
 
-##### Sous-section 3 : Modalités spécifiques aux marchés réglementés<a id=600></a>
+##### Sous-section 3 : Modalités spécifiques aux marchés réglementés<a id=602></a>
 
 ###### Article L744-10
 
@@ -42324,7 +42497,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=601></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=603></a>
 
 ###### Article L744-11
 
@@ -42348,9 +42521,9 @@ _Cite_:
   - Code monétaire et financier - art. L464-1 (M)
 
 
-##### Section 5 : La protection des investisseurs<a id=602></a>
+##### Section 5 : La protection des investisseurs<a id=604></a>
 
-##### Sous-section 1 : Obligations d'information relative aux comptes<a id=603></a>
+##### Sous-section 1 : Obligations d'information relative aux comptes<a id=605></a>
 
 ###### Article L744-12
 
@@ -42373,7 +42546,7 @@ _Cite_:
   - Code monétaire et financier L465-1 à L465-3
 
 
-##### Sous-section 2 : Obligation d'information sur les prises de participation<a id=604></a>
+##### Sous-section 2 : Obligation d'information sur les prises de participation<a id=606></a>
 
 ###### Article L744-13
 
@@ -42396,11 +42569,11 @@ _Cite_:
   - Code monétaire et financier - art. L466-1 (V)
 
 
-#### Chapitre V : Les prestataires de services<a id=605></a>
+#### Chapitre V : Les prestataires de services<a id=607></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=606></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=608></a>
 
-##### Sous-section 1 : Définitions et activités<a id=607></a>
+##### Sous-section 1 : Définitions et activités<a id=609></a>
 
 ###### Article L745-1
 
@@ -42432,9 +42605,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L745-1-1 (V)
 
 
-##### Sous-section 3 : Les sociétés financières<a id=608></a>
+##### Sous-section 3 : Les sociétés financières<a id=610></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=609></a>
+##### Paragraphe 1 : Dispositions communes<a id=611></a>
 
 ###### Article L745-2
 
@@ -42455,7 +42628,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-1 (V)
 
 
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=610></a>
+##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=612></a>
 
 ###### Article L745-3
 
@@ -42477,7 +42650,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-13 (V)
 
 
-##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=611></a>
+##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=613></a>
 
 ###### Article L745-4
 
@@ -42494,7 +42667,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-4 (V)
 
 
-##### Sous-section 4 : Les institutions financières spécialisées<a id=612></a>
+##### Sous-section 4 : Les institutions financières spécialisées<a id=614></a>
 
 ###### Article L745-5
 
@@ -42519,7 +42692,7 @@ _Cite_:
   - Code monétaire et financier - art. L516-1
 
 
-##### Sous-section 5 : Les compagnies financières<a id=613></a>
+##### Sous-section 5 : Les compagnies financières<a id=615></a>
 
 ###### Article L745-6
 
@@ -42541,7 +42714,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-14 (V)
 
 
-##### Sous-section 6 : Les intermédiaires en opérations de banque<a id=614></a>
+##### Sous-section 6 : Les intermédiaires en opérations de banque<a id=616></a>
 
 ###### Article L745-7
 
@@ -42564,7 +42737,7 @@ _Cite_:
   - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
 
 
-##### Section 2 : Les changeurs manuels<a id=615></a>
+##### Section 2 : Les changeurs manuels<a id=617></a>
 
 ###### Article L745-8
 
@@ -42587,9 +42760,9 @@ _Cite_:
   - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=616></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=618></a>
 
-##### Sous-section 1 : Définitions<a id=617></a>
+##### Sous-section 1 : Définitions<a id=619></a>
 
 ###### Article L745-9
 
@@ -42619,7 +42792,7 @@ _Cite_:
   - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
 
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=618></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=620></a>
 
 ###### Article L745-10
 
@@ -42652,7 +42825,7 @@ _Cité par_:
   - Code monétaire et financier - art. L745-7-2 (V)
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=619></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=621></a>
 
 ###### Article L745-11
 
@@ -42676,7 +42849,7 @@ _Cite_:
   - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Intermédiaires en biens divers<a id=620></a>
+##### Section 4 : Intermédiaires en biens divers<a id=622></a>
 
 ###### Article L745-12
 
@@ -42699,7 +42872,7 @@ _Cite_:
   - Code monétaire et financier - art. L573-8 (M)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=621></a>
+##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=623></a>
 
 ###### Article L745-13
 
@@ -42731,11 +42904,11 @@ _Cite_:
   - Code monétaire et financier - art. L574-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=622></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=624></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=623></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=625></a>
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=624></a>
+##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=626></a>
 
 ###### Article L746-1
 
@@ -42753,7 +42926,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=625></a>
+##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=627></a>
 
 ###### Article L746-2
 
@@ -42782,7 +42955,7 @@ _Cite_:
   - Code monétaire et financier L612-1, L612-2, L612-3 à L612-6, L612-7, L641-1
 
 
-##### Sous-section 3 : La commission bancaire.<a id=626></a>
+##### Sous-section 3 : La commission bancaire.<a id=628></a>
 
 ###### Article L746-3
 
@@ -42808,7 +42981,7 @@ _Cite_:
   - Code monétaire et financier L614-33, L641-2
 
 
-##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=627></a>
+##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=629></a>
 
 ###### Article L746-4
 
@@ -42826,9 +42999,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les autorités des marchés financiers<a id=628></a>
+##### Section 2 : Les autorités des marchés financiers<a id=630></a>
 
-##### Sous-section 1 : La Commission des opérations de bourse<a id=629></a>
+##### Sous-section 1 : La Commission des opérations de bourse<a id=631></a>
 
 ###### Article L746-5
 
@@ -42862,7 +43035,7 @@ _Cite_:
   - Code monétaire et financier L621-21, L642-1 à L642-3
 
 
-##### Sous-section 2 : Le Conseil des marchés financiers<a id=630></a>
+##### Sous-section 2 : Le Conseil des marchés financiers<a id=632></a>
 
 ###### Article L746-6
 
@@ -42890,7 +43063,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-5 (Ab)
 
 
-##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=631></a>
+##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=633></a>
 
 ###### Article L746-7
 
@@ -42916,7 +43089,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-7 (Ab)
 
 
-##### Section 3 : Echanges d'informations<a id=632></a>
+##### Section 3 : Echanges d'informations<a id=634></a>
 
 ###### Article L746-8
 
@@ -42939,11 +43112,11 @@ _Cite_:
   - Code monétaire et financier - art. L632-1 (M)
 
 
-### Titre V : Dispositions applicables en Polynésie française<a id=633></a>
+### Titre V : Dispositions applicables en Polynésie française<a id=635></a>
 
-#### Chapitre Ier : La monnaie<a id=634></a>
+#### Chapitre Ier : La monnaie<a id=636></a>
 
-##### Section 1 : Règles d'usage de la monnaie<a id=635></a>
+##### Section 1 : Règles d'usage de la monnaie<a id=637></a>
 
 ###### Article L751-1
 
@@ -42963,7 +43136,7 @@ _Cite_:
   - Code monétaire et financier - art. L112-6 (M)
 
 
-##### Section 2 : Les instruments de la monnaie scripturale<a id=636></a>
+##### Section 2 : Les instruments de la monnaie scripturale<a id=638></a>
 
 ###### Article L751-2
 
@@ -42990,9 +43163,9 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 74-3
 
 
-##### Section 3 : Les relations financières avec l'étranger<a id=637></a>
+##### Section 3 : Les relations financières avec l'étranger<a id=639></a>
 
-##### Sous-section 1 : Dispositions générales<a id=638></a>
+##### Sous-section 1 : Dispositions générales<a id=640></a>
 
 ###### Article L751-3
 
@@ -43021,7 +43194,7 @@ _Cite_:
   - Code monétaire et financier - art. L151-2 (V)
 
 
-##### Sous-section 2 : Obligations de déclaration<a id=639></a>
+##### Sous-section 2 : Obligations de déclaration<a id=641></a>
 
 ###### Article L751-4
 
@@ -43063,7 +43236,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Sous-section 3 : Constatation et poursuite des infractions<a id=640></a>
+##### Sous-section 3 : Constatation et poursuite des infractions<a id=642></a>
 
 ###### Article L751-5
 
@@ -43117,11 +43290,11 @@ _Cite_:
   - Code monétaire et financier - art. L751-5 (M)
 
 
-#### Chapitre II : Les produits<a id=641></a>
+#### Chapitre II : Les produits<a id=643></a>
 
-##### Section 1 : Les instruments financiers<a id=642></a>
+##### Section 1 : Les instruments financiers<a id=644></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=643></a>
+##### Sous-section 1 : Définition et règles générales<a id=645></a>
 
 ###### Article L752-1
 
@@ -43152,7 +43325,7 @@ _Cite_:
   - Code monétaire et financier L211-1 à L211-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=644></a>
+##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=646></a>
 
 ###### Article L752-2
 
@@ -43180,9 +43353,9 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (V)
 
 
-##### Sous-section 3 : Les titres de créance<a id=645></a>
+##### Sous-section 3 : Les titres de créance<a id=647></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=646></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=648></a>
 
 ###### Article L752-3
 
@@ -43208,7 +43381,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (VD)
 
 
-##### Paragraphe 2 : Les obligations<a id=647></a>
+##### Paragraphe 2 : Les obligations<a id=649></a>
 
 ###### Article L752-4
 
@@ -43253,7 +43426,7 @@ _Cite_:
   - Code monétaire et financier - art. L213-7
 
 
-##### Sous-section 4 : Les placements collectifs<a id=648></a>
+##### Sous-section 4 : Les placements collectifs<a id=650></a>
 
 ###### Article L752-6
 
@@ -43290,7 +43463,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les produits d'épargne<a id=649></a>
+##### Section 2 : Les produits d'épargne<a id=651></a>
 
 ###### Article L752-7
 
@@ -43314,11 +43487,11 @@ _Cite_:
   - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
 
 
-#### Chapitre III : Les services<a id=650></a>
+#### Chapitre III : Les services<a id=652></a>
 
-##### Section 1 : Les opérations de banque<a id=651></a>
+##### Section 1 : Les opérations de banque<a id=653></a>
 
-##### Sous-section 1 : Dispositions générales<a id=652></a>
+##### Sous-section 1 : Dispositions générales<a id=654></a>
 
 ###### Article L753-1
 
@@ -43339,7 +43512,7 @@ _Cite_:
   - Code monétaire et financier L311-1 à L311-3
 
 
-##### Sous-section 2 : Comptes et dépôts<a id=653></a>
+##### Sous-section 2 : Comptes et dépôts<a id=655></a>
 
 ###### Article L753-2
 
@@ -43368,9 +43541,9 @@ _Cite_:
   - Code monétaire et financier - art. L352-1 (V)
 
 
-##### Sous-section 3 : Crédits<a id=654></a>
+##### Sous-section 3 : Crédits<a id=656></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=655></a>
+##### Paragraphe 1 : Dispositions générales<a id=657></a>
 
 ###### Article L753-3
 
@@ -43393,9 +43566,9 @@ _Cite_:
   - Code monétaire et financier L313-1 à L313-5
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=656></a>
+##### Paragraphe 2 : Catégories de crédits<a id=658></a>
 
-##### Sous-paragraphe 1 : Crédit-bail<a id=657></a>
+##### Sous-paragraphe 1 : Crédit-bail<a id=659></a>
 
 ###### Article L753-4
 
@@ -43416,7 +43589,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-7 (V)
 
 
-##### Sous-paragraphe 2 : Crédits aux entreprises<a id=658></a>
+##### Sous-paragraphe 2 : Crédits aux entreprises<a id=660></a>
 
 ###### Article L753-5
 
@@ -43440,7 +43613,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-22 (M)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=659></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=661></a>
 
 ###### Article L753-6
 
@@ -43461,7 +43634,7 @@ _Cite_:
   - Code monétaire et financier L313-23 à L313-41
 
 
-##### Paragraphe 4 : Garanties des cautions<a id=660></a>
+##### Paragraphe 4 : Garanties des cautions<a id=662></a>
 
 ###### Article L753-7
 
@@ -43482,7 +43655,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-50 (V)
 
 
-##### Section 2 : Les services d'investissement et leurs services connexes<a id=661></a>
+##### Section 2 : Les services d'investissement et leurs services connexes<a id=663></a>
 
 ###### Article L753-8
 
@@ -43511,7 +43684,7 @@ _Cite_:
   - Code monétaire et financier - art. L322-2 (V)
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=662></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=664></a>
 
 ###### Article L753-9
 
@@ -43534,9 +43707,9 @@ _Cite_:
   - Code monétaire et financier - art. L330-2 (M)
 
 
-##### Section 4 : Démarchage<a id=663></a>
+##### Section 4 : Démarchage<a id=665></a>
 
-##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=664></a>
+##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=666></a>
 
 ###### Article L753-10
 
@@ -43558,7 +43731,7 @@ _Cite_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=665></a>
+##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=667></a>
 
 ###### Article L753-11
 
@@ -43583,11 +43756,11 @@ _Cite_:
   - Code monétaire et financier - art. L353-6
 
 
-#### Chapitre IV : Les marchés<a id=666></a>
+#### Chapitre IV : Les marchés<a id=668></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=667></a>
+##### Section 1 : L'appel public à l'épargne<a id=669></a>
 
-##### Sous-section 1 : Définition.<a id=668></a>
+##### Sous-section 1 : Définition.<a id=670></a>
 
 ###### Article L754-1
 
@@ -43609,7 +43782,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne.<a id=669></a>
+##### Sous-section 2 : Conditions de l'appel public à l'épargne.<a id=671></a>
 
 ###### Article L754-2
 
@@ -43631,7 +43804,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Section 2 : Les catégories de marché<a id=670></a>
+##### Section 2 : Les catégories de marché<a id=672></a>
 
 ###### Article L754-3
 
@@ -43686,11 +43859,11 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=671></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=673></a>
 
-##### Sous-section 1 : Dispositions générales<a id=672></a>
+##### Sous-section 1 : Dispositions générales<a id=674></a>
 
-##### Paragraphe 1 : Transfert de propriété des titres et mise en gage<a id=673></a>
+##### Paragraphe 1 : Transfert de propriété des titres et mise en gage<a id=675></a>
 
 ###### Article L754-5
 
@@ -43730,7 +43903,7 @@ _Cite_:
   - Code monétaire et financier L431-4 à L431-6
 
 
-##### Paragraphe 2 : Compensation<a id=674></a>
+##### Paragraphe 2 : Compensation<a id=676></a>
 
 ###### Article L754-7
 
@@ -43751,9 +43924,9 @@ _Cite_:
   - Code monétaire et financier - art. L431-7 (M)
 
 
-##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=675></a>
+##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=677></a>
 
-##### Paragraphe 1 : Adjudication<a id=676></a>
+##### Paragraphe 1 : Adjudication<a id=678></a>
 
 ###### Article L754-8
 
@@ -43775,7 +43948,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-5 (V)
 
 
-##### Paragraphe 2 : Les opérations à terme<a id=677></a>
+##### Paragraphe 2 : Les opérations à terme<a id=679></a>
 
 ###### Article L754-9
 
@@ -43797,7 +43970,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-21 (Ab)
 
 
-##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=678></a>
+##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=680></a>
 
 ###### Article L754-10
 
@@ -43814,7 +43987,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=679></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=681></a>
 
 ###### Article L754-11
 
@@ -43839,9 +44012,9 @@ _Cite_:
   - Code monétaire et financier - art. L464-1 (M)
 
 
-##### Section 5 : La protection des investisseurs<a id=680></a>
+##### Section 5 : La protection des investisseurs<a id=682></a>
 
-##### Sous-section 1 : Obligations d'information relative aux comptes<a id=681></a>
+##### Sous-section 1 : Obligations d'information relative aux comptes<a id=683></a>
 
 ###### Article L754-12
 
@@ -43862,7 +44035,7 @@ _Cite_:
   - Code monétaire et financier L465-1 à L465-3
 
 
-##### Sous-section 2 : Obligations d'information sur les prises de participation<a id=682></a>
+##### Sous-section 2 : Obligations d'information sur les prises de participation<a id=684></a>
 
 ###### Article L754-13
 
@@ -43884,9 +44057,9 @@ _Cite_:
   - Code monétaire et financier - art. L466-1 (V)
 
 
-#### Chapitre V : Les prestataires de services<a id=683></a>
+#### Chapitre V : Les prestataires de services<a id=685></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=684></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=686></a>
 
 ###### Article L755-1
 
@@ -43918,9 +44091,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L755-1-1 (M)
 
 
-##### Sous-section 1 : Les sociétés financières<a id=685></a>
+##### Sous-section 1 : Les sociétés financières<a id=687></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=686></a>
+##### Paragraphe 1 : Dispositions communes<a id=688></a>
 
 ###### Article L755-2
 
@@ -43941,7 +44114,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-1 (V)
 
 
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=687></a>
+##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=689></a>
 
 ###### Article L755-3
 
@@ -43963,7 +44136,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-13 (V)
 
 
-##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=688></a>
+##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=690></a>
 
 ###### Article L755-4
 
@@ -43981,7 +44154,7 @@ _Cite_:
   - Code monétaire et financier L515-4 à L515-12
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=689></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=691></a>
 
 ###### Article L755-5
 
@@ -44007,7 +44180,7 @@ _Cite_:
   - Code monétaire et financier - art. L516-2
 
 
-##### Sous-section 3 : Les compagnies financières<a id=690></a>
+##### Sous-section 3 : Les compagnies financières<a id=692></a>
 
 ###### Article L755-6
 
@@ -44029,7 +44202,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-14 (V)
 
 
-##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=691></a>
+##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=693></a>
 
 ###### Article L755-7
 
@@ -44052,7 +44225,7 @@ _Cite_:
   - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
 
 
-##### Section 2 : Les changeurs manuels<a id=692></a>
+##### Section 2 : Les changeurs manuels<a id=694></a>
 
 ###### Article L755-8
 
@@ -44073,9 +44246,9 @@ _Cite_:
   - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=693></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=695></a>
 
-##### Sous-section 1 : Définitions<a id=694></a>
+##### Sous-section 1 : Définitions<a id=696></a>
 
 ###### Article L755-9
 
@@ -44105,7 +44278,7 @@ _Cite_:
   - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
 
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=695></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=697></a>
 
 ###### Article L755-10
 
@@ -44138,7 +44311,7 @@ _Cité par_:
   - Code monétaire et financier - art. L755-7-2 (V)
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=696></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=698></a>
 
 ###### Article L755-11
 
@@ -44162,7 +44335,7 @@ _Cite_:
   - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Les intermédiaires en biens divers<a id=697></a>
+##### Section 4 : Les intermédiaires en biens divers<a id=699></a>
 
 ###### Article L755-12
 
@@ -44185,7 +44358,7 @@ _Cite_:
   - Code monétaire et financier - art. L573-8 (M)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=698></a>
+##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=700></a>
 
 ###### Article L755-13
 
@@ -44217,11 +44390,11 @@ _Cite_:
   - Code monétaire et financier - art. L574-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=699></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=701></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=700></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=702></a>
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=701></a>
+##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=703></a>
 
 ###### Article L756-1
 
@@ -44239,7 +44412,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=702></a>
+##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=704></a>
 
 ###### Article L756-2
 
@@ -44268,7 +44441,7 @@ _Cite_:
   - Code monétaire et financier L612-1, L612-2, L612-3 à L612-6, L612-7, L641-1
 
 
-##### Sous-section 3 : La commission bancaire.<a id=703></a>
+##### Sous-section 3 : La commission bancaire.<a id=705></a>
 
 ###### Article L756-3
 
@@ -44295,7 +44468,7 @@ _Cite_:
   - Code monétaire et financier L613-12 à L613-14, L613-33, L641-2
 
 
-##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=704></a>
+##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=706></a>
 
 ###### Article L756-4
 
@@ -44313,9 +44486,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les autorités des marchés financiers<a id=705></a>
+##### Section 2 : Les autorités des marchés financiers<a id=707></a>
 
-##### Sous-section 1 : La Commission des opérations de bourse<a id=706></a>
+##### Sous-section 1 : La Commission des opérations de bourse<a id=708></a>
 
 ###### Article L756-5
 
@@ -44349,7 +44522,7 @@ _Cite_:
   - Code monétaire et financier L621-21, L642-1 à L642-3
 
 
-##### Sous-section 2 : Le Conseil des marchés financiers<a id=707></a>
+##### Sous-section 2 : Le Conseil des marchés financiers<a id=709></a>
 
 ###### Article L756-6
 
@@ -44377,7 +44550,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-5 (Ab)
 
 
-##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=708></a>
+##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=710></a>
 
 ###### Article L756-7
 
@@ -44402,7 +44575,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-6 (Ab)
 
 
-##### Section 3 : Echanges d'informations<a id=709></a>
+##### Section 3 : Echanges d'informations<a id=711></a>
 
 ###### Article L756-8
 
@@ -44425,11 +44598,11 @@ _Cite_:
   - Code monétaire et financier - art. L632-1 (M)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna<a id=710></a>
+### Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna<a id=712></a>
 
-#### Chapitre IV : Les marchés<a id=711></a>
+#### Chapitre IV : Les marchés<a id=713></a>
 
-##### Section 2 : Les plates-formes de négociation<a id=712></a>
+##### Section 2 : Les plates-formes de négociation<a id=714></a>
 
 ###### Article L764-4
 
@@ -44450,11 +44623,11 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-### Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna<a id=713></a>
+### Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna<a id=715></a>
 
-#### Chapitre Ier : La monnaie<a id=714></a>
+#### Chapitre Ier : La monnaie<a id=716></a>
 
-##### Section 1 : Les instruments de la monnaie scripturale<a id=715></a>
+##### Section 1 : Les instruments de la monnaie scripturale<a id=717></a>
 
 ###### Article L761-1
 
@@ -44483,9 +44656,9 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-##### Section 2 : Les relations financières avec l'étranger<a id=716></a>
+##### Section 2 : Les relations financières avec l'étranger<a id=718></a>
 
-##### Sous-section 1 : Dispositions générales<a id=717></a>
+##### Sous-section 1 : Dispositions générales<a id=719></a>
 
 ###### Article L761-2
 
@@ -44518,7 +44691,7 @@ _Cite_:
   - Code monétaire et financier L151-1 à L151-4, L165-1, L152-1, L151-2
 
 
-##### Sous-section 2 : Obligations de déclaration<a id=718></a>
+##### Sous-section 2 : Obligations de déclaration<a id=720></a>
 
 ###### Article L761-3
 
@@ -44613,11 +44786,11 @@ _Cite_:
   - Code monétaire et financier - art. L761-4 (M)
 
 
-#### Chapitre II : Les produits<a id=719></a>
+#### Chapitre II : Les produits<a id=721></a>
 
-##### Section 1 : Les instruments financiers<a id=720></a>
+##### Section 1 : Les instruments financiers<a id=722></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=721></a>
+##### Sous-section 1 : Définition et règles générales<a id=723></a>
 
 ###### Article L762-1
 
@@ -44647,7 +44820,7 @@ _Cite_:
   - Code monétaire et financier L211-1 à L211-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=722></a>
+##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=724></a>
 
 ###### Article L762-2
 
@@ -44675,9 +44848,9 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (V)
 
 
-##### Sous-section 3 : Les titres de créance<a id=723></a>
+##### Sous-section 3 : Les titres de créance<a id=725></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=724></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=726></a>
 
 ###### Article L762-3
 
@@ -44704,7 +44877,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (V)
 
 
-##### Paragraphe 2 : Les obligations<a id=725></a>
+##### Paragraphe 2 : Les obligations<a id=727></a>
 
 ###### Article L762-4
 
@@ -44747,7 +44920,7 @@ _Cite_:
   - Code monétaire et financier - art. L213-7 (V)
 
 
-##### Sous-section 4 : Les placements collectifs<a id=726></a>
+##### Sous-section 4 : Les placements collectifs<a id=728></a>
 
 ###### Article L762-6
 
@@ -44785,7 +44958,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les produits d'épargne<a id=727></a>
+##### Section 2 : Les produits d'épargne<a id=729></a>
 
 ###### Article L762-7
 
@@ -44810,11 +44983,11 @@ _Cite_:
   - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
 
 
-#### Chapitre III : Les services<a id=728></a>
+#### Chapitre III : Les services<a id=730></a>
 
-##### Section 1 : Les opérations de banque<a id=729></a>
+##### Section 1 : Les opérations de banque<a id=731></a>
 
-##### Sous-section 1 : Dispositions générales<a id=730></a>
+##### Sous-section 1 : Dispositions générales<a id=732></a>
 
 ###### Article L763-1
 
@@ -44835,7 +45008,7 @@ _Cite_:
   - Code monétaire et financier L311-1 à L311-3
 
 
-##### Sous-section 2 : Comptes et dépôts<a id=731></a>
+##### Sous-section 2 : Comptes et dépôts<a id=733></a>
 
 ###### Article L763-2
 
@@ -44865,9 +45038,9 @@ _Cite_:
   - Code monétaire et financier - art. L352-1 (V)
 
 
-##### Sous-section 3 : Crédits<a id=732></a>
+##### Sous-section 3 : Crédits<a id=734></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=733></a>
+##### Paragraphe 1 : Dispositions générales<a id=735></a>
 
 ###### Article L763-3
 
@@ -44890,9 +45063,9 @@ _Cite_:
   - Code monétaire et financier L313-1 à L313-5
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=734></a>
+##### Paragraphe 2 : Catégories de crédits<a id=736></a>
 
-##### Sous-paragraphe 1 : Crédit-bail<a id=735></a>
+##### Sous-paragraphe 1 : Crédit-bail<a id=737></a>
 
 ###### Article L763-4
 
@@ -44913,7 +45086,7 @@ _Cite_:
   - Code monétaire et financier L313-7 à L313-11
 
 
-##### Sous-paragraphe 2 : Crédits aux entreprises<a id=736></a>
+##### Sous-paragraphe 2 : Crédits aux entreprises<a id=738></a>
 
 ###### Article L763-5
 
@@ -44938,7 +45111,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-22 (M)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances<a id=737></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances<a id=739></a>
 
 ###### Article L763-6
 
@@ -44960,7 +45133,7 @@ _Cite_:
   - Code monétaire et financier L313-23 à L313-41
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=738></a>
+##### Paragraphe 4 : Garantie des cautions<a id=740></a>
 
 ###### Article L763-7
 
@@ -44982,7 +45155,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-51 (M)
 
 
-##### Section 2 : Les services d'investissement et leurs services connexes<a id=739></a>
+##### Section 2 : Les services d'investissement et leurs services connexes<a id=741></a>
 
 ###### Article L763-8
 
@@ -45007,7 +45180,7 @@ _Cite_:
   - Code monétaire et financier - art. L322-2 (V)
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=740></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=742></a>
 
 ###### Article L763-9
 
@@ -45030,9 +45203,9 @@ _Cite_:
   - Code monétaire et financier - art. L330-2 (M)
 
 
-##### Section 4 : Démarchage<a id=741></a>
+##### Section 4 : Démarchage<a id=743></a>
 
-##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=742></a>
+##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=744></a>
 
 ###### Article L763-10
 
@@ -45056,7 +45229,7 @@ _Cite_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=743></a>
+##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=745></a>
 
 ###### Article L763-11
 
@@ -45079,11 +45252,11 @@ _Cite_:
   - Code monétaire et financier - art. L353-6 (M)
 
 
-#### Chapitre IV : Les marchés<a id=744></a>
+#### Chapitre IV : Les marchés<a id=746></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=745></a>
+##### Section 1 : L'appel public à l'épargne<a id=747></a>
 
-##### Sous-section 1 : Définition<a id=746></a>
+##### Sous-section 1 : Définition<a id=748></a>
 
 ###### Article L764-1
 
@@ -45105,7 +45278,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne<a id=747></a>
+##### Sous-section 2 : Conditions de l'appel public à l'épargne<a id=749></a>
 
 ###### Article L764-2
 
@@ -45128,7 +45301,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Section 2 : Les catégories de marché<a id=748></a>
+##### Section 2 : Les catégories de marché<a id=750></a>
 
 ###### Article L764-3
 
@@ -45151,11 +45324,11 @@ _Cite_:
   - Code monétaire et financier - art. L462-2 (V)
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=749></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=751></a>
 
-##### Sous-section 1 : Dispositions générales<a id=750></a>
+##### Sous-section 1 : Dispositions générales<a id=752></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=751></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=753></a>
 
 ###### Article L764-5
 
@@ -45191,7 +45364,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Compensation<a id=752></a>
+##### Paragraphe 2 : Compensation<a id=754></a>
 
 ###### Article L764-7
 
@@ -45208,9 +45381,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=753></a>
+##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=755></a>
 
-##### Paragraphe 1 : Adjudication<a id=754></a>
+##### Paragraphe 1 : Adjudication<a id=756></a>
 
 ###### Article L764-8
 
@@ -45231,7 +45404,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-5 (V)
 
 
-##### Paragraphe 2 : Les opérations à terme<a id=755></a>
+##### Paragraphe 2 : Les opérations à terme<a id=757></a>
 
 ###### Article L764-9
 
@@ -45253,7 +45426,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-21 (Ab)
 
 
-##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=756></a>
+##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=758></a>
 
 ###### Article L764-10
 
@@ -45270,7 +45443,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=757></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=759></a>
 
 ###### Article L764-11
 
@@ -45294,9 +45467,9 @@ _Cite_:
   - Code monétaire et financier - art. L464-1 (M)
 
 
-##### Section 5 : La protection des investisseurs<a id=758></a>
+##### Section 5 : La protection des investisseurs<a id=760></a>
 
-##### Sous-section 1 : Obligations d'information relative aux comptes<a id=759></a>
+##### Sous-section 1 : Obligations d'information relative aux comptes<a id=761></a>
 
 ###### Article L764-12
 
@@ -45317,7 +45490,7 @@ _Cite_:
   - Code monétaire et financier L465-1 à L465-3
 
 
-##### Sous-section 2 : Obligations d'information relative aux prises de participation<a id=760></a>
+##### Sous-section 2 : Obligations d'information relative aux prises de participation<a id=762></a>
 
 ###### Article L764-13
 
@@ -45343,9 +45516,9 @@ _Cite_:
   - Code monétaire et financier - art. L466-1 (M)
 
 
-#### Chapitre V : Les prestataires de services<a id=761></a>
+#### Chapitre V : Les prestataires de services<a id=763></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=762></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=764></a>
 
 ###### Article L765-1
 
@@ -45375,9 +45548,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L765-1-1 (V)
 
 
-##### Sous-section 1 : Les sociétés financières<a id=763></a>
+##### Sous-section 1 : Les sociétés financières<a id=765></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=764></a>
+##### Paragraphe 1 : Dispositions communes<a id=766></a>
 
 ###### Article L765-2
 
@@ -45398,7 +45571,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-1 (M)
 
 
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=765></a>
+##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=767></a>
 
 ###### Article L765-3
 
@@ -45422,7 +45595,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-13 (V)
 
 
-##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=766></a>
+##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=768></a>
 
 ###### Article L765-4
 
@@ -45435,7 +45608,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=767></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=769></a>
 
 ###### Article L765-5
 
@@ -45457,7 +45630,7 @@ _Cite_:
   - Code monétaire et financier - art. L516-2 (M)
 
 
-##### Sous-section 3 : Les compagnies financières<a id=768></a>
+##### Sous-section 3 : Les compagnies financières<a id=770></a>
 
 ###### Article L765-6
 
@@ -45479,7 +45652,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-14 (M)
 
 
-##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=769></a>
+##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=771></a>
 
 ###### Article L765-7
 
@@ -45507,7 +45680,7 @@ _Cite_:
   - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
 
 
-##### Section 2 : Les changeurs manuels<a id=770></a>
+##### Section 2 : Les changeurs manuels<a id=772></a>
 
 ###### Article L765-8
 
@@ -45526,9 +45699,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=771></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=773></a>
 
-##### Sous-section 1 : Définitions<a id=772></a>
+##### Sous-section 1 : Définitions<a id=774></a>
 
 ###### Article L765-9
 
@@ -45556,7 +45729,7 @@ _Cite_:
   - Code monétaire et financier - art. L612-2 (M)
 
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=773></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=775></a>
 
 ###### Article L765-10
 
@@ -45580,7 +45753,7 @@ _Cite_:
   - Code monétaire et financier L532-16 à L532-27, L532-5, L422-2, L532-23 à L532-27
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=774></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=776></a>
 
 ###### Article L765-11
 
@@ -45600,7 +45773,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=775></a>
+##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=777></a>
 
 ###### Article L765-13
 
@@ -45633,11 +45806,11 @@ _Cite_:
   - Code monétaire et financier - art. L574-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=776></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=778></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=777></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=779></a>
 
-##### Sous-section 1 : Le comité de la réglementation bancaire et financière<a id=778></a>
+##### Sous-section 1 : Le comité de la réglementation bancaire et financière<a id=780></a>
 
 ###### Article L766-1
 
@@ -45655,7 +45828,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=779></a>
+##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=781></a>
 
 ###### Article L766-2
 
@@ -45684,7 +45857,7 @@ _Cite_:
   - Code monétaire et financier - art. L641-1 (V)
 
 
-##### Sous-section 3 : La commission bancaire<a id=780></a>
+##### Sous-section 3 : La commission bancaire<a id=782></a>
 
 ###### Article L766-3
 
@@ -45710,7 +45883,7 @@ _Cite_:
   - Code monétaire et financier - art. L641-2 (V)
 
 
-##### Sous-section 4 : Le conseil national du crédit et du titre<a id=781></a>
+##### Sous-section 4 : Le conseil national du crédit et du titre<a id=783></a>
 
 ###### Article L766-4
 
@@ -45728,9 +45901,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les autorités des marchés financiers<a id=782></a>
+##### Section 2 : Les autorités des marchés financiers<a id=784></a>
 
-##### Sous-section 1 : La commission des opérations de bourse<a id=783></a>
+##### Sous-section 1 : La commission des opérations de bourse<a id=785></a>
 
 ###### Article L766-5
 
@@ -45765,7 +45938,7 @@ _Cite_:
   - Code monétaire et financier - art. L621-20 (M)
 
 
-##### Sous-section 2 : Le conseil des marchés financiers<a id=784></a>
+##### Sous-section 2 : Le conseil des marchés financiers<a id=786></a>
 
 ###### Article L766-6
 
@@ -45793,7 +45966,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-5 (Ab)
 
 
-##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=785></a>
+##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=787></a>
 
 ###### Article L766-7
 
@@ -45820,7 +45993,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-7 (Ab)
 
 
-##### Section 3 : Echanges d'informations<a id=786></a>
+##### Section 3 : Echanges d'informations<a id=788></a>
 
 ###### Article L766-8
 
