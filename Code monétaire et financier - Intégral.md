@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2003-01-04
+Version Consolidée au 2003-08-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -36,7 +36,7 @@ Version Consolidée au 2003-01-04
         - [Chapitre II : La carte de paiement. (art. L132-1 à L132-6)](#33)
         - [Chapitre III : Le virement au sein de l'Espace économique européen. (art. L133-1)](#34)
         - [Chapitre IV : La lettre de change et le billet à ordre. (art. L134-1 à L134-2)](#35)
-      - [Titre IV : La Banque de France (art. L141-1 à L144-5)](#36)
+      - [Titre IV : La Banque de France (art. L141-1 à L144-4)](#36)
         - [Chapitre Ier : Missions (art. L141-1 à L141-9)](#37)
           - [Section 1 : Missions fondamentales (art. L141-1 à L141-5)](#38)
           - [Section 2 : Autres missions d'intérêt général et autres activités (art. L141-6 à L141-9)](#39)
@@ -48,7 +48,7 @@ Version Consolidée au 2003-01-04
           - [Section 5 : Le personnel de la banque (art. L142-9)](#45)
           - [Section 6 : Les succursales (art. L142-10)](#46)
         - [Chapitre III : Rapport au Président de la République - Contrôle du Parlement (art. L143-1)](#47)
-        - [Chapitre IV : Dispositions diverses (art. L144-1 à L144-5)](#48)
+        - [Chapitre IV : Dispositions diverses (art. L144-1 à L144-4)](#48)
       - [Titre V : Les relations financières avec l'étranger (art. L151-1 à L152-6)](#49)
         - [Chapitre Ier : Dispositions générales (art. L151-1 à L151-4)](#50)
         - [Chapitre II : Obligations de déclaration (art. L152-1 à L152-6)](#51)
@@ -97,704 +97,697 @@ Version Consolidée au 2003-01-04
           - [Section 4 : Les titres participatifs (art. L213-32 à L213-35)](#94)
         - [Chapitre IV : Placements collectifs (art. L214-1 à L214-88)](#95)
           - [Section 1 : Les organismes de placement collectif en valeurs mobilières (art. L214-2 à L214-42)](#96)
-            - [Sous-section 1 : Dispositions communes aux organismes de placement collectif en valeurs mobilières (art. L214-2 à L214-13)](#97)
+            - [Sous-section 1 : Dispositions communes aux organismes de placement collectif en valeurs mobilières (art. L214-2 à L214-14)](#97)
             - [Sous-section 2 : Règles particulières relatives aux sociétés d'investissement à capital variable (art. L214-15 à L214-19)](#98)
             - [Sous-section 3 : Règles particulières aux fonds communs de placement (art. L214-20 à L214-32)](#99)
             - [Sous-section 4 : Organismes de placement collectif en valeurs mobilières à compartiments (art. L214-33)](#100)
             - [Sous-section 5 : Organismes de placement collectif en valeurs mobilières maîtres et nourriciers (art. L214-34)](#101)
-            - [Sous-section 6 : Organismes de placement collectif en valeurs mobilières à procédure allégée. (art. L214-35)](#102)
-            - [Sous-section 7 : Fonds communs de placement à risques. (art. L214-36 à L214-38)](#103)
-            - [Sous-section 8 : Fonds communs de placement d'entreprise. (art. L214-39 à L214-40-1)](#104)
-            - [Sous-section 9 : Fonds communs de placement dans l'innovation. (art. L214-41)](#105)
-            - [Sous-section 10 : Fonds communs d'intervention sur les marchés à terme. (art. L214-42)](#106)
-          - [Section 2 : Les fonds communs de créances. (art. L214-43 à L214-49)](#107)
-          - [Section 3 : Les sociétés civiles de placement immobilier (art. L214-50 à L214-84)](#108)
-            - [Sous-section 1 : Régime général (art. L214-50 à L214-58)](#109)
-            - [Sous-section 2 : Souscription des parts (art. L214-59 à L214-65)](#110)
-            - [Sous-section 3 : Gestion (art. L214-66 à L214-72)](#111)
-            - [Sous-section 4 : Assemblée générale (art. L214-73 à L214-77)](#112)
-            - [Sous-section 5 : Dispositions comptables (art. L214-78 à L214-79)](#113)
-            - [Sous-section 6 : Fusion (art. L214-80 à L214-83)](#114)
-            - [Sous-section 6-1 : Règles de bonne conduite. (art. L214-83-1)](#115)
-            - [Sous-section 7 : Contrôle. (art. L214-84)](#116)
-          - [Section 4 : Les sociétés d'épargne forestière (art. L214-85 à L214-88)](#117)
-      - [Titre II : Les produits d'épargne (art. L221-1 à L223-4)](#118)
-        - [Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique (art. L221-1 à L221-29)](#119)
-          - [Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel (art. L221-1 à L221-12)](#120)
-            - [Sous-section 1 : Dispositions communes (art. L221-1 à L221-6)](#121)
-              - [Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel. (art. L221-1)](#122)
-              - [Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne. (art. L221-2 à L221-6)](#123)
-            - [Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance. (art. L221-7 à L221-8)](#124)
-            - [Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne. (art. L221-9 à L221-10)](#125)
-            - [Sous-section 4 : Dispositions spécifiques au Crédit mutuel. (art. L221-11 à L221-12)](#126)
-          - [Section 2 : L'épargne populaire (art. L221-13 à L221-23)](#127)
-            - [Sous-section 1 : Le compte sur livret d'épargne populaire (art. L221-13 à L221-17)](#128)
-            - [Sous-section 2 : Le plan d'épargne populaire (art. L221-18 à L221-23)](#129)
-          - [Section 3 : Le livret jeune (art. L221-24 à L221-26)](#130)
-          - [Section 4 : Le compte pour le développement industriel. (art. L221-27 à L221-28)](#131)
-          - [Section 5 : L'épargne-logement (art. L221-29)](#132)
-        - [Chapitre II : Produits d'épargne salariale (art. L222-1)](#133)
-          - [Section unique : Le plan d'épargne d'entreprise (art. L222-1)](#134)
-        - [Chapitre III : Bons de caisse (art. L223-1 à L223-4)](#135)
-      - [Titre III : Dispositions pénales (art. L231-1 à L232-2)](#136)
-        - [Chapitre Ier : Infractions relatives aux instruments financiers (art. L231-1 à L231-21)](#137)
-          - [Section 1 : Infractions relatives aux titres (art. L231-1 à L231-2)](#138)
-            - [Sous-section 1 : Obligations. (art. L231-1)](#139)
-            - [Sous-section 2 : Titres émis par des associations. (art. L231-2)](#140)
-          - [Section 2 : Infractions relatives aux placements collectifs (art. L231-3 à L231-21)](#141)
-            - [Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières. (art. L231-3 à L231-7)](#142)
-            - [Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier (art. L231-8 à L231-21)](#143)
-        - [Chapitre II : Infractions relatives aux produits d'épargne (art. L232-1 à L232-2)](#144)
-          - [Section unique : Bons de caisse (art. L232-1 à L232-2)](#145)
-    - [Livre III : Les services (art. L311-1 à L353-7)](#146)
-      - [Titre Ier : Les opérations de banque (art. L311-1 à L313-51)](#147)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-4)](#148)
-          - [Section 1 : Définition des opérations de banque (art. L311-1)](#149)
-          - [Section 2 : Définition des opérations connexes aux opérations de banque (art. L311-2)](#150)
-          - [Section 3 : Définition des moyens de paiement. (art. L311-3)](#151)
-          - [Section 4 : Compensation. (art. L311-4)](#152)
-        - [Chapitre II : Comptes et dépôts (art. L312-1 à L312-18)](#153)
-          - [Section 1 : Droit au compte et relations avec le client (art. L312-1 à L312-1-4)](#154)
-            - [Sous-section 2 : Relations des établissements de crédit avec le client (art. L312-1 à L312-1-4)](#155)
-          - [Section 2 : Fonds reçus du public (art. L312-2 à L312-3)](#156)
-            - [Sous-section 1 : Définition. (art. L312-2)](#157)
-            - [Sous-section 2 : Rémunération. (art. L312-3)](#158)
-          - [Section 3 : Garantie des déposants (art. L312-4 à L312-18)](#159)
-        - [Chapitre III : Crédits (art. L313-1 à L313-51)](#160)
-          - [Section 1 : Dispositions générales (art. L313-1 à L313-6)](#161)
-            - [Sous-section 1 : Définition (art. L313-1)](#162)
-            - [Sous-section 2 : Taux d'intérêt (art. L313-2 à L313-4)](#163)
-              - [Paragraphe 1 : Taux de l'intérêt légal (art. L313-2 à L313-3)](#164)
-              - [Paragraphe 2 : Taux effectif global (art. L313-4)](#165)
-            - [Sous-section 3 : Fichier des incidents de paiement caractérisés (art. L313-6)](#166)
-          - [Section 2 : Catégories de crédits (art. L313-7 à L313-22)](#167)
-            - [Sous-section 1 : Crédit-bail. (art. L313-7 à L313-11)](#168)
-            - [Sous-section 2 : Crédits aux entreprises (art. L313-12 à L313-22)](#169)
-              - [Paragraphe 1 : Crédit d'exploitation. (art. L313-12)](#170)
-              - [Paragraphe 2 : Prêts participatifs. (art. L313-13 à L313-20)](#171)
-                - [Sous-paragraphe 1 : Régime général. (art. L313-14 à L313-17)](#172)
-                - [Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat. (art. L313-18 à L313-20)](#173)
-              - [Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels. (art. L313-21)](#174)
-              - [Paragraphe 4 : Information des cautions. (art. L313-22)](#175)
-          - [Section 3 : Procédures de mobilisation des créances professionnelles (art. L313-23 à L313-49)](#176)
-            - [Sous-section 1 : Cession et nantissement des créances professionnelles (art. L313-23 à L313-29)](#177)
-            - [Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti (art. L313-30 à L313-49)](#178)
-              - [Paragraphe 1 : Dispositions générales (art. L313-30 à L313-35)](#179)
-              - [Paragraphe 2 : Mobilisation des crédits à moyen terme (art. L313-36 à L313-41)](#180)
-              - [Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées (art. L313-42 à L313-49)](#181)
-          - [Section 4 : Garantie des cautions (art. L313-50 à L313-51)](#182)
-      - [Titre II : Les services d'investissement et leurs services connexes (art. L321-1 à L322-4)](#183)
-        - [Chapitre Ier : Dispositions générales (art. L321-1 à L321-3)](#184)
-        - [Chapitre II : Garantie des investisseurs (art. L322-1 à L322-4)](#185)
-      - [Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers. (art. L330-1 à L330-2)](#186)
-      - [Titre IV : Le démarchage et le colportage (art. L341-1 à L344-3)](#187)
-        - [Chapitre Ier : Démarchage concernant les opérations de banque. (art. L341-1 à L341-6)](#188)
-        - [Chapitre II : Démarchage concernant les valeurs mobilières. (art. L342-1 à L342-21)](#189)
-        - [Chapitre III : Démarchage concernant les opérations sur le marché à terme. (art. L343-1 à L343-6)](#190)
-        - [Chapitre IV : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers (art. L344-1 à L344-3)](#191)
-          - [Section 1 : Opérations sur matières précieuses. (art. L344-1 à L344-2)](#192)
-          - [Section 2 : Opérations sur les billets de banque étrangers. (art. L344-3)](#193)
-      - [Titre V : Dispositions pénales (art. L351-1 à L353-7)](#194)
-        - [Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client (art. L351-1)](#195)
-        - [Chapitre II : Infractions relatives au fonds de garantie des déposants (art. L352-1)](#196)
-        - [Chapitre III : Infractions relatives au démarchage (art. L353-1 à L353-7)](#197)
-          - [Section 1 : Opérations de banque. (art. L353-1 à L353-2)](#198)
-          - [Section 2 : Opérations sur les valeurs mobilières. (art. L353-3 à L353-5)](#199)
-          - [Section 3 : Marché à terme. (art. L353-6)](#200)
-          - [Section 4 : Opérations sur matières précieuses et billets de banque étrangers. (art. L353-7)](#201)
-    - [Livre IV : Les marchés (art. L411-1 à L466-1)](#202)
-      - [Titre Ier : L'appel public à l'épargne (art. L411-1 à L412-4)](#203)
-        - [Chapitre Ier : Définition. (art. L411-1 à L411-2)](#204)
-        - [Chapitre II : Conditions de l'appel public à l'épargne (art. L412-1 à L412-4)](#205)
-          - [Section 1 : Obligations générales de publicité. (art. L412-1)](#206)
-          - [Section 2 : Interdictions et sanctions (art. L412-2 à L412-4)](#207)
-      - [Titre II : Les catégories de marchés (art. L421-1 à L424-1)](#208)
-        - [Chapitre Ier : Marchés réglementés français (art. L421-1 à L421-13)](#209)
-          - [Section 1 : Reconnaissance et retrait de la qualité de marché réglementé. (art. L421-1 à L421-2)](#210)
-          - [Section 2 : Conditions de fonctionnement des marchés réglementés. (art. L421-3 à L421-5)](#211)
-          - [Section 3 : Obligation d'intermédiation et monopole de négociation. (art. L421-6 à L421-7)](#212)
-          - [Section 4 : Régime des membres d'un marché réglementé. (art. L421-8 à L421-11)](#213)
-          - [Section 5 : Centralisation des ordres sur les marchés réglementés. (art. L421-12 à L421-13)](#214)
-        - [Chapitre II : Marchés réglementés européens. (art. L422-1)](#215)
-        - [Chapitre III : Marchés étrangers reconnus. (art. L423-1)](#216)
-        - [Chapitre IV : Marché de l'or. (art. L424-1)](#217)
-      - [Titre III : Les négociations sur instruments financiers (art. L431-1 à L433-4)](#218)
-        - [Chapitre Ier : Dispositions générales (art. L431-1 à L431-7)](#219)
-          - [Section 1 : Transfert de propriété des titres et mise en gage (art. L431-1 à L431-6)](#220)
-            - [Sous-section 1 : Transfert de propriété des titres. (art. L431-1 à L431-3)](#221)
-            - [Sous-section 2 : Mise en gage. (art. L431-4 à L431-6)](#222)
-          - [Section 2 : Compensation. (art. L431-7)](#223)
-        - [Chapitre II : Formes particulières de cessions d'instruments financiers (art. L432-1 à L432-21)](#224)
-          - [Section 1 : Vente à crédit. (art. L432-1 à L432-4)](#225)
-          - [Section 2 : Adjudication. (art. L432-5)](#226)
-          - [Section 3 : Cessions temporaires (art. L432-6 à L432-19)](#227)
-            - [Sous-section 1 : Prêt de titres. (art. L432-6 à L432-11)](#228)
-            - [Sous-section 2 : Pension. (art. L432-12 à L432-19)](#229)
-          - [Section 4 : Opérations à terme. (art. L432-20 à L432-21)](#230)
-        - [Chapitre III : Opérations spécifiques aux marchés réglementés (art. L433-1 à L433-4)](#231)
-          - [Section 1 : Offres publiques d'achat et d'échange (art. L433-1 à L433-2)](#232)
-          - [Section 2 : Obligation de déposer un projet d'offre publique (art. L433-3)](#233)
-          - [Section 3 : Offres publiques de retrait et retrait obligatoire (art. L433-4)](#234)
-      - [Titre IV : Les entreprises de marché et les chambres de compensation (art. L441-1 à L442-9)](#235)
-        - [Chapitre Ier : Entreprises de marché. (art. L441-1 à L441-3)](#236)
-        - [Chapitre II : Chambres de compensation. (art. L442-1 à L442-9)](#237)
-      - [Titre V : La protection des investisseurs (art. L451-1 à L452-4)](#238)
-        - [Chapitre Ier : La transparence des marchés (art. L451-1 à L451-2)](#239)
-          - [Section 1 : Les obligations d'information relative aux comptes (art. L451-1)](#240)
-          - [Section 2 : Obligation d'information sur les prises de participations (art. L451-2)](#241)
-        - [Chapitre II : Associations de défense des investisseurs (art. L452-1 à L452-4)](#242)
-      - [Titre VI : Dispositions pénales (art. L461-1 à L466-1)](#243)
-        - [Chapitre Ier : Infractions relatives à l'appel public à l'épargne. (art. L461-1)](#244)
-        - [Chapitre II : Infractions relatives aux marchés réglementés (art. L462-1 à L462-2)](#245)
-        - [Chapitre III : Infractions relatives aux négociations sur instruments financiers. (art. L463-1 à L463-2)](#246)
-        - [Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation (art. L464-1 à L464-2)](#247)
-        - [Chapitre V : Infractions relatives à la protection des investisseurs (art. L465-1 à L465-4)](#248)
-          - [Section 1 : Atteintes à la transparence des marchés (art. L465-1 à L465-3)](#249)
-          - [Section 2 : Prises de participations (art. L465-4)](#250)
-        - [Chapitre VI : Dispositions communes (art. L466-1)](#251)
-    - [Livre V : Les prestataires de services (art. L511-1 à L574-2)](#252)
-      - [Titre Ier : Etablissements du secteur bancaire (art. L511-1 à L519-5)](#253)
-        - [Chapitre Ier : Règles générales applicables aux établissements de crédit (art. L511-1 à L511-43)](#254)
-          - [Section 1 : Définitions et activités (art. L511-1 à L511-4)](#255)
-          - [Section 2 : Interdictions (art. L511-5 à L511-8)](#256)
-          - [Section 3 : Conditions d'accès à la profession (art. L511-9 à L511-28)](#257)
-            - [Sous-section 1 : Agrément (art. L511-9 à L511-20)](#258)
-            - [Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen (art. L511-21 à L511-28)](#259)
-          - [Section 4 : Organes de la profession (art. L511-29 à L511-32)](#260)
-            - [Sous-section 1 : L'association française des établissements de crédit et des entreprises d'investissement et les autres organismes professionnels (art. L511-29)](#261)
-            - [Sous-section 2 : Les organes centraux (art. L511-30 à L511-32)](#262)
-          - [Section 5 : Le secret professionnel (art. L511-33 à L511-34)](#263)
-          - [Section 6 : Dispositions comptables (art. L511-35 à L511-39)](#264)
-            - [Sous-section 1 : Comptes sociaux et documents comptables (art. L511-35 à L511-37)](#265)
-            - [Sous-section 2 : Commissaires aux comptes (art. L511-38 à L511-39)](#266)
-          - [Section 7 : Dispositions prudentielles. (art. L511-40 à L511-43)](#267)
-        - [Chapitre II : Les banques mutualistes ou coopératives (art. L512-1 à L512-104)](#268)
-          - [Section 1 : Dispositions générales (art. L512-1)](#269)
-          - [Section 2 : Les banques populaires (art. L512-2 à L512-13)](#270)
-            - [Sous-section 1 : Dispositions générales (art. L512-2 à L512-9)](#271)
-            - [Sous-section 2 : Banque fédérale des banques populaires (art. L512-10 à L512-12)](#272)
-            - [Sous-section 3 : Dispositions diverses (art. L512-13)](#273)
-          - [Section 3 : Le crédit agricole (art. L512-20 à L512-54)](#274)
-            - [Sous-section 1 : Les caisses de crédit agricole mutuel (art. L512-21 à L512-46)](#275)
-              - [Paragraphe 1 : Organisation (art. L512-21 à L512-35)](#276)
-              - [Paragraphe 2 : Fonctionnement (art. L512-36 à L512-43)](#277)
-              - [Paragraphe 3 : Ressources (art. L512-44 à L512-46)](#278)
-            - [Sous-section 2 : La Caisse nationale de crédit agricole (art. L512-47 à L512-50)](#279)
-              - [Paragraphe 1 : Organisation. (art. L512-47 à L512-49)](#280)
-              - [Paragraphe 2 : Ressources. (art. L512-50)](#281)
-            - [Sous-section 3 : Contrôles (art. L512-51 à L512-54)](#282)
-          - [Section 4 : Le crédit mutuel (art. L512-55 à L512-59)](#283)
-          - [Section 5 : Le crédit coopératif. (art. L512-60)](#284)
-          - [Section 6 : Les sociétés coopératives de banque (art. L512-61 à L512-67)](#285)
-            - [Sous-section 1 : Dispositions générales (art. L512-61 à L512-63)](#286)
-            - [Sous-section 2 : Conseil d'administration (art. L512-64)](#287)
-            - [Sous-section 3 : Commissaire du Gouvernement (art. L512-65)](#288)
-            - [Sous-section 4 : Statuts (art. L512-66 à L512-67)](#289)
-          - [Section 7 : Le crédit maritime mutuel (art. L512-68 à L512-84)](#290)
-            - [Sous-section 1 : Dispositions générales (art. L512-68 à L512-75)](#291)
-            - [Sous-section 2 : Administration (art. L512-76 à L512-81)](#292)
-            - [Sous-section 4 : Dispositions diverses (art. L512-83 à L512-84)](#293)
-          - [Section 8 : Le réseau des caisses d'épargne (art. L512-85 à L512-104)](#294)
-            - [Sous-section 1 : Missions (art. L512-85)](#295)
-            - [Sous-section 2 : Le réseau (art. L512-86)](#296)
-            - [Sous-section 3 : Les caisses d'épargne et de prévoyance (art. L512-87 à L512-91)](#297)
-            - [Sous-section 4 : Les sociétés locales d'épargne (art. L512-92 à L512-93)](#298)
-            - [Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance. (art. L512-94 à L512-98)](#299)
-            - [Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance (art. L512-99 à L512-100)](#300)
-            - [Sous-section 7 : Fonds de réserve et de garantie. (art. L512-101)](#301)
-            - [Sous-section 8 : Dispositions générales (art. L512-102 à L512-104)](#302)
-        - [Chapitre III : Les sociétés anonymes de crédit immobilier (art. L513-1)](#303)
-        - [Chapitre IV : Les caisses de crédit municipal (art. L514-1 à L514-4)](#304)
-          - [Section 1 : Missions (art. L514-1)](#305)
-          - [Section 2 : Création et administration (art. L514-2 à L514-4)](#306)
-        - [Chapitre V : Les sociétés financières (art. L515-1 à L515-33)](#307)
-          - [Section 1 : Dispositions communes (art. L515-1)](#308)
-          - [Section 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L515-2 à L515-3)](#309)
-          - [Section 3 : Les sociétés de caution mutuelle (art. L515-4 à L515-12)](#310)
-            - [Sous-section 1 : Objet (art. L515-4)](#311)
-            - [Sous-section 2 : Statuts (art. L515-5 à L515-7)](#312)
-            - [Sous-section 3 : Emploi des fonds (art. L515-8 à L515-9)](#313)
-            - [Sous-section 4 : Publicité (art. L515-10 à L515-12)](#314)
-          - [Section 4 : Les sociétés de crédit foncier (art. L515-13 à L515-33)](#315)
-            - [Sous-section 1 : Statut et objet (art. L515-13)](#316)
-            - [Sous-section 2 : Opérations (art. L515-14 à L515-18)](#317)
-            - [Sous-section 3 : Privilège des créances nées des opérations (art. L515-19)](#318)
-            - [Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier (art. L515-20 à L515-24)](#319)
-            - [Sous-section 5 : Redressement et liquidation judiciaires (art. L515-25 à L515-28)](#320)
-            - [Sous-section 6 : Contrôles (art. L515-29 à L515-31)](#321)
-            - [Sous-section 7 : Dispositions diverses (art. L515-32 à L515-33)](#322)
-        - [Chapitre VI : Les institutions financières spécialisées (art. L516-1 à L516-2)](#323)
-        - [Chapitre VII : Compagnies financières (art. L517-1)](#324)
-        - [Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque (art. L518-1 à L518-28)](#325)
-          - [Section 1 : Dispositions générales (art. L518-1)](#326)
-          - [Section 2 : La Caisse des dépôts et consignations (art. L518-2 à L518-24)](#327)
-            - [Sous-section 1 : Commission de surveillance (art. L518-4 à L518-10)](#328)
-              - [Paragraphe 1 : Composition (art. L518-4 à L518-6)](#329)
-              - [Paragraphe 2 : Missions (art. L518-7 à L518-9)](#330)
-              - [Paragraphe 3 : Rapport au Parlement (art. L518-10)](#331)
-            - [Sous-section 2 : Administration de la Caisse des dépôts et consignations (art. L518-11 à L518-15)](#332)
-              - [Paragraphe 1 : Le directeur général (art. L518-11 à L518-12)](#333)
-              - [Paragraphe 2 : Le caissier général (art. L518-13)](#334)
-              - [Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor (art. L518-14)](#335)
-              - [Paragraphe 4 : Contrôle par la Cour des comptes (art. L518-15)](#336)
-            - [Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations (art. L518-16)](#337)
-            - [Sous-section 4 : Opérations (art. L518-17 à L518-24)](#338)
-              - [Paragraphe 1 : Consignations et dépôts (art. L518-17 à L518-22)](#339)
-              - [Paragraphe 2 : Rémunération des dépôts et des consignations (art. L518-23)](#340)
-              - [Paragraphe 3 : Règles de déchéance (art. L518-24)](#341)
-          - [Section 3 : La Poste (art. L518-25)](#342)
-          - [Section 4 : La Caisse nationale d'épargne (art. L518-26 à L518-28)](#343)
-        - [Chapitre IX : Les intermédiaires en opérations de banque (art. L519-1 à L519-5)](#344)
-      - [Titre II : Les changeurs manuels. (art. L520-1 à L520-4)](#345)
-      - [Titre III : Les prestataires de services d'investissement (art. L531-1 à L533-13)](#346)
-        - [Chapitre Ier : Définitions (art. L531-1 à L531-11)](#347)
-          - [Section 1 : Dispositions générales (art. L531-1 à L531-3)](#348)
-          - [Section 2 : Les entreprises d'investissement (art. L531-4 à L531-8)](#349)
-          - [Section 3 : Interdictions (art. L531-10 à L531-11)](#350)
-        - [Chapitre II : Conditions d'exercice de la profession (art. L532-1 à L532-27)](#351)
-          - [Section 1 : Agrément (art. L532-1 à L532-15)](#352)
-            - [Sous-section 1 : Conditions et procédures d'agrément (art. L532-1 à L532-5)](#353)
-            - [Sous-section 2 : Retrait d'agrément et radiation (art. L532-6 à L532-8)](#354)
-            - [Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille (art. L532-9 à L532-13)](#355)
-              - [Paragraphe 1 : Agrément (art. L532-9 à L532-9-1)](#356)
-              - [Paragraphe 2 : Retrait d'agrément et radiation (art. L532-10 à L532-13)](#357)
-            - [Sous-section 4 : Bureaux de représentation (art. L532-14 à L532-15)](#358)
-          - [Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen (art. L532-16 à L532-27)](#359)
-            - [Sous-section 1 : Dispositions générales (art. L532-16 à L532-17)](#360)
-            - [Sous-section 2 : Libre prestation de services et liberté d'établissement en France (art. L532-18 à L532-22)](#361)
-            - [Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen (art. L532-23 à L532-27)](#362)
-        - [Chapitre III : Obligations des prestataires de services d'investissement (art. L533-1 à L533-13)](#363)
-          - [Section 1 : Normes de gestion (art. L533-1)](#364)
-          - [Section 2 : Obligations comptables et déclaratives (art. L533-2 à L533-3)](#365)
-          - [Section 3 : Règles de bonne conduite (art. L533-4 à L533-12)](#366)
-          - [Section 4 : Garantie des investisseurs. (art. L533-13)](#367)
-      - [Titre IV : Les sociétés de gestion collective (art. L540)](#368)
-      - [Titre V : Intermédiaires en biens divers (art. L550-1 à L550-5)](#369)
-      - [Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L561-1 à L564-3)](#370)
-        - [Chapitre Ier : Déclaration de certaines sommes ou opérations (art. L561-1)](#371)
-        - [Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite (art. L562-1 à L562-10)](#372)
-        - [Chapitre III : Autres obligations de vigilance des organismes financiers (art. L563-1 à L563-6)](#373)
-        - [Chapitre IV : Dispositions diverses (art. L564-1 à L564-3)](#374)
-      - [Titre VII : Dispositions pénales (art. L571-1 à L574-2)](#375)
-        - [Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire (art. L571-1 à L571-16)](#376)
-          - [Section 1 : Dispositions générales (art. L571-1 à L571-9)](#377)
-          - [Section 2 : Banques mutualistes ou coopératives (art. L571-10 à L571-11)](#378)
-            - [Sous-section 1 : Les banques populaires (art. L571-10)](#379)
-            - [Sous-section 2 : Le réseau des caisses d'épargne (art. L571-11)](#380)
-          - [Section 3 : Caisses de crédit municipal (art. L571-12)](#381)
-          - [Section 4 : Sociétés de crédit-bail (art. L571-13)](#382)
-          - [Section 5 : Compagnies financières (art. L571-14)](#383)
-          - [Section 6 : Intermédiaires en opérations de banque (art. L571-15 à L571-16)](#384)
-        - [Chapitre II : Changeurs manuels. (art. L572-1 à L572-3)](#385)
-          - [Section 1 : Changeurs manuels (art. L572-2 à L572-3)](#386)
-        - [Chapitre III : Dispositions relatives aux prestataires de services d'investissement (art. L573-1 à L573-8)](#387)
-        - [Chapitre IV : Dispositions relatives au blanchiment de capitaux (art. L574-1 à L574-2)](#388)
-    - [Livre VI : Les institutions en matière bancaire et financière (art. L611-1 à L642-7)](#389)
-      - [Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L611-1 à L614-7)](#390)
-        - [Chapitre Ier : Comité de la réglementation bancaire et financière (art. L611-1 à L611-9)](#391)
-          - [Section 1 : Missions (art. L611-1 à L611-6)](#392)
-          - [Section 2 : Composition (art. L611-7)](#393)
-          - [Section 3 : Règles de fonctionnement (art. L611-8 à L611-9)](#394)
-        - [Chapitre II : Comité des établissements de crédit et des entreprises d'investissement (art. L612-1 à L612-7)](#395)
-          - [Section 1 : Missions. (art. L612-1 à L612-2)](#396)
-          - [Section 2 : Composition. (art. L612-3)](#397)
-          - [Section 3 : Règles de fonctionnement. (art. L612-4 à L612-7)](#398)
-        - [Chapitre III : Commission bancaire (art. L613-1 à L613-34)](#399)
-          - [Section 1 : Missions (art. L613-1 à L613-2)](#400)
-          - [Section 2 : Composition. (art. L613-3)](#401)
-          - [Section 3 : Règles de fonctionnement. (art. L613-4 à L613-5)](#402)
-          - [Section 4 : Exercice du contrôle. (art. L613-6 à L613-13)](#403)
-            - [Sous-section 1 : Dispositions générales. (art. L613-13)](#404)
-          - [Section 5 : Exercice du pouvoir disciplinaire. (art. L613-21 à L613-24)](#405)
-          - [Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires. (art. L613-25 à L613-31)](#406)
-          - [Section 7 : Régime de contrôle spécifique. (art. L613-32 à L613-33-1)](#407)
-          - [Section 8 : Mise en oeuvre du fonds de garantie des dépôts. (art. L613-34)](#408)
-        - [Chapitre IV : Institutions consultatives (art. L614-1 à L614-7)](#409)
-          - [Section 1 : Conseil national du crédit et du titre et comité consultatif (art. L614-1 à L614-6)](#410)
-            - [Sous-section 1 : Conseil national du crédit et du titre (art. L614-1 à L614-5)](#411)
-            - [Sous-section 2 : Comité consultatif (art. L614-6)](#412)
-          - [Section 2 : Haut conseil du secteur financier public et semi-public (art. L614-7)](#413)
-      - [Titre II : Les autorités des marchés financiers (art. L621-1 à L623-4)](#414)
-        - [Chapitre Ier : Commission des opérations de bourse (art. L621-1 à L621-31)](#415)
-          - [Section 1 : Missions (art. L621-1)](#416)
-          - [Section 2 : Composition (art. L621-2)](#417)
-          - [Section 3 : Règles de fonctionnement (art. L621-3 à L621-5)](#418)
-          - [Section 4 : Pouvoirs (art. L621-6 à L621-21)](#419)
-            - [Sous-section 1 : Réglementation (art. L621-6 à L621-7)](#420)
-            - [Sous-section 2 : Autorisation des opérations d'appel public à l'épargne (art. L621-8)](#421)
-            - [Sous-section 3 : Enquête (art. L621-9 à L621-13)](#422)
-            - [Sous-section 4 : Injonctions et sanctions administratives (art. L621-14 à L621-17)](#423)
-            - [Sous-section 5 : Autres compétences (art. L621-18 à L621-21)](#424)
-          - [Section 5 : Contrôle des gestionnaires de portefeuille (art. L621-22 à L621-27)](#425)
-          - [Section 6 : Comité consultatif de la gestion financière (art. L621-28 à L621-29)](#426)
-          - [Section 7 : Voies de recours (art. L621-30 à L621-31)](#427)
-        - [Chapitre II : Conseil des marchés financiers (art. L622-1 à L622-25)](#428)
-          - [Section 1 : Organisation (art. L622-1 à L622-6)](#429)
-            - [Sous-section 1 : Composition et mode de décision (art. L622-1 à L622-2)](#430)
-            - [Sous-section 2 : Formations spécialisées (art. L622-3)](#431)
-            - [Sous-section 3 : Formations disciplinaires (art. L622-4)](#432)
-            - [Sous-section 4 : Obligations déontologiques et professionnelles (art. L622-5 à L622-6)](#433)
-          - [Section 2 : Attributions (art. L622-7 à L622-24)](#434)
-            - [Sous-section 1 : Attributions réglementaires (art. L622-7)](#435)
-            - [Sous-section 2 : Pouvoirs de décision, de contrôle et de sanction (art. L622-8 à L622-20-1)](#436)
-            - [Sous-section 3 : Autres attributions (art. L622-21 à L622-24)](#437)
-          - [Section 3 : Voies de recours (art. L622-25)](#438)
-        - [Chapitre III : Conseil de discipline de la gestion financière (art. L623-1 à L623-4)](#439)
-          - [Section 1 : Composition (art. L623-1)](#440)
-          - [Section 2 : Exercice du pouvoir disciplinaire (art. L623-2 à L623-4)](#441)
-      - [Titre III : Échanges d'informations (art. L631-1 à L632-1)](#442)
-        - [Chapitre Ier : Echanges d'informations sur le territoire national (art. L631-1 à L631-2)](#443)
-          - [Section 1 : Echange d'informations entre les autorités (art. L631-1)](#444)
-          - [Section 2 : Le collège des autorités de contrôle des entreprises du secteur financier (art. L631-2)](#445)
-        - [Chapitre II : Echanges d'informations avec l'étranger (art. L632-1)](#446)
-      - [Titre IV : Dispositions pénales (art. L641-1 à L642-7)](#447)
-        - [Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L641-1 à L641-2)](#448)
-          - [Section 1 : Comité des établissements de crédit et des entreprises d'investissement (art. L641-1)](#449)
-          - [Section 2 : Commission bancaire (art. L641-2)](#450)
-        - [Chapitre II : Dispositions relatives aux autorités des marchés financiers (art. L642-1 à L642-7)](#451)
-          - [Section 1 : Commission des opérations de bourse (art. L642-1 à L642-3)](#452)
-          - [Section 2 : Conseil des marchés financiers (art. L642-4 à L642-5)](#453)
-          - [Section 3 : Conseil de discipline de la gestion financière (art. L642-6 à L642-7)](#454)
-    - [Livre VII : Régime de l'outre-mer (art. L711-1 à L766-8)](#455)
-      - [Titre Ier : Dispositions communes à plusieurs collectivités territoriales (art. L711-1 à L712-5)](#456)
-        - [Chapitre Ier : Dispositions applicables dans les départements d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L711-1 à L711-12)](#457)
-          - [Section 1 : Les signes monétaires (art. L711-1)](#458)
-          - [Section 2 : L'institut d'émission des départements d'outre-mer (art. L711-2 à L711-12)](#459)
-        - [Chapitre Ier bis : Dispositions relatives à l'introduction de l'euro à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L711-13 à L711-21)](#460)
-          - [Section 1 : L'euro (art. L711-13 à L711-19)](#461)
-            - [Sous-section 1 : L'unité monétaire (art. L711-13)](#462)
-            - [Sous-section 2 : Conversion à l'euro et règles d'arrondissement (art. L711-14 à L711-16)](#463)
-            - [Sous-section 3 : Continuité des obligations (art. L711-17 à L711-19)](#464)
-          - [Section 2 : Dispositions d'application (art. L711-20 à L711-21)](#465)
-        - [Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna (art. L712-1 à L712-5)](#466)
-          - [Section 1 : Les signes monétaires (art. L712-1 à L712-3)](#467)
-          - [Section 2 : L'institut d'émission d'outre-mer (art. L712-4)](#468)
-          - [Section 3 : Les instruments de la monnaie scripturale (art. L712-5)](#469)
-      - [Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L721-1 à L726-4)](#470)
-        - [Chapitre Ier : La monnaie (art. L721-1 à L721-4)](#471)
-          - [Section 1 : Règles d'usage de la monnaie (art. L721-1)](#472)
-          - [Section 2 : Les relations financières avec l'étranger (art. L721-2 à L721-4)](#473)
-            - [Sous-section 1 : Obligations de déclaration (art. L721-2)](#474)
-            - [Sous-section 2 : Constatation et poursuite des infractions (art. L721-3 à L721-4)](#475)
-        - [Chapitre II : Les produits (art. L722-1 à L722-3)](#476)
-          - [Section 1 : Les organismes de placements collectifs (art. L722-1)](#477)
-          - [Section 2 : Les produits à régime fiscal spécifique (art. L722-2 à L722-3)](#478)
-        - [Chapitre III : Les services (art. L723-1)](#479)
-        - [Chapitre IV : Les marchés (art. L724-1)](#480)
-        - [Chapitre V : Les prestataires de services (art. L725-1 à L725-3)](#481)
-          - [Section 1 : Les établissements du secteur bancaire (art. L725-1)](#482)
-          - [Section 2 : Les prestataires de services d'investissement (art. L725-2)](#483)
-          - [Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L725-3)](#484)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L726-1 à L726-4)](#485)
-          - [Section 1 : Le comité des établissements de crédit et des entreprises d'investissement (art. L726-1)](#486)
-          - [Section 2 : La commission bancaire (art. L726-2)](#487)
-          - [Section 4 : Le Conseil des marchés financiers (art. L726-4)](#488)
-      - [Titre III : Dispositions applicables à mayotte (art. L731-1 à L736-7)](#489)
-        - [Chapitre Ier : La monnaie (art. L731-1 à L731-5)](#490)
-          - [Section 1 : Les instruments de la monnaie scripturale (art. L731-1)](#491)
-          - [Section 2 : Les relations financières avec l'étranger (art. L731-2 à L731-5)](#492)
-            - [Sous-section 1 : Dispositions générales (art. L731-2)](#493)
-            - [Sous-section 2 : Obligations de déclaration (art. L731-3)](#494)
-            - [Sous-section 3 : Constatation et poursuite des infractions (art. L731-4 à L731-5)](#495)
-        - [Chapitre II : Les produits (art. L732-1 à L732-8)](#496)
-          - [Section 1 : Les instruments financiers (art. L732-1 à L732-7)](#497)
-            - [Sous-section 1 : Définition et règles générales (art. L732-1)](#498)
-            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L732-2)](#499)
-            - [Sous-section 3 : Les titres de créance (art. L732-3 à L732-6)](#500)
-              - [Paragraphe 1 : Les titres de créances négociables (art. L732-3)](#501)
-              - [Paragraphe 2 : Les obligations (art. L732-4 à L732-5)](#502)
-              - [Paragraphe 3 : Les titres participatifs (art. L732-6)](#503)
-            - [Sous-section 4 : Les placements collectifs (art. L732-7)](#504)
-          - [Section 2 : Les produits d'épargne (art. L732-8)](#505)
-        - [Chapitre III : Les services (art. L733-1 à L733-11)](#506)
-          - [Section 1 : Les opérations de banque (art. L733-1 à L733-7)](#507)
-            - [Sous-section 1 : Dispositions générales (art. L733-1)](#508)
-            - [Sous-section 2 : Comptes et dépôts (art. L733-2)](#509)
-            - [Sous-section 3 : Crédits (art. L733-3 à L733-7)](#510)
-              - [Paragraphe 1 : Dispositions générales (art. L733-3)](#511)
-              - [Paragraphe 2 : Catégories de crédits (art. L733-4 à L733-5)](#512)
-                - [Sous-paragraphe 1 : Crédit-bail (art. L733-4)](#513)
-                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L733-5)](#514)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L733-6)](#515)
-              - [Paragraphe 4 : Garantie des cautions (art. L733-7)](#516)
-          - [Section 2 : Les services d'investissement et leurs services connexes (art. L733-8)](#517)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L733-9)](#518)
-          - [Section 4 : Démarchage (art. L733-10 à L733-11)](#519)
-            - [Sous-section 1 : Démarchage concernant les opérations de banque. (art. L733-10)](#520)
-            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L733-11)](#521)
-        - [Chapitre IV : Les marchés (art. L734-1 à L734-13)](#522)
-          - [Section 1 : L'appel public à l'épargne (art. L734-1 à L734-2)](#523)
-            - [Sous-section 1 : Définition (art. L734-1)](#524)
-            - [Sous-section 2 : Conditions de l'appel public à l'épargne (art. L734-2)](#525)
-          - [Section 2 : Les catégories de marché (art. L734-3 à L734-4)](#526)
-          - [Section 3 : Les négociations sur instruments financiers (art. L734-5 à L734-10)](#527)
-            - [Sous-section 1 : Dispositions générales (art. L734-5 à L734-7)](#528)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L734-5 à L734-6)](#529)
-              - [Paragraphe 2 : Compensation (art. L734-7)](#530)
-            - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L734-8 à L734-9)](#531)
-              - [Paragraphe 1 : Adjudication (art. L734-8)](#532)
-              - [Paragraphe 2 : Les opérations à terme (art. L734-9)](#533)
-            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L734-10)](#534)
-          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L734-11)](#535)
-          - [Section 5 : La protection des investisseurs (art. L734-12 à L734-13)](#536)
-            - [Sous-section 1 : Obligations d'information relatives aux comptes (art. L734-12)](#537)
-            - [Sous-section 2 : Obligations d'information sur les prises de participation (art. L734-13)](#538)
-        - [Chapitre V : Les prestataires de services (art. L735-1 à L735-13)](#539)
-          - [Section 1 : Les établissements du secteur bancaire (art. L735-1 à L735-7)](#540)
-            - [Sous-section 1 : Les sociétés financières (art. L735-2 à L735-4)](#541)
-              - [Paragraphe 1 : Dispositions communes (art. L735-2)](#542)
-              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L735-3)](#543)
-              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L735-4)](#544)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. L735-5)](#545)
-            - [Sous-section 3 : Les compagnies financières (art. L735-6)](#546)
-            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L735-7)](#547)
-          - [Section 2 : Les changeurs manuels (art. L735-8)](#548)
-          - [Section 3 : Les prestataires de services d'investissement (art. L735-9 à L735-11)](#549)
-            - [Sous-section 1 : Définitions (art. L735-9)](#550)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. L735-10)](#551)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L735-11)](#552)
-          - [Section 4 : Les intermédiaires en biens divers (art. L735-12)](#553)
-          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L735-13)](#554)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L736-5 à L736-7)](#555)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L736-1 à L736-4)](#556)
-            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L736-1)](#557)
-            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L736-2)](#558)
-            - [Sous-section 3 : La commission bancaire (art. L736-3)](#559)
-            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L736-4)](#560)
-          - [Section 2 : Les autorités des marchés financiers (art. L736-6 à L736-7)](#561)
-            - [Sous-section 2 : Le Conseil des marchés financiers (art. L736-6)](#562)
-            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L736-7)](#563)
-      - [Titre IV : Dispositions applicables en Nouvelle-Calédonie (art. L741-1 à L746-8)](#564)
-        - [Chapitre Ier : La monnaie (art. L741-1 à L741-6)](#565)
-          - [Section 1 : Règles d'usage de la monnaie (art. L741-1)](#566)
-          - [Section 2 : Les instruments de la monnaie scripturale (art. L741-2)](#567)
-          - [Section 3 : Les relations financières avec l'étranger (art. L741-3 à L741-6)](#568)
-            - [Sous-section 1 : Dispositions générales (art. L741-3)](#569)
-            - [Sous-section 2 : Obligations de déclaration (art. L741-4)](#570)
-            - [Sous-section 3 : Constatation et poursuite des infractions (art. L741-5 à L741-6)](#571)
-        - [Chapitre II : Les produits (art. L742-1 à L742-7)](#572)
-          - [Section unique : Les instruments financiers (art. L742-1 à L742-7)](#573)
-            - [Sous-section 1 : Définition et règles générales (art. L742-1)](#574)
-            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L742-2)](#575)
-            - [Sous-section 3 : Les titres de créance (art. L742-3 à L742-5)](#576)
-              - [Paragraphe 1 : Les titres de créances négociables (art. L742-3)](#577)
-              - [Paragraphe 2 : Les obligations (art. L742-4 à L742-5)](#578)
-            - [Sous-section 4 : Les placements collectifs (art. L742-6 à L742-7)](#579)
-        - [Chapitre III : Les services (art. L743-1 à L743-11)](#580)
-          - [Section 1 : Les opérations de banque (art. L743-1 à L743-7)](#581)
-            - [Sous-section 1 : Dispositions générales (art. L743-1)](#582)
-            - [Sous-section 2 : Comptes et dépôts (art. L743-2)](#583)
-            - [Sous-section 3 : Crédits (art. L743-3 à L743-7)](#584)
-              - [Paragraphe 1 : Dispositions générales (art. L743-3)](#585)
-              - [Paragraphe 2 : Catégories de crédits (art. L743-4 à L743-5)](#586)
-                - [Sous-paragraphe 1 : Crédit-bail (art. L743-4)](#587)
-                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L743-5)](#588)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L743-6)](#589)
-              - [Paragraphe 4 : Garantie des cautions (art. L743-7)](#590)
-          - [Section 2 : Les services d'investissement et leurs services connexes (art. L743-8)](#591)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L743-9)](#592)
-          - [Section 4 : Démarchage (art. L743-10 à L743-11)](#593)
-            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L743-10)](#594)
-            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L743-11)](#595)
-        - [Chapitre IV : Les marchés (art. L744-1 à L744-13)](#596)
-          - [Section 1 : L'appel public à l'épargne (art. L744-1 à L744-2)](#597)
-            - [Sous-section 1 : Définition. (art. L744-1)](#598)
-            - [Sous-section 2 : Conditions de l'appel public à l'épargne. (art. L744-2)](#599)
-          - [Section 2 : Les catégories de marché (art. L744-3 à L744-4)](#600)
-          - [Section 3 : Les négociations sur instruments financiers (art. L744-5 à L744-10)](#601)
-            - [Sous-section 1 : Dispositions générales (art. L744-5 à L744-7)](#602)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L744-5 à L744-6)](#603)
-              - [Paragraphe 2 : Compensation. (art. L744-7)](#604)
-            - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L744-8 à L744-9)](#605)
-              - [Paragraphe 1 : Adjudication (art. L744-8)](#606)
-              - [Paragraphe 2 : Les opérations à terme (art. L744-9)](#607)
-            - [Sous-section 3 : Modalités spécifiques aux marchés réglementés (art. L744-10)](#608)
-          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L744-11)](#609)
-          - [Section 5 : La protection des investisseurs (art. L744-12 à L744-13)](#610)
-            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L744-12)](#611)
-            - [Sous-section 2 : Obligation d'information sur les prises de participation (art. L744-13)](#612)
-        - [Chapitre V : Les prestataires de services (art. L745-1 à L745-13)](#613)
-          - [Section 1 : Les établissements du secteur bancaire (art. L745-1 à L745-7)](#614)
-            - [Sous-section 1 : Définitions et activités (art. L745-1)](#615)
-            - [Sous-section 3 : Les sociétés financières (art. L745-2 à L745-4)](#616)
-              - [Paragraphe 1 : Dispositions communes (art. L745-2)](#617)
-              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L745-3)](#618)
-              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L745-4)](#619)
-            - [Sous-section 4 : Les institutions financières spécialisées (art. L745-5)](#620)
-            - [Sous-section 5 : Les compagnies financières (art. L745-6)](#621)
-            - [Sous-section 6 : Les intermédiaires en opérations de banque (art. L745-7)](#622)
-          - [Section 2 : Les changeurs manuels (art. L745-8)](#623)
-          - [Section 3 : Les prestataires de services d'investissement (art. L745-9 à L745-11)](#624)
-            - [Sous-section 1 : Définitions (art. L745-9)](#625)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. L745-10)](#626)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L745-11)](#627)
-          - [Section 4 : Intermédiaires en biens divers (art. L745-12)](#628)
-          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L745-13)](#629)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L746-1 à L746-8)](#630)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L746-1 à L746-4)](#631)
-            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L746-1)](#632)
-            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L746-2)](#633)
-            - [Sous-section 3 : La commission bancaire. (art. L746-3)](#634)
-            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L746-4)](#635)
-          - [Section 2 : Les autorités des marchés financiers (art. L746-5 à L746-7)](#636)
-            - [Sous-section 1 : La Commission des opérations de bourse (art. L746-5)](#637)
-            - [Sous-section 2 : Le Conseil des marchés financiers (art. L746-6)](#638)
-            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L746-7)](#639)
-          - [Section 3 : Echanges d'informations (art. L746-8)](#640)
-      - [Titre V : Dispositions applicables en Polynésie française (art. L751-1 à L756-8)](#641)
-        - [Chapitre Ier : La monnaie (art. L751-1 à L751-6)](#642)
-          - [Section 1 : Règles d'usage de la monnaie (art. L751-1)](#643)
-          - [Section 2 : Les instruments de la monnaie scripturale (art. L751-2)](#644)
-          - [Section 3 : Les relations financières avec l'étranger (art. L751-3 à L751-6)](#645)
-            - [Sous-section 1 : Dispositions générales (art. L751-3)](#646)
-            - [Sous-section 2 : Obligations de déclaration (art. L751-4)](#647)
-            - [Sous-section 3 : Constatation et poursuite des infractions (art. L751-5 à L751-6)](#648)
-        - [Chapitre II : Les produits (art. L752-1 à L752-7)](#649)
-          - [Section 1 : Les instruments financiers (art. L752-1 à L752-6)](#650)
-            - [Sous-section 1 : Définition et règles générales (art. L752-1)](#651)
-            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L752-2)](#652)
-            - [Sous-section 3 : Les titres de créance (art. L752-3 à L752-5)](#653)
-              - [Paragraphe 1 : Les titres de créances négociables (art. L752-3)](#654)
-              - [Paragraphe 2 : Les obligations (art. L752-4 à L752-5)](#655)
-            - [Sous-section 4 : Les placements collectifs (art. L752-6)](#656)
-          - [Section 2 : Les produits d'épargne (art. L752-7)](#657)
-        - [Chapitre III : Les services (art. L753-1 à L753-11)](#658)
-          - [Section 1 : Les opérations de banque (art. L753-1 à L753-7)](#659)
-            - [Sous-section 1 : Dispositions générales (art. L753-1)](#660)
-            - [Sous-section 2 : Comptes et dépôts (art. L753-2)](#661)
-            - [Sous-section 3 : Crédits (art. L753-3 à L753-7)](#662)
-              - [Paragraphe 1 : Dispositions générales (art. L753-3)](#663)
-              - [Paragraphe 2 : Catégories de crédits (art. L753-4 à L753-5)](#664)
-                - [Sous-paragraphe 1 : Crédit-bail (art. L753-4)](#665)
-                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L753-5)](#666)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L753-6)](#667)
-              - [Paragraphe 4 : Garanties des cautions (art. L753-7)](#668)
-          - [Section 2 : Les services d'investissement et leurs services connexes (art. L753-8)](#669)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L753-9)](#670)
-          - [Section 4 : Démarchage (art. L753-10 à L753-11)](#671)
-            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L753-10)](#672)
-            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L753-11)](#673)
-        - [Chapitre IV : Les marchés (art. L754-1 à L754-13)](#674)
-          - [Section 1 : L'appel public à l'épargne (art. L754-1 à L754-2)](#675)
-            - [Sous-section 1 : Définition. (art. L754-1)](#676)
-            - [Sous-section 2 : Conditions de l'appel public à l'épargne. (art. L754-2)](#677)
-          - [Section 2 : Les catégories de marché (art. L754-3 à L754-4)](#678)
-          - [Section 3 : Les négociations sur instruments financiers (art. L754-5 à L754-10)](#679)
-            - [Sous-section 1 : Dispositions générales (art. L754-5 à L754-7)](#680)
-              - [Paragraphe 1 : Transfert de propriété des titres et mise en gage (art. L754-5 à L754-6)](#681)
-              - [Paragraphe 2 : Compensation (art. L754-7)](#682)
-            - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L754-8 à L754-9)](#683)
-              - [Paragraphe 1 : Adjudication (art. L754-8)](#684)
-              - [Paragraphe 2 : Les opérations à terme (art. L754-9)](#685)
-            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L754-10)](#686)
-          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L754-11)](#687)
-          - [Section 5 : La protection des investisseurs (art. L754-12 à L754-13)](#688)
-            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L754-12)](#689)
-            - [Sous-section 2 : Obligations d'information sur les prises de participation (art. L754-13)](#690)
-        - [Chapitre V : Les prestataires de services (art. L755-1 à L755-13)](#691)
-          - [Section 1 : Les établissements du secteur bancaire (art. L755-1 à L755-7)](#692)
-            - [Sous-section 1 : Les sociétés financières (art. L755-2 à L755-4)](#693)
-              - [Paragraphe 1 : Dispositions communes (art. L755-2)](#694)
-              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L755-3)](#695)
-              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L755-4)](#696)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. L755-5)](#697)
-            - [Sous-section 3 : Les compagnies financières (art. L755-6)](#698)
-            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L755-7)](#699)
-          - [Section 2 : Les changeurs manuels (art. L755-8)](#700)
-          - [Section 3 : Les prestataires de services d'investissement (art. L755-9 à L755-11)](#701)
-            - [Sous-section 1 : Définitions (art. L755-9)](#702)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. L755-10)](#703)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L755-11)](#704)
-          - [Section 4 : Les intermédiaires en biens divers (art. L755-12)](#705)
-          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L755-13)](#706)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L756-1 à L756-8)](#707)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L756-1 à L756-4)](#708)
-            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L756-1)](#709)
-            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L756-2)](#710)
-            - [Sous-section 3 : La commission bancaire. (art. L756-3)](#711)
-            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L756-4)](#712)
-          - [Section 2 : Les autorités des marchés financiers (art. L756-5 à L756-7)](#713)
-            - [Sous-section 1 : La Commission des opérations de bourse (art. L756-5)](#714)
-            - [Sous-section 2 : Le Conseil des marchés financiers (art. L756-6)](#715)
-            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L756-7)](#716)
-          - [Section 3 : Echanges d'informations (art. L756-8)](#717)
-      - [Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna (art. L764-4)](#718)
-        - [Chapitre IV : Les marchés (art. L764-4)](#719)
-          - [Section 2 : Les plates-formes de négociation (art. L764-4)](#720)
-      - [Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna (art. L761-1 à L766-8)](#721)
-        - [Chapitre Ier : La monnaie (art. L761-1 à L761-5)](#722)
-          - [Section 1 : Les instruments de la monnaie scripturale (art. L761-1)](#723)
-          - [Section 2 : Les relations financières avec l'étranger (art. L761-2 à L761-5)](#724)
-            - [Sous-section 1 : Dispositions générales (art. L761-2)](#725)
-            - [Sous-section 2 : Obligations de déclaration (art. L761-3 à L761-5)](#726)
-        - [Chapitre II : Les produits (art. L762-1 à L762-7)](#727)
-          - [Section 1 : Les instruments financiers (art. L762-1 à L762-6)](#728)
-            - [Sous-section 1 : Définition et règles générales (art. L762-1)](#729)
-            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L762-2)](#730)
-            - [Sous-section 3 : Les titres de créance (art. L762-3 à L762-5)](#731)
-              - [Paragraphe 1 : Les titres de créances négociables (art. L762-3)](#732)
-              - [Paragraphe 2 : Les obligations (art. L762-4 à L762-5)](#733)
-            - [Sous-section 4 : Les placements collectifs (art. L762-6)](#734)
-          - [Section 2 : Les produits d'épargne (art. L762-7)](#735)
-        - [Chapitre III : Les services (art. L763-1 à L763-11)](#736)
-          - [Section 1 : Les opérations de banque (art. L763-1 à L763-7)](#737)
-            - [Sous-section 1 : Dispositions générales (art. L763-1)](#738)
-            - [Sous-section 2 : Comptes et dépôts (art. L763-2)](#739)
-            - [Sous-section 3 : Crédits (art. L763-3 à L763-7)](#740)
-              - [Paragraphe 1 : Dispositions générales (art. L763-3)](#741)
-              - [Paragraphe 2 : Catégories de crédits (art. L763-4 à L763-5)](#742)
-                - [Sous-paragraphe 1 : Crédit-bail (art. L763-4)](#743)
-                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L763-5)](#744)
-              - [Paragraphe 3 : Procédures de mobilisation des créances (art. L763-6)](#745)
-              - [Paragraphe 4 : Garantie des cautions (art. L763-7)](#746)
-          - [Section 2 : Les services d'investissement et leurs services connexes (art. L763-8)](#747)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L763-9)](#748)
-          - [Section 4 : Démarchage (art. L763-10 à L763-11)](#749)
-            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L763-10)](#750)
-            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L763-11)](#751)
-        - [Chapitre IV : Les marchés (art. L764-1 à L764-13)](#752)
-          - [Section 1 : L'appel public à l'épargne (art. L764-1 à L764-2)](#753)
-            - [Sous-section 1 : Définition (art. L764-1)](#754)
-            - [Sous-section 2 : Conditions de l'appel public à l'épargne (art. L764-2)](#755)
-          - [Section 2 : Les catégories de marché (art. L764-3)](#756)
-          - [Section 3 : Les négociations sur instruments financiers (art. L764-5 à L764-10)](#757)
-            - [Sous-section 1 : Dispositions générales (art. L764-5 à L764-7)](#758)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L764-5 à L764-6)](#759)
-              - [Paragraphe 2 : Compensation (art. L764-7)](#760)
-            - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L764-8 à L764-9)](#761)
-              - [Paragraphe 1 : Adjudication (art. L764-8)](#762)
-              - [Paragraphe 2 : Les opérations à terme (art. L764-9)](#763)
-            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L764-10)](#764)
-          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L764-11)](#765)
-          - [Section 5 : La protection des investisseurs (art. L764-12 à L764-13)](#766)
-            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L764-12)](#767)
-            - [Sous-section 2 : Obligations d'information relative aux prises de participation (art. L764-13)](#768)
-        - [Chapitre V : Les prestataires de services (art. L765-1 à L765-13)](#769)
-          - [Section 1 : Les établissements du secteur bancaire (art. L765-1 à L765-7)](#770)
-            - [Sous-section 1 : Les sociétés financières (art. L765-2 à L765-4)](#771)
-              - [Paragraphe 1 : Dispositions communes (art. L765-2)](#772)
-              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L765-3)](#773)
-              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L765-4)](#774)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. L765-5)](#775)
-            - [Sous-section 3 : Les compagnies financières (art. L765-6)](#776)
-            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L765-7)](#777)
-          - [Section 2 : Les changeurs manuels (art. L765-8)](#778)
-          - [Section 3 : Les prestataires de services d'investissement (art. L765-9 à L765-11)](#779)
-            - [Sous-section 1 : Définitions (art. L765-9)](#780)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. L765-10)](#781)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L765-11)](#782)
-          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L765-13)](#783)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L766-1 à L766-8)](#784)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L766-1 à L766-4)](#785)
-            - [Sous-section 1 : Le comité de la réglementation bancaire et financière (art. L766-1)](#786)
-            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L766-2)](#787)
-            - [Sous-section 3 : La commission bancaire (art. L766-3)](#788)
-            - [Sous-section 4 : Le conseil national du crédit et du titre (art. L766-4)](#789)
-          - [Section 2 : Les autorités des marchés financiers (art. L766-5 à L766-7)](#790)
-            - [Sous-section 1 : La commission des opérations de bourse (art. L766-5)](#791)
-            - [Sous-section 2 : Le conseil des marchés financiers (art. L766-6)](#792)
-            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L766-7)](#793)
-          - [Section 3 : Echanges d'informations (art. L766-8)](#794)
+            - [Sous-section 6 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs (art. L214-35 à L214-35-6)](#102)
+              - [Paragraphe 1er : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées. (art. L214-35 à L214-35-1)](#103)
+              - [Paragraphe 2 : Organismes de placement collectif en valeurs mobilières contractuels. (art. L214-35-2 à L214-35-6)](#104)
+            - [Sous-section 7 : Fonds communs de placement à risques. (art. L214-36 à L214-38)](#105)
+            - [Sous-section 8 : Fonds communs de placement d'entreprise. (art. L214-39 à L214-40-1)](#106)
+            - [Sous-section 9 : Fonds communs de placement dans l'innovation. (art. L214-41)](#107)
+            - [Sous-section 10 : Fonds communs d'intervention sur les marchés à terme. (art. L214-42)](#108)
+          - [Section 2 : Les fonds communs de créances. (art. L214-43 à L214-49)](#109)
+          - [Section 3 : Les sociétés civiles de placement immobilier (art. L214-50 à L214-83-1)](#110)
+            - [Sous-section 1 : Régime général (art. L214-50 à L214-58)](#111)
+            - [Sous-section 2 : Souscription des parts (art. L214-59 à L214-65)](#112)
+            - [Sous-section 3 : Gestion (art. L214-66 à L214-72)](#113)
+            - [Sous-section 4 : Assemblée générale (art. L214-73 à L214-77)](#114)
+            - [Sous-section 5 : Dispositions comptables (art. L214-78 à L214-79)](#115)
+            - [Sous-section 6 : Fusion (art. L214-80 à L214-83)](#116)
+            - [Sous-section 6-1 : Règles de bonne conduite. (art. L214-83-1)](#117)
+          - [Section 4 : Les sociétés d'épargne forestière (art. L214-85 à L214-88)](#118)
+      - [Titre II : Les produits d'épargne (art. L221-1 à L223-4)](#119)
+        - [Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique (art. L221-1 à L221-29)](#120)
+          - [Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel (art. L221-1 à L221-12)](#121)
+            - [Sous-section 1 : Dispositions communes (art. L221-1 à L221-6)](#122)
+              - [Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel. (art. L221-1)](#123)
+              - [Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne. (art. L221-2 à L221-6)](#124)
+            - [Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance. (art. L221-7 à L221-8)](#125)
+            - [Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne. (art. L221-9 à L221-10)](#126)
+            - [Sous-section 4 : Dispositions spécifiques au Crédit mutuel. (art. L221-11 à L221-12)](#127)
+          - [Section 2 : L'épargne populaire (art. L221-13 à L221-23)](#128)
+            - [Sous-section 1 : Le compte sur livret d'épargne populaire (art. L221-13 à L221-17)](#129)
+            - [Sous-section 2 : Le plan d'épargne populaire (art. L221-18 à L221-23)](#130)
+          - [Section 3 : Le livret jeune (art. L221-24 à L221-26)](#131)
+          - [Section 4 : Le compte pour le développement industriel. (art. L221-27 à L221-28)](#132)
+          - [Section 5 : L'épargne-logement (art. L221-29)](#133)
+        - [Chapitre II : Produits d'épargne salariale (art. L222-1)](#134)
+          - [Section unique : Le plan d'épargne d'entreprise (art. L222-1)](#135)
+        - [Chapitre III : Bons de caisse (art. L223-1 à L223-4)](#136)
+      - [Titre III : Dispositions pénales (art. L231-1 à L232-2)](#137)
+        - [Chapitre Ier : Infractions relatives aux instruments financiers (art. L231-1 à L231-21)](#138)
+          - [Section 1 : Infractions relatives aux titres (art. L231-1 à L231-2)](#139)
+            - [Sous-section 1 : Obligations. (art. L231-1)](#140)
+            - [Sous-section 2 : Titres émis par des associations. (art. L231-2)](#141)
+          - [Section 2 : Infractions relatives aux placements collectifs (art. L231-3 à L231-21)](#142)
+            - [Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières. (art. L231-3 à L231-7)](#143)
+            - [Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier (art. L231-8 à L231-21)](#144)
+        - [Chapitre II : Infractions relatives aux produits d'épargne (art. L232-1 à L232-2)](#145)
+          - [Section unique : Bons de caisse (art. L232-1 à L232-2)](#146)
+    - [Livre III : Les services (art. L311-1 à L353-6)](#147)
+      - [Titre Ier : Les opérations de banque (art. L311-1 à L313-51)](#148)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-4)](#149)
+          - [Section 1 : Définition des opérations de banque (art. L311-1)](#150)
+          - [Section 2 : Définition des opérations connexes aux opérations de banque (art. L311-2)](#151)
+          - [Section 3 : Définition des moyens de paiement. (art. L311-3)](#152)
+          - [Section 4 : Compensation. (art. L311-4)](#153)
+        - [Chapitre II : Comptes et dépôts (art. L312-1 à L312-18)](#154)
+          - [Section 1 : Droit au compte et relations avec le client (art. L312-1 à L312-1-4)](#155)
+            - [Sous-section 2 : Relations des établissements de crédit avec le client (art. L312-1 à L312-1-4)](#156)
+          - [Section 2 : Fonds reçus du public (art. L312-2 à L312-3)](#157)
+            - [Sous-section 1 : Définition. (art. L312-2)](#158)
+            - [Sous-section 2 : Rémunération. (art. L312-3)](#159)
+          - [Section 3 : Garantie des déposants (art. L312-4 à L312-18)](#160)
+        - [Chapitre III : Crédits (art. L313-1 à L313-51)](#161)
+          - [Section 1 : Dispositions générales (art. L313-1 à L313-6)](#162)
+            - [Sous-section 1 : Définition (art. L313-1)](#163)
+            - [Sous-section 2 : Taux d'intérêt (art. L313-2 à L313-5)](#164)
+              - [Paragraphe 1 : Taux de l'intérêt légal (art. L313-2 à L313-3)](#165)
+              - [Paragraphe 2 : Taux effectif global (art. L313-4)](#166)
+              - [Paragraphe 3 : Taux de l'usure (art. L313-5)](#167)
+            - [Sous-section 3 : Fichier des incidents de paiement caractérisés (art. L313-6)](#168)
+          - [Section 2 : Catégories de crédits (art. L313-7 à L313-22)](#169)
+            - [Sous-section 1 : Crédit-bail. (art. L313-7 à L313-11)](#170)
+            - [Sous-section 2 : Crédits aux entreprises (art. L313-12 à L313-22)](#171)
+              - [Paragraphe 1 : Crédit d'exploitation. (art. L313-12)](#172)
+              - [Paragraphe 2 : Prêts participatifs. (art. L313-13 à L313-20)](#173)
+                - [Sous-paragraphe 1 : Régime général. (art. L313-14 à L313-17)](#174)
+                - [Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat. (art. L313-18 à L313-20)](#175)
+              - [Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels. (art. L313-21)](#176)
+              - [Paragraphe 4 : Information des cautions. (art. L313-22)](#177)
+          - [Section 3 : Procédures de mobilisation des créances professionnelles (art. L313-23 à L313-49)](#178)
+            - [Sous-section 1 : Cession et nantissement des créances professionnelles (art. L313-23 à L313-29)](#179)
+            - [Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti (art. L313-30 à L313-49)](#180)
+              - [Paragraphe 1 : Dispositions générales (art. L313-30 à L313-35)](#181)
+              - [Paragraphe 2 : Mobilisation des crédits à moyen terme (art. L313-36 à L313-41)](#182)
+              - [Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées (art. L313-42 à L313-49)](#183)
+          - [Section 4 : Garantie des cautions (art. L313-50 à L313-51)](#184)
+      - [Titre II : Les services d'investissement et leurs services connexes (art. L321-1 à L322-4)](#185)
+        - [Chapitre Ier : Dispositions générales (art. L321-1 à L321-3)](#186)
+        - [Chapitre II : Garantie des investisseurs (art. L322-1 à L322-4)](#187)
+      - [Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers. (art. L330-1 à L330-2)](#188)
+      - [Titre IV : Le démarchage et le colportage.(en vigueur jusqu'au 1er décembre 2005) (art. L341-1 à L342-3)](#189)
+        - [Chapitre Ier : Démarchage bancaire ou financier (art. L341-1 à L341-17)](#190)
+          - [Section 1 : Définition. (art. L341-1)](#191)
+          - [Section 2 : Personnes habilitées à procéder au démarchage. (art. L341-3 à L341-8)](#192)
+          - [Section 3 : Produits ne pouvant pas faire l'objet de démarchage. (art. L341-10)](#193)
+          - [Section 4 : Règles de bonne conduite. (art. L341-11 à L341-16)](#194)
+          - [Section 5 : Sanctions disciplinaires. (art. L341-17)](#195)
+        - [Chapitre II : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers (art. L342-1 à L342-3)](#196)
+          - [Section 1 : Opérations sur matières précieuses (art. L342-1 à L342-2)](#197)
+          - [Section 2 : Opérations sur les billets de banque étrangers (art. L342-3)](#198)
+      - [Titre IV : Le démarchage et le colportage (art. L341-2 à L341-9)](#199)
+        - [Chapitre Ier : Démarchage bancaire ou financier (art. L341-2 à L341-9)](#200)
+          - [Section 1 : Définition. (art. L341-2)](#201)
+          - [Section 2 : Personnes habilitées à procéder au démarchage. (art. L341-4 à L341-9)](#202)
+      - [Titre V : Dispositions pénales (art. L351-1 à L353-6)](#203)
+        - [Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client (art. L351-1)](#204)
+        - [Chapitre II : Infractions relatives au fonds de garantie des déposants (art. L352-1)](#205)
+        - [Chapitre III : Infractions relatives au démarchage (art. L353-1 à L353-6)](#206)
+          - [Section 1 : Démarchage en matière bancaire ou financière (art. L353-1 à L353-5)](#207)
+          - [Section 2 : Opérations sur matières précieuses et billets de banque étrangers (art. L353-6)](#208)
+    - [Livre IV : Les marchés (art. L411-1 à L466-1)](#209)
+      - [Titre Ier : L'appel public à l'épargne (art. L411-1 à L412-4)](#210)
+        - [Chapitre Ier : Définition. (art. L411-1 à L411-2)](#211)
+        - [Chapitre II : Conditions de l'appel public à l'épargne (art. L412-1 à L412-4)](#212)
+          - [Section 1 : Obligations générales de publicité. (art. L412-1)](#213)
+          - [Section 2 : Interdictions et sanctions (art. L412-2 à L412-4)](#214)
+      - [Titre II : Les catégories de marchés (art. L421-1 à L424-1)](#215)
+        - [Chapitre Ier : Marchés réglementés français (art. L421-1 à L421-13)](#216)
+          - [Section 1 : Reconnaissance et retrait de la qualité de marché réglementé. (art. L421-1 à L421-2)](#217)
+          - [Section 2 : Conditions de fonctionnement des marchés réglementés. (art. L421-3 à L421-5)](#218)
+          - [Section 3 : Obligation d'intermédiation et monopole de négociation. (art. L421-6 à L421-7)](#219)
+          - [Section 4 : Régime des membres d'un marché réglementé. (art. L421-8 à L421-11)](#220)
+          - [Section 5 : Centralisation des ordres sur les marchés réglementés. (art. L421-12 à L421-13)](#221)
+        - [Chapitre II : Marchés réglementés européens. (art. L422-1)](#222)
+        - [Chapitre III : Marchés étrangers reconnus. (art. L423-1)](#223)
+        - [Chapitre IV : Marché de l'or. (art. L424-1)](#224)
+      - [Titre III : Les négociations sur instruments financiers (art. L431-1 à L433-4)](#225)
+        - [Chapitre Ier : Dispositions générales (art. L431-1 à L431-7)](#226)
+          - [Section 1 : Transfert de propriété des titres et mise en gage (art. L431-1 à L431-6)](#227)
+            - [Sous-section 1 : Transfert de propriété des titres. (art. L431-1 à L431-3)](#228)
+            - [Sous-section 2 : Mise en gage. (art. L431-4 à L431-6)](#229)
+          - [Section 2 : Compensation. (art. L431-7)](#230)
+        - [Chapitre II : Formes particulières de cessions d'instruments financiers (art. L432-1 à L432-20)](#231)
+          - [Section 1 : Vente à crédit. (art. L432-1 à L432-4)](#232)
+          - [Section 2 : Adjudication. (art. L432-5)](#233)
+          - [Section 3 : Cessions temporaires (art. L432-6 à L432-19)](#234)
+            - [Sous-section 1 : Prêt de titres. (art. L432-6 à L432-11)](#235)
+            - [Sous-section 2 : Pension. (art. L432-12 à L432-19)](#236)
+          - [Section 4 : Opérations à terme. (art. L432-20)](#237)
+        - [Chapitre III : Opérations spécifiques aux marchés réglementés (art. L433-1 à L433-4)](#238)
+          - [Section 1 : Offres publiques d'achat et d'échange (art. L433-1 à L433-2)](#239)
+          - [Section 2 : Obligation de déposer un projet d'offre publique (art. L433-3)](#240)
+          - [Section 3 : Offres publiques de retrait et retrait obligatoire (art. L433-4)](#241)
+      - [Titre IV : Les entreprises de marché et les chambres de compensation (art. L441-1 à L442-9)](#242)
+        - [Chapitre Ier : Entreprises de marché. (art. L441-1 à L441-3)](#243)
+        - [Chapitre II : Chambres de compensation. (art. L442-1 à L442-9)](#244)
+      - [Titre V : La protection des investisseurs (art. L451-1 à L452-4)](#245)
+        - [Chapitre Ier : La transparence des marchés (art. L451-1 à L451-2)](#246)
+          - [Section 1 : Les obligations d'information relative aux comptes (art. L451-1)](#247)
+          - [Section 2 : Obligation d'information sur les prises de participations (art. L451-2)](#248)
+        - [Chapitre II : Associations de défense des investisseurs (art. L452-1 à L452-4)](#249)
+      - [Titre VI : Dispositions pénales (art. L461-1 à L466-1)](#250)
+        - [Chapitre Ier : Infractions relatives à l'appel public à l'épargne. (art. L461-1)](#251)
+        - [Chapitre II : Infractions relatives aux marchés réglementés (art. L462-1 à L462-2)](#252)
+        - [Chapitre III : Infractions relatives aux négociations sur instruments financiers. (art. L463-1 à L463-2)](#253)
+        - [Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation (art. L464-1 à L464-2)](#254)
+        - [Chapitre V : Infractions relatives à la protection des investisseurs (art. L465-1 à L465-4)](#255)
+          - [Section 1 : Atteintes à la transparence des marchés (art. L465-1 à L465-3)](#256)
+          - [Section 2 : Prises de participations (art. L465-4)](#257)
+        - [Chapitre VI : Dispositions communes (art. L466-1)](#258)
+    - [Livre V : Les prestataires de services (art. L511-1 à L574-2)](#259)
+      - [Titre Ier : Etablissements du secteur bancaire (art. L511-1 à L519-5)](#260)
+        - [Chapitre Ier : Règles générales applicables aux établissements de crédit (art. L511-1 à L511-43)](#261)
+          - [Section 1 : Définitions et activités (art. L511-1 à L511-4)](#262)
+          - [Section 2 : Interdictions (art. L511-5 à L511-8)](#263)
+          - [Section 3 : Conditions d'accès à la profession (art. L511-9 à L511-28)](#264)
+            - [Sous-section 1 : Agrément (art. L511-9 à L511-20)](#265)
+            - [Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen (art. L511-21 à L511-28)](#266)
+          - [Section 4 : Organes de la profession (art. L511-29 à L511-32)](#267)
+            - [Sous-section 1 : L'association française des établissements de crédit et des entreprises d'investissement et les autres organismes professionnels (art. L511-29)](#268)
+            - [Sous-section 2 : Les organes centraux (art. L511-30 à L511-32)](#269)
+          - [Section 5 : Le secret professionnel (art. L511-33 à L511-34)](#270)
+          - [Section 6 : Dispositions comptables (art. L511-35 à L511-39)](#271)
+            - [Sous-section 1 : Comptes sociaux et documents comptables (art. L511-35 à L511-37)](#272)
+            - [Sous-section 2 : Commissaires aux comptes (art. L511-38 à L511-39)](#273)
+          - [Section 7 : Dispositions prudentielles. (art. L511-40 à L511-43)](#274)
+        - [Chapitre II : Les banques mutualistes ou coopératives (art. L512-1 à L512-104)](#275)
+          - [Section 1 : Dispositions générales (art. L512-1)](#276)
+          - [Section 2 : Les banques populaires (art. L512-2 à L512-13)](#277)
+            - [Sous-section 1 : Dispositions générales (art. L512-2 à L512-9)](#278)
+            - [Sous-section 2 : Banque fédérale des banques populaires (art. L512-10 à L512-12)](#279)
+            - [Sous-section 3 : Dispositions diverses (art. L512-13)](#280)
+          - [Section 3 : Le crédit agricole (art. L512-20 à L512-54)](#281)
+            - [Sous-section 1 : Les caisses de crédit agricole mutuel (art. L512-21 à L512-46)](#282)
+              - [Paragraphe 1 : Organisation (art. L512-21 à L512-35)](#283)
+              - [Paragraphe 2 : Fonctionnement (art. L512-36 à L512-43)](#284)
+              - [Paragraphe 3 : Ressources (art. L512-44 à L512-46)](#285)
+            - [Sous-section 2 : La Caisse nationale de crédit agricole (art. L512-47 à L512-50)](#286)
+              - [Paragraphe 1 : Organisation. (art. L512-47 à L512-49)](#287)
+              - [Paragraphe 2 : Ressources. (art. L512-50)](#288)
+            - [Sous-section 3 : Contrôles (art. L512-51 à L512-54)](#289)
+          - [Section 4 : Le crédit mutuel (art. L512-55 à L512-59)](#290)
+          - [Section 6 : Les sociétés coopératives de banque (art. L512-61 à L512-67)](#291)
+            - [Sous-section 1 : Dispositions générales (art. L512-61 à L512-63)](#292)
+            - [Sous-section 2 : Conseil d'administration (art. L512-64)](#293)
+            - [Sous-section 3 : Commissaire du Gouvernement (art. L512-65)](#294)
+            - [Sous-section 4 : Statuts (art. L512-66 à L512-67)](#295)
+          - [Section 7 : Le crédit maritime mutuel (art. L512-68 à L512-84)](#296)
+            - [Sous-section 1 : Dispositions générales (art. L512-68 à L512-75)](#297)
+            - [Sous-section 2 : Administration (art. L512-76 à L512-81)](#298)
+            - [Sous-section 3 : Commissaires aux comptes (art. L512-82)](#299)
+            - [Sous-section 4 : Dispositions diverses (art. L512-83 à L512-84)](#300)
+          - [Section 8 : Le réseau des caisses d'épargne (art. L512-85 à L512-104)](#301)
+            - [Sous-section 1 : Missions (art. L512-85)](#302)
+            - [Sous-section 2 : Le réseau (art. L512-86)](#303)
+            - [Sous-section 3 : Les caisses d'épargne et de prévoyance (art. L512-87 à L512-91)](#304)
+            - [Sous-section 4 : Les sociétés locales d'épargne (art. L512-92 à L512-93)](#305)
+            - [Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance. (art. L512-94 à L512-98)](#306)
+            - [Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance (art. L512-99 à L512-100)](#307)
+            - [Sous-section 7 : Fonds de réserve et de garantie. (art. L512-101)](#308)
+            - [Sous-section 8 : Dispositions générales (art. L512-102 à L512-104)](#309)
+        - [Chapitre III : Les sociétés anonymes de crédit immobilier (art. L513-1)](#310)
+        - [Chapitre IV : Les caisses de crédit municipal (art. L514-1 à L514-4)](#311)
+          - [Section 1 : Missions (art. L514-1)](#312)
+          - [Section 2 : Création et administration (art. L514-2 à L514-4)](#313)
+        - [Chapitre V : Les sociétés financières (art. L515-1 à L515-33)](#314)
+          - [Section 1 : Dispositions communes (art. L515-1)](#315)
+          - [Section 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L515-2 à L515-3)](#316)
+          - [Section 3 : Les sociétés de caution mutuelle (art. L515-4 à L515-12)](#317)
+            - [Sous-section 1 : Objet (art. L515-4)](#318)
+            - [Sous-section 2 : Statuts (art. L515-5 à L515-7)](#319)
+            - [Sous-section 3 : Emploi des fonds (art. L515-8 à L515-9)](#320)
+            - [Sous-section 4 : Publicité (art. L515-10 à L515-12)](#321)
+          - [Section 4 : Les sociétés de crédit foncier (art. L515-13 à L515-33)](#322)
+            - [Sous-section 1 : Statut et objet (art. L515-13)](#323)
+            - [Sous-section 2 : Opérations (art. L515-14 à L515-18)](#324)
+            - [Sous-section 3 : Privilège des créances nées des opérations (art. L515-19)](#325)
+            - [Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier (art. L515-20 à L515-24)](#326)
+            - [Sous-section 5 : Redressement et liquidation judiciaires (art. L515-25 à L515-28)](#327)
+            - [Sous-section 6 : Contrôles (art. L515-29 à L515-31)](#328)
+            - [Sous-section 7 : Dispositions diverses (art. L515-32 à L515-33)](#329)
+        - [Chapitre VI : Les institutions financières spécialisées (art. L516-1 à L516-2)](#330)
+        - [Chapitre VII : Compagnies financières (art. L517-1)](#331)
+        - [Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque (art. L518-1 à L518-28)](#332)
+          - [Section 1 : Dispositions générales (art. L518-1)](#333)
+          - [Section 2 : La Caisse des dépôts et consignations (art. L518-2 à L518-24)](#334)
+            - [Sous-section 1 : Commission de surveillance (art. L518-4 à L518-10)](#335)
+              - [Paragraphe 1 : Composition (art. L518-4 à L518-6)](#336)
+              - [Paragraphe 2 : Missions (art. L518-7 à L518-9)](#337)
+              - [Paragraphe 3 : Rapport au Parlement (art. L518-10)](#338)
+            - [Sous-section 2 : Administration de la Caisse des dépôts et consignations (art. L518-11 à L518-15)](#339)
+              - [Paragraphe 1 : Le directeur général (art. L518-11 à L518-12)](#340)
+              - [Paragraphe 2 : Le caissier général (art. L518-13)](#341)
+              - [Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor (art. L518-14)](#342)
+              - [Paragraphe 4 : Contrôle par la Cour des comptes (art. L518-15)](#343)
+            - [Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations (art. L518-16)](#344)
+            - [Sous-section 4 : Opérations (art. L518-17 à L518-24)](#345)
+              - [Paragraphe 1 : Consignations et dépôts (art. L518-17 à L518-22)](#346)
+              - [Paragraphe 2 : Rémunération des dépôts et des consignations (art. L518-23)](#347)
+              - [Paragraphe 3 : Règles de déchéance (art. L518-24)](#348)
+          - [Section 3 : La Poste (art. L518-25)](#349)
+          - [Section 4 : La Caisse nationale d'épargne (art. L518-26 à L518-28)](#350)
+        - [Chapitre IX : Les intermédiaires en opérations de banque (art. L519-1 à L519-5)](#351)
+      - [Titre II : Les changeurs manuels. (art. L520-1 à L520-4)](#352)
+      - [Titre III : Les prestataires de services d'investissement (art. L531-1 à L533-13)](#353)
+        - [Chapitre Ier : Définitions (art. L531-1 à L531-11)](#354)
+          - [Section 1 : Dispositions générales (art. L531-1 à L531-3)](#355)
+          - [Section 2 : Les entreprises d'investissement (art. L531-4 à L531-9)](#356)
+          - [Section 3 : Interdictions (art. L531-10 à L531-11)](#357)
+        - [Chapitre II : Conditions d'exercice de la profession (art. L532-1 à L532-27)](#358)
+          - [Section 1 : Agrément (art. L532-1 à L532-15)](#359)
+            - [Sous-section 1 : Conditions et procédures d'agrément (art. L532-1 à L532-5)](#360)
+            - [Sous-section 2 : Retrait d'agrément et radiation (art. L532-6 à L532-8)](#361)
+            - [Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille (art. L532-9 à L532-13)](#362)
+              - [Paragraphe 1 : Agrément (art. L532-9 à L532-9-1)](#363)
+              - [Paragraphe 2 : Retrait d'agrément et radiation (art. L532-10 à L532-13)](#364)
+            - [Sous-section 4 : Bureaux de représentation (art. L532-14 à L532-15)](#365)
+          - [Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen (art. L532-16 à L532-27)](#366)
+            - [Sous-section 1 : Dispositions générales (art. L532-16 à L532-17)](#367)
+            - [Sous-section 2 : Libre prestation de services et liberté d'établissement en France (art. L532-18 à L532-22)](#368)
+            - [Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen (art. L532-23 à L532-27)](#369)
+        - [Chapitre III : Obligations des prestataires de services d'investissement (art. L533-1 à L533-13)](#370)
+          - [Section 1 : Normes de gestion (art. L533-1)](#371)
+          - [Section 2 : Obligations comptables et déclaratives (art. L533-2 à L533-3-1)](#372)
+          - [Section 3 : Règles de bonne conduite (art. L533-4 à L533-12)](#373)
+          - [Section 4 : Garantie des investisseurs. (art. L533-13)](#374)
+      - [Titre IV : Autres prestataires de services (art. L541-1 à L544-4)](#375)
+        - [Chapitre Ier : Les conseillers en investissements financiers (art. L541-1 à L541-5)](#376)
+          - [Section 2 :  Autres conditions d'accès et d'exercice (art. L541-5)](#377)
+        - [Chapitre II : Les intermédiaires habilités en vue de l'administration ou de la conservation d'instruments financiers (art. L542-1)](#378)
+        - [Chapitre III : Les sociétés de gestion collective (art. L543-1)](#379)
+        - [Chapitre IV : Services d'analyse financière et agences de notation (art. L544-1 à L544-4)](#380)
+      - [Titre V : Intermédiaires en biens divers (art. L550-1 à L550-5)](#381)
+      - [Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L561-1 à L564-3)](#382)
+        - [Chapitre Ier : Déclaration de certaines sommes ou opérations (art. L561-1)](#383)
+        - [Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite (art. L562-1 à L562-10)](#384)
+        - [Chapitre III : Autres obligations de vigilance des organismes financiers (art. L563-1 à L563-6)](#385)
+        - [Chapitre IV : Dispositions diverses (art. L564-1 à L564-3)](#386)
+      - [Titre VII : Dispositions pénales (art. L571-1 à L574-2)](#387)
+        - [Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire (art. L571-1 à L571-16)](#388)
+          - [Section 1 : Dispositions générales (art. L571-1 à L571-9)](#389)
+          - [Section 2 : Banques mutualistes ou coopératives (art. L571-10 à L571-11)](#390)
+            - [Sous-section 1 : Les banques populaires (art. L571-10)](#391)
+            - [Sous-section 2 : Le réseau des caisses d'épargne (art. L571-11)](#392)
+          - [Section 3 : Caisses de crédit municipal (art. L571-12)](#393)
+          - [Section 4 : Sociétés de crédit-bail (art. L571-13)](#394)
+          - [Section 5 : Compagnies financières (art. L571-14)](#395)
+          - [Section 6 : Intermédiaires en opérations de banque (art. L571-15 à L571-16)](#396)
+        - [Chapitre II : Changeurs manuels. (art. L572-1 à L572-3)](#397)
+          - [Section 1 : Changeurs manuels (art. L572-2 à L572-3)](#398)
+        - [Chapitre III : Dispositions relatives aux prestataires de services d'investissement et aux conseillers en investissements financiers (art. L573-1 à L573-11)](#399)
+          - [Section 1 : Dispositions relatives aux prestataires de services d'investissement (art. L573-1 à L573-8)](#400)
+          - [Section 2 : Dispositions relatives aux conseillers en investissements financiers (art. L573-9 à L573-11)](#401)
+        - [Chapitre IV : Dispositions relatives au blanchiment de capitaux (art. L574-1 à L574-2)](#402)
+    - [Livre VI : Les institutions en matière bancaire et financière (art. L611-1 à L642-3)](#403)
+      - [Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L611-1 à L614-7)](#404)
+        - [Chapitre Ier : Réglementation (art. L611-1 à L611-6)](#405)
+        - [Chapitre II : Comité des établissements de crédit et des entreprises d'investissement (art. L612-1 à L612-7)](#406)
+          - [Section 1 : Missions. (art. L612-1 à L612-2)](#407)
+          - [Section 2 : Composition. (art. L612-3)](#408)
+          - [Section 3 : Règles de fonctionnement. (art. L612-4 à L612-7)](#409)
+        - [Chapitre III : Commission bancaire (art. L613-1 à L613-34)](#410)
+          - [Section 1 : Missions (art. L613-1 à L613-2)](#411)
+          - [Section 2 : Composition. (art. L613-3)](#412)
+          - [Section 3 : Règles de fonctionnement. (art. L613-4 à L613-5)](#413)
+          - [Section 4 : Exercice du contrôle. (art. L613-6 à L613-14)](#414)
+            - [Sous-section 1 : Dispositions générales. (art. L613-13 à L613-14)](#415)
+          - [Section 5 : Exercice du pouvoir disciplinaire. (art. L613-21 à L613-24)](#416)
+          - [Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires. (art. L613-25 à L613-31)](#417)
+          - [Section 7 : Régime de contrôle spécifique. (art. L613-32 à L613-33-1)](#418)
+          - [Section 8 : Mise en oeuvre du fonds de garantie des dépôts. (art. L613-34)](#419)
+        - [Chapitre IV : Institutions consultatives (art. L614-1 à L614-7)](#420)
+          - [Section 1 : Comité consultatif du secteur financier et Comité consultatif de la législation et de la réglementation financières (art. L614-1 à L614-3)](#421)
+          - [Section 2 : Haut conseil du secteur financier public et semi-public (art. L614-7)](#422)
+      - [Titre II : L'Autorité des marchés financiers (art. L621-1 à L621-30)](#423)
+        - [Chapitre unique : L'Autorité des marchés financiers (art. L621-1 à L621-30)](#424)
+          - [Section 1 : Missions (art. L621-1)](#425)
+          - [Section 2 : Composition (art. L621-2)](#426)
+          - [Section 3 : Règles de fonctionnement (art. L621-3 à L621-5-4)](#427)
+          - [Section 4 : Pouvoirs (art. L621-6 à L621-21)](#428)
+            - [Sous-section 1 : Réglementation et décisions (art. L621-6 à L621-7-1)](#429)
+            - [Sous-section 2 : Autorisation des opérations d'appel public à l'épargne (art. L621-8)](#430)
+            - [Sous-section 3 : Contrôles et enquêtes (art. L621-9 à L621-12)](#431)
+            - [Sous-section 4 : Injonctions et mesures d'urgence (art. L621-13 à L621-14)](#432)
+            - [Sous-section 4 bis : Sanctions (art. L621-15 à L621-17)](#433)
+            - [Sous-section 5 : Autres compétences (art. L621-18 à L621-21)](#434)
+          - [Section 5 : Relations avec les commissaires aux comptes (art. L621-22 à L621-25)](#435)
+          - [Section 6 : Voies de recours (art. L621-30)](#436)
+      - [Titre III : Échanges d'informations (art. L631-1 à L632-1)](#437)
+        - [Chapitre Ier : Echanges d'informations sur le territoire national (art. L631-1 à L631-2)](#438)
+          - [Section 1 : Echange d'informations entre les autorités (art. L631-1)](#439)
+          - [Section 2 : Le collège des autorités de contrôle des entreprises du secteur financier (art. L631-2)](#440)
+        - [Chapitre II : Echanges d'informations avec l'étranger (art. L632-1)](#441)
+      - [Titre IV : Dispositions pénales (art. L641-1 à L642-3)](#442)
+        - [Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L641-1 à L641-2)](#443)
+          - [Section 1 : Comité des établissements de crédit et des entreprises d'investissement (art. L641-1)](#444)
+          - [Section 2 : Commission bancaire (art. L641-2)](#445)
+        - [Chapitre II : Dispositions relatives à l'Autorité des marchés financiers (art. L642-1 à L642-3)](#446)
+    - [Livre VII : Régime de l'outre-mer (art. L711-1 à L766-8)](#447)
+      - [Titre Ier : Dispositions communes à plusieurs collectivités territoriales (art. L711-1 à L712-5)](#448)
+        - [Chapitre Ier : Dispositions applicables dans les départements d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L711-1 à L711-12)](#449)
+          - [Section 1 : Les signes monétaires (art. L711-1)](#450)
+          - [Section 2 : L'institut d'émission des départements d'outre-mer (art. L711-2 à L711-12)](#451)
+        - [Chapitre Ier bis : Dispositions relatives à l'introduction de l'euro à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L711-13 à L711-21)](#452)
+          - [Section 1 : L'euro (art. L711-13 à L711-19)](#453)
+            - [Sous-section 1 : L'unité monétaire (art. L711-13)](#454)
+            - [Sous-section 2 : Conversion à l'euro et règles d'arrondissement (art. L711-14 à L711-16)](#455)
+            - [Sous-section 3 : Continuité des obligations (art. L711-17 à L711-19)](#456)
+          - [Section 2 : Dispositions d'application (art. L711-20 à L711-21)](#457)
+        - [Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna (art. L712-1 à L712-5)](#458)
+          - [Section 1 : Les signes monétaires (art. L712-1 à L712-3)](#459)
+          - [Section 2 : L'institut d'émission d'outre-mer (art. L712-4)](#460)
+          - [Section 3 : Les instruments de la monnaie scripturale (art. L712-5)](#461)
+      - [Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon (art. L721-1 à L726-4)](#462)
+        - [Chapitre Ier : La monnaie (art. L721-1 à L721-4)](#463)
+          - [Section 1 : Règles d'usage de la monnaie (art. L721-1)](#464)
+          - [Section 2 : Les relations financières avec l'étranger (art. L721-2 à L721-4)](#465)
+            - [Sous-section 1 : Obligations de déclaration (art. L721-2)](#466)
+            - [Sous-section 2 : Constatation et poursuite des infractions (art. L721-3 à L721-4)](#467)
+        - [Chapitre II : Les produits (art. L722-1 à L722-3)](#468)
+          - [Section 1 : Les organismes de placements collectifs (art. L722-1)](#469)
+          - [Section 2 : Les produits à régime fiscal spécifique (art. L722-2 à L722-3)](#470)
+        - [Chapitre III : Les services (art. L723-1)](#471)
+        - [Chapitre IV : Les marchés (art. L724-1)](#472)
+        - [Chapitre V : Les prestataires de services (art. L725-1 à L725-3)](#473)
+          - [Section 1 : Les établissements du secteur bancaire (art. L725-1)](#474)
+          - [Section 2 : Les prestataires de services d'investissement (art. L725-2)](#475)
+          - [Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L725-3)](#476)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L726-1 à L726-4)](#477)
+          - [Section 1 : Le comité des établissements de crédit et des entreprises d'investissement (art. L726-1)](#478)
+          - [Section 2 : La commission bancaire (art. L726-2)](#479)
+          - [Section 3 : L'Autorité des marchés financiers (art. L726-3)](#480)
+          - [Section 4 : L'Autorité des marchés financiers (art. L726-4)](#481)
+      - [Titre III : Dispositions applicables à mayotte (art. L731-1 à L736-7)](#482)
+        - [Chapitre Ier : La monnaie (art. L731-1 à L731-5)](#483)
+          - [Section 1 : Les instruments de la monnaie scripturale (art. L731-1)](#484)
+          - [Section 2 : Les relations financières avec l'étranger (art. L731-2 à L731-5)](#485)
+            - [Sous-section 1 : Dispositions générales (art. L731-2)](#486)
+            - [Sous-section 2 : Obligations de déclaration (art. L731-3)](#487)
+            - [Sous-section 3 : Constatation et poursuite des infractions (art. L731-4 à L731-5)](#488)
+        - [Chapitre II : Les produits (art. L732-1 à L732-8)](#489)
+          - [Section 1 : Les instruments financiers (art. L732-1 à L732-7)](#490)
+            - [Sous-section 1 : Définition et règles générales (art. L732-1)](#491)
+            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L732-2)](#492)
+            - [Sous-section 3 : Les titres de créance (art. L732-3 à L732-6)](#493)
+              - [Paragraphe 1 : Les titres de créances négociables (art. L732-3)](#494)
+              - [Paragraphe 2 : Les obligations (art. L732-4 à L732-5)](#495)
+              - [Paragraphe 3 : Les titres participatifs (art. L732-6)](#496)
+            - [Sous-section 4 : Les placements collectifs (art. L732-7)](#497)
+          - [Section 2 : Les produits d'épargne (art. L732-8)](#498)
+        - [Chapitre III : Les services (art. L733-1 à L733-11)](#499)
+          - [Section 1 : Les opérations de banque (art. L733-1 à L733-7)](#500)
+            - [Sous-section 1 : Dispositions générales (art. L733-1)](#501)
+            - [Sous-section 2 : Comptes et dépôts (art. L733-2)](#502)
+            - [Sous-section 3 : Crédits (art. L733-3 à L733-7)](#503)
+              - [Paragraphe 1 : Dispositions générales (art. L733-3)](#504)
+              - [Paragraphe 2 : Catégories de crédits (art. L733-4 à L733-5)](#505)
+                - [Sous-paragraphe 1 : Crédit-bail (art. L733-4)](#506)
+                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L733-5)](#507)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L733-6)](#508)
+              - [Paragraphe 4 : Garantie des cautions (art. L733-7)](#509)
+          - [Section 2 : Les services d'investissement et leurs services connexes (art. L733-8)](#510)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L733-9)](#511)
+          - [Section 4 : Démarchage (art. L733-10 à L733-11)](#512)
+            - [Sous-section 1 : Démarchage concernant les opérations de banque. (art. L733-10)](#513)
+            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L733-11)](#514)
+        - [Chapitre IV : Les marchés (art. L734-1 à L734-13)](#515)
+          - [Section 1 : L'appel public à l'épargne (art. L734-1 à L734-2)](#516)
+            - [Sous-section 1 : Définition (art. L734-1)](#517)
+            - [Sous-section 2 : Conditions de l'appel public à l'épargne (art. L734-2)](#518)
+          - [Section 2 : Les catégories de marché (art. L734-3 à L734-4)](#519)
+          - [Section 3 : Les négociations sur instruments financiers (art. L734-5 à L734-10)](#520)
+            - [Sous-section 1 : Dispositions générales (art. L734-5 à L734-7)](#521)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L734-5 à L734-6)](#522)
+              - [Paragraphe 2 : Compensation (art. L734-7)](#523)
+            - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L734-8 à L734-9)](#524)
+              - [Paragraphe 1 : Adjudication (art. L734-8)](#525)
+              - [Paragraphe 2 : Les opérations à terme (art. L734-9)](#526)
+            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L734-10)](#527)
+          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L734-11)](#528)
+          - [Section 5 : La protection des investisseurs (art. L734-12 à L734-13)](#529)
+            - [Sous-section 1 : Obligations d'information relatives aux comptes (art. L734-12)](#530)
+            - [Sous-section 2 : Obligations d'information sur les prises de participation (art. L734-13)](#531)
+        - [Chapitre V : Les prestataires de services (art. L735-1 à L735-13)](#532)
+          - [Section 1 : Les établissements du secteur bancaire (art. L735-1 à L735-7)](#533)
+            - [Sous-section 1 : Les sociétés financières (art. L735-2 à L735-4)](#534)
+              - [Paragraphe 1 : Dispositions communes (art. L735-2)](#535)
+              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L735-3)](#536)
+              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L735-4)](#537)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. L735-5)](#538)
+            - [Sous-section 3 : Les compagnies financières (art. L735-6)](#539)
+            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L735-7)](#540)
+          - [Section 2 : Les changeurs manuels (art. L735-8)](#541)
+          - [Section 3 : Les prestataires de services d'investissement (art. L735-9 à L735-11)](#542)
+            - [Sous-section 1 : Définitions (art. L735-9)](#543)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. L735-10)](#544)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L735-11)](#545)
+          - [Section 4 : Les intermédiaires en biens divers (art. L735-12)](#546)
+          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L735-13)](#547)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L736-5 à L736-7)](#548)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L736-1 à L736-4)](#549)
+            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L736-1)](#550)
+            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L736-2)](#551)
+            - [Sous-section 3 : La commission bancaire (art. L736-3)](#552)
+            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L736-4)](#553)
+          - [Section 2 : Les autorités des marchés financiers (art. L736-6 à L736-7)](#554)
+            - [Sous-section 2 : Le Conseil des marchés financiers (art. L736-6)](#555)
+            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L736-7)](#556)
+      - [Titre IV : Dispositions applicables en Nouvelle-Calédonie (art. L741-1 à L746-8)](#557)
+        - [Chapitre Ier : La monnaie (art. L741-1 à L741-6)](#558)
+          - [Section 1 : Règles d'usage de la monnaie (art. L741-1)](#559)
+          - [Section 2 : Les instruments de la monnaie scripturale (art. L741-2)](#560)
+          - [Section 3 : Les relations financières avec l'étranger (art. L741-3 à L741-6)](#561)
+            - [Sous-section 1 : Dispositions générales (art. L741-3)](#562)
+            - [Sous-section 2 : Obligations de déclaration (art. L741-4)](#563)
+            - [Sous-section 3 : Constatation et poursuite des infractions (art. L741-5 à L741-6)](#564)
+        - [Chapitre II : Les produits (art. L742-1 à L742-7)](#565)
+          - [Section unique : Les instruments financiers (art. L742-1 à L742-7)](#566)
+            - [Sous-section 1 : Définition et règles générales (art. L742-1)](#567)
+            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L742-2)](#568)
+            - [Sous-section 3 : Les titres de créance (art. L742-3 à L742-5)](#569)
+              - [Paragraphe 1 : Les titres de créances négociables (art. L742-3)](#570)
+              - [Paragraphe 2 : Les obligations (art. L742-4 à L742-5)](#571)
+            - [Sous-section 4 : Les placements collectifs (art. L742-6 à L742-7)](#572)
+        - [Chapitre III : Les services (art. L743-1 à L743-11)](#573)
+          - [Section 1 : Les opérations de banque (art. L743-1 à L743-7)](#574)
+            - [Sous-section 1 : Dispositions générales (art. L743-1)](#575)
+            - [Sous-section 2 : Comptes et dépôts (art. L743-2)](#576)
+            - [Sous-section 3 : Crédits (art. L743-3 à L743-7)](#577)
+              - [Paragraphe 1 : Dispositions générales (art. L743-3)](#578)
+              - [Paragraphe 2 : Catégories de crédits (art. L743-4 à L743-5)](#579)
+                - [Sous-paragraphe 1 : Crédit-bail (art. L743-4)](#580)
+                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L743-5)](#581)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L743-6)](#582)
+              - [Paragraphe 4 : Garantie des cautions (art. L743-7)](#583)
+          - [Section 2 : Les services d'investissement et leurs services connexes (art. L743-8)](#584)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L743-9)](#585)
+          - [Section 4 : Démarchage (art. L743-10 à L743-11)](#586)
+            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L743-10)](#587)
+            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L743-11)](#588)
+        - [Chapitre IV : Les marchés (art. L744-1 à L744-13)](#589)
+          - [Section 1 : L'appel public à l'épargne (art. L744-1 à L744-2)](#590)
+            - [Sous-section 1 : Définition. (art. L744-1)](#591)
+            - [Sous-section 2 : Conditions de l'appel public à l'épargne. (art. L744-2)](#592)
+          - [Section 2 : Les catégories de marché (art. L744-3 à L744-4)](#593)
+          - [Section 3 : Les négociations sur instruments financiers (art. L744-5 à L744-10)](#594)
+            - [Sous-section 1 : Dispositions générales (art. L744-5 à L744-7)](#595)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L744-5 à L744-6)](#596)
+              - [Paragraphe 2 : Compensation. (art. L744-7)](#597)
+            - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L744-8 à L744-9)](#598)
+              - [Paragraphe 1 : Adjudication (art. L744-8)](#599)
+              - [Paragraphe 2 : Les opérations à terme (art. L744-9)](#600)
+            - [Sous-section 3 : Modalités spécifiques aux marchés réglementés (art. L744-10)](#601)
+          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L744-11)](#602)
+          - [Section 5 : La protection des investisseurs (art. L744-12 à L744-13)](#603)
+            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L744-12)](#604)
+            - [Sous-section 2 : Obligation d'information sur les prises de participation (art. L744-13)](#605)
+        - [Chapitre V : Les prestataires de services (art. L745-1 à L745-13)](#606)
+          - [Section 1 : Les établissements du secteur bancaire (art. L745-1 à L745-7)](#607)
+            - [Sous-section 1 : Définitions et activités (art. L745-1)](#608)
+            - [Sous-section 3 : Les sociétés financières (art. L745-2 à L745-4)](#609)
+              - [Paragraphe 1 : Dispositions communes (art. L745-2)](#610)
+              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L745-3)](#611)
+              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L745-4)](#612)
+            - [Sous-section 4 : Les institutions financières spécialisées (art. L745-5)](#613)
+            - [Sous-section 5 : Les compagnies financières (art. L745-6)](#614)
+            - [Sous-section 6 : Les intermédiaires en opérations de banque (art. L745-7)](#615)
+          - [Section 2 : Les changeurs manuels (art. L745-8)](#616)
+          - [Section 3 : Les prestataires de services d'investissement (art. L745-9 à L745-11)](#617)
+            - [Sous-section 1 : Définitions (art. L745-9)](#618)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. L745-10)](#619)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L745-11)](#620)
+          - [Section 4 : Intermédiaires en biens divers (art. L745-12)](#621)
+          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L745-13)](#622)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L746-1 à L746-8)](#623)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L746-1 à L746-4)](#624)
+            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L746-1)](#625)
+            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L746-2)](#626)
+            - [Sous-section 3 : La commission bancaire. (art. L746-3)](#627)
+            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L746-4)](#628)
+          - [Section 2 : Les autorités des marchés financiers (art. L746-5 à L746-7)](#629)
+            - [Sous-section 1 : La Commission des opérations de bourse (art. L746-5)](#630)
+            - [Sous-section 2 : Le Conseil des marchés financiers (art. L746-6)](#631)
+            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L746-7)](#632)
+          - [Section 3 : Echanges d'informations (art. L746-8)](#633)
+      - [Titre V : Dispositions applicables en Polynésie française (art. L751-1 à L756-8)](#634)
+        - [Chapitre Ier : La monnaie (art. L751-1 à L751-6)](#635)
+          - [Section 1 : Règles d'usage de la monnaie (art. L751-1)](#636)
+          - [Section 2 : Les instruments de la monnaie scripturale (art. L751-2)](#637)
+          - [Section 3 : Les relations financières avec l'étranger (art. L751-3 à L751-6)](#638)
+            - [Sous-section 1 : Dispositions générales (art. L751-3)](#639)
+            - [Sous-section 2 : Obligations de déclaration (art. L751-4)](#640)
+            - [Sous-section 3 : Constatation et poursuite des infractions (art. L751-5 à L751-6)](#641)
+        - [Chapitre II : Les produits (art. L752-1 à L752-7)](#642)
+          - [Section 1 : Les instruments financiers (art. L752-1 à L752-6)](#643)
+            - [Sous-section 1 : Définition et règles générales (art. L752-1)](#644)
+            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L752-2)](#645)
+            - [Sous-section 3 : Les titres de créance (art. L752-3 à L752-5)](#646)
+              - [Paragraphe 1 : Les titres de créances négociables (art. L752-3)](#647)
+              - [Paragraphe 2 : Les obligations (art. L752-4 à L752-5)](#648)
+            - [Sous-section 4 : Les placements collectifs (art. L752-6)](#649)
+          - [Section 2 : Les produits d'épargne (art. L752-7)](#650)
+        - [Chapitre III : Les services (art. L753-1 à L753-11)](#651)
+          - [Section 1 : Les opérations de banque (art. L753-1 à L753-7)](#652)
+            - [Sous-section 1 : Dispositions générales (art. L753-1)](#653)
+            - [Sous-section 2 : Comptes et dépôts (art. L753-2)](#654)
+            - [Sous-section 3 : Crédits (art. L753-3 à L753-7)](#655)
+              - [Paragraphe 1 : Dispositions générales (art. L753-3)](#656)
+              - [Paragraphe 2 : Catégories de crédits (art. L753-4 à L753-5)](#657)
+                - [Sous-paragraphe 1 : Crédit-bail (art. L753-4)](#658)
+                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L753-5)](#659)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. L753-6)](#660)
+              - [Paragraphe 4 : Garanties des cautions (art. L753-7)](#661)
+          - [Section 2 : Les services d'investissement et leurs services connexes (art. L753-8)](#662)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L753-9)](#663)
+          - [Section 4 : Démarchage (art. L753-10 à L753-11)](#664)
+            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L753-10)](#665)
+            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L753-11)](#666)
+        - [Chapitre IV : Les marchés (art. L754-1 à L754-13)](#667)
+          - [Section 1 : L'appel public à l'épargne (art. L754-1 à L754-2)](#668)
+            - [Sous-section 1 : Définition. (art. L754-1)](#669)
+            - [Sous-section 2 : Conditions de l'appel public à l'épargne. (art. L754-2)](#670)
+          - [Section 2 : Les catégories de marché (art. L754-3 à L754-4)](#671)
+          - [Section 3 : Les négociations sur instruments financiers (art. L754-5 à L754-10)](#672)
+            - [Sous-section 1 : Dispositions générales (art. L754-5 à L754-7)](#673)
+              - [Paragraphe 1 : Transfert de propriété des titres et mise en gage (art. L754-5 à L754-6)](#674)
+              - [Paragraphe 2 : Compensation (art. L754-7)](#675)
+            - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L754-8 à L754-9)](#676)
+              - [Paragraphe 1 : Adjudication (art. L754-8)](#677)
+              - [Paragraphe 2 : Les opérations à terme (art. L754-9)](#678)
+            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L754-10)](#679)
+          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L754-11)](#680)
+          - [Section 5 : La protection des investisseurs (art. L754-12 à L754-13)](#681)
+            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L754-12)](#682)
+            - [Sous-section 2 : Obligations d'information sur les prises de participation (art. L754-13)](#683)
+        - [Chapitre V : Les prestataires de services (art. L755-1 à L755-13)](#684)
+          - [Section 1 : Les établissements du secteur bancaire (art. L755-1 à L755-7)](#685)
+            - [Sous-section 1 : Les sociétés financières (art. L755-2 à L755-4)](#686)
+              - [Paragraphe 1 : Dispositions communes (art. L755-2)](#687)
+              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L755-3)](#688)
+              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L755-4)](#689)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. L755-5)](#690)
+            - [Sous-section 3 : Les compagnies financières (art. L755-6)](#691)
+            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L755-7)](#692)
+          - [Section 2 : Les changeurs manuels (art. L755-8)](#693)
+          - [Section 3 : Les prestataires de services d'investissement (art. L755-9 à L755-11)](#694)
+            - [Sous-section 1 : Définitions (art. L755-9)](#695)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. L755-10)](#696)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L755-11)](#697)
+          - [Section 4 : Les intermédiaires en biens divers (art. L755-12)](#698)
+          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L755-13)](#699)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L756-1 à L756-8)](#700)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L756-1 à L756-4)](#701)
+            - [Sous-section 1 : Le Comité de la réglementation bancaire et financière (art. L756-1)](#702)
+            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L756-2)](#703)
+            - [Sous-section 3 : La commission bancaire. (art. L756-3)](#704)
+            - [Sous-section 4 : Le Conseil national du crédit et du titre (art. L756-4)](#705)
+          - [Section 2 : Les autorités des marchés financiers (art. L756-5 à L756-7)](#706)
+            - [Sous-section 1 : La Commission des opérations de bourse (art. L756-5)](#707)
+            - [Sous-section 2 : Le Conseil des marchés financiers (art. L756-6)](#708)
+            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L756-7)](#709)
+          - [Section 3 : Echanges d'informations (art. L756-8)](#710)
+      - [Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna (art. L764-4)](#711)
+        - [Chapitre IV : Les marchés (art. L764-4)](#712)
+          - [Section 2 : Les plates-formes de négociation (art. L764-4)](#713)
+      - [Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna (art. L761-1 à L766-8)](#714)
+        - [Chapitre Ier : La monnaie (art. L761-1 à L761-5)](#715)
+          - [Section 1 : Les instruments de la monnaie scripturale (art. L761-1)](#716)
+          - [Section 2 : Les relations financières avec l'étranger (art. L761-2 à L761-5)](#717)
+            - [Sous-section 1 : Dispositions générales (art. L761-2)](#718)
+            - [Sous-section 2 : Obligations de déclaration (art. L761-3 à L761-5)](#719)
+        - [Chapitre II : Les produits (art. L762-1 à L762-7)](#720)
+          - [Section 1 : Les instruments financiers (art. L762-1 à L762-6)](#721)
+            - [Sous-section 1 : Définition et règles générales (art. L762-1)](#722)
+            - [Sous-section 2 : Les actions et titres donnant accès au capital (art. L762-2)](#723)
+            - [Sous-section 3 : Les titres de créance (art. L762-3 à L762-5)](#724)
+              - [Paragraphe 1 : Les titres de créances négociables (art. L762-3)](#725)
+              - [Paragraphe 2 : Les obligations (art. L762-4 à L762-5)](#726)
+            - [Sous-section 4 : Les placements collectifs (art. L762-6)](#727)
+          - [Section 2 : Les produits d'épargne (art. L762-7)](#728)
+        - [Chapitre III : Les services (art. L763-1 à L763-11)](#729)
+          - [Section 1 : Les opérations de banque (art. L763-1 à L763-7)](#730)
+            - [Sous-section 1 : Dispositions générales (art. L763-1)](#731)
+            - [Sous-section 2 : Comptes et dépôts (art. L763-2)](#732)
+            - [Sous-section 3 : Crédits (art. L763-3 à L763-7)](#733)
+              - [Paragraphe 1 : Dispositions générales (art. L763-3)](#734)
+              - [Paragraphe 2 : Catégories de crédits (art. L763-4 à L763-5)](#735)
+                - [Sous-paragraphe 1 : Crédit-bail (art. L763-4)](#736)
+                - [Sous-paragraphe 2 : Crédits aux entreprises (art. L763-5)](#737)
+              - [Paragraphe 3 : Procédures de mobilisation des créances (art. L763-6)](#738)
+              - [Paragraphe 4 : Garantie des cautions (art. L763-7)](#739)
+          - [Section 2 : Les services d'investissement et leurs services connexes (art. L763-8)](#740)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. L763-9)](#741)
+          - [Section 4 : Démarchage (art. L763-10 à L763-11)](#742)
+            - [Sous-section 1 : Démarchage concernant les opérations de banque (art. L763-10)](#743)
+            - [Sous-section 2 : Démarchage concernant les opérations sur le marché à terme (art. L763-11)](#744)
+        - [Chapitre IV : Les marchés (art. L764-1 à L764-13)](#745)
+          - [Section 1 : L'appel public à l'épargne (art. L764-1 à L764-2)](#746)
+            - [Sous-section 1 : Définition (art. L764-1)](#747)
+            - [Sous-section 2 : Conditions de l'appel public à l'épargne (art. L764-2)](#748)
+          - [Section 2 : Les catégories de marché (art. L764-3)](#749)
+          - [Section 3 : Les négociations sur instruments financiers (art. L764-5 à L764-10)](#750)
+            - [Sous-section 1 : Dispositions générales (art. L764-5 à L764-7)](#751)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L764-5 à L764-6)](#752)
+              - [Paragraphe 2 : Compensation (art. L764-7)](#753)
+            - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L764-8 à L764-9)](#754)
+              - [Paragraphe 1 : Adjudication (art. L764-8)](#755)
+              - [Paragraphe 2 : Les opérations à terme (art. L764-9)](#756)
+            - [Sous-section 3 : Opérations spécifiques aux marchés réglementés (art. L764-10)](#757)
+          - [Section 4 : Les entreprises de marché et les chambres de compensation (art. L764-11)](#758)
+          - [Section 5 : La protection des investisseurs (art. L764-12 à L764-13)](#759)
+            - [Sous-section 1 : Obligations d'information relative aux comptes (art. L764-12)](#760)
+            - [Sous-section 2 : Obligations d'information relative aux prises de participation (art. L764-13)](#761)
+        - [Chapitre V : Les prestataires de services (art. L765-1 à L765-13)](#762)
+          - [Section 1 : Les établissements du secteur bancaire (art. L765-1 à L765-7)](#763)
+            - [Sous-section 1 : Les sociétés financières (art. L765-2 à L765-4)](#764)
+              - [Paragraphe 1 : Dispositions communes (art. L765-2)](#765)
+              - [Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier (art. L765-3)](#766)
+              - [Paragraphe 3 : Les sociétés de caution mutuelle (art. L765-4)](#767)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. L765-5)](#768)
+            - [Sous-section 3 : Les compagnies financières (art. L765-6)](#769)
+            - [Sous-section 4 : Les intermédiaires en opérations de banque (art. L765-7)](#770)
+          - [Section 2 : Les changeurs manuels (art. L765-8)](#771)
+          - [Section 3 : Les prestataires de services d'investissement (art. L765-9 à L765-11)](#772)
+            - [Sous-section 1 : Définitions (art. L765-9)](#773)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. L765-10)](#774)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. L765-11)](#775)
+          - [Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. L765-13)](#776)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. L766-1 à L766-8)](#777)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. L766-1 à L766-4)](#778)
+            - [Sous-section 1 : Le comité de la réglementation bancaire et financière (art. L766-1)](#779)
+            - [Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement (art. L766-2)](#780)
+            - [Sous-section 3 : La commission bancaire (art. L766-3)](#781)
+            - [Sous-section 4 : Le conseil national du crédit et du titre (art. L766-4)](#782)
+          - [Section 2 : Les autorités des marchés financiers (art. L766-5 à L766-7)](#783)
+            - [Sous-section 1 : La commission des opérations de bourse (art. L766-5)](#784)
+            - [Sous-section 2 : Le conseil des marchés financiers (art. L766-6)](#785)
+            - [Sous-section 3 : Le conseil de discipline de la gestion financière (art. L766-7)](#786)
+          - [Section 3 : Echanges d'informations (art. L766-8)](#787)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : La monnaie<a id=2></a>
@@ -4040,14 +4033,14 @@ consignations respectent les dispositions suivantes lorsqu'ils effectuent des vi
 européen libellés dans la monnaie d'un des Etats parties à l'accord sur l'Espace économique européen, sur ordre ou au
 bénéfice de leur clientèle :
 
-1. Les retards dans l'exécution des virements effectués dont le montant est au plus égal à un seuil fixé par un règlement du
-comité de la réglementation bancaire et financière donnent droit, même en l'absence de faute, sans préjudice des recours de
-droit commun et au plus tard quatorze jours ouvrables après l'exécution du virement, à une indemnité dont les modalités de
-calcul sont définies par ce même règlement ;
+1. Les retards dans l'exécution des virements effectués dont le montant est au plus égal à un seuil fixé par un arrêté du
+ministre chargé de l'économie donnent droit, même en l'absence de faute, sans préjudice des recours de droit commun et au
+plus tard quatorze jours ouvrables après l'exécution du virement, à une indemnité dont les modalités de calcul sont définies
+par ce même règlement ;
 
 2. Les virements mentionnés au 1 qui ne sont pas menés à leur fin donnent lieu, même en l'absence de faute et dans un délai
 de quatorze jours ouvrables après réception d'une demande, à restitution au donneur d'ordre des fonds en cause, dans une
-limite et selon des modalités définies par un règlement du comité de la réglementation bancaire et financière.
+limite et selon des modalités définies par un arrêté du ministre chargé de l'économie.
 
 Cette restitution est faite sans préjudice des recours de droit commun en matière de responsabilité.
 
@@ -4061,7 +4054,7 @@ restitution des fonds en cause au donneur d'ordre ;
 4. La restitution mentionnée au 2 est à la charge de l'établissement du bénéficiaire du virement si la non-exécution est de
 son fait ou de celui d'un établissement intermédiaire choisi par lui ;
 
-5. Un règlement du comité de la réglementation bancaire et financière précise les modalités d'application du présent article.
+5. Un arrêté du ministre chargé de l'économie précise les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -4072,6 +4065,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -4896,6 +4893,11 @@ tous documents et renseignements qui lui sont nécessaires pour exercer les miss
 du présent titre. Elle peut entrer directement en relation avec les entreprises et groupements professionnels qui seraient
 disposés à participer à ses enquêtes.
 
+La Banque de France peut communiquer tout ou partie des renseignements qu'elle détient sur l'endettement des entreprises aux
+autres banques centrales membres du système européen des banques centrales, aux autres institutions chargées dans Etat membre
+de l'Union européenne d'une mission similaire à celles qui lui sont confiées en France et aux établissements de crédit et
+établissements financiers installés dans un Etat membre de l'Union européenne, sous condition de réciprocité.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -4906,6 +4908,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 79 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -4978,30 +4984,6 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 38 quinquies A (V)
   - Code monétaire et financier - art. L142-3 (M)
   - Code monétaire et financier - art. L711-9 (VD)
-
-
-###### Article L144-5
-
-La situation hebdomadaire de la Banque de France est publiée au Journal officiel de la République française.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°93-980 1993-08-04 art. 34
-  - Loi n°93-980 du 4 août 1993 - art. 34 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 76 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 76 (V)
 
 
 ### Titre V : Les relations financières avec l'étranger<a id=49></a>
@@ -5088,12 +5070,12 @@ _Cité par_:
 
 I. - Le ministre chargé de l'économie, s'il constate qu'un investissement étranger est ou a été réalisé dans des activités
 participant en France, même à titre occasionnel, à l'exercice de l'autorité publique, ou qu'un investissement étranger est de
-nature à mettre en cause l'ordre public, la santé publique ou la sécurité publique, ou qu'il est ou a été réalisé dans des
-activités de recherche, de production ou de commerce d'armes, de munitions, de poudres et substances explosives destinées à
-des fins militaires ou de matériels de guerre, en l'absence de la demande d'autorisation préalable exigée sur le fondement du
-c du 1 de l'article L. 151-2 ou malgré un refus d'autorisation ou sans qu'il soit satisfait aux conditions dont
-l'autorisation est assortie, peut enjoindre à l'investisseur de ne pas donner suite à l'opération, de la modifier ou de faire
-rétablir à ses frais la situation antérieure.
+nature à mettre en cause l'ordre public, la santé publique, la sécurité publique, ou la défense nationale, ou que cet
+investissement est ou a été réalisé dans des activités de recherche, de production ou de commerce d'armes, de munitions, de
+poudres et substances explosives destinées à des fins militaires ou de matériels de guerre, en l'absence de la demande
+d'autorisation préalable exigée sur le fondement du c du 1 de l'article L. 151-2 ou malgré un refus d'autorisation ou sans
+qu'il soit satisfait aux conditions dont l'autorisation est assortie, peut enjoindre à l'investisseur de ne pas donner suite
+à l'opération, de la modifier ou de faire rétablir à ses frais la situation antérieure.
 
 Cette injonction ne peut intervenir qu'après l'envoi d'une mise en demeure à l'investisseur de faire connaître ses
 observations dans un délai de quinze jours.
@@ -5141,6 +5123,10 @@ _Cité par_:
   - Code monétaire et financier - art. R153-5 (VT)
   - Code monétaire et financier - art. R153-5-2 (VT)
   - Code monétaire et financier - art. R153-9 (VT)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 78 () JORF 2 août 2003
 
 _Cite_:
 
@@ -6100,8 +6086,9 @@ I. - Les instruments financiers comprennent :
 1. Les actions et autres titres donnant ou pouvant donner accès, directement ou indirectement, au capital ou aux droits de
 vote, transmissibles par inscription en compte ou tradition ;
 
-2. Les titres de créance qui représentent chacun un droit de créance sur la personne morale qui les émet, transmissibles par
-inscription en compte ou tradition, à l'exclusion des effets de commerce et des bons de caisse ;
+2. Les titres de créance qui représentent chacun un droit de créance sur la personne morale ou le fonds commun de créances
+qui les émet, transmissibles par inscription en compte ou tradition, à l'exclusion des effets de commerce et des bons de
+caisse ;
 
 3. Les parts ou actions d'organismes de placements collectifs ;
 
@@ -6119,7 +6106,10 @@ II. - Les instruments financiers à terme sont :
 
 3. Les contrats d'échange ;
 
-4. Les contrats à terme sur toutes marchandises et denrées ;
+4. Les instruments financiers à terme sur toutes marchandises, soit lorsqu'ils font l'objet, en suite de négociation, d'un
+enregistrement par une chambre de compensation d'instruments financiers ou d'appels de couvertures périodiques, soit
+lorsqu'ils offrent la possibilité que les marchandises sous-jacentes ne soient pas livrées moyennant un règlement monétaire
+par le vendeur ;
 
 5. Les contrats d'options d'achat ou de vente d'instruments financiers ;
 
@@ -6290,6 +6280,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 65 2°, art. 91 1° JORF 2 août 2003
 
 
 ##### Section 2 : Règles générales applicables aux valeurs mobilières.<a id=62></a>
@@ -7016,24 +7010,32 @@ _Cite_:
 Sont habilités à émettre des titres de créances négociables :
 
 1. Les établissements de crédit, les entreprises d'investissement et la caisse des dépôts et consignations, sous réserve de
-respecter les conditions fixées à cet effet par le comité de la réglementation bancaire et financière ;
+respecter les conditions fixées à cet effet par le ministre chargé de l'économie ;
 
-2. Les entreprises autres que celles mentionnées au 1, sous réserve de remplir les conditions de forme juridique, de capital,
-de durée d'existence et de contrôle des comptes requises lorsqu'elles font appel public à l'épargne, ou des conditions
-équivalentes pour les entreprises ayant un siège social à l'étranger ;
+2. Les entreprises autres que celles mentionnées au 1, sous réserve de remplir les conditions de forme juridique, de capital
+et de contrôle des comptes requises lorsqu'elles font appel public à l'épargne, ou des conditions équivalentes pour les
+entreprises ayant un siège social à l'étranger ;
 
 3. Les groupements d'intérêt économique et les sociétés en nom collectif, composés exclusivement de sociétés par actions
 satisfaisant aux conditions prévues au 2 ;
 
-4. Les institutions de la Communauté européenne et les organisations internationales dont la France est membre ;
+4. Les institutions de la Communauté européenne et les organisations internationales ;
 
 5. La caisse d'amortissement de la dette sociale instituée par l'article 1er de l'ordonnance n° 96-50 du 24 janvier 1996
-relative au remboursement de la dette sociale.
+relative au remboursement de la dette sociale ;
 
-6. Les collectivités locales et leurs groupements.
+6. Les collectivités locales et leurs groupements ;
 
-Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4, 5 et 6 et fixe les conditions
-d'émission des titres de créances négociables.
+7. Les associations régies par la loi du 1er juillet 1901 relative au contrat d'association ou par les articles 21 à 79 du
+code civil local applicable dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle et répondant aux conditions
+prévues pour l'émission d'obligations par appel public à l'épargne ;
+
+8. Les Etats ;
+
+9. Les fonds communs de créances.
+
+Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4, 5, 6, 7, 8 et 9 et fixe les
+conditions d'émission des titres de créances négociables.
 
 **Liens relatifs à cet article**
 
@@ -7076,6 +7078,8 @@ _Cité par_:
 _Cite_:
 
   - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
+  - Code civil 21 à 79
+  - Loi n°1901-07-01
 
 **Liens**:
 
@@ -7091,17 +7095,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 25 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 36 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 37 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 
 ###### Article L213-4
 
-Les émetteurs de titres de créances négociables sont tenus de remplir des obligations d'information relatives à leur
-situation économique et financière et à leur programme d'émission.
-
-Un décret définit le contenu, les modalités de publicité et de mise à jour de ces obligations ainsi que les modalités selon
-lesquelles la commission des opérations de bourse intervient pour veiller au respect desdites obligations. Il prévoit les
-formalités que doivent accomplir les émetteurs préalablement à leur première émission de titres de créances négociables.
+Les émetteurs de titres de créances négociables établissent préalablement à leur première émission de tels titres une
+documentation financière, qui porte sur leur activité, leur situation économique et financière ainsi que sur le programme
+d'émission. Cette documentation financière, rédigée en français, est déposée auprès de la Banque de France, qui est chargée
+de veiller au respect par les émetteurs des conditions d'émission prévues à l'article L. 213-3. Un décret fixe les conditions
+d'application du présent article ainsi que les cas et conditions dans lesquels la documentation financière peut être rédigée
+dans une langue usuelle en matière financière autre que le français.
 
 **Liens relatifs à cet article**
 
@@ -7113,10 +7119,18 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 36 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 7 (V)
   - Code monétaire et financier - art. D213-2 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L213-3 (VT)
 
 
 ##### Section 2 : Les obligations<a id=87></a>
@@ -7154,6 +7168,9 @@ _Cité par_:
 
 L'émission d'obligations à lots doit être autorisée par la loi.
 
+Toute émission faite en violation des dispositions du présent article est nulle. Sans préjudice de l'action en responsabilité
+contre les mandataires sociaux, le ministère public ainsi que tout intéressé peut exercer l'action en nullité.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -7164,6 +7181,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -7309,10 +7330,10 @@ _Cité par_:
 Lors de chaque émission d'obligations, l'association doit mettre à la disposition des souscripteurs une notice relative aux
 conditions de l'émission et un document d'information. Ce document porte notamment sur l'organisation, le montant atteint par
 les fonds propres à la clôture de l'exercice précédent, la situation financière et l'évolution de l'activité de
-l'association.
+l'association. 
 
 Les mentions qui doivent figurer sur ces documents sont fixées par décret, leurs éléments chiffrés sont visés par un
-commissaire aux comptes choisi sur la liste prévue par le I de l'article L. 225-219 du code de commerce.
+commissaire aux comptes choisi sur la liste prévue par le I de l'article L. 822-1 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -7324,9 +7345,13 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+
 _Cite_:
 
-  - Code de commerce. - art. L225-219 (Ab)
+  - Code de commerce - art. L822-1 (V)
 
 _Cité par_:
 
@@ -7337,9 +7362,9 @@ _Cité par_:
 ###### Article L213-12
 
 L'émission d'obligations par les associations mentionnées à l'article L. 213-8 peut être effectuée avec appel public à
-l'épargne. Elle est alors soumise au contrôle de la commission des opérations de bourse dans les conditions prévues par le
-présent code. Si elle est d'un montant supérieur à deux cent cinquante mille francs, elle est en outre subordonnée à
-l'autorisation préalable du ministre chargé de l'économie.
+l'épargne. Elle est alors soumise au contrôle de l'Autorité des marchés financiers dans les conditions prévues par le présent
+code. Si elle est d'un montant supérieur à 38 000 euros, elle est en outre subordonnée à l'autorisation préalable du ministre
+chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -7351,11 +7376,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L213-8 (V)
+  - Loi - art. 51 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 
 ###### Article L213-13
@@ -7910,13 +7935,20 @@ _Codifié par_:
 
 ###### Article L214-1
 
-Les organismes de placements collectifs sont :
+I. - Les organismes de placements collectifs sont :
 
 1. Les organismes de placement collectif en valeurs mobilières ;
 
 2. Les fonds communs de créance ;
 
 3. Les sociétés civiles de placement immobilier.
+
+4. Les sociétés d'épargne forestière.
+
+II. - Les sociétés de gestion d'organismes de placements collectifs sont les sociétés de gestion de portefeuille, les
+sociétés de gestion d'organismes de placement collectif en valeurs mobilières, les sociétés de gestion de fonds communs de
+créances, les sociétés de gestion de sociétés civiles de placement immobilier, les sociétés de gestion des sociétés d'épargne
+forestière.
 
 **Liens relatifs à cet article**
 
@@ -7983,6 +8015,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Nouveaux textes_:
 
   - Code monétaire et financier art. L543-1
@@ -7997,11 +8033,19 @@ _Nouveaux textes_:
 Les organismes de placement collectif en valeurs mobilières prennent la forme soit de sociétés d'investissement à capital
 variable (SICAV) soit de fonds communs de placement.
 
+Les organismes de placement collectif en valeurs mobilières peuvent comprendre différentes catégories de parts ou d'actions
+dans des conditions fixées respectivement par le règlement du fonds ou les statuts de la SICAV, selon les prescriptions du
+règlement général de l'Autorité des marchés financiers.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 62 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -8020,7 +8064,7 @@ _Cité par_:
 ###### Article L214-3
 
 La constitution, la transformation, la fusion, la scission ou la liquidation d'un organisme de placement collectif en valeurs
-mobilières sont soumises à l'agrément de la commission des opérations de bourse.
+mobilières sont soumises à l'agrément de l'Autorité des marchés financiers.
 
 Les organismes de placement collectif en valeurs mobilières, le dépositaire et la société de gestion doivent agir au bénéfice
 exclusif des souscripteurs. Ils doivent présenter des garanties suffisantes en ce qui concerne leur organisation, leurs
@@ -8028,18 +8072,7 @@ moyens techniques et financiers, l'honorabilité et l'expérience de leurs dirig
 propres à assurer la sécurité des opérations. Les organismes mentionnés aux articles L. 214-15, L. 214-16 et L. 214-24
 doivent agir de façon indépendante.
 
-La commission des opérations de bourse peut retirer son agrément à tout organisme de placement collectif en valeurs
-mobilières.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+L'Autorité des marchés financiers peut retirer son agrément à tout organisme de placement collectif en valeurs mobilières.
 
 **Liens relatifs à cet article**
 
@@ -8051,6 +8084,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -8079,8 +8116,15 @@ _Cite_:
 ###### Article L214-4
 
 Dans des conditions et limites fixées par décret en Conseil d'Etat, l'actif d'un organisme de placement collectif en valeurs
-mobilières comprend des valeurs mobilières françaises ou étrangères, négociées ou non sur un marché réglementé, ainsi qu'à
-titre accessoire, des liquidités. Les SICAV peuvent posséder les immeubles nécessaires à leur fonctionnement.
+mobilières comprend :
+
+a) Des instruments financiers au sens de l'article L. 211-1 ;
+
+b) Des dépôts effectués auprès d'établissements de crédit français ou étrangers ;
+
+c) A titre accessoire, des liquidités.
+
+Les sociétés d'investissement à capital variable peuvent posséder les immeubles nécessaires à leur fonctionnement.
 
 Un organisme de placement collectif en valeurs mobilières ne peut employer en titres d'un même émetteur plus de 5 % de ses
 actifs. Un décret en Conseil d'Etat fixe les cas et les catégories de titres pour lesquels il peut être dérogé à cette
@@ -8093,7 +8137,7 @@ supérieure à 10 % des actifs.
 Un organisme de placement collectif en valeurs mobilières ne peut détenir plus de 10 % d'une même catégorie de valeurs
 mobilières d'un même émetteur. Un décret en Conseil d'Etat fixe les catégories de valeurs mobilières ainsi que les conditions
 dans lesquelles il peut être dérogé à cette limite. Ce seuil est porté à 25 % lorsque l'émetteur est une entreprise solidaire
-visée à l'article L. 443-3-1 du code du travail, et dont les fonds propres sont inférieurs à 152449,02 euros.
+visée à l'article L. 443-3-1 du code du travail, et dont les fonds propres sont inférieurs à 150 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -8160,16 +8204,17 @@ _Cité par_:
   - Code monétaire et financier - art. R214-8 (Ab)
   - Code monétaire et financier - art. R214-80 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 58 1° JORF 2 août 2003
+
 _Cite_:
 
+  - Code monétaire et financier - art. L211-1 (M)
   - Code du travail - art. L443-3-1 (M)
 
 
@@ -8232,9 +8277,8 @@ _Cité par_:
 
 ###### Article L214-7
 
-Le règlement d'un fonds commun de placement et les statuts d'une SICAV peuvent prévoir, dans des limites et conditions fixées
-par décret, la possibilité de procéder à des opérations d'achat ou de vente sur des marchés à terme réglementés. La liste de
-ces marchés est arrêtée par le ministre chargé de l'économie.
+L'organisme de placement collectif en valeurs mobilières peut conclure des contrats constituant des instruments financiers à
+terme dans des limites et conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -8246,9 +8290,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Loi n°2003-706 2003-08-01 art. 58 2° JORF 2 août 2003
+  - Loi n°2003-706 2003-08-01 art. 59 7° JORF 2 août 2003
 
 _Cité par_:
 
@@ -8392,8 +8436,9 @@ _Cité par_:
 
 ###### Article L214-12
 
-La commission des opérations de bourse définit les conditions dans lesquelles les organismes de placement collectif en
-valeurs mobilières doivent informer leurs souscripteurs et peuvent faire l'objet de publicité ou de démarchage.
+L'Autorité des marchés financiers définit les conditions dans lesquelles les organismes de placement collectif en valeurs
+mobilières doivent informer leurs souscripteurs et peuvent faire l'objet de publicité, en particulier audiovisuelle, ou de
+démarchage.
 
 **Liens relatifs à cet article**
 
@@ -8404,6 +8449,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 51 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -8442,17 +8491,55 @@ _Cité par_:
   - Arrêté du 18 décembre 2008 - art. 1 (Ab)
 
 
+###### Article L214-14
+
+Lorsqu'elle a connaissance d'une infraction aux dispositions du présent code commise par un commissaire aux comptes d'une
+société de gestion de portefeuille ou d'un organisme de placement collectif en valeurs mobilières ou lorsqu'elle considère
+que les conditions d'indépendance nécessaires au bon déroulement de la mission de ce commissaire aux comptes ne sont pas
+remplies, l'Autorité des marchés financiers peut demander au tribunal compétent de relever celui-ci de ses fonctions selon
+les modalités mentionnées à l'article L. 225-233 du code de commerce.
+
+L'Autorité des marchés financiers peut également dénoncer cette infraction à l'autorité disciplinaire compétente. A cette
+fin, l'Autorité des marchés financiers peut communiquer tous les renseignements nécessaires à la bonne information de cette
+autorité.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°88-1201 1988-12-23 art. 71-2
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2005
+
+_Cité par_:
+
+  - Ordonnance n°2016-315 du 17 mars 2016 - art. 36
+  - Code de commerce - art. L823-10-1 (VD)
+  - Code monétaire et financier - art. L214-110 (V)
+  - Code monétaire et financier - art. L214-123 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L225-233 (M)
+
+
 ##### Sous-section 2 : Règles particulières relatives aux sociétés d'investissement à capital variable<a id=98></a>
 
 ###### Article L214-15
 
-La société d'investissement à capital variable dite " SICAV " est une société anonyme qui a pour objet la gestion d'un
-portefeuille de valeurs mobilières.
+La société d'investissement à capital variable dite "SICAV" est une société anonyme qui a pour objet la gestion d'un
+portefeuille d'instruments financiers et de dépôts.
 
-Les actions de la SICAV sont émises et rachetées à tout moment par la société à la demande des actionnaires et à la valeur
-liquidative majorée ou diminuée, selon le cas, des frais et commissions.
+Sous réserve des dispositions de l'article L. 214-19, les actions de la SICAV sont émises et rachetées à tout moment par la
+société à la demande des actionnaires et à la valeur liquidative majorée ou diminuée, selon le cas, des frais et commissions.
 
-Ces actions peuvent être admises par le conseil des marchés financiers aux négociations sur un marché réglementé dans des
+Ces actions peuvent être admises par l'Autorité des marchés financiers aux négociations sur un marché réglementé dans des
 conditions fixées par décret.
 
 Le montant du capital est égal à tout moment à la valeur de l'actif net de la société, déduction faite des sommes
@@ -8469,6 +8556,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 59 1°, 5° JORF 2 août 2003
 
 _Cité par_:
 
@@ -8489,6 +8580,7 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. L214-10 (V)
+  - Code monétaire et financier - art. L214-19 (M)
 
 
 ###### Article L214-16
@@ -8533,21 +8625,26 @@ Par dérogation aux dispositions des titres II et III du livre II du code de com
 3. L'assemblée générale ordinaire peut se tenir sans qu'un quorum soit requis ; il en est de même, sur deuxième convocation,
 de l'assemblée générale extraordinaire ;
 
-4. Une même personne physique peut exercer simultanément six mandats de président de conseil d'administration ou de membre du
-directoire si quatre d'entre eux au moins sont des mandats de président du conseil d'administration ou de membre du
-directoire d'une SICAV ;
+4. Une même personne physique peut exercer simultanément cinq mandats de directeur général, de membre du directoire ou de
+directeur général unique de SICAV ayant leur siège sur le territoire français. Les mandats de directeur général, de membre du
+directoire ou de directeur général unique exercés au sein d'une SICAV ne sont pas pris en compte pour les règles de cumul
+visées au livre II du code de commerce ;
+
+4 bis. Les mandats de représentant permanent d'une personne morale au conseil d'administration ou de surveillance d'une SICAV
+ne sont pas pris en compte pour l'application des dispositions des articles L. 225-21, L. 225-77 et L. 225-94-1 du code de
+commerce ;
 
 5. Le commissaire aux comptes est désigné pour six exercices par le conseil d'administration ou le directoire, après accord
-de la commission des opérations de bourse.
+de l'Autorité des marchés financiers.
 
 Le commissaire aux comptes porte à la connaissance de l'assemblée générale de la SICAV les irrégularités et inexactitudes
 qu'il a relevées dans l'accomplissement de sa mission ;
 
-Le commissaire aux comptes est délié du secret professionnel à l'égard de la commission des opérations de bourse.
+Le commissaire aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers.
 
-Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à la commission des opérations de bourse tout fait
-ou décision concernant une société d'investissement à capital variable dont il a eu connaissance dans l'exercice de sa
-mission, de nature :
+Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l'Autorité des marchés financiers tout fait ou
+décision concernant une société d'investissement à capital variable dont il a eu connaissance dans l'exercice de sa mission,
+de nature :
 
 a) A constituer une violation des dispositions législatives ou réglementaires applicables à cette société et susceptible
 d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
@@ -8559,9 +8656,9 @@ c) A entraîner l'émission de réserves ou le refus de la certification des com
 La responsabilité du commissaire aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 il procède en exécution des obligations imposées par le présent article.
 
-La commission des opérations de bourse peut également transmettre aux commissaires aux comptes des sociétés d'investissement
-à capital variable les informations nécessaires à l'accomplissement de leur mission. Les informations transmises sont
-couvertes par la règle du secret professionnel.
+L'Autorité des marchés financiers peut également transmettre aux commissaires aux comptes des sociétés d'investissement à
+capital variable les informations nécessaires à l'accomplissement de leur mission. Les informations transmises sont couvertes
+par la règle du secret professionnel ;
 
 6. La mise en paiement des produits distribuables doit avoir lieu dans le délai d'un mois après la tenue de l'assemblée
 générale ayant approuvé les comptes de l'exercice ;
@@ -8593,7 +8690,12 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2002-1303 2002-10-29 art. 3 I, II JORF 30 octobre 2002
+  - Loi n°2002-1303 du 29 octobre 2002 - art. 3 () JORF 30 octobre 2002
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -8605,6 +8707,12 @@ _Cité par_:
   - Code monétaire et financier - art. L214-123 (V)
   - Code monétaire et financier - art. L214-145 (V)
   - Code monétaire et financier - art. L214-35-5 (Ab)
+
+_Cite_:
+
+  - Code de commerce. - art. L225-21 (M)
+  - Code de commerce. - art. L225-77 (M)
+  - Code de commerce. - art. L225-94-1 (M)
 
 
 ###### Article L214-18
@@ -8638,6 +8746,9 @@ Le rachat par la société de ses actions, comme l'émission d'actions nouvelles
 par le conseil d'administration ou le directoire, quand des circonstances exceptionnelles l'exigent et si l'intérêt des
 actionnaires le commande dans des conditions fixées par les statuts de la société.
 
+Le règlement général de l'Autorité des marchés financiers fixe les autres cas et les conditions dans lesquels les statuts de
+la SICAV prévoient, le cas échéant, que l'émission des actions est interrompue de façon provisoire ou définitive.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -8662,17 +8773,22 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 59 2° JORF 2 août 2003
+
 
 ##### Sous-section 3 : Règles particulières aux fonds communs de placement<a id=99></a>
 
 ###### Article L214-20
 
-Le fonds commun de placement, qui n'a pas la personnalité morale, est une copropriété de valeurs mobilières dont les parts
-sont émises et rachetées à la demande des porteurs à la valeur liquidative majorée ou diminuée, selon les cas, des frais et
-commissions. Ne s'appliquent pas au fonds commun de placement, les dispositions du code civil relatives à l'indivision ni
-celles des articles 1871 à 1873 du même code relatives aux sociétés en participation.
+Sous réserve des dispositions du second alinéa de l'article L. 214-30, le fonds commun de placement, qui n'a pas la
+personnalité morale, est une copropriété d'instruments financiers et de dépôts dont les parts sont émises et rachetées à la
+demande des porteurs à la valeur liquidative majorée ou diminuée, selon les cas, des frais et commissions. Ne s'appliquent
+pas au fonds commun de placement, les dispositions du code civil relatives à l'indivision ni celles des articles 1871 à 1873
+du même code relatives aux sociétés en participation.
 
-Les parts peuvent être admises par le Conseil des marchés financiers aux négociations sur un marché réglementé dans des
+Les parts peuvent être admises par l'Autorité des marchés financiers aux négociations sur un marché réglementé dans des
 conditions fixées par décret.
 
 **Liens relatifs à cet article**
@@ -8733,9 +8849,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 59 3°, 6° JORF 2 août 2003
+
 _Cite_:
 
   - Code civil 1871 à 1873
+  - Code monétaire et financier - art. L214-30 (M)
 
 
 ###### Article L214-21
@@ -8807,13 +8928,10 @@ _Cité par_:
 
 ###### Article L214-24
 
-Le fonds commun de placement est constitué à l'initiative conjointe d'une société de gestion mentionnée à l'article L.
-214-25, chargée de sa gestion, et d'une personne morale, dépositaire des actifs du fonds.
+Le fonds commun de placement est constitué à l'initiative conjointe d'une société de gestion de portefeuille, chargée de sa
+gestion, et d'une personne morale, dépositaire des actifs du fonds.
 
 Cette société et cette personne établissent le règlement du fonds.
-
-La société chargée de la gestion du fonds commun de placement peut être une société de gestion de portefeuille mentionnée à
-l'article L. 532-9.
 
 La souscription ou l'acquisition de parts d'un fonds commun de placement emporte acceptation du règlement.
 
@@ -8866,19 +8984,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L214-25 (M)
+  - Loi n°2003-706 du 1 août 2003 - art. 68 (V) JORF 2 août 2003
 
 
 ###### Article L214-25
-
-La société de gestion a pour objet exclusif de gérer des sociétés d'investissement à capital variable, des fonds communs de
-placement et des sociétés d'investissement.
-
-La société de gestion est soumise aux mêmes règles notamment en matière d'agrément et de contrôle, que celles prévues pour
-les sociétés mentionnées à l'article L. 532-9. L'article L. 621-23 s'applique aux commissaires aux comptes de la société de
-gestion.
 
 Le fonds commun de placement est représenté à l'égard des tiers par la société chargée de sa gestion. Cette société peut agir
 en justice pour défendre ou faire valoir les droits ou intérêts des porteurs de parts.
@@ -8921,10 +9032,9 @@ _Cité par_:
   - Code monétaire et financier - art. L752-6 (M)
   - Code monétaire et financier - art. L762-6 (M)
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L532-9 (M)
-  - Code monétaire et financier - art. L621-23 (M)
+  - Loi n°2003-706 du 1 août 2003 - art. 68 (V) JORF 2 août 2003
 
 
 ###### Article L214-26
@@ -9095,10 +9205,11 @@ _Cité par_:
 ###### Article L214-29
 
 I. - Le commissaire aux comptes du fonds est désigné pour six exercices par le gérant, le conseil d'administration ou le
-directoire de la société de gestion, après accord de la commission des opérations de bourse.
+directoire de la société de gestion, après accord de l'Autorité des marchés financiers.
 
-Les dispositions des articles L. 225-218 à L. 225-227, des articles L. 225-236 à L. 225-238, des deuxième et troisième
-alinéas de l'article L. 225-240, des articles L. 225-241 et L. 225-242 du code de commerce lui sont applicables.
+Les dispositions des articles L. 822-1, L. 822-2, L. 822-3, L. 822-6, L. 822-7, L. 822-9, L. 822-10, L. 822-12 et L. 822-13
+et L. 225-227, des articles L. 225-236 à L. 225-238, du deuxième alinéa de l'article L. 225-240 et les dispositions de
+l'article L822-15, des articles L. 225-241 et L. 225-242 du code de commerce lui sont applicables.
 
 Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par les articles L. 225-230 et L. 225-233 du
 code de commerce.
@@ -9106,10 +9217,10 @@ code de commerce.
 Le commissaire aux comptes porte à la connaissance de l'assemblée générale de la société de gestion, les irrégularités et
 inexactitudes qu'il a relevées dans l'accomplissement de sa mission.
 
-II. - Le commissaire aux comptes est délié du secret professionnel à l'égard de la commission des opérations de bourse.
+II. - Le commissaire aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers.
 
-Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à la commission des opérations de bourse tout fait
-ou décision concernant le fonds dont il a eu connaissance dans l'exercice de sa mission, de nature :
+Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l'Autorité des marchés financiers tout fait ou
+décision concernant le fonds dont il a eu connaissance dans l'exercice de sa mission, de nature :
 
 1. A constituer un manquement à ce fonds et susceptible d'avoir des effets significatifs sur la situation financière, le
 résultat ou le patrimoine ;
@@ -9121,7 +9232,7 @@ résultat ou le patrimoine ;
 La responsabilité du commissaire aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 il procède en exécution des obligations imposées par le présent article.
 
-La commission des opérations de bourse peut également transmettre aux commissaires aux comptes du fonds des informations
+L'Autorité des marchés financiers peut également transmettre aux commissaires aux comptes du fonds des informations
 nécessaires à l'accomplissement de leur mission. Les informations transmises sont couvertes par la règle du secret
 professionnel.
 
@@ -9137,6 +9248,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2009-394 du 9 avril 2009 - art. 1 (V)
@@ -9149,7 +9264,7 @@ _Cite_:
   - Code de commerce. - art. L225-233 (M)
   - Code de commerce. - art. L225-241 (Ab)
   - Code de commerce. - art. L225-242 (Ab)
-  - Code monétaire et financier L225-218 à L225-227, L225-236 à L225-238, L225-240
+  - Code monétaire et financier L822-1, L822-2, L822-3, L822-6, L822-7, L822-9, L822-10, L822-12, L822-13, L225-227, L225-240, L822-15
 
 
 ###### Article L214-30
@@ -9157,6 +9272,9 @@ _Cite_:
 Le rachat par le fonds de ses parts et l'émission de parts nouvelles peuvent être suspendus à titre provisoire par la société
 de gestion quand des circonstances exceptionnelles l'exigent et si l'intérêt des porteurs de parts le commande, dans des
 conditions fixées par le règlement du fonds.
+
+Le règlement général de l'Autorité des marchés financiers fixe les autres cas et les conditions dans lesquels le règlement du
+fonds prévoit, le cas échéant, que l'émission des parts est interrompue de façon provisoire ou définitive.
 
 **Liens relatifs à cet article**
 
@@ -9226,6 +9344,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 59 4° JORF 2 août 2003
 
 
 ###### Article L214-31
@@ -9307,16 +9429,19 @@ _Cite_:
 
 I. - Un organisme de placement collectif en valeurs mobilières peut comporter deux ou plusieurs compartiments si ses statuts
 ou son règlement le prévoient. Chaque compartiment donne lieu à l'émission d'une catégorie d'actions ou de parts
-représentative des actifs de l'organisme de placement collectif en valeurs mobilières qui lui sont attribués.
+représentative des actifs de l'organisme de placement collectif en valeurs mobilières qui lui sont attribués. Par dérogation
+à l'article 2093 du code civil et sauf stipulation contraire des documents constitutifs de l'organisme de placement collectif
+en valeurs mobilières, les actifs d'un compartiment déterminé ne répondent que des dettes, engagements et obligations et ne
+bénéficient que des créances qui concernent ce compartiment.
 
 Lorsque des compartiments sont constitués au sein d'un fonds commun de placement à risques, d'un fonds commun de placement
 dans l'innovation, d'un fonds commun d'intervention sur les marchés à terme ou d'un organisme de placement collectif
 bénéficiant d'une procédure allégée, ils sont tous soumis individuellement aux dispositions du présent code qui régissent ce
 fonds ou cet organisme.
 
-La commission des opérations de bourse définit les conditions dans lesquelles la constitution de chaque compartiment est
-soumise à son agrément, ainsi que les conditions dans lesquelles est déterminée, en fonction de la valeur nette des actifs
-attribués au compartiment correspondant, la valeur liquidative de chaque catégorie d'actions ou de parts.
+L'Autorité des marchés financiers définit les conditions dans lesquelles la constitution de chaque compartiment est soumise à
+son agrément, ainsi que les conditions dans lesquelles est déterminée, en fonction de la valeur nette des actifs attribués au
+compartiment correspondant, la valeur liquidative de chaque catégorie d'actions ou de parts.
 
 II. - Chaque compartiment fait l'objet, au sein de la comptabilité de l'organisme de placement collectif en valeurs
 mobilières, d'une comptabilité distincte qui peut être tenue en toute unité monétaire dans les conditions fixées par le
@@ -9325,8 +9450,8 @@ décret prévu à l'article L. 214-11.
 III. - Par dérogation aux dispositions de l'article L. 214-4 un compartiment peut être régi par les dispositions relatives
 aux organismes de placement collectif en valeurs mobilières nourriciers prévues à l'article L. 214-34.
 
-IV. - La commission des opérations de bourse agrée, dans des conditions qu'elle définit, la transformation, la fusion, la
-scission et la liquidation des compartiments.
+IV. - L'Autorité des marchés financiers agrée, dans des conditions qu'elle définit, la transformation, la fusion, la scission
+et la liquidation des compartiments.
 
 **Liens relatifs à cet article**
 
@@ -9337,6 +9462,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 V 1°, art. 60 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -9363,6 +9493,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code civil - art. 2093 (T)
   - Code monétaire et financier - art. L214-11 (V)
   - Code monétaire et financier - art. L214-34 (M)
   - Code monétaire et financier - art. L214-4 (M)
@@ -9373,9 +9504,9 @@ _Cite_:
 ###### Article L214-34
 
 I. - Les statuts ou le règlement d'un organisme de placement collectif en valeurs mobilières dit nourricier peuvent prévoir,
-dans des conditions fixées par un règlement de la commission des opérations de bourse, que son actif est investi en totalité
-en actions ou parts d'un seul organisme de placement collectif en valeurs mobilières, dit maître, et, à titre accessoire, en
-liquidités.
+dans des conditions fixées par un règlement général de l'Autorité des marchés financiers, que son actif est investi en
+totalité en actions ou parts d'un seul organisme de placement collectif en valeurs mobilières, dit maître, et, à titre
+accessoire, en liquidités.
 
 II. - L'organisme de placement collectif en valeurs mobilières maître est :
 
@@ -9386,10 +9517,10 @@ présent chapitre ;
 d'intervention sur les marchés à terme ; les organismes de placement collectif nourriciers sont alors soumis aux règles de
 détention, de commercialisation, de publicité et de démarchage applicables au fonds maître ;
 
-3. Soit un organisme de placement collectif bénéficiant d'une procédure allégée régi par l'article L. 214-35 ; la
-souscription ou l'acquisition d'actions ou de parts des organismes de placement collectif nourriciers sont réservées aux
-investisseurs mentionnés aux deuxième et troisième alinéas de l'article L. 411-2 lorsque le montant initialement investi est
-inférieur au montant mentionné au I de l'article L. 214-35.
+3. Soit un organisme de placement collectif en valeurs mobilières réservé à certains investisseurs relevant de la sous-
+section 6 de la présente section. Dans ce cas, les règles de détention d'investissement, de démarchage et de
+commercialisation de l'organisme de placements collectifs nourricier sont celles de l'organisme de placements collectifs
+maître.
 
 4. Soit un organisme de placement collectif soumis à la législation d'un Etat bénéficiant de la procédure de reconnaissance
 mutuelle des agréments définie par la directive 85/611 du Conseil du 20 décembre 1985, sous réserve que cette législation
@@ -9404,13 +9535,17 @@ b) Les échanges d'informations mentionnés au III du présent article ;
 c) La conclusion avec l'autorité de contrôle compétente pour la surveillance des organismes de placement collectif en valeurs
 mobilières d'une convention d'échange d'informations et d'assistance.
 
-Un règlement de la commission des opérations de bourse précise les conditions d'application du présent II.
+Un règlement général de l'Autorité des marchés financiers précise les conditions d'application du présent II.
 
 III. - Les dépositaires et les commissaires aux comptes des organismes de placement collectif nourriciers et de l'organisme
 de placement collectif maître échangent les informations rendues nécessaires par l'accomplissement de leurs missions
 respectives.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Directive 85-611 1985-12-20 (Conseil)
 
 _Anciens textes_:
 
@@ -9438,33 +9573,24 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L214-35 (M)
-  - Code monétaire et financier - art. L411-2 (M)
+  - Loi n°2003-706 2003-08-01 art. 46 V 1°, 2°, art. 63 VI JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
 
 
-##### Sous-section 6 : Organismes de placement collectif en valeurs mobilières à procédure allégée.<a id=102></a>
+##### Sous-section 6 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs<a id=102></a>
+
+##### Paragraphe 1er : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées.<a id=103></a>
 
 ###### Article L214-35
 
-I. - La souscription et l'acquisition des parts ou actions d'un organisme de placement collectif en valeurs mobilières
-bénéficiant d'une procédure allégée sont réservées aux investisseurs mentionnés au deuxième alinéa de l'article L. 411-2
-lorsque le montant initialement investi est inférieur à un seuil fixé par un règlement de la Commission des opérations de
-bourse. Le dépositaire ou la personne désignée à cet effet par le règlement ou les statuts de l'organisme s'assure, selon le
-cas, que le souscripteur ou l'acquéreur est un investisseur mentionné au deuxième alinéa de l'article L. 411-2 ou qu'il a
-investi initialement un montant conforme au seuil fixé par le règlement de la commission des opérations de bourse. Il
-s'assure également que le souscripteur ou l'acquéreur a effectivement déclaré avoir été informé que cet organisme était régi
-par les dispositions de la présente sous-section.
+Un organisme de placement collectif en valeurs mobilières à règles d'investissement allégées peut, dans des conditions et
+limites fixées par un décret en Conseil d'Etat, déroger à l'article L. 214-4.
 
-II. - La constitution, la transformation, la fusion, la scission ou la liquidation d'un organisme de placement collectif en
-valeurs mobilières défini au I n'est pas soumise à l'agrément de la commission des opérations de bourse mais doit lui être
-déclarée, dans des conditions définies par un règlement de la commission, dans le mois qui suit sa réalisation. Ce règlement
-fixe également les conditions de souscription, de cession et de rachat des parts ou des actions émises par un tel organisme.
-
-III. - Un organisme de placement collectif en valeurs mobilières défini au I peut, dans des conditions et limites fixées par
-un décret en Conseil d'Etat, déroger à l'article L. 214-4 et prévoir, dans ses statuts ou son règlement, la possibilité de
-procéder à des opérations d'achat ou de vente à terme sur d'autres marchés que ceux mentionnés à l'article L. 214-7.
+Le règlement général de l'Autorité des marchés financiers fixe les conditions de souscription, de cession et de rachat des
+parts ou des actions émises par un tel organisme.
 
 **Liens relatifs à cet article**
 
@@ -9515,14 +9641,207 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L214-4 (M)
-  - Code monétaire et financier - art. L214-7 (Ab)
+
+
+###### Article L214-35-1
+
+La souscription et l'acquisition des parts ou actions d'un organisme de placement collectif en valeurs mobilières à règles
+d'investissement allégées sont réservées aux investisseurs qualifiés mentionnés au deuxième alinéa de l'article L. 411-2
+ainsi qu'aux investisseurs étrangers appartenant à une catégorie équivalente sur le fondement du droit du pays dans lequel
+est situé son siège.
+
+Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles la souscription et
+l'acquisition des parts ou actions de ces organismes sont ouvertes à d'autres investisseurs, en fonction en particulier de la
+nature de ceux-ci et du niveau de risque de l'organisme.
+
+Le dépositaire ou la personne désignée à cet effet par le règlement ou les statuts de l'organisme s'assure que le
+souscripteur ou l'acquéreur est un investisseur tel que défini à l'alinéa précédent. Il s'assure également que le
+souscripteur ou l'acquéreur a effectivement déclaré avoir été informé que cet organisme était régi par les dispositions de la
+présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L214-35-3 (Ab)
+  - Code monétaire et financier - art. L214-37 (V)
+  - Code monétaire et financier - art. L214-42 (Ab)
+
+_Cite_:
+
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 7 : Fonds communs de placement à risques.<a id=103></a>
+##### Paragraphe 2 : Organismes de placement collectif en valeurs mobilières contractuels.<a id=104></a>
+
+###### Article L214-35-2
+
+Un organisme de placement collectif en valeurs mobilières contractuel a pour objet d'investir en tous instruments financiers
+mentionnés à l'article L. 211-1 et dans des dépôts bancaires. Il prend la forme d'une SICAV ou d'un fonds commun de
+placement.
+
+Selon le cas, sa dénomination est alors respectivement "société d'investissement contractuelle" ou "fonds d'investissement
+contractuel".
+
+Par dérogation aux dispositions de l'article. L. 214-4, le règlement ou les statuts de l'organisme de placements collectifs
+contractuel fixent les règles d'investissement et d'engagement.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°89-623 du 6 septembre 1989 - art. 14-5 (Ab)
+  - Décret n°89-623 du 6 septembre 1989 - art. 3 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 313-12 (M)
+  - Décret n°2005-875 du 25 juillet 2005 - art. 22 (V)
+  - Ordonnance n°2009-394 du 9 avril 2009 - art. 1 (V)
+  - Code de la mutualité - art. R212-31 (V)
+  - Code de la sécurité sociale. - art. R931-10-21 (V)
+  - Code des assurances - art. R332-2 (V)
+  - Code monétaire et financier - art. D214-20-3 (Ab)
+  - Code monétaire et financier - art. D214-22-1 (V)
+  - Code monétaire et financier - art. R214-36 (V)
+  - Code monétaire et financier - art. R214-5 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L211-1 (M)
+
+
+###### Article L214-35-3
+
+Les premier et troisième alinéas de l'article L. 214-35-1 sont applicables aux organismes de placements collectifs
+contractuels. Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles la souscription
+et l'acquisition des parts ou actions de ces organismes sont ouvertes à d'autres investisseurs, en fonction en particulier de
+la nature de ceux-ci et du niveau de risque de l'organisme.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Arrêté du 12 novembre 2004 - art. 413-35 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-35-1 (M)
+
+
+###### Article L214-35-4
+
+La constitution, la transformation, la fusion, la scission ou la liquidation d'un organisme de placement collectif en valeurs
+mobilières contractuel ne sont pas soumises à l'agrément de l'Autorité des marchés financiers mais doivent lui être
+déclarées, dans les conditions définies par son règlement général, dans le mois qui suit sa réalisation.
+
+Le règlement général détermine également les conditions dans lesquelles les souscripteurs sont informés des règles
+d'investissement particulières à cet organisme, et notamment les modalités selon lesquelles celui-ci peut déroger à l'article
+L. 214-4 ainsi que la périodicité minimum et les modalités d'établissement de la valeur liquidative.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Arrêté du 12 novembre 2004 - art. 413-23 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-4 (M)
+
+
+###### Article L214-35-5
+
+Par dérogation au deuxième alinéa de l'article L. 214-15 et au premier alinéa de l'article L. 214-20, le règlement ou les
+statuts de l'organisme de placement collectif en valeurs mobilières contractuel prévoit les conditions et les modalités des
+souscriptions, acquisitions, rachat des parts et des actions ; toutefois, lorsque ce règlement ou ces statuts n'autorise le
+rachat qu'à l'échéance d'un délai, ce dernier ne peut excéder deux ans après la constitution de l'organisme ; le délai auquel
+le règlement ou les statuts de l'organisme peuvent soumettre l'exécution des rachats ne peut excéder trois mois.
+
+Le règlement ou les statuts de l'organisme de placement collectif en valeurs mobilières contractuel prévoit la valeur
+liquidative en deçà de laquelle il est procédé à sa dissolution.
+
+Le règlement ou les statuts de l'organisme précisent les conditions et les modalités de leur modification éventuelle. A
+défaut, toute modification requiert l'unanimité des actionnaires ou porteurs de parts.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2009-394 du 9 avril 2009 - art. 1 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-15 (M)
+  - Code monétaire et financier - art. L214-20 (M)
+
+
+###### Article L214-35-6
+
+Un organisme de placement collectif en valeurs mobilières contractuel ne peut être géré que par une société de gestion
+spécialement agréée à cet effet dans les conditions prévues par le règlement général de l'Autorité des marchés financiers, au
+vu notamment des conditions dans lesquelles s'exercera la gestion de ces organismes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Arrêté du 12 novembre 2004 - art. 312-10 (M)
+
+
+##### Sous-section 7 : Fonds communs de placement à risques.<a id=105></a>
 
 ###### Article L214-36
 
@@ -9737,11 +10056,11 @@ _Cite_:
 ###### Article L214-37
 
 La souscription et l'acquisition des parts de fonds communs de placement à risques bénéficiant d'une procédure allégée sont
-réservées aux investisseurs mentionnés à l'article L. 214-35 ainsi qu'à ceux, dirigeants, salariés ou personnes physiques,
+réservées aux investisseurs mentionnés à l'article L. 214-35-1 ainsi qu'à ceux, dirigeants, salariés ou personnes physiques,
 agissant pour le compte de la société de gestion du fonds, ainsi qu'à la société de gestion elle-même. La constitution, la
-transformation, la fusion, la scission ou la liquidation du fonds n'est pas soumise à l'agrément de la commission des
-opérations de bourse mais doit lui être déclarée dans des conditions définies par un règlement de la commission, dans le mois
-qui suit sa réalisation.
+transformation, la fusion, la scission ou la liquidation du fonds n'est pas soumise à l'agrément de l'Autorité des marchés
+financiers mais doit lui être déclarée dans des conditions définies par un règlement de la commission, dans le mois qui suit
+sa réalisation.
 
 Le dépositaire ou la personne désignée à cet effet par le règlement du fonds s'assure que le souscripteur ou l'acquéreur est
 un investisseur mentionné ci-dessus. Il s'assure également que le souscripteur ou l'acquéreur a effectivement déclaré avoir
@@ -9829,9 +10148,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
 _Cite_:
 
-  - Code monétaire et financier - art. L214-35 (M)
+  - Code monétaire et financier - art. L214-35-1 (M)
 
 
 ###### Article L214-38
@@ -9875,7 +10199,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 8 : Fonds communs de placement d'entreprise.<a id=104></a>
+##### Sous-section 8 : Fonds communs de placement d'entreprise.<a id=106></a>
 
 ###### Article L214-39
 
@@ -10083,7 +10407,7 @@ compétences de la société de gestion mentionnées à l'article L. 214-25 et d
 214-31, le conseil de surveillance peut agir en justice pour défendre ou faire valoir les droits ou intérêts des porteurs.
 
 Le conseil de surveillance adopte un rapport annuel mis à la disposition de chaque porteur de parts et dont le contenu est
-précisé par un règlement de la Commission des opérations de bourse. Il s'assure de la diffusion régulière par l'entreprise de
+précisé par un règlement de l'Autorité des marchés financiers. Il s'assure de la diffusion régulière par l'entreprise de
 l'information aux porteurs de parts.
 
 Les porteurs de parts peuvent opter pour un rachat en espèces des parts du fonds.
@@ -10172,7 +10496,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-152 du 19 février 2001 - art. 23 () JORF 20 février 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 
 ###### Article L214-40-1
@@ -10214,7 +10538,7 @@ _Cite_:
   - Code du travail - art. L443-3 (Ab)
 
 
-##### Sous-section 9 : Fonds communs de placement dans l'innovation.<a id=105></a>
+##### Sous-section 9 : Fonds communs de placement dans l'innovation.<a id=107></a>
 
 ###### Article L214-41
 
@@ -10329,7 +10653,7 @@ _Modifié par_:
   - Loi - art. 78 (V) JORF 29 décembre 2001
 
 
-##### Sous-section 10 : Fonds communs d'intervention sur les marchés à terme.<a id=106></a>
+##### Sous-section 10 : Fonds communs d'intervention sur les marchés à terme.<a id=108></a>
 
 ###### Article L214-42
 
@@ -10338,10 +10662,10 @@ liquidités ou valeurs assimilées que doit détenir ce fonds. Ce montant ne peu
 
 La liste des marchés à terme est fixée par arrêté du ministre chargé de l'économie.
 
-Ce fonds ne peut faire l'objet d'aucune présentation par voie de publicité en vue d'inciter le public à la souscription de
-ses parts. Sont interdites les activités de démarchage telles qu'elles sont définies par les dispositions du chapitre II du
-titre IV du livre III, relatives au démarchage financier et à des opérations de placement et d'assurance, en vue des mêmes
-fins.
+Les premier et troisième alinéas de l'article L. 214-35-1 sont applicables aux fonds communs d'intervention sur les marchés à
+terme. Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles la souscription et
+l'acquisition des parts ou actions de ces organismes sont ouvertes à d'autres investisseurs, en fonction en particulier de la
+nature de ceux-ci et du niveau de risque de l'organisme. Ces fonds ne peuvent faire l'objet de démarchage.
 
 **Liens relatifs à cet article**
 
@@ -10385,37 +10709,54 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
 
-##### Section 2 : Les fonds communs de créances.<a id=107></a>
+  - Loi n°2003-706 du 1 août 2003 - art. 63 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-35-1 (M)
+
+
+##### Section 2 : Les fonds communs de créances.<a id=109></a>
 
 ###### Article L214-43
 
 Le fonds commun de créances est une copropriété qui a pour objet exclusif d'acquérir des créances et d'émettre des parts
-représentatives de ces créances.
+représentatives de ces créances. Il peut émettre des titres de créances.
 
 Le fonds peut comporter deux ou plusieurs compartiments si son règlement le prévoit. Chaque compartiment donne lieu à
-l'émission de parts représentatives des actifs du fonds qui lui sont attribués.
+l'émission de parts représentatives des actifs du fonds qui lui sont attribués. Par dérogation à l'article 2093 du code civil
+et sauf stipulation contraire des documents constitutifs du fonds, les actifs d'un compartiment déterminé ne répondent que
+des dettes, engagements et obligations et ne bénéficient que des créances qui concernent ce compartiment.
 
 Le fonds n'a pas la personnalité morale. Ne s'appliquent pas aux fonds communs de créance, les dispositions du code civil
 relatives à l'indivision, ni celles des articles 1871 à 1873 du même code relatives aux sociétés en participation.
 
 Les conditions dans lesquelles le fonds peut acquérir des créances et émettre de nouvelles parts après l'émission initiale
 des parts et les règles de placement des sommes momentanément disponibles et en instance d'affectation sont définies par
-décret. Le fonds ou, le cas échéant, les compartiments du fonds peuvent emprunter dans des conditions fixées par décret.
+décret. Les conditions dans lesquelles le fonds ou, le cas échéant, les compartiments du fonds peuvent emprunter, émettre des
+titres de créances visés à l'article L. 211-1, conclure des contrats constituant des instruments financiers à terme et
+détenir des liquidités sont fixées par décret en Conseil d'Etat.
 
-Les parts peuvent donner lieu à des droits différents sur le capital et les intérêts.
+Les parts et les titres de créances peuvent donner lieu à des droits différents sur le capital et les intérêts.
 
-Elles ne peuvent donner lieu, par leurs porteurs, à demande de rachat par le fonds. Le montant minimum d'une part émise par
-un fonds commun de créances est défini par décret.
+Les parts ne peuvent donner lieu, par leurs porteurs, à demande de rachat par le fonds. Le montant minimum d'une part émise
+par un fonds commun de créances est défini par décret.
 
 Le fonds ou, le cas échéant, les compartiments du fonds ne peuvent céder les créances qu'ils acquièrent tant que celles-ci ne
-sont pas échues ou déchues de leur terme, sauf en cas de liquidation dans des conditions définies par décret. Il ne peut
+sont pas échues ou déchues de leur terme, sauf dans des cas et conditions définis par décret en Conseil d'Etat. Il ne peut
 nantir les créances qu'il détient.
 
-La cession des créances s'effectue par la seule remise d'un bordereau dont les énonciations sont fixées par décret. Elle
-prend effet entre les parties et devient opposable aux tiers à la date apposée sur le bordereau lors de sa remise. La remise
-du bordereau entraîne de plein droit le transfert des sûretés garantissant chaque créance et son opposabilité aux tiers sans
-qu'il soit besoin d'autre formalité.
+La cession des créances s'effectue par la seule remise d'un bordereau dont les énonciations sont fixées par décret. Celle-ci
+prend effet entre les parties et devient opposable aux tiers à la date apposée sur le bordereau lors de sa remise, quelle que
+soit la date de naissance, d'échéance ou d'exigibilité des créances, sans qu'il soit besoin d'autre formalité, et ce quelle
+que soit la loi applicable aux créances et la loi du pays de résidence des débiteurs. La remise du bordereau entraîne de
+plein droit le transfert des sûretés, des garanties et des accessoires attachés à chaque créance, y compris les sûretés
+hypothécaires, et son opposabilité aux tiers sans qu'il soit besoin d'autre formalité.
+
+La réalisation ou la constitution de ces sûretés entraîne pour le fonds la faculté d'acquérir la possession ou la propriété
+des actifs qui en sont l'objet.
 
 La convention de cession peut prévoir, au profit du cédant, une créance sur tout ou partie du boni de liquidation éventuel du
 fonds ou, le cas échéant, d'un compartiment du fonds.
@@ -10433,6 +10774,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 60 2°, art. 64 I JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 64 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -10461,17 +10807,20 @@ _Cité par_:
 
 _Cite_:
 
-  - Code civil 1871 à 1873
+  - Code civil - art. 2093 (T)
+  - Code civil 2093, 1871 à 1873
+  - Code monétaire et financier - art. L211-1 (M)
 
 
 ###### Article L214-44
 
-Un document contenant une appréciation des caractéristiques des parts que le fonds est appelé à émettre et des créances qu'il
-se propose d'acquérir et évaluant les risques que présentent ces dernières est établi par un organisme figurant sur une liste
-arrêtée par le ministre chargé de l'économie après avis de la commission des opérations de bourse. Il est annexé à la note
-d'information et communiqué aux souscripteurs de parts.
+Un document contenant une appréciation des caractéristiques des parts et, le cas échéant, des titres de créances que le fonds
+est appelé à émettre, des créances qu'il se propose d'acquérir et des contrats constituant des instruments financiers à terme
+qu'il se propose de conclure et évaluant les risques qu'ils présentent est établi par un organisme figurant sur une liste
+arrêtée par le ministre chargé de l'économie après avis de l'Autorité des marchés financiers. Il est annexé à la note
+d'information et communiqué aux souscripteurs de parts et, le cas échéant, de titres de créances.
 
-Les fonds communs de créances ne peuvent faire l'objet de démarchage.
+Les parts et titres de créances que le fonds est appelé à émettre ne peuvent faire l'objet de démarchage.
 
 **Liens relatifs à cet article**
 
@@ -10483,6 +10832,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 65 1° JORF 2 août 2003
 
 _Cité par_:
 
@@ -10528,6 +10881,12 @@ convention passée avec la société de gestion du fonds commun de créances.
 Toutefois, tout ou partie du recouvrement peut être confié à un établissement de crédit ou à la Caisse des dépôts et
 consignations, dès lors que le débiteur en est informé par lettre simple.
 
+La société de gestion et l'établissement chargé du recouvrement des créances cédées peuvent convenir que les sommes
+recouvrées seront portées au crédit d'un compte spécialement affecté au profit du fonds ou, le cas échéant, du compartiment,
+sur lequel les créanciers de l'établissement chargé du recouvrement ne peuvent poursuivre le paiement de leurs créances, même
+en cas de procédure de redressement ou de liquidation judiciaires ouvertes à son encontre. Les modalités de fonctionnement de
+ce compte sont fixées par décret.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -10538,6 +10897,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 64 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -10552,8 +10915,8 @@ _Cité par_:
 Le fonds commun de créances est constitué à l'initiative conjointe d'une société chargée de la gestion du fonds et d'une
 personne morale dépositaire des actifs du fonds.
 
-La société de gestion du fonds doit être agréée par la commission des opérations de bourse qui peut, par décision motivée,
-retirer son agrément.
+La société de gestion du fonds doit être agréée par l'Autorité des marchés financiers qui peut, par décision motivée, retirer
+son agrément.
 
 Cette société de gestion et la personne morale dépositaire des actifs établissent une note destinée à l'information préalable
 des souscripteurs sur l'opération, selon les dispositions des articles L. 411-1, L. 411-2, L. 412-1 et L. 621-8.
@@ -10571,6 +10934,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cité par_:
 
@@ -10596,13 +10963,16 @@ I. - La société chargée de la gestion mentionnée à l'article L. 214-47 est 
 de gérer des fonds communs de créances. Elle représente le fonds à l'égard des tiers et dans toute action en justice, tant en
 demande qu'en défense.
 
-II. - La personne morale dépositaire des actifs du fonds mentionnée à l'article L. 214-47 est un établissement de crédit ou
-tout autre établissement agréé par le ministre chargé de l'économie. Elle doit avoir son siège social en France. Elle est
-dépositaire de la trésorerie et des créances acquises par le fonds. Elle s'assure de la régularité des décisions de la
-société de gestion.
+II. - La personne morale dépositaire des actifs du fonds mentionnée à l'article L. 214-47 est un établissement de crédit
+agréé en France, une succursale établie en France d'un établissement de crédit ayant son siège social dans un Etat partie à
+l'accord sur l'Espace économique européen ou tout autre établissement agréé par le ministre chargé de l'économie. Elle est
+dépositaire de la trésorerie et des créances acquises par le fonds et s'assure de la régularité des décisions de la société
+de gestion selon les modalités prévues par le règlement général de l'Autorité des marchés financiers. La conservation des
+créances peut toutefois être assurée par le cédant ou l'organisme chargé du recouvrement de la créance dans des conditions
+fixées par décret.
 
-III. - Les porteurs de parts ne sont tenus des dettes du fonds qu'à concurrence de son actif et proportionnellement à leur
-quote-part.
+III. - Les porteurs de parts ne sont tenus des dettes du fonds et, le cas échéant, du compartiment qu'à concurrence de son
+actif et proportionnellement à leur quote-part.
 
 IV. - Le règlement du fonds prévoit la durée des exercices comptables qui ne peut excéder douze mois. Toutefois, le premier
 exercice peut s'étendre sur une durée supérieure sans excéder dix-huit mois.
@@ -10613,13 +10983,14 @@ Dans un délai de six semaines à compter de la fin de chaque semestre de l'exer
 des fonds qu'elle gère, l'inventaire de l'actif sous le contrôle du dépositaire.
 
 VI. - Le commissaire aux comptes du fonds est désigné pour six exercices par le conseil d'administration, le gérant ou le
-directoire de la société de gestion, après accord de la commission des opérations de bourse.
+directoire de la société de gestion, après accord de l'Autorité des marchés financiers.
 
-Les dispositions des articles L. 225-218 à L. 225-227, L. 225-237, L. 225-238, les deuxième et troisième alinéas de l'article
-L. 225-240, les articles L. 225-241 et L. 225-242 du code de commerce lui sont applicables.
+Les dispositions des articles L. 822-1, L. 822-2, L. 822-3, L. 822-6, L. 822-7, L. 822-9, L. 822-10, L. 822-12, L. 822-13 et
+L. 225-227, L. 225-237, L. 225-238, du deuxième alinéa de l'article L. 225-240 et les dispositions de l'article L. 822-15,
+les articles L. 225-241 et L. 225-242 du code de commerce lui sont applicables.
 
-Le commissaire aux comptes signale aux dirigeants de la société de gestion ainsi qu'à la commission des opérations de bourse
-les irrégularités et inexactitudes qu'il relève dans l'accomplissement de sa mission.
+Le commissaire aux comptes signale aux dirigeants de la société de gestion ainsi qu'à l'Autorité des marchés financiers les
+irrégularités et inexactitudes qu'il relève dans l'accomplissement de sa mission.
 
 Les porteurs de parts du fonds exercent les droits reconnus aux actionnaires par les articles L. 225-230 et L. 225-231 du
 code de commerce.
@@ -10649,14 +11020,26 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 V 1°, art. 65 3°, art. 116 JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
+  - Code de commerce L225-241, L225-242, L225-230, L225-231, L225-240, L822-1 à L822-3, L822-9, L822-10, L822-12, L822-13, L822-15
   - Code de commerce. - art. L225-230 (M)
   - Code de commerce. - art. L225-231 (M)
+  - Code de commerce. - art. L225-240 (M)
   - Code de commerce. - art. L225-241 (Ab)
   - Code de commerce. - art. L225-242 (Ab)
+  - Code de commerce. - art. L822-10 (V)
+  - Code de commerce. - art. L822-12 (M)
+  - Code de commerce. - art. L822-13 (M)
+  - Code de commerce. - art. L822-15 (M)
+  - Code de commerce. - art. L822-9 (V)
   - Code monétaire et financier - art. L214-47 (M)
-  - Code monétaire et financier L214-47, L225-218 à L225-227, L225-237, L225-238, L225-240
 
 
 ###### Article L214-49
@@ -10676,9 +11059,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 3 : Les sociétés civiles de placement immobilier<a id=108></a>
+##### Section 3 : Les sociétés civiles de placement immobilier<a id=110></a>
 
-##### Sous-section 1 : Régime général<a id=109></a>
+##### Sous-section 1 : Régime général<a id=111></a>
 
 ###### Article L214-50
 
@@ -10724,11 +11107,11 @@ _Cité par_:
 
 Les sociétés civiles de placement immobilier peuvent faire publiquement appel à l'épargne, sous réserve que les parts
 détenues par les membres fondateurs représentent une valeur totale au moins égale au capital social minimum tel que celui-ci
-est fixé à l'article L. 214-53 et qu'elles justifient d'une garantie bancaire, approuvée par la commission des opérations de
-bourse et destinée à faire face au remboursement prévu à l'article L. 214-54.
+est fixé à l'article L. 214-53 et qu'elles justifient d'une garantie bancaire, approuvée par l'Autorité des marchés
+financiers et destinée à faire face au remboursement prévu à l'article L. 214-54.
 
-Les parts ainsi détenues par les fondateurs sont inaliénables pendant trois ans à compter de la délivrance du visa de la
-commission des opérations de bourse.
+Les parts ainsi détenues par les fondateurs sont inaliénables pendant trois ans à compter de la délivrance du visa de
+l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -10739,6 +11122,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cité par_:
 
@@ -10830,7 +11217,8 @@ _Cité par_:
 
 La responsabilité des associés ne peut être mise en cause que si la société civile a été préalablement et vainement
 poursuivie. La responsabilité de chaque associé à l'égard des tiers est engagée en fonction de sa part dans le capital et
-dans la limite de deux fois le montant de cette part.
+dans la limite de deux fois le montant de cette part. Les statuts de la société civile peuvent prévoir que la responsabilité
+de chaque associé est limitée au montant de sa part dans le capital de la société.
 
 La société doit obligatoirement souscrire un contrat d'assurance garantissant sa responsabilité civile du fait des immeubles
 dont elle est propriétaire.
@@ -10845,6 +11233,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 52 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -10931,7 +11323,7 @@ _Cite_:
   - Code civil - art. 1865 (V)
 
 
-##### Sous-section 2 : Souscription des parts<a id=110></a>
+##### Sous-section 2 : Souscription des parts<a id=112></a>
 
 ###### Article L214-59
 
@@ -10943,28 +11335,18 @@ Toute transaction donne lieu à une inscription sur le registre des associés qu
 écrit prévu par l'article 1865 du code civil. Le transfert de propriété qui en résulte est opposable, dès cet instant, à la
 société et aux tiers. La société de gestion garantit la bonne fin de ces transactions.
 
-Un règlement de la Commission des opérations de bourse fixe les modalités de mise en oeuvre du présent I, et en particulier
-les conditions d'information sur le marché secondaire des parts et de détermination de la période d'enregistrement des
-ordres.
+Un règlement général de l'Autorité des marchés financiers fixe les modalités de mise en oeuvre du présent I, et en
+particulier les conditions d'information sur le marché secondaire des parts et de détermination de la période
+d'enregistrement des ordres.
 
 II. Lorsque la société de gestion constate que les ordres de vente inscrits depuis plus de douze mois sur le registre
-mentionné au I représentent au moins 10 % des parts émises par la société, elle en informe sans délai la Commission des
-opérations de bourse. La même procédure est applicable au cas où les demandes de retrait non satisfaites dans un délai de
-douze mois représentent au moins 10 % des parts.
+mentionné au I représentent au moins 10 % des parts émises par la société, elle en informe sans délai l'Autorité des marchés
+financiers. La même procédure est applicable au cas où les demandes de retrait non satisfaites dans un délai de douze mois
+représentent au moins 10 % des parts.
 
 Dans les deux mois à compter de cette information, la société de gestion convoque une assemblée générale extraordinaire et
 lui propose la cession partielle ou totale du patrimoine et toute autre mesure appropriée. De telles cessions sont réputées
 conformes à l'article L. 214-50.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -10978,7 +11360,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-602 2001-07-09 art. 9 V 6° JORF 11 juillet 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 02 août 2003
 
 _Cité par_:
 
@@ -11000,18 +11382,8 @@ _Cite_:
 Le prix de souscription des parts est déterminé sur la base de la valeur de reconstitution définie à l'article L. 214-78.
 
 Tout écart entre le prix de souscription et la valeur de reconstitution des parts supérieur à 10 % doit être justifié par la
-société de gestion et notifié à la commission des opérations de bourse dans des conditions fixées par arrêté du ministre
-chargé de l'économie.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+société de gestion et notifié à l'Autorité des marchés financiers dans des conditions fixées par arrêté du ministre chargé de
+l'économie.
 
 **Liens relatifs à cet article**
 
@@ -11022,6 +11394,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cite_:
 
@@ -11035,17 +11411,7 @@ diminution du prix de la part sous réserve que celui-ci ne soit pas diminué de
 totale du patrimoine. De telles cessions sont réputées répondre aux conditions définies par l'article L. 214-50.
 
 Les rapports de la société de gestion, des commissaires aux comptes ainsi que les projets de résolution de l'assemblée
-générale sont transmis à la commission des opérations de bourse un mois avant la date de l'assemblée générale.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+générale sont transmis à l'Autorité des marchés financiers un mois avant la date de l'assemblée générale.
 
 **Liens relatifs à cet article**
 
@@ -11059,7 +11425,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-602 2001-07-09 art. 9 V 7° JORF 11 juillet 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cité par_:
 
@@ -11180,7 +11546,7 @@ _Cite_:
   - Code monétaire et financier
 
 
-##### Sous-section 3 : Gestion<a id=111></a>
+##### Sous-section 3 : Gestion<a id=113></a>
 
 ###### Article L214-66
 
@@ -11217,19 +11583,16 @@ La société de gestion est constituée sous la forme d'une société anonyme do
 deux cent vingt cinq mille euros ou d'une société en nom collectif à la condition que, dans ce cas, l'un au moins des
 associés soit une société anonyme justifiant du capital social minimum susmentionné.
 
-La société de gestion doit être agréée par la commission des opérations de bourse.
+La société de gestion doit être agréée par l'Autorité des marchés financiers.
 
-La commission des opérations de bourse peut, par décision motivée, retirer l'agrément d'une société de gestion.
+L'Autorité des marchés financiers peut, par décision motivée, retirer l'agrément d'une société de gestion.
 
 **Nota:**
 
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
+suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
+portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
+placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -11237,13 +11600,13 @@ _Anciens textes_:
 
   - Loi n°70-1300 du 31 décembre 1970 - art. 9-1 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance 2000-916 2000-09-19 art. 5 IV JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cité par_:
 
@@ -11390,7 +11753,7 @@ _Cité par_:
   - Code monétaire et financier - art. L231-12 (V)
 
 
-##### Sous-section 4 : Assemblée générale<a id=112></a>
+##### Sous-section 4 : Assemblée générale<a id=114></a>
 
 ###### Article L214-73
 
@@ -11547,7 +11910,7 @@ _Cité par_:
   - Code monétaire et financier - art. L214-71 (V)
 
 
-##### Sous-section 5 : Dispositions comptables<a id=113></a>
+##### Sous-section 5 : Dispositions comptables<a id=115></a>
 
 ###### Article L214-78
 
@@ -11601,7 +11964,7 @@ _Cite_:
 ###### Article L214-79
 
 Le contrôle est exercé par un ou plusieurs commissaires aux comptes nommés par l'assemblée générale ordinaire pour la durée
-prévue à l'article L. 225-229 du code de commerce parmi les personnes figurant sur la liste prévue à l'article L. 225-219 du
+prévue à l'article L. 225-229 du code de commerce parmi les personnes figurant sur la liste prévue à l'article L. 822-1 du
 code de commerce. Lors de la constitution de la société, les commissaires aux comptes sont nommés par l'assemblée générale
 constitutive.
 
@@ -11611,7 +11974,7 @@ sociétés qu'ils contrôlent, moins de cinq années après la cessation de leur
 les mêmes fonctions dans les sociétés possédant 10 % du capital de la société contrôlée par eux ou dont celle-ci possède 10 %
 du capital lors de la cessation des fonctions du commissaire.
 
-Les dispositions des articles L. 225-227, L. 225-228 (2e alinéa) et L. 225-233 du code de commerce sont applicables.
+Les dispositions des articles L. 225-227, L. 225-228 (3e alinéa) et L. 225-233 du code de commerce sont applicables.
 
 Si l'assemblée omet d'élire un commissaire aux comptes, tout associé peut en demander en justice la désignation, le mandat
 ainsi conféré prenant fin lorsqu'il a été pourvu à la nomination par l'assemblée générale. En outre, un ou plusieurs
@@ -11634,7 +11997,7 @@ l'article L. 225-237 du code de commerce.
 Ils sont convoqués à la réunion des dirigeants de la société de gestion qui arrête les comptes de l'exercice écoulé, ainsi
 qu'à toutes les assemblées générales.
 
-Ils portent à la connaissance de l'assemblée générale, ainsi qu'à celle de la commission des opérations de bourse, les
+Ils portent à la connaissance de l'assemblée générale, ainsi qu'à celle de l'Autorité des marchés financiers, les
 irrégularités et inexactitudes relevées par eux au cours de l'accomplissement de leur mission.
 
 En outre, ils révèlent au procureur de la République les faits délictueux dont ils ont eu connaissance, sans que leur
@@ -11644,8 +12007,8 @@ Sous réserve des dispositions des deux alinéas précédents, les commissaires 
 experts, sont astreints au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en
 raison de leurs fonctions.
 
-Leurs honoraires sont à la charge de la société. Ils sont fixés selon des modalités déterminées le décret en Conseil d'Etat
-pris pour l'application de l'article L. 225-239 du code de commerce.
+Leurs honoraires sont à la charge de la société. Ils sont fixés selon des modalités déterminées par le décret en Conseil
+d'Etat pris pour l'application de l'article L. 225-239 du code de commerce.
 
 Ils sont responsables dans les conditions prévues à l'article L. 225-241 du code de commerce. Ils ne sont pas civilement
 responsables des infractions commises par les personnes qui gèrent, dirigent ou administrent la société, sauf si, en ayant eu
@@ -11656,16 +12019,6 @@ Les actions en responsabilité contre les commissaires aux comptes se prescriven
 
 Aucune réévaluation d'actif ne peut être faite sans qu'un rapport spécial à l'assemblée générale ait été préalablement
 présenté par les commissaires aux comptes et approuvé par celle-ci.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -11678,9 +12031,13 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
-  - Code de commerce. - art. L225-219 (Ab)
   - Code de commerce. - art. L225-224 (Ab)
   - Code de commerce. - art. L225-227 (M)
   - Code de commerce. - art. L225-228 (M)
@@ -11693,6 +12050,7 @@ _Cite_:
   - Code de commerce. - art. L225-239 (M)
   - Code de commerce. - art. L225-241 (Ab)
   - Code de commerce. - art. L225-254 (M)
+  - Code de commerce. - art. L822-1 (V)
 
 _Cité par_:
 
@@ -11700,7 +12058,7 @@ _Cité par_:
   - Code monétaire et financier - art. L231-17 (V)
 
 
-##### Sous-section 6 : Fusion<a id=114></a>
+##### Sous-section 6 : Fusion<a id=116></a>
 
 ###### Article L214-80
 
@@ -11819,13 +12177,13 @@ _Cité par_:
   - Code monétaire et financier - art. R214-119 (V)
 
 
-##### Sous-section 6-1 : Règles de bonne conduite.<a id=115></a>
+##### Sous-section 6-1 : Règles de bonne conduite.<a id=117></a>
 
 ###### Article L214-83-1
 
 Les sociétés de gestion de sociétés civiles de placement immobilier et les personnes placées sous leur autorité ou agissant
 pour leur compte sont tenues de respecter des règles de bonne conduite destinées à garantir la protection des investisseurs
-et la régularité des opérations, établies par la Commission des opérations de bourse, en application de l'article L. 533-4.
+et la régularité des opérations, établies par l'Autorité des marchés financiers, en application de l'article L. 533-4.
 
 **Liens relatifs à cet article**
 
@@ -11833,9 +12191,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-602 2001-07-09 art. 9 V 4° JORF 11 juillet 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cité par_:
 
@@ -11844,42 +12202,7 @@ _Cité par_:
   - Code monétaire et financier - art. L533-4 (M)
 
 
-##### Sous-section 7 : Contrôle.<a id=116></a>
-
-###### Article L214-84
-
-La commission des opérations de bourse exerce à l'égard des sociétés civiles de placement immobilier, nonobstant le fait que
-leurs parts ne sont pas admises aux négociations sur un marché réglementé, l'ensemble des compétences qui lui sont reconnues
-par le présent code.
-
-Les sanctions prévues à l'article L. 642-3 pour les infractions qui sont définies audit article s'appliquent aux dirigeants
-des sociétés de gestion.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°70-1300 du 31 décembre 1970 - art. 34 (M)
-  - Loi n°70-1300 du 31 décembre 1970 - art. 34 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L642-3 (M)
-
-
-##### Section 4 : Les sociétés d'épargne forestière<a id=117></a>
+##### Section 4 : Les sociétés d'épargne forestière<a id=118></a>
 
 ###### Article L214-85
 
@@ -12008,7 +12331,7 @@ opérations normales de gestion et ne sont pas soumises à l'autorisation de l'a
 
 - par dérogation au premier alinéa de l'article L. 214-80, une société d'épargne forestière peut également fusionner avec un
 groupement forestier gérant un patrimoine dont les forêts sont soumises à des plans simples de gestion agréés ; la fusion est
-alors soumise à l'agrément de la Commission des opérations de bourse.
+alors soumise à l'agrément de l'Autorité des marchés financiers.
 
 En outre, l'assemblée générale des associés approuve les plans simples de gestion des bois et forêts détenus par la société.
 
@@ -12018,9 +12341,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-602 2001-07-09 art. 9 V 1° et 3° JORF 11 juillet 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cité par_:
 
@@ -12060,15 +12383,15 @@ _Cité par_:
   - Code monétaire et financier - art. L752-6 (M)
 
 
-### Titre II : Les produits d'épargne<a id=118></a>
+### Titre II : Les produits d'épargne<a id=119></a>
 
-#### Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique<a id=119></a>
+#### Chapitre Ier : Produits d'épargne générale à régime fiscal spécifique<a id=120></a>
 
-##### Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel<a id=120></a>
+##### Section 1 : Le livret de caisse d'épargne et le compte spécial sur livret du crédit mutuel<a id=121></a>
 
-##### Sous-section 1 : Dispositions communes<a id=121></a>
+##### Sous-section 1 : Dispositions communes<a id=122></a>
 
-##### Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel.<a id=122></a>
+##### Paragraphe 1 : Dispositions communes aux caisses d'épargne et de prévoyance, à la Caisse nationale d'épargne et au Crédit mutuel.<a id=123></a>
 
 ###### Article L221-1
 
@@ -12117,7 +12440,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne.<a id=123></a>
+##### Paragraphe 2 : Dispositions communes aux caisses d'épargne et de prévoyance et à la Caisse nationale d'épargne.<a id=124></a>
 
 ###### Article L221-2
 
@@ -12306,7 +12629,7 @@ _Anciens textes_:
   - Code des caisses d'épargne - art. 26 (Ab)
 
 
-##### Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.<a id=124></a>
+##### Sous-section 2 : Dispositions spécifiques aux caisses d'épargne et de prévoyance.<a id=125></a>
 
 ###### Article L221-7
 
@@ -12378,7 +12701,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-6-1 (VD)
 
 
-##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.<a id=125></a>
+##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.<a id=126></a>
 
 ###### Article L221-9
 
@@ -12418,7 +12741,7 @@ _Anciens textes_:
   - Code des caisses d'épargne - art. 27 (M)
 
 
-##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.<a id=126></a>
+##### Sous-section 4 : Dispositions spécifiques au Crédit mutuel.<a id=127></a>
 
 ###### Article L221-11
 
@@ -12467,9 +12790,9 @@ _Cité par_:
   - Code monétaire et financier - art. L512-63 (V)
 
 
-##### Section 2 : L'épargne populaire<a id=127></a>
+##### Section 2 : L'épargne populaire<a id=128></a>
 
-##### Sous-section 1 : Le compte sur livret d'épargne populaire<a id=128></a>
+##### Sous-section 1 : Le compte sur livret d'épargne populaire<a id=129></a>
 
 ###### Article L221-13
 
@@ -12602,7 +12925,7 @@ _Cité par_:
   - Code monétaire et financier - art. R221-48 (Ab)
 
 
-##### Sous-section 2 : Le plan d'épargne populaire<a id=129></a>
+##### Sous-section 2 : Le plan d'épargne populaire<a id=130></a>
 
 ###### Article L221-18
 
@@ -12766,7 +13089,7 @@ _Cite_:
   - Code rural ancien - art. 1050 (Ab)
 
 
-##### Section 3 : Le livret jeune<a id=130></a>
+##### Section 3 : Le livret jeune<a id=131></a>
 
 ###### Article L221-24
 
@@ -12838,7 +13161,7 @@ _Cité par_:
   - Code monétaire et financier - art. R221-81 (V)
 
 
-##### Section 4 : Le compte pour le développement industriel.<a id=131></a>
+##### Section 4 : Le compte pour le développement industriel.<a id=132></a>
 
 ###### Article L221-27
 
@@ -12905,7 +13228,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : L'épargne-logement<a id=132></a>
+##### Section 5 : L'épargne-logement<a id=133></a>
 
 ###### Article L221-29
 
@@ -12954,9 +13277,9 @@ _Anciens textes_:
   - Code de la construction et de l'habitation L315-1 à L315-3
 
 
-#### Chapitre II : Produits d'épargne salariale<a id=133></a>
+#### Chapitre II : Produits d'épargne salariale<a id=134></a>
 
-##### Section unique : Le plan d'épargne d'entreprise<a id=134></a>
+##### Section unique : Le plan d'épargne d'entreprise<a id=135></a>
 
 ###### Article L222-1
 
@@ -12977,7 +13300,7 @@ _Cite_:
   - Code du travail L443-1 à L443-8
 
 
-#### Chapitre III : Bons de caisse<a id=135></a>
+#### Chapitre III : Bons de caisse<a id=136></a>
 
 ###### Article L223-1
 
@@ -13088,18 +13411,18 @@ _Anciens textes_:
   - Décret-loi du 25 août 1937 - art. 6 (Ab)
 
 
-### Titre III : Dispositions pénales<a id=136></a>
+### Titre III : Dispositions pénales<a id=137></a>
 
-#### Chapitre Ier : Infractions relatives aux instruments financiers<a id=137></a>
+#### Chapitre Ier : Infractions relatives aux instruments financiers<a id=138></a>
 
-##### Section 1 : Infractions relatives aux titres<a id=138></a>
+##### Section 1 : Infractions relatives aux titres<a id=139></a>
 
-##### Sous-section 1 : Obligations.<a id=139></a>
+##### Sous-section 1 : Obligations.<a id=140></a>
 
 ###### Article L231-1
 
-Les infractions relatives aux obligations sont prévues et sanctionnées dans les conditions fixées par les articles L. 245-7,
-L. 245-9 et L. 245-10 du code de commerce.
+Les infractions relatives aux obligations sont prévues et sanctionnées dans les conditions fixées par les articles L. 245-7
+et L. 245-9 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -13107,15 +13430,18 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Cite_:
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 134 () JORF 2 août 2003
+
+_Anciens textes_:
 
   - Code de commerce. - art. L245-10 (M)
   - Code de commerce. - art. L245-7 (Ab)
   - Code de commerce. - art. L245-9 (M)
 
-_Anciens textes_:
+_Cite_:
 
-  - Code de commerce. - art. L245-10 (M)
   - Code de commerce. - art. L245-7 (Ab)
   - Code de commerce. - art. L245-9 (M)
 
@@ -13128,7 +13454,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-4 (V)
 
 
-##### Sous-section 2 : Titres émis par des associations.<a id=140></a>
+##### Sous-section 2 : Titres émis par des associations.<a id=141></a>
 
 ###### Article L231-2
 
@@ -13165,9 +13491,9 @@ _Cite_:
   - Code monétaire et financier - art. L213-8
 
 
-##### Section 2 : Infractions relatives aux placements collectifs<a id=141></a>
+##### Section 2 : Infractions relatives aux placements collectifs<a id=142></a>
 
-##### Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières.<a id=142></a>
+##### Sous-section 1 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières.<a id=143></a>
 
 ###### Article L231-3
 
@@ -13337,19 +13663,16 @@ _Cite_:
 
 ###### Article L231-7
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 750000 euros le fait, pour les promoteurs d'un fonds commun de
-créances, de procéder au placement de parts de ce fonds sans agrément de la société de gestion du fonds ou sans visa de la
-commission des opérations de bourse.
+Est puni d'un emprisonnement de deux ans et d'une amende de 750 000 euros le fait, pour les promoteurs d'un fonds commun de
+créances, de procéder au placement de parts de ce fonds sans agrément de la société de gestion du fonds ou sans visa de
+l'Autorité des marchés financiers.
 
 **Nota:**
 
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+NOTA : Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois
+suivant celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie
+portant homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de
+placement collectif immobilier. L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -13357,21 +13680,21 @@ _Anciens textes_:
 
   - Loi n°88-1201 du 23 décembre 1988 - art. 39 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cité par_:
 
   - Code monétaire et financier - art. L231-6 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier<a id=143></a>
+##### Sous-section 2 : Dispositions relatives aux sociétés civiles de placement immobilier<a id=144></a>
 
 ###### Article L231-8
 
@@ -13752,19 +14075,9 @@ _Codifié par_:
 
 ###### Article L231-21
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 750000 euros le fait, pour les dirigeants de la société de
-gestion, d'exercer leurs fonctions sans que celle-ci ait obtenu l'agrément de la commission des opérations de bourse
-conformément aux dispositions de l'article L. 214-67, ou après le retrait de cet agrément.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+Est puni d'un emprisonnement de deux ans et d'une amende de 750 000 euros le fait, pour les dirigeants de la société de
+gestion, d'exercer leurs fonctions sans que celle-ci ait obtenu l'agrément de l'Autorité des marchés financiers conformément
+aux dispositions de l'article L. 214-67, ou après le retrait de cet agrément.
 
 **Liens relatifs à cet article**
 
@@ -13772,13 +14085,13 @@ _Anciens textes_:
 
   - Loi n°70-1300 du 31 décembre 1970 - art. 34-1 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 02 août 2003
 
 _Cite_:
 
@@ -13789,9 +14102,9 @@ _Cité par_:
   - Code monétaire et financier - art. L752-6 (M)
 
 
-#### Chapitre II : Infractions relatives aux produits d'épargne<a id=144></a>
+#### Chapitre II : Infractions relatives aux produits d'épargne<a id=145></a>
 
-##### Section unique : Bons de caisse<a id=145></a>
+##### Section unique : Bons de caisse<a id=146></a>
 
 ###### Article L232-1
 
@@ -13869,13 +14182,13 @@ _Anciens textes_:
   - Décret-loi du 25 août 1937 - art. 5 (Ab)
 
 
-## Livre III : Les services<a id=146></a>
+## Livre III : Les services<a id=147></a>
 
-### Titre Ier : Les opérations de banque<a id=147></a>
+### Titre Ier : Les opérations de banque<a id=148></a>
 
-#### Chapitre Ier : Dispositions générales<a id=148></a>
+#### Chapitre Ier : Dispositions générales<a id=149></a>
 
-##### Section 1 : Définition des opérations de banque<a id=149></a>
+##### Section 1 : Définition des opérations de banque<a id=150></a>
 
 ###### Article L311-1
 
@@ -13922,7 +14235,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-1 (VD)
 
 
-##### Section 2 : Définition des opérations connexes aux opérations de banque<a id=150></a>
+##### Section 2 : Définition des opérations connexes aux opérations de banque<a id=151></a>
 
 ###### Article L311-2
 
@@ -13982,7 +14295,7 @@ _Cite_:
   - Code monétaire et financier - art. L532-1 (M)
 
 
-##### Section 3 : Définition des moyens de paiement.<a id=151></a>
+##### Section 3 : Définition des moyens de paiement.<a id=152></a>
 
 ###### Article L311-3
 
@@ -14007,7 +14320,7 @@ _Cité par_:
   - Code monétaire et financier - art. L712-5 (VD)
 
 
-##### Section 4 : Compensation.<a id=152></a>
+##### Section 4 : Compensation.<a id=153></a>
 
 ###### Article L311-4
 
@@ -14049,11 +14362,11 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-#### Chapitre II : Comptes et dépôts<a id=153></a>
+#### Chapitre II : Comptes et dépôts<a id=154></a>
 
-##### Section 1 : Droit au compte et relations avec le client<a id=154></a>
+##### Section 1 : Droit au compte et relations avec le client<a id=155></a>
 
-##### Sous-section 2 : Relations des établissements de crédit avec le client<a id=155></a>
+##### Sous-section 2 : Relations des établissements de crédit avec le client<a id=156></a>
 
 ###### Article L312-1
 
@@ -14148,16 +14461,23 @@ crédit. Les principales stipulations de cette convention de compte de dépôt, 
 d'ouverture, de fonctionnement et de clôture, sont précisées par un arrêté du ministre chargé de l'économie et des finances
 après avis du comité consultatif institué à l'article L. 614-6.
 
-Tout projet de modification du tarif des produits et services faisant l'objet de la convention doit être communiqué par écrit
-au client trois mois avant la date d'application envisagée. L'absence de contestation par le client dans un délai de deux
-mois après cette communication vaut acceptation du nouveau tarif.
+Tout projet de modification du tarif des produits et services faisant l'objet d'une convention de compte de dépôt doit être
+communiqué par écrit au client trois mois avant la date d'application envisagée. L'absence de contestation par le client dans
+un délai de deux mois après cette communication vaut acceptation du nouveau tarif.
 
-Aucun frais ne peut être prévu par la convention mentionnée au premier alinéa ni mise à la charge du client au titre de la
+Aucun frais ne peut être prévu par la convention mentionnée à l'alinéa précédent ni mise à la charge du client au titre de la
 clôture ou du transfert d'un compte opéré à la demande d'un client qui conteste une proposition de modification substantielle
 de cette convention.
 
 II. - Sauf si la convention de compte en dispose autrement, toutes les opérations en crédit et en débit d'un compte de dépôt
 doivent être portées à la connaissance du client à intervalle régulier n'excédant pas un mois.
+
+**Nota:**
+
+NOTA : Loi n° 2003-706 du 1er août 2003 article 77 I :
+
+"L'application du premier alinéa du I de l'article L. 312-1-1 du code monétaire et financier est suspendue pour une période
+de dix-huit mois à compter de la promulgation de la présente loi" (JO du 2 août 2003).
 
 **Liens relatifs à cet article**
 
@@ -14167,16 +14487,15 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 13 III 1°
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
+  - Loi n°2003-706 du 1 août 2003 - art. 77 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -14226,10 +14545,6 @@ _Cité par_:
   - Code monétaire et financier - art. L763-7-3 (V)
   - Code monétaire et financier - art. L763-7-4 (V)
   - Code monétaire et financier - art. R312-1-2 (VD)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L614-6 (Ab)
 
 
 ###### Article L312-1-2
@@ -14315,7 +14630,7 @@ Le compte rendu annuel d'activité établi par chaque médiateur est transmis au
 président du comité consultatif institué à l'article L. 614-6.
 
 II. - Il est institué un comité de la médiation bancaire chargé d'examiner les rapports des médiateurs et d'établir chaque
-année un bilan de la médiation bancaire qu'il transmet au Conseil national du crédit et du titre. Ce comité est également
+année un bilan de la médiation bancaire qu'il transmet au Comité consultatif du secteur financier. Ce comité est également
 chargé de préciser les modalités d'exercice de l'activité des médiateurs, en veillant notamment à garantir leur indépendance.
 Il est informé des modalités et du montant des indemnités et dédommagements versés aux médiateurs par les établissements de
 crédit. Ce comité peut adresser des recommandations aux établissements de crédit et aux médiateurs.
@@ -14332,10 +14647,6 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
-
-  - Loi n°2001-1168 2001-12-11 art. 13 I 1° et 2° JORF 12 décembre 2001 en vigueur le 12 décembre 2002
-
 **Liens**:
 
   - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 13 III : champ d'application
@@ -14344,6 +14655,10 @@ _Créé par_:
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -14376,15 +14691,17 @@ mentionnés à l'article L. 511-1 ainsi qu'aux organismes mentionnés à l'artic
 
 Leurs conditions d'application sont précisées par un décret en Conseil d'Etat.
 
+Pour les comptes ouverts au 28 février 2003, les établissements de crédit qui établissent une convention de compte de dépôt à
+la demande d'un de leurs clients l'informent des conditions dans lesquelles la convention peut être signée.
+
+Pour ces comptes, à défaut de signature, l'absence de contestation par le client dans un délai de trois mois après réception
+d'un projet de convention vaut acceptation de la convention de compte de dépôt.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Créé par_:
-
-  - Loi n°2001-1168 2001-12-11 art. 13 I 1° et 2° JORF 12 décembre 2001 en vigueur le 12 décembre 2002
 
 **Liens**:
 
@@ -14393,6 +14710,10 @@ _Créé par_:
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 77 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -14407,9 +14728,9 @@ _Cite_:
   - Code monétaire et financier L312-1-1 à L312-1-3, L511-1, L518-1
 
 
-##### Section 2 : Fonds reçus du public<a id=156></a>
+##### Section 2 : Fonds reçus du public<a id=157></a>
 
-##### Sous-section 1 : Définition.<a id=157></a>
+##### Sous-section 1 : Définition.<a id=158></a>
 
 ###### Article L312-2
 
@@ -14457,16 +14778,15 @@ _Cité par_:
   - Code monétaire et financier - art. R312-7 (T)
 
 
-##### Sous-section 2 : Rémunération.<a id=158></a>
+##### Sous-section 2 : Rémunération.<a id=159></a>
 
 ###### Article L312-3
 
 Nonobstant toutes dispositions contraires, il est interdit à tout établissement de crédit qui reçoit du public des fonds en
-compte à vue ou à moins de cinq ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération supérieure à
-celle fixée par règlement du comité de la réglementation bancaire et financière ou par le ministre chargé de l'économie. Il
-lui est également interdit d'ouvrir ou de maintenir ouverts dans des conditions irrégulières des comptes bénéficiant d'une
-aide publique, notamment sous forme d'exonération fiscale, ou d'accepter sur ces comptes des sommes excédant les plafonds
-ainsi autorisés.
+compte à vue à moins de cinq ans, et par quelque moyen que ce soit, de verser sur ces fonds une rémunération supérieure à
+celle fixée par le ministre chargé de l'économie. Il lui est également interdit d'ouvrir ou de maintenir ouverts dans des
+conditions irrégulières des comptes bénéficiant d'une aide publique, notamment sous forme d'exonération fiscale, ou
+d'accepter sur ces comptes des sommes excédant les plafonds ainsi autorisés.
 
 Sans préjudice des sanctions disciplinaires qui peuvent être infligées par la commission bancaire, les infractions aux
 dispositions du présent article sont punies d'une amende fiscale dont le taux est égal au montant des intérêts payés, sans
@@ -14484,14 +14804,14 @@ _Anciens textes_:
 
   - Loi n°82-357 du 27 avril 1982 - art. 7 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -14504,8 +14824,12 @@ _Cité par_:
   - Code monétaire et financier - art. L753-2 (V)
   - Code monétaire et financier - art. L763-2 (V)
 
+_Abrogé par_:
 
-##### Section 3 : Garantie des déposants<a id=159></a>
+  - Loi n°2007-1774 du 17 décembre 2007 - art. 7
+
+
+##### Section 3 : Garantie des déposants<a id=160></a>
 
 ###### Article L312-4
 
@@ -14515,9 +14839,9 @@ déposants en cas d'indisponibilité de leurs dépôts ou autres fonds remboursa
 Sont exclus de cette indemnisation les dépôts ou autres fonds des établissements de crédit, des entreprises d'assurance, des
 organismes de placement collectif, des organismes de retraite, des entreprises d'investissement et des personnes mentionnées
 à l'article L. 518-1 ou au 1 de l'article L. 312-2. Peuvent être exclus de l'indemnisation, dans des conditions prévues par
-un règlement du comité de la réglementation bancaire et financière, des dépôts ou autres fonds en raison soit des
-informations sur la situation de l'entreprise ou des avantages particuliers dont a pu bénéficier le déposant concerné, soit
-de la nature spécifique de certains fonds ou dépôts, soit de l'origine illicite des fonds concernés.
+un arrêté du ministre chargé de l'économie, des dépôts ou autres fonds en raison soit des informations sur la situation de
+l'entreprise ou des avantages particuliers dont a pu bénéficier le déposant concerné, soit de la nature spécifique de
+certains fonds ou dépôts, soit de l'origine illicite des fonds concernés.
 
 **Liens relatifs à cet article**
 
@@ -14530,6 +14854,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -14685,23 +15013,23 @@ _Cité par_:
 
 ###### Article L312-7
 
-I. - Les établissements adhérant au fonds de garantie lui procurent les ressources financières nécessaires à
-l'accomplissement de ses missions, dans des conditions fixées par le comité de la réglementation bancaire et financière. Le
-fonds de garantie peut en outre émettre des certificats d'association, nominatifs et non négociables, que souscrivent les
-entreprises adhérentes lors de leur adhésion.
+I.-Les établissements adhérant au fonds de garantie lui procurent les ressources financières nécessaires à l'accomplissement
+de ses missions, dans des conditions fixées par le ministre chargé de l'économie. Le fonds de garantie peut en outre émettre
+des certificats d'association, nominatifs et non négociables, que souscrivent les entreprises adhérentes lors de leur
+adhésion. 
 
-II. - Lorsque les pertes subies par le fonds de garantie ne peuvent être couvertes par les cotisations déjà appelées, les
+II.-Lorsque les pertes subies par le fonds de garantie ne peuvent être couvertes par les cotisations déjà appelées, les
 certificats d'association mentionnés au I ne peuvent plus faire l'objet d'une rémunération. Le nominal de chacun de ces
 certificats est alors réduit dans la proportion nécessaire pour absorber les pertes. Ces certificats d'association sont
-remboursables uniquement en cas de retrait de l'agrément de l'adhérent dans des conditions fixées par le comité de la
-réglementation bancaire et financière. En cas de radiation d'un établissement adhérent, son certificat d'association est
-annulé et les sommes versées demeurent acquises au fonds de garantie.
+remboursables uniquement en cas de retrait de l'agrément de l'adhérent dans des conditions fixées par le ministre chargé de
+l'économie. En cas de radiation d'un établissement adhérent, son certificat d'association est annulé et les sommes versées
+demeurent acquises au fonds de garantie. 
 
-III. - Les cotisations dues par les établissements de crédit affiliés à un des organes centraux mentionnés à l'article L.
-511-30 sont directement versées au fonds de garantie par cet organe central.
+III.-Les cotisations dues par les établissements de crédit affiliés à un des organes centraux mentionnés à l'article L.
+511-30 sont directement versées au fonds de garantie par cet organe central. 
 
-IV. - Le fonds de garantie peut emprunter auprès de ses adhérents. Il peut à ces fins constituer ou demander à ses adhérents
-de constituer pour son compte les garanties requises conventionnellement.
+IV.-Le fonds de garantie peut emprunter auprès de ses adhérents. Il peut à ces fins constituer ou demander à ses adhérents de
+constituer pour son compte les garanties requises conventionnellement.
 
 **Liens relatifs à cet article**
 
@@ -14713,6 +15041,10 @@ _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -14740,7 +15072,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L511-30 (M)
+  - Code monétaire et financier - art. L511-30 (V)
 
 
 ###### Article L312-8
@@ -14805,8 +15137,7 @@ _Cité par_:
 
 Le conseil de surveillance exerce le contrôle permanent de la gestion du fonds de garantie des dépôts. Il élabore le
 règlement intérieur du fonds de garantie et les règles d'emploi de ses fonds, qui sont homologués par un arrêté du ministre
-chargé de l'économie après approbation par le comité de la réglementation bancaire et financière. Il élit en son sein son
-président.
+chargé de l'économie. Il élit en son sein son président.
 
 Le conseil de surveillance approuve les comptes et nomme les commissaires aux comptes. A la fin de chaque exercice, il est
 remis au ministre chargé de l'économie un exemplaire des comptes approuvés. Le fonds de garantie est soumis au contrôle de
@@ -14832,6 +15163,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -14904,9 +15239,9 @@ _Codifié par_:
 
 ###### Article L312-13
 
-Le ministre chargé de l'économie, le gouverneur de la Banque de France, président de la commission bancaire, le président du
-conseil des marchés financiers ou leur représentant, peuvent, à leur demande, être entendus par le conseil de surveillance et
-le directoire.
+Le ministre chargé de l'économie, le gouverneur de la Banque de France, président de la commission bancaire, le président de
+l'Autorité des marchés financiers ou leur représentant, peuvent, à leur demande, être entendus par le conseil de surveillance
+et le directoire.
 
 **Liens relatifs à cet article**
 
@@ -14917,6 +15252,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 
 ###### Article L312-14
@@ -14976,7 +15315,7 @@ _Cite_:
 
 ###### Article L312-16
 
-Un règlement du comité de la réglementation bancaire et financière précise :
+Un arrêté du ministre chargé de l'économie précise :
 
 1. Le plafond d'indemnisation par déposant, les modalités et délais d'indemnisation ainsi que les règles relatives à
 l'information de la clientèle ;
@@ -14998,7 +15337,7 @@ ratio européen de solvabilité, reflétant les risques objectifs que l'adhéren
 
 7. Les conditions et les modalités de nomination des membres du conseil de surveillance, ainsi que la durée de leur mandat.
 
-Ce règlement ne peut être modifié qu'après avis du président du directoire du fonds de garantie des dépôts.
+Cet arrêté ne peut être modifié qu'après avis du président du directoire du fonds de garantie des dépôts.
 
 **Liens relatifs à cet article**
 
@@ -15009,6 +15348,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -15042,8 +15385,7 @@ _Cité par_:
 
 Aussi longtemps qu'elles ne sont pas couvertes par un système de garantie de leur Etat d'origine, les succursales
 d'établissements de crédit ayant leur siège dans un Etat membre de la Communauté européenne autre que la France sont tenues
-d'adhérer à un système de garantie en France dans des conditions fixées par le comité de la réglementation bancaire et
-financière.
+d'adhérer à un système de garantie en France dans des conditions fixées par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -15054,6 +15396,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -15073,9 +15419,9 @@ _Cité par_:
 
 ###### Article L312-18
 
-Un règlement du comité de la réglementation bancaire et financière pris après avis du Conseil des marchés financiers fixe les
-conditions dans lesquelles les établissements de crédit et les entreprises d'investissement agréés dans un autre Etat partie
-à l'accord sur l'Espace économique européen peuvent adhérer au fonds de garantie.
+Un arrêté du ministre chargé de l'économie pris après avis de L'Autorité des marchés financiers fixe les conditions dans
+lesquelles les établissements de crédit et les entreprises d'investissement agréés dans un autre Etat partie à l'accord sur
+l'Espace économique européen peuvent adhérer au fonds de garantie.
 
 **Liens relatifs à cet article**
 
@@ -15086,6 +15432,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -15103,11 +15453,11 @@ _Cité par_:
   - Code monétaire et financier - art. L763-8 (MMN)
 
 
-#### Chapitre III : Crédits<a id=160></a>
+#### Chapitre III : Crédits<a id=161></a>
 
-##### Section 1 : Dispositions générales<a id=161></a>
+##### Section 1 : Dispositions générales<a id=162></a>
 
-##### Sous-section 1 : Définition<a id=162></a>
+##### Sous-section 1 : Définition<a id=163></a>
 
 ###### Article L313-1
 
@@ -15147,9 +15497,9 @@ _Cité par_:
   - Code monétaire et financier - art. R561-13 (V)
 
 
-##### Sous-section 2 : Taux d'intérêt<a id=163></a>
+##### Sous-section 2 : Taux d'intérêt<a id=164></a>
 
-##### Paragraphe 1 : Taux de l'intérêt légal<a id=164></a>
+##### Paragraphe 1 : Taux de l'intérêt légal<a id=165></a>
 
 ###### Article L313-2
 
@@ -15232,7 +15582,7 @@ _Cité par_:
   - Code monétaire et financier - art. D313-2 (M)
 
 
-##### Paragraphe 2 : Taux effectif global<a id=165></a>
+##### Paragraphe 2 : Taux effectif global<a id=166></a>
 
 ###### Article L313-4
 
@@ -15270,7 +15620,49 @@ _Anciens textes_:
   - Code de la consommation - art. L313-1 (M)
 
 
-##### Sous-section 3 : Fichier des incidents de paiement caractérisés<a id=166></a>
+##### Paragraphe 3 : Taux de l'usure<a id=167></a>
+
+###### Article L313-5
+
+La définition du taux de l'usure est fixée par l'article L. 313-3 du code de la consommation, ci-après reproduit :
+
+Art. L. 313-3. - Constitue un prêt usuraire tout prêt conventionnel consenti à un taux effectif global qui excède, au moment
+où il est consenti, de plus du tiers, le taux effectif moyen pratiqué au cours du trimestre précédent par les établissements
+de crédit pour des opérations de même nature comportant des risques analogues, telles que définies par l'autorité
+administrative après avis du Comité consultatif du secteur financier.
+
+Les crédits accordés à l'occasion de ventes à tempérament sont, pour l'application de la présente section, assimilés à des
+prêts conventionnels et considérés comme usuraires dans les mêmes conditions que les prêts d'argent ayant le même objet.
+
+Les conditions de calcul et de publicité des taux effectifs moyens visés au premier alinéa sont fixées par la voie
+réglementaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 aôut 2003
+
+_Cité par_:
+
+  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 3 (V)
+  - Décret n°2014-444 du 29 avril 2014 - art. 6 (V)
+  - Arrêté du 22 juillet 2015 - art. 4 (V)
+
+_Anciens textes_:
+
+  - Code de la consommation - art. L313-3 (M)
+
+_Cite_:
+
+  - Code de la consommation - art. L313-3 (M)
+
+
+##### Sous-section 3 : Fichier des incidents de paiement caractérisés<a id=168></a>
 
 ###### Article L313-6
 
@@ -15340,9 +15732,9 @@ _Anciens textes_:
   - Code de la consommation - art. L333-5 (M)
 
 
-##### Section 2 : Catégories de crédits<a id=167></a>
+##### Section 2 : Catégories de crédits<a id=169></a>
 
-##### Sous-section 1 : Crédit-bail.<a id=168></a>
+##### Sous-section 1 : Crédit-bail.<a id=170></a>
 
 ###### Article L313-7
 
@@ -15533,9 +15925,9 @@ _Cite_:
   - Code monétaire et financier - art. L313-10 (M)
 
 
-##### Sous-section 2 : Crédits aux entreprises<a id=169></a>
+##### Sous-section 2 : Crédits aux entreprises<a id=171></a>
 
-##### Paragraphe 1 : Crédit d'exploitation.<a id=170></a>
+##### Paragraphe 1 : Crédit d'exploitation.<a id=172></a>
 
 ###### Article L313-12
 
@@ -15570,7 +15962,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Paragraphe 2 : Prêts participatifs.<a id=171></a>
+##### Paragraphe 2 : Prêts participatifs.<a id=173></a>
 
 ###### Article L313-13
 
@@ -15609,7 +16001,7 @@ _Cite_:
   - Code monétaire et financier L313-18 à L313-20, L313-14 à L313-20
 
 
-##### Sous-paragraphe 1 : Régime général.<a id=172></a>
+##### Sous-paragraphe 1 : Régime général.<a id=174></a>
 
 ###### Article L313-14
 
@@ -15698,7 +16090,7 @@ _Cite_:
   - Code de la consommation L313-1 à L313-6
 
 
-##### Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat.<a id=173></a>
+##### Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat.<a id=175></a>
 
 ###### Article L313-18
 
@@ -15763,7 +16155,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels.<a id=174></a>
+##### Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels.<a id=176></a>
 
 ###### Article L313-21
 
@@ -15805,7 +16197,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Paragraphe 4 : Information des cautions.<a id=175></a>
+##### Paragraphe 4 : Information des cautions.<a id=177></a>
 
 ###### Article L313-22
 
@@ -15840,9 +16232,9 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Section 3 : Procédures de mobilisation des créances professionnelles<a id=176></a>
+##### Section 3 : Procédures de mobilisation des créances professionnelles<a id=178></a>
 
-##### Sous-section 1 : Cession et nantissement des créances professionnelles<a id=177></a>
+##### Sous-section 1 : Cession et nantissement des créances professionnelles<a id=179></a>
 
 ###### Article L313-23
 
@@ -16019,13 +16411,15 @@ _Cité par_:
 
 ###### Article L313-27
 
-La cession ou le nantissement prend effet entre les parties et devient opposable aux tiers à la date portée sur le bordereau.
+La cession ou le nantissement prend effet entre les parties et devient opposable aux tiers à la date apposée sur le bordereau
+lors de sa remise, quelle que soit la date de naissance, d'échéance ou d'exigibilité des créances, sans qu'il soit besoin
+d'autre formalité, et ce quelle que soit la loi applicable aux créances et la loi du pays de résidence des débiteurs.
 
 A compter de cette date, le client de l'établissement de crédit bénéficiaire du bordereau ne peut, sans l'accord de cet
 établissement, modifier l'étendue des droits attachés aux créances représentées par ce bordereau.
 
-Sauf convention contraire, la remise du bordereau entraîne, de plein droit, le transfert des sûretés garantissant chaque
-créance.
+La remise du bordereau entraîne de plein droit le transfert des sûretés, des garanties et des accessoires attachés à chaque
+créance, y compris les sûretés hypothécaires, et son opposabilité aux tiers sans qu'il soit besoin d'autre formalité.
 
 En cas de contestation de la date portée sur le bordereau, l'établissement de crédit rapporte, par tous moyens, l'exactitude
 de celle-ci.
@@ -16040,6 +16434,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 67 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -16111,9 +16509,9 @@ _Cité par_:
   - Code monétaire et financier - art. R313-19 (V)
 
 
-##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti<a id=178></a>
+##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti<a id=180></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=179></a>
+##### Paragraphe 1 : Dispositions générales<a id=181></a>
 
 ###### Article L313-30
 
@@ -16259,7 +16657,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-23 (V)
 
 
-##### Paragraphe 2 : Mobilisation des crédits à moyen terme<a id=180></a>
+##### Paragraphe 2 : Mobilisation des crédits à moyen terme<a id=182></a>
 
 ###### Article L313-36
 
@@ -16409,7 +16807,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-38 (V)
 
 
-##### Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées<a id=181></a>
+##### Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées<a id=183></a>
 
 ###### Article L313-42
 
@@ -16697,7 +17095,7 @@ _Cite_:
   - Code monétaire et financier L313-42 à L313-48
 
 
-##### Section 4 : Garantie des cautions<a id=182></a>
+##### Section 4 : Garantie des cautions<a id=184></a>
 
 ###### Article L313-50
 
@@ -16766,7 +17164,7 @@ _Cite_:
 
 ###### Article L313-51
 
-Un règlement du comité de la réglementation bancaire et financière précise notamment :
+Un arrêté du ministre chargé de l'économie précise notamment :
 
 1. Les modalités d'indemnisation ;
 
@@ -16799,10 +17197,15 @@ chirographaires admis à cette répartition.
 _Anciens textes_:
 
   - Loi n°84-46 du 24 janvier 1984 - art. 52-16 (Ab)
+  - Loi n°99-532 1999-06-25 art. 72 II
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -16817,9 +17220,9 @@ _Cite_:
   - Code monétaire et financier - art. L511-30 (M)
 
 
-### Titre II : Les services d'investissement et leurs services connexes<a id=183></a>
+### Titre II : Les services d'investissement et leurs services connexes<a id=185></a>
 
-#### Chapitre Ier : Dispositions générales<a id=184></a>
+#### Chapitre Ier : Dispositions générales<a id=186></a>
 
 ###### Article L321-1
 
@@ -17000,10 +17403,13 @@ connexes ainsi que de services concernant les fusions et le rachat d'entreprises
 
 6. Les services de change lorsque ceux-ci sont liés à la fourniture de services d'investissement ;
 
-7. La location de coffres-forts.
+7. La location de coffres-forts ;
+
+8. La négociation de marchandises sous-jacentes aux instruments mentionnés au 4 du II de l'article L. 211-1, lorsqu'elle est
+liée à l'exécution de ces contrats.
 
 Les conditions dans lesquelles les opérations prévues au 2 sont effectuées par les entreprises d'investissement sont fixées
-par le comité de la réglementation bancaire et financière.
+par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -17090,6 +17496,15 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 VI 1°, art. 91 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L211-1 (M)
+
 
 ###### Article L321-3
 
@@ -17108,18 +17523,18 @@ _Cite_:
   - Code monétaire et financier - art. L321-2 (M)
 
 
-#### Chapitre II : Garantie des investisseurs<a id=185></a>
+#### Chapitre II : Garantie des investisseurs<a id=187></a>
 
 ###### Article L322-1
 
-Lorsqu'ils sont conservateurs d'instruments financiers confiés par des tiers, les établissements de crédit et les entreprises
-d'investissement agréés en France, les intermédiaires habilités par le conseil des marchés financiers au titre de la
-conservation et de l'administration des instruments financiers et les adhérents des chambres de compensation adhèrent à un
-mécanisme de garantie des titres. Ce mécanisme a pour objet d'indemniser les investisseurs en cas d'indisponibilité de leurs
-instruments financiers ainsi que de leurs dépôts en espèces lorsqu'ils sont liés à un service d'investissement, à la
-compensation ou à la conservation d'instruments financiers et qu'ils n'entrent pas dans le champ d'application du fonds de
-garantie des dépôts institué par l'article L. 312-4. Ne peuvent bénéficier du mécanisme de garantie les personnes et les
-fonds exclus de l'indemnisation par l'article L. 312-4.
+Les prestataires de services d'investissement, à l'exception des sociétés de gestion de portefeuille, agréés en France, les
+intermédiaires habilités par l'Autorité des marchés financiers au titre de la conservation et de l'administration des
+instruments financiers et les adhérents des chambres de compensation adhèrent à un mécanisme de garantie des titres. Ce
+mécanisme a pour objet d'indemniser les investisseurs en cas d'indisponibilité de leurs instruments financiers ainsi que de
+leurs dépôts en espèces lorsqu'ils sont liés à un service d'investissement, à la compensation ou à la conservation
+d'instruments financiers et qu'ils n'entrent pas dans le champ d'application du fonds de garantie des dépôts institué par
+l'article L. 312-4. Ne peuvent bénéficier du mécanisme de garantie les personnes et les fonds exclus de l'indemnisation par
+l'article L. 312-4.
 
 **Liens relatifs à cet article**
 
@@ -17133,6 +17548,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 69 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -17158,25 +17577,86 @@ _Cité par_:
   - Code monétaire et financier - art. R532-21 (VT)
 
 
+###### Article L322-2
+
+Sous réserve des dispositions ci-après, le fonds de garantie des dépôts gère le mécanisme de garantie des titres. Les
+articles L. 312-5 à L. 312-15, L. 312-17 et L. 312-18 s'appliquent à ce mécanisme. Pour l'application du premier alinéa de
+l'article L. 312-5, le mécanisme de garantie des titres est mis en oeuvre sur demande de la commission bancaire après avis de
+l'Autorité des marchés financiers, dès que celle-ci constate que l'un des établissements mentionnés à l'article L. 322-1
+n'est plus en mesure de restituer, immédiatement ou à terme rapproché, les instruments financiers ou les dépôts qu'il a reçus
+du public dans les conditions législatives, réglementaires ou contractuelles applicables à leur restitution. L'intervention
+du fonds de garantie entraîne alors la radiation de cet adhérent. Pour les personnes mentionnées à l'article L. 532-18 et aux
+articles L. 511-22 et L. 511-23, cette radiation s'entend comme se traduisant par une interdiction faite à cet adhérent de
+continuer à fournir ses services sur le territoire de la République française.
+
+Sur proposition de la commission bancaire et après avis de l'Autorité des marchés financiers, le mécanisme de garantie des
+titres peut également intervenir à titre préventif lorsque la situation d'un adhérent laisse craindre à terme une
+indisponibilité des dépôts ou instruments financiers qu'il a reçus du public, compte tenu du soutien dont il peut par
+ailleurs bénéficier. Lorsque le fonds de garantie accepte cette mise en oeuvre à titre préventif, il définit, après avis de
+la commission bancaire et de l'Autorité des marchés financiers, les conditions de cette intervention. Il peut en particulier
+subordonner celle-ci à la cession totale ou partielle de l'entreprise concernée ou à l'extinction de son activité, notamment
+par la cession de son fonds de commerce. Il peut également se porter acquéreur des actions d'un établissement adhérent.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°84-708 du 24 juillet 1984 - art. 12-4 (Ab)
+  - Code monétaire et financier - art. L612-46 (V)
+  - Code monétaire et financier - art. L613-50-7 (V)
+  - Code monétaire et financier - art. L733-8 (VD)
+  - Code monétaire et financier - art. L743-8 (V)
+  - Code monétaire et financier - art. L753-8 (V)
+  - Code monétaire et financier - art. L763-8 (V)
+  - Code monétaire et financier - art. R613-18 (V)
+
+_Anciens textes_:
+
+  - Loi n°96-597 du 2 juillet 1996 - art. 62-1 (Ab)
+
+_Créé par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L312-17 (M)
+  - Code monétaire et financier - art. L312-18 (M)
+  - Code monétaire et financier - art. L312-5 (M)
+  - Code monétaire et financier - art. L322-1 (M)
+  - Code monétaire et financier - art. L511-22 (M)
+  - Code monétaire et financier - art. L511-23 (M)
+  - Code monétaire et financier - art. L532-18 (M)
+  - Code monétaire et financier L312-5 à L312-15, L312-17, L312-18, L312-5, L322-1, L532-18, L511-22, L511-23
+
+
 ###### Article L322-3
 
-Un règlement du comité de la réglementation bancaire et financière, pris sur avis conforme du conseil des marchés financiers,
-détermine notamment :
+Un arrêté du ministre chargé de l'économie, pris sur avis conforme de L'Autorité des marchés financiers, détermine
+notamment : 
 
 1. Le plafond d'indemnisation par investisseur, les modalités et délais d'indemnisation ainsi que les règles relatives à
-l'information de la clientèle ;
+l'information de la clientèle ; 
 
 2. Les caractéristiques des certificats d'association, ainsi que les conditions de leur rémunération et de leur remboursement
-en cas de retrait de l'agrément, après imputation, le cas échéant, des pertes subies par le mécanisme ;
+en cas de retrait de l'agrément, après imputation, le cas échéant, des pertes subies par le mécanisme ; 
 
 3. Le montant global et la formule de répartition des cotisations annuelles dues par les établissements mentionnés à
 l'article L. 322-1 dont l'assiette est constituée de la valeur des dépôts et des instruments financiers qui sont couverts par
 la garantie en vertu de l'article L. 322-1 pondérée par les cotisations déjà versées ainsi que par des indicateurs de la
 situation financière de chacun des établissements concernés, reflétant les risques objectifs que l'adhérent fait courir au
-fonds ;
+fonds ; 
 
 4. Les conditions dans lesquelles une partie de ces contributions peut ne pas être versée au fonds de garantie moyennant la
-constitution de garanties appropriées.
+constitution de garanties appropriées. 
 
 Les cotisations dues par les établissements affiliés à un des organes centraux mentionnés à l'article L. 511-30 sont
 directement versées au fonds de garantie par cet organe central.
@@ -17191,6 +17671,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
@@ -17199,8 +17683,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L322-1 (M)
-  - Code monétaire et financier - art. L511-30 (M)
+  - Code monétaire et financier - art. L322-1 (V)
+  - Code monétaire et financier - art. L511-30 (V)
 
 
 ###### Article L322-4
@@ -17208,9 +17692,9 @@ _Cite_:
 Deux membres représentant les adhérents au mécanisme de garantie des titres qui ne sont pas établissements de crédit
 participent avec voix délibérative au conseil de surveillance du fonds de garantie des dépôts, sauf lorsque ce dernier prend
 des décisions concernant la garantie des dépôts. Dans ce cas, les contributions financières utilisées pour le décompte des
-voix en application de l'article L. 312-11 sont celles appelées au titre de l'article L. 322-3. Le règlement du comité de la
-réglementation bancaire et financière mentionné à l'article L. 322-3 détermine les conditions et les modalités de nomination
-de ces deux représentants ainsi que la durée de leur mandat.
+voix en application de l'article L. 312-11 sont celles appelées au titre de l'article L. 322-3. L'arrêté du ministre chargé
+de l'économie mentionné à l'article L. 322-3 détermine les conditions et les modalités de nomination de ces deux
+représentants ainsi que la durée de leur mandat.
 
 Les deux représentants mentionnés à l'alinéa précédent doivent remplir les conditions énoncées à l'article 22 de la loi n°
 96-597 du 2 juillet 1996 de modernisation des activités financières.
@@ -17231,6 +17715,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
@@ -17238,7 +17726,7 @@ _Cité par_:
   - Code monétaire et financier - art. L532-3 (V)
 
 
-### Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers.<a id=186></a>
+### Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers.<a id=188></a>
 
 ###### Article L330-1
 
@@ -17407,21 +17895,39 @@ _Cite_:
   - Code monétaire et financier - art. L431-4 (M)
 
 
-### Titre IV : Le démarchage et le colportage<a id=187></a>
+### Titre IV : Le démarchage et le colportage.(en vigueur jusqu'au 1er décembre 2005)<a id=189></a>
 
-#### Chapitre Ier : Démarchage concernant les opérations de banque.<a id=188></a>
+#### Chapitre Ier : Démarchage bancaire ou financier<a id=190></a>
+
+##### Section 1 : Définition.<a id=191></a>
 
 ###### Article L341-1
 
-Il est interdit à toute personne physique ou morale qui apporte son concours, à quelque titre et de quelque manière que ce
-soit, directement ou indirectement, à l'obtention ou à l'octroi d'un prêt d'argent, de percevoir une somme représentative de
-provision, de commission, de frais de recherche, de démarches, de constitution de dossier ou d'entremise quelconque, avant le
-versement effectif des fonds prêtés et avant la constatation de la réalisation de l'opération par un acte écrit dont une
-copie est remise à l'emprunteur.
+Constitue un acte de démarchage bancaire ou financier toute prise de contact non sollicitée, par quelque moyen que ce soit,
+avec une personne physique ou une personne morale déterminée, en vue d'obtenir, de sa part, un accord sur :
 
-Il lui est également interdit, avant la remise des fonds et de la copie de l'acte, de présenter à l'acceptation de
-l'emprunteur des lettres de change, ou de lui faire souscrire des billets à ordre, en recouvrement des frais d'entremise ou
-des commissions mentionnés à l'alinéa précédent.
+1° La réalisation par une des personnes mentionnées au 1° de l'article L. 341-3 d'une opération sur un des instruments
+financiers énumérés à l'article L. 211-1 ;
+
+2° La réalisation par une des personnes mentionnées au 1° de l'article L. 341-3 d'une opération de banque ou d'une opération
+connexe définies aux articles L. 311-1 et L. 311-2 ;
+
+3° La fourniture par une des personnes mentionnées au 1° de l'article L. 341-3 d'un service d'investissement ou d'un service
+connexe définis aux articles L. 321-1 et L. 321-2 ;
+
+4° La réalisation d'une opération sur biens divers mentionnée à l'article L. 550-1 ;
+
+5° La fourniture par une des personnes mentionnées au 3° de l'article L. 341-3 d'une prestation de conseil en investissement
+prévu au I de l'article L. 541-1.
+
+Constitue également un acte de démarchage bancaire ou financier, quelle que soit la personne à l'initiative de la démarche,
+le fait de se rendre physiquement au domicile des personnes, sur leur lieu de travail ou dans les lieux non destinés à la
+commercialisation de produits, instruments et services financiers, en vue des mêmes fins.
+
+L'activité de démarchage bancaire ou financier est exercée sans préjudice de l'application des dispositions particulières
+relatives à la prestation de services d'investissement, à la réalisation d'opérations de banque et à la réalisation
+d'opérations sur biens divers, ainsi que des dispositions de l'article 66-4 de la loi n° 71-1130 du 31 décembre 1971 portant
+réforme de certaines professions judiciaires et juridiques.
 
 **Liens relatifs à cet article**
 
@@ -17430,9 +17936,23 @@ _Anciens textes_:
   - Loi n°66-1010 1966-12-28 art. 8
   - Loi n°66-1010 du 28 décembre 1966 - art. 8 (Ab)
 
+_Cite_:
+
+  - Loi n°71-1130 du 31 décembre 1971 - art. 66-4 (V)
+  - Code monétaire et financier - art. L211-1 (M)
+  - Code monétaire et financier - art. L311-1 (V)
+  - Code monétaire et financier - art. L311-2 (M)
+  - Code monétaire et financier - art. L321-1 (M)
+  - Code monétaire et financier - art. L321-2 (M)
+  - Code monétaire et financier - art. L541-1 (M)
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -17478,69 +17998,28 @@ _Cité par_:
   - Code monétaire et financier - art. R519-2 (V)
 
 
-###### Article L341-2
-
-I. - Il est interdit à toute personne de se livrer au démarchage :
-
-1. En vue de conseiller ou d'offrir des prêts d'argent ;
-
-2. En vue de recueillir sous forme de dépôts ou autrement des fonds du public ;
-
-3. En vue de conseiller la souscription de plans d'épargne prévoyant, même pour partie, l'acquisition de parts de sociétés
-civiles immobilières ;
-
-4. En vue de proposer tous autres placements de fonds.
-
-Sont notamment considérées comme placement de fonds les opérations mentionnées à l'article L. 550-1.
-
-II. - Toutefois, n'est pas soumis à cette interdiction et reste régi par la réglementation qui lui est propre, le démarchage
-en vue de la souscription ou de l'achat de valeurs mobilières, de la souscription de contrats d'assurance ou de
-capitalisation, de l'achat de fonds de commerce ou d'immeubles, ou de parts de sociétés immobilières donnant droit à la
-jouissance d'un immeuble ou d'une fraction d'immeuble déterminée, ou en vue d'opérations sur les marchés à terme réglementés
-de marchandises.
-
-Se livre au démarchage au sens du présent article celui qui, à l'une des fins mentionnées à l'alinéa premier, se rend
-habituellement soit au domicile ou à la résidence des personnes, soit sur leurs lieux de travail, soit dans des lieux ouverts
-au public et non réservés à de telles fins.
-
-Sont également considérés comme actes de démarchage les offres de services faites ou les conseils donnés de façon habituelle
-en vue des mêmes opérations au domicile ou à la résidence des personnes, ou sur leurs lieux de travail, par l'envoi de
-lettres ou circulaires ou par communications téléphoniques.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (M)
-  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Cité par_:
-
-  - Décret n°2004-1019 du 28 septembre 2004 - art. 1 (Ab)
-  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 4 (V)
-  - Code monétaire et financier - art. D341-1 (V)
-  - Code monétaire et financier - art. L341-3 (M)
-  - Code monétaire et financier - art. L341-4 (M)
-  - Code monétaire et financier - art. L353-1 (M)
-  - Code monétaire et financier - art. L733-10 (Ab)
-  - Code monétaire et financier - art. L743-10 (M)
-  - Code monétaire et financier - art. L753-10 (M)
-  - Code monétaire et financier - art. L763-10 (VD)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L550-1 (M)
-
+##### Section 2 : Personnes habilitées à procéder au démarchage.<a id=192></a>
 
 ###### Article L341-3
 
-Toute propagande ou publicité faite sous quelque forme et par quelque moyen que ce soit à l'une des fins mentionnées au 1 du
-I de l'article L. 341-2 est réglementée dans des conditions fixées par décret, et doit notamment faire apparaître clairement
-le taux effectif global des prêts ou des emprunts, ainsi que les charges qui s'y trouvent comprises.
+Ne peuvent recourir ou se livrer à l'activité de démarchage bancaire ou financier, dans la limite des dispositions
+particulières qui les régissent, que :
+
+1° Les établissements de crédit définis à l'article L. 511-1, les organismes mentionnés à l'article L. 518-1, les entreprises
+d'investissement et les entreprises d'assurance définies respectivement à l'article L. 531-4 du présent code et à l'article
+L. 310-1 du code des assurances, les sociétés de capital-risque mentionnées à l'article 1er-1 de la loi n° 85-695 du 11
+juillet 1985 portant diverses dispositions d'ordre économique et financier, en vue de la souscription des titres qu'elles
+émettent, ainsi que les établissements et entreprises équivalents agréés dans un autre Etat membre de la Communauté
+européenne et habilités à intervenir sur le territoire français ;
+
+2° Les entreprises, dans le cadre des dispositifs relevant du titre IV du livre IV du code du travail qu'elles proposent à
+leurs bénéficiaires, ainsi que les personnes morales qu'elles mandatent pour proposer un de ces dispositifs conclus par
+l'entreprise. Dans ce cas, et sans préjudice des règles d'information et de commercialisation auxquelles elles sont soumises,
+seules sont applicables à ces activités de démarchage les dispositions de l'article L. 341-9, du 3° de l'article L. 353-2 et
+de l'article L. 353-4 du présent code ;
+
+3° Les conseillers en investissements financiers définis à l'article L. 541-1, exclusivement pour les opérations prévues au
+5° de l'article L. 341-1.
 
 **Liens relatifs à cet article**
 
@@ -17548,9 +18027,24 @@ _Anciens textes_:
 
   - Loi n°66-1010 du 28 décembre 1966 - art. 10 (Ab)
 
+_Cite_:
+
+  - Loi n°85-695 1985-07-11
+  - Code monétaire et financier - art. L341-9 (M)
+  - Code monétaire et financier - art. L353-4 (M)
+  - Code monétaire et financier - art. L511-1 (V)
+  - Code monétaire et financier - art. L518-1 (M)
+  - Code monétaire et financier - art. L531-4 (M)
+  - Code monétaire et financier - art. L541-1 (M)
+  - Code des assurances - art. L310-1 (M)
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -17592,20 +18086,722 @@ _Cité par_:
   - Code monétaire et financier - art. L763-10 (V)
 
 
+###### Article L341-5
+
+Toute personne physique ou morale mandatée pour exercer des activités de démarchage bancaire ou financier doit être en mesure
+de justifier à tout moment de l'existence d'un contrat d'assurance la couvrant contre les conséquences pécuniaires de sa
+responsabilité civile professionnelle, en cas de manquement à ses obligations professionnelles telles que définies au présent
+chapitre.
+
+Le niveau minimal des garanties qui doivent être apportées par l'assurance de responsabilité civile professionnelle est fixé
+par décret en fonction des conditions dans lesquelles l'activité est exercée, notamment de l'existence d'un seul ou de
+plusieurs mandats, et des produits et services faisant l'objet du démarchage.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-1010 du 28 décembre 1966 - art. 12 (M)
+  - Loi n°66-1010 du 28 décembre 1966 - art. 12 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1019 du 28 septembre 2004 - art. 3 (Ab)
+  - Code monétaire et financier - art. D341-3 (V)
+  - Code monétaire et financier - art. L341-6 (V)
+  - Code monétaire et financier - art. L353-2 (M)
+
+
+###### Article L341-6
+
+Les personnes mentionnées à l'article L. 341-3 et celles mandatées en application du I de l'article L. 341-4, selon
+respectivement leur nature ou la nature de leur mandant, font enregistrer en tant que démarcheurs, auprès de l'Autorité des
+marchés financiers, du Comité des établissements de crédit et des entreprises d'investissement et du Comité des entreprises
+d'assurance les personnes salariées, employées ou mandataires à qui elles confient le soin de se livrer pour leur compte à
+des actes de démarchage bancaire ou financier. Ces dispositions sont applicables aux conseillers en investissements
+financiers personnes physiques lorsqu'ils sont mandatés par l'une des personnes mentionnées à l'article L. 341-3 et par
+celles mandatées en application du I de l'article L. 341-4.
+
+Ne sont pas soumises aux dispositions de l'alinéa précédent les personnes morales mentionnées au 1° de l'article L. 341-3
+pour ceux de leurs salariés ou employés qui ne se livrent à aucun acte de démarchage impliquant un déplacement physique du
+démarcheur au domicile des personnes démarchées, sur leur lieu de travail ou dans les lieux non destinés à la
+commercialisation de produits, instruments et services financiers. Ces personnes morales doivent à tout moment être en mesure
+de justifier, à la demande des personnes démarchées, de la qualité de salarié ou d'employé des personnes qui se livrent pour
+leur compte à un acte de démarchage.
+
+Lorsqu'une personne physique, salariée, employée ou mandataire exerce une activité de démarchage pour le compte de plusieurs
+personnes morales mentionnées à l'article L. 341-3, chacune de ces personnes morales est tenue de faire enregistrer ce
+démarcheur auprès des autorités mentionnées au premier alinéa.
+
+L'autorité saisie aux fins d'enregistrement dans les conditions prévues aux premier et troisième alinéas attribue à chaque
+démarcheur un numéro d'enregistrement. Ce numéro d'enregistrement doit obligatoirement être communiqué par le démarcheur à
+toute personne démarchée et doit figurer sur tous les documents émanant des démarcheurs.
+
+Les personnes morales mentionnées à l'article L. 341-3 et les personnes mandatées en application du I de l'article L. 341-4
+sont tenues de s'assurer auprès de toutes les personnes salariées, employées ou mandataires à qui elles confient le soin de
+se livrer pour leur compte à des actes de démarchage bancaire ou financier, sur la base des informations que celles-ci
+fournissent, qu'elles remplissent les conditions exigées à l'article L. 341-9 et, s'agissant des mandataires, aux articles L.
+341-4 et L. 341-5.
+
+Les personnes morales ayant fait enregistrer en tant que démarcheurs les personnes salariées, employées ou mandataires à qui
+elles confient pour leur compte des activités de démarchage bancaire ou financier doivent, lorsque les personnes enregistrées
+ne remplissent plus les conditions d'enregistrement, en informer l'autorité auprès de laquelle l'enregistrement a été
+effectué.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-1010 du 28 décembre 1966 - art. 13 (M)
+  - Loi n°66-1010 du 28 décembre 1966 - art. 13 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1018 du 28 septembre 2004 - art. 1 (Ab)
+  - Décret n°2004-1018 du 28 septembre 2004 - art. 2 (V)
+  - Décret n°2004-1018 du 28 septembre 2004 - art. 3 (Ab)
+  - Décret n°2004-1019 du 28 septembre 2004 - art. 4 (Ab)
+  - Décret n°2004-1019 du 28 septembre 2004 - art. 8 (V)
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 63 (V)
+  - Loi n°2006-1770 du 30 décembre 2006 - art. 72 (V)
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
+  - Code monétaire et financier - art. D341-10 (An)
+  - Code monétaire et financier - art. D341-11 (V)
+  - Code monétaire et financier - art. D341-4 (V)
+  - Code monétaire et financier - art. L341-2 (V)
+  - Code monétaire et financier - art. L353-1 (V)
+  - Code monétaire et financier - art. L743-10 (V)
+  - Code monétaire et financier - art. L753-10 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L341-3 (M)
+  - Code monétaire et financier - art. L341-4 (M)
+  - Code monétaire et financier - art. L341-5 (M)
+  - Code monétaire et financier - art. L341-9 (M)
+
+
+###### Article L341-7
+
+Un fichier des personnes habilitées à procéder au démarchage bancaire ou financier est tenu conjointement par l'Autorité des
+marchés financiers, le Comité des établissements de crédit et des entreprises d'investissement et le Comité des entreprises
+d'assurance, selon des modalités fixées par décret, pris après avis de la Commission nationale de l'informatique et des
+libertés. Il est librement consultable par le public.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1018 du 28 septembre 2004 - art. 1 (Ab)
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
+  - Code monétaire et financier - art. D341-11 (V)
+  - Code monétaire et financier - art. D341-9 (V)
+  - Code monétaire et financier - art. L341-7-1 (VT)
+  - Code monétaire et financier - art. L545-5 (V)
+  - Code monétaire et financier - art. L743-10 (V)
+  - Code monétaire et financier - art. L753-10 (V)
+
+
+###### Article L341-8
+
+Toute personne se livrant à une activité de démarchage bancaire ou financier en se rendant physiquement au domicile des
+personnes démarchées, sur leur lieu de travail ou dans les lieux non destinés à la commercialisation de produits, instruments
+et services financiers, doit être titulaire d'une carte de démarchage délivrée par la personne pour le compte de laquelle
+elle agit, selon un modèle fixé par arrêté du ministre chargé de l'économie.
+
+Cette carte doit être présentée à toute personne ainsi démarchée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Arrêté du 28 septembre 2004 - art. 1 (V)
+  - Décret n°2004-1019 du 28 septembre 2004 - art. 6 (Ab)
+  - Décret n°2004-1019 du 28 septembre 2004 - art. 7 (Ab)
+  - Arrêté du 3 août 2005 - art. 1 (V)
+  - Code monétaire et financier - art. D341-6 (V)
+  - Code monétaire et financier - art. D341-7 (V)
+  - Code monétaire et financier - art. L353-1 (M)
+
+
+##### Section 3 : Produits ne pouvant pas faire l'objet de démarchage.<a id=193></a>
+
+###### Article L341-10
+
+Sans préjudice des règles particulières applicables au démarchage de certains produits, ne peuvent pas faire l'objet de
+démarchage :
+
+1° Les produits dont le risque maximum n'est pas connu au moment de la souscription ou pour lesquels le risque de perte est
+supérieur au montant de l'apport financier initial, à l'exception :
+
+- des parts de sociétés civiles de placement immobilier. A l'issue d'un délai de deux ans à compter de la promulgation de la
+loi n° 2003-706 du 1er août 2003 de sécurité financière, seules pourront faire l'objet de démarchage les parts de sociétés
+civiles de placement immobilier dont les statuts prévoient la limitation de la responsabilité de chaque associé au montant de
+sa part au capital ;
+
+- des produits entrant dans le cadre d'une opération normale de couverture, sous réserve que ces produits soient proposés
+exclusivement à des personnes morales ;
+
+2° Les produits non autorisés à la commercialisation sur le territoire français en application de l'article L. 151-2 ;
+
+3° Les produits relevant des articles L. 214-42 et L. 214-43 :
+
+4° Les instruments financiers qui ne sont pas admis aux négociations sur les marchés réglementés définis aux articles L.
+421-1 et L. 422-1 ou sur les marchés étrangers reconnus définis à l'article L. 423-1, à l'exception des parts ou actions
+d'organismes de placement collectif en valeurs mobilières, des instruments financiers qui font l'objet d'une opération
+d'appel public à l'épargne dans les conditions du titre Ier du livre IV du présent code, des titres émis par les sociétés de
+capital-risque mentionnées à l'article 1er-1 de la loi n° 85-695 du 11 juillet 1985 précitée et des produits proposés dans le
+cadre d'un dispositif relevant du titre IV du livre IV du code du travail.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°85-695 du 11 juillet 1985 - art. 1-1 (M)
+  - Loi n°2003-706 2003-08-01
+  - Code monétaire et financier - art. L151-2 (V)
+  - Code monétaire et financier - art. L214-42 (M)
+  - Code monétaire et financier - art. L214-43 (M)
+  - Code monétaire et financier - art. L421-1 (M)
+  - Code monétaire et financier - art. L422-1 (M)
+  - Code monétaire et financier - art. L423-1 (M)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+  - Code monétaire et financier - art. D341-8 (V)
+  - Code monétaire et financier - art. L353-2 (M)
+  - Code monétaire et financier - art. L519-5 (V)
+  - Code monétaire et financier - art. L733-10 (Ab)
+  - Code monétaire et financier - art. L743-10 (VD)
+  - Code monétaire et financier - art. L763-10 (VD)
+
+
+##### Section 4 : Règles de bonne conduite.<a id=194></a>
+
+###### Article L341-11
+
+Avant de formuler une offre de produits, instruments financiers ou services, les démarcheurs s'enquièrent de la situation
+financière de la personne démarchée, de son expérience et de ses objectifs en matière de placement ou de financement. Ces
+dispositions ne s'appliquent pas dans le cas des envois effectués dans les conditions prévues au V de l'article L. 341-4,
+sans préjudice du respect des obligations d'information et de conseil dues aux souscripteurs et aux clients en application
+des articles L. 214-12, L. 214-83-1 et L. 533-4.
+
+Les démarcheurs communiquent à la personne démarchée, d'une manière claire et compréhensible, les informations qui lui sont
+utiles pour prendre sa décision.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+  - Code monétaire et financier - art. L743-10 (VD)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-12 (M)
+  - Code monétaire et financier - art. L214-83-1 (M)
+  - Code monétaire et financier - art. L341-4 (M)
+  - Code monétaire et financier - art. L533-4 (M)
+
+
+###### Article L341-12
+
+Lors des actes de démarchage bancaire ou financier, doivent être communiqués par écrit, à la personne démarchée, quel que
+soit le support de cet écrit :
+
+1° Le nom, l'adresse professionnelle et, le cas échéant, le numéro d'enregistrement de la personne physique procédant au
+démarchage ;
+
+2° Le nom et l'adresse de la ou des personnes morales pour le compte de laquelle ou desquelles le démarchage est effectué ;
+
+3° Le numéro d'enregistrement de la personne morale mandatée en application du I de l'article L. 341-4 si le démarchage est
+effectué pour le compte d'une telle personne ;
+
+4° Les documents d'information particuliers relatifs aux produits, instruments financiers et services proposés requis par les
+dispositions législatives et réglementaires en vigueur ou, en l'absence de tels documents, une note d'information sur chacun
+des produits, instruments financiers et services proposés, élaborée sous la responsabilité de la personne ou de
+l'établissement qui a recours au démarchage et indiquant, s'il y a lieu, les risques particuliers que peuvent comporter les
+produits proposés ;
+
+5° Les conditions de l'offre contractuelle, notamment financières, et les modalités selon lesquelles sera conclu le contrat,
+en particulier le lieu et la date de signature de celui-ci ;
+
+6° L'information relative à l'existence ou à l'absence du droit de rétractation prévu à l'article L. 341-16, ainsi que ses
+modalités d'exercice.
+
+Ces dispositions sont applicables sans préjudice de l'application des obligations législatives et réglementaires spécifiques
+à chaque produit, instrument financier ou service proposé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Code de la consommation - art. R*132-2-1 (V)
+  - Code monétaire et financier - art. L341-16 (V)
+  - Code monétaire et financier - art. L343-2 (VD)
+  - Code monétaire et financier - art. L353-1 (V)
+  - Code monétaire et financier - art. L519-5 (V)
+  - Code monétaire et financier - art. R341-16 (V)
+  - Code monétaire et financier - art. R353-1 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L341-4 (M)
+
+
+###### Article L341-13
+
+Il est interdit au démarcheur de proposer des produits, instruments financiers et services autres que ceux pour lesquels il a
+reçu des instructions expresses de la ou des personnes pour le compte desquelles il agit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Code monétaire et financier - art. D341-11 (V)
+  - Code monétaire et financier - art. L519-5 (V)
+
+
+###### Article L341-14
+
+Le contrat portant sur la fourniture d'un service d'investissement ou d'un service connexe, sur la réalisation d'une
+opération sur instruments financiers, d'une opération de banque ou d'une opération connexe ou d'une opération sur biens
+divers est conclu entre la personne démarchée et l'établissement, l'entreprise ou la personne morale habilitée à exercer ces
+activités, sans que le démarcheur puisse le signer au nom et pour le compte de la personne pour le compte de laquelle il
+agit.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L353-1 (M)
+
+
+###### Article L341-15
+
+Il est interdit à tout démarcheur de recevoir des personnes démarchées des espèces, des effets de commerce, des valeurs ou
+chèques au porteur ou à son nom ou tout paiement par un autre moyen.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L353-2 (V)
+
+
+###### Article L341-16
+
+I. - La personne démarchée dispose, à compter de la conclusion du contrat, d'un délai de quatorze jours pour se rétracter,
+sans pénalité et sans être tenue d'indiquer les motifs de sa décision. Ce délai de rétractation court à compter de la date de
+réception par la personne démarchée du contrat signé par les deux parties.
+
+Le contrat doit comporter un formulaire destiné à faciliter l'exercice de la faculté de rétractation. Les mentions devant
+figurer sur ce formulaire ainsi que les conditions d'exercice du droit de rétractation sont fixées par décret.
+
+II. - Lorsque la personne démarchée exerce son droit de rétractation, elle ne peut être tenue au versement de frais ou de
+commissions de quelque nature que ce soit. Elle est toutefois tenue de payer le prix correspondant à l'utilisation du produit
+ou du service fourni entre la date de la conclusion du contrat et celle de l'exercice du droit de rétractation.
+
+L'exécution des contrats portant sur les services de conservation ou d'administration d'instruments financiers et de gestion
+de portefeuille pour le compte de tiers est différée pendant la durée du droit de rétractation.
+
+III. - Le délai de rétractation prévu au premier alinéa du I ne s'applique pas :
+
+1° Aux services de réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1,
+ainsi qu'à la fourniture d'instruments financiers mentionnés à l'article L. 211-1 ;
+
+2° Lorsque des dispositions spécifiques à certains produits et services prévoient un délai de réflexion ou un délai de
+rétractation d'une durée différente, auquel cas ce sont ces délais qui s'appliquent en matière de démarchage.
+
+IV. - En cas de démarchage effectué selon les modalités prévues au septième alinéa de l'article L. 341-1, les personnes
+mentionnées aux articles L. 341-3 et L. 341-4 ne peuvent recueillir ni ordres ni fonds de la part des personnes démarchées en
+vue de la fourniture de services de réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à
+l'article L. 321-1 ou d'instruments financiers mentionnés à l'article L. 211-1, avant l'expiration d'un délai de réflexion de
+quarante-huit heures.
+
+Ce délai de réflexion court à compter du lendemain de la remise d'un récépissé établissant la communication à la personne
+démarchée, par écrit sur support papier, des informations et documents prévus à l'article L. 341-12.
+
+Le silence de la personne démarchée à l'issue de l'expiration du délai de réflexion ne peut être considéré comme signifiant
+le consentement de celle-ci.
+
+V. - Les délais fixés à la présente section qui expireraient normalement un samedi, un dimanche ou un jour férié ou chômé
+sont prorogés jusqu'au premier jour ouvrable suivant.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1019 du 28 septembre 2004 - art. 9 (Ab)
+  - Code monétaire et financier - art. D341-8 (V)
+  - Code monétaire et financier - art. L341-12 (V)
+  - Code monétaire et financier - art. L341-15 (V)
+  - Code monétaire et financier - art. L343-2 (MMN)
+  - Code monétaire et financier - art. L353-1 (M)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L211-1 (M)
+  - Code monétaire et financier - art. L321-1 (M)
+  - Code monétaire et financier - art. L341-1 (M)
+  - Code monétaire et financier - art. L341-3 (M)
+  - Code monétaire et financier - art. L341-4 (M)
+
+
+##### Section 5 : Sanctions disciplinaires.<a id=195></a>
+
+###### Article L341-17
+
+Tout manquement aux lois, règlements et obligations professionnelles applicables au démarchage bancaire ou financier commis
+par les personnes mentionnées aux 1° et 3° de l'article L. 341-3 et à l'article L. 341-4 est sanctionné dans les conditions
+prévues, selon leur nature ou leurs activités, aux articles L. 613-21, L. 621-15 et L. 621-17 du présent code et à l'article
+L. 310-18 du code des assurances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
+  - Code monétaire et financier - art. L214-89 (VD)
+  - Code monétaire et financier - art. L519-5 (VT)
+  - Code monétaire et financier - art. L743-10 (V)
+  - Code monétaire et financier - art. L753-10 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L341-3 (M)
+  - Code monétaire et financier - art. L341-4 (M)
+  - Code monétaire et financier - art. L613-21 (M)
+  - Code monétaire et financier - art. L621-15 (M)
+  - Code monétaire et financier - art. L621-17 (M)
+  - Code des assurances - art. L310-18 (M)
+
+
+#### Chapitre II : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers<a id=196></a>
+
+##### Section 1 : Opérations sur matières précieuses<a id=197></a>
+
+###### Article L342-1
+
+Sont interdits le colportage et le démarchage en vue de la vente, de l'achat ou de l'échange de l'or en lingots, barres,
+monnaies étrangères et pièces d'or démonétisées.
+
+Se livre au colportage de ces matières celui qui se rend au domicile des particuliers, autres que les banquiers, agents de
+change et négociants en métaux précieux, ou dans les lieux publics non réservés à cet effet, pour offrir ou se procurer les
+matières ci-dessus désignées, avec livraison et paiement immédiats, en totalité ou en partie, soit en numéraire, soit en
+valeurs.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°72-6 du 3 janvier 1972 - art. 1 (Ab)
+  - Code monétaire et financier - art. L344-1 (T)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L342-2 (V)
+  - Code monétaire et financier - art. L353-4 (M)
+  - Code monétaire et financier - art. L353-6 (V)
+  - Code monétaire et financier - art. L753-10-1 (V)
+
+
+###### Article L342-2
+
+I. - Se livre au démarchage des matières mentionnées au premier alinéa de l'article L. 342-1 celui qui se rend habituellement
+au domicile des particuliers, autres que les banquiers, agents de change, négociants en métaux précieux, ou dans les lieux
+publics non réservés à cet effet, pour conseiller l'achat, la vente ou l'échange de ces matières, ou pour offrir de
+participer soit à des opérations à terme sur les mêmes matières, soit à des syndicats ayant pour objet des opérations fondées
+sur des différences de cours et portant sur les mêmes matières.
+
+II. - Sont également considérées comme actes de démarchage interdits par l'article L. 342-1, les offres de service faites de
+façon habituelle, par lettres, circulaires, communications téléphoniques ou tout autre moyen, au domicile des personnes
+autres que les banquiers, agents de change, négociants en métaux précieux ou dans les lieux publics non réservés à cet effet
+en vue des opérations mentionnées au I.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°72-6 du 3 janvier 1972 - art. 2 (Ab)
+  - Code monétaire et financier - art. L344-2 (T)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 50 II 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L342-1 (M)
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L342-11 (Ab)
+  - Code monétaire et financier - art. L342-12 (Ab)
+  - Code monétaire et financier - art. L342-4 (Ab)
+  - Code monétaire et financier - art. L342-7 (Ab)
+  - Code monétaire et financier - art. L342-8 (Ab)
+
+
+##### Section 2 : Opérations sur les billets de banque étrangers<a id=198></a>
+
+###### Article L342-3
+
+Sont interdits le colportage et le démarchage en vue de la vente ou de l'échange des billets de banque étrangers.
+
+Se livre au colportage des billets de banque étrangers celui qui se rend au domicile des particuliers, autres que les
+banquiers et agents de change, ou dans les lieux publics, pour offrir ou se procurer ces billets avec livraison et paiement
+immédiats, en totalité ou en partie, soit en numéraire, soit en valeurs.
+
+Se livre au démarchage des billets de banque étrangers celui qui se rend habituellement au domicile des particuliers, autres
+que les banquiers et agents de change, ou dans les lieux publics, pour conseiller l'achat, la vente ou l'échange de ces
+billets, la participation à des opérations sur ces billets, ou pour offrir de participer, soit à des opérations à terme sur
+les mêmes billets, soit à des syndicats ayant pour objet des opérations fondées sur des différences de cours et portant sur
+les mêmes billets.
+
+Sont également considérées comme actes de démarchage interdits par le présent article les offres de service faites de façon
+habituelle (par lettres, circulaires, communications téléphoniques ou tout autre moyen) au domicile des personnes, autres que
+les banquiers et agents de change, ou dans les lieux publics, en vue des opérations mentionnées à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°72-6 du 3 janvier 1972 - art. 3 (Ab)
+  - Code monétaire et financier - art. L344-3 (T)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L342-10 (Ab)
+  - Code monétaire et financier - art. L342-4 (Ab)
+  - Code monétaire et financier - art. L342-7 (Ab)
+  - Code monétaire et financier - art. L342-8 (Ab)
+  - Code monétaire et financier - art. L353-4 (M)
+
+
+### Titre IV : Le démarchage et le colportage<a id=199></a>
+
+#### Chapitre Ier : Démarchage bancaire ou financier<a id=200></a>
+
+##### Section 1 : Définition.<a id=201></a>
+
+###### Article L341-2
+
+Les règles concernant le démarchage bancaire ou financier ne s'appliquent pas :
+
+1° Aux prises de contact avec les investisseurs qualifiés définis à l'article L. 411-2 et avec les personnes morales dont le
+total du bilan, le chiffre d'affaires, le montant des actifs gérés, les recettes ou les effectifs sont supérieurs à un seuil
+fixé par décret ;
+
+2° Aux prises de contact dans les locaux des personnes mentionnées à l'article L. 341-3, sauf lorsque ces personnes sont
+contractuellement liées, en vue de la commercialisation d'instruments financiers et de produits d'épargne, aux sociétés
+exploitant des magasins de grande surface visés à la section 3 du chapitre Ier du titre V du livre IV du code de l'urbanisme,
+et que leurs locaux sont implantés dans les locaux de ces magasins ;
+
+3° Aux démarches dans les locaux professionnels d'une personne morale à la demande de cette dernière ;
+
+4° Aux prises de contact avec des personnes morales, lorsqu'elles portent exclusivement sur les services visés au 4 de
+l'article L. 321-2 ;
+
+5° Lorsque la personne visée est déjà cliente de la personne pour le compte de laquelle la prise de contact a lieu, dès lors
+que l'opération proposée correspond, à raison de ses caractéristiques, des risques ou des montants en cause, à des opérations
+habituellement réalisées par cette personne ;
+
+6° Aux démarches effectuées, pour le compte d'un établissement de crédit, en vue de proposer un contrat de financement de
+biens ou de prestations de services répondant aux conditions prévues à la section 5 du chapitre Ier du titre Ier du livre III
+du code de la consommation, ou constituant une location-vente ou une location avec option d'achat visées à l'article L. 311-2
+dudit code. Il en va de même lorsque ces contrats sont destinés aux besoins d'une activité professionnelle ;
+
+7° Sans préjudice des dispositions prévues au 6°, aux démarches effectuées pour le compte d'un établissement de crédit en vue
+de proposer des contrats de financement de ventes à tempérament aux personnes, physiques ou morales, autres que celles visées
+au 1°, à la condition que le nom de l'établissement prêteur et le coût du crédit soient mentionnés, sous peine de nullité ;
+
+8° Aux démarches effectuées sur le lieu de vente, pour le compte d'un établissement de crédit, en vue de proposer des crédits
+visés au titre Ier du livre III du code de la consommation.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (M)
+  - Loi n°66-1010 du 28 décembre 1966 - art. 9 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1019 du 28 septembre 2004 - art. 1 (Ab)
+  - Ordonnance n°2006-60 du 19 janvier 2006 - art. 4 (V)
+  - Code monétaire et financier - art. D341-1 (V)
+  - Code monétaire et financier - art. L341-4 (M)
+  - Code monétaire et financier - art. L353-1 (M)
+  - Code monétaire et financier - art. L733-10 (Ab)
+  - Code monétaire et financier - art. L743-10 (M)
+  - Code monétaire et financier - art. L753-10 (M)
+  - Code monétaire et financier - art. L763-10 (VD)
+
+_Cite_:
+
+  - Code de la consommation - art. L311-2 (V)
+  - Code monétaire et financier - art. L321-2 (M)
+  - Code monétaire et financier - art. L341-3 (M)
+  - Code monétaire et financier - art. L411-2 (M)
+
+
+##### Section 2 : Personnes habilitées à procéder au démarchage.<a id=202></a>
+
 ###### Article L341-4
 
-Les interdictions édictées à l'article L. 341-1 et aux 1, 2 et 4 du I de l'article L. 341-2 ne sont pas applicables aux
-établissements de crédit, sous réserve qu'ils agissent dans le cadre de la réglementation qui leur est propre et qu'ils ne
-s'adressent qu'à des personnes majeures.
+I. - Les personnes mentionnées à l'article L. 341-3 peuvent mandater des personnes physiques afin d'exercer pour leur compte
+une activité de démarchage bancaire ou financier. Les établissements et entreprises ou institutions mentionnés au 1° de cet
+article peuvent également mandater des personnes morales à cet effet. Dans ce cas, celles-ci peuvent à leur tour mandater des
+personnes physiques afin d'exercer cette activité pour leur compte.
 
-Toutefois, les démarcheurs qui interviennent pour le compte d'un établissement de crédit doivent, sous réserve des
-conventions internationales, être de nationalité française ou ressortissants d'un Etat membre de la Communauté européenne et
-porteurs d'une carte spéciale de démarchage délivrée par ledit établissement dans des conditions fixées par décret en Conseil
-d'Etat.
+II. - Dans tous les cas, le mandat est nominatif. Il mentionne la nature des produits et services qui en sont l'objet ainsi
+que les conditions dans lesquelles l'activité de démarchage peut être exercée. Sa durée est limitée à deux ans. Il peut être
+renouvelé.
 
-Les dispositions de l'article L. 341-1 ne dérogent pas aux prescriptions imposées aux notaires par les textes législatifs ou
-réglementaires en vigueur. De même, les dispositions de l'article L. 341-2 n'interdisent pas aux notaires la recherche de
-fonds dans les limites de l'exercice de leur profession et conformément à des règles fixées par décret.
+Une même personne physique ou morale peut recevoir des mandats émanant de plusieurs entreprises, institutions ou
+établissements mentionnés au 1° de l'article L. 341-3. Cette personne informe alors l'ensemble de ses mandants ainsi détenus.
+
+III. - Les personnes morales mentionnées à l'article L. 341-3 et celles mandatées en application du I du présent article sont
+civilement responsables du fait des démarcheurs, agissant en cette qualité, auxquels elles ont délivré un mandat. Les
+personnes morales mentionnées à l'article L. 341-3 demeurent responsables du fait des salariés des personnes morales qu'elles
+ont mandatées, dans la limite du mandat.
+
+IV. - Les démarcheurs personnes physiques et les personnes physiques ayant le pouvoir de gérer ou d'administrer les personnes
+morales mandatées en application du I doivent remplir des conditions d'âge, d'honorabilité et de compétence professionnelle
+fixées par décret. Il en va de même des salariés ou employés des personnes mentionnées à l'article L. 341-3, lorsqu'ils
+exercent des activités de démarchage, et de ceux des personnes morales mandatées en application du I du présent article.
+
+V. - Les règles fixées aux II et IV ne s'appliquent pas aux personnes physiques participant à l'envoi de documents
+nominatifs, sous réserve qu'elles n'aient aucun contact personnalisé permettant d'influencer le choix de la personne
+démarchée. Dans ce cas, les personnes morales mentionnées à l'article L. 341-3 ou mandatées en application du I sont
+considérées comme exerçant directement l'activité de démarchage et sont tenues d'en appliquer les règles.
 
 **Liens relatifs à cet article**
 
@@ -17617,6 +18813,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -17652,1197 +18852,117 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L341-1 (M)
-  - Code monétaire et financier - art. L341-2 (M)
+  - Code monétaire et financier - art. L341-3 (M)
 
 
-###### Article L341-5
+###### Article L341-9
 
-Les dispositions du deuxième alinéa de l'article L. 341-4 ne sont pas applicables aux démarcheurs qui, pour le compte d'un
-établissement de crédit, proposent des contrats de financement de ventes à tempérament, à la condition que le nom de
-l'établissement prêteur et le coût du crédit soient mentionnés dans le contrat et que le montant total des agios perçus tant
-par cet établissement que par les intermédiaires corresponde au barème que l'organisme prêteur est autorisé à pratiquer par
-le comité des établissements de crédit et des entreprises d'investissement.
+I. - Nul ne peut, directement ou indirectement pour son propre compte ou pour le compte d'autrui, exercer une activité de
+démarchage bancaire ou financier, s'il a fait l'objet depuis moins de dix ans d'une condamnation définitive :
 
-Dans tous les cas, l'emprunteur peut demander l'annulation d'un contrat passé en violation des dispositions de l'alinéa
-précédent.
+1° Pour crime ; 
+
+2° A une peine d'au moins trois mois d'emprisonnement sans sursis pour :
+
+a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
+
+b) Recel ;
+
+c) Blanchiment ;
+
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
+
+e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
+l'autorité ;
+
+f) Participation à une association de malfaiteurs ;
+
+g) Trafic de stupéfiants ;
+
+h) Proxénétisme et infractions assimilées ;
+
+i) L'une des infractions prévues à la section 3 du chapitre V du titre II du livre II du code pénal ;
+
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
+
+k) Banqueroute ;
+
+l) Pratique de prêt usuraire ;
+
+m) L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907
+réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques et par la loi n° 83-628
+du 12 juillet 1983 relative aux jeux de hasard ;
+
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
+
+o) Fraude fiscale ;
+
+p) L'une des infractions prévues aux articles L. 163-2 à L. 163-8, L. 163-11 et L. 163-12 du présent code ;
+
+q) L'une des infractions prévues aux articles L. 122-8 à L. 122-10 et L. 213-1 à L. 213-5 du code de la consommation ;
+
+r) L'une des infractions prévues aux articles L. 465-1 et L. 465-2 du présent code ;
+
+s) L'une des infractions prévues à la section 2 du chapitre Ier du titre III du livre II, à la section 1 du chapitre III du
+titre V du livre III, aux chapitres Ier à IV du titre VI du livre IV et au titre VII du livre V du présent code ;
+
+3° A la destitution des fonctions d'officier public ou ministériel.
+
+II. - L'incapacité prévue au I s'applique à toute personne à l'égard de laquelle a été prononcée une mesure définitive de
+faillite personnelle ou une autre mesure définitive d'interdiction prévue aux articles L. 625-1 à L. 625-7 et L. 625-9 à L.
+625-10 du code de commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le
+règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, si elle n'a pas été réhabilitée.
+
+III. - Les personnes exerçant une activité de démarchage bancaire et financier qui font l'objet de l'une des condamnations
+prévues au I doivent cesser leur activité dans un délai d'un mois à compter de la date à laquelle la décision de justice est
+devenue définitive.
+
+IV. - En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+constituant, selon la loi française, un crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile du
+condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
+et l'intéressé dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue par le I.
+
+Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
+prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
+d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
+domicile du condamné.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Loi n°66-1010 du 28 décembre 1966 - art. 12 (M)
-  - Loi n°66-1010 du 28 décembre 1966 - art. 12 (Ab)
+  - Loi n°1836-05-21
+  - Loi n°1907-06-15
+  - Loi n°67-563 du 13 juillet 1967 - art. 108 (Ab)
+  - Loi n°83-628 1983-07-12
+  - Code de commerce L625-1 à L625-7, L625-9 à L625-10
+  - Code de la consommation L122-8 à L122-10, L213-1 à L213-5
+  - Code monétaire et financier - art. L163-11 (M)
+  - Code monétaire et financier - art. L163-12 (V)
+  - Code monétaire et financier - art. L465-1 (M)
+  - Code monétaire et financier - art. L465-2 (M)
+  - Code monétaire et financier L163-2 à L163-8, L163-11, L163-12, L465-1, L465-2
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+
 _Cité par_:
 
-  - Décret n°2004-1019 du 28 septembre 2004 - art. 3 (Ab)
-  - Code monétaire et financier - art. D341-3 (V)
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 13 (Ab)
+  - Code monétaire et financier - art. L341-3 (V)
   - Code monétaire et financier - art. L341-6 (V)
   - Code monétaire et financier - art. L353-2 (M)
 
-_Cite_:
 
-  - Code monétaire et financier - art. L341-4 (M)
+### Titre V : Dispositions pénales<a id=203></a>
 
-
-###### Article L341-6
-
-Les intermédiaires en opérations de banque peuvent, pour l'exercice de leur profession, formuler leurs offres de services par
-lettres ou prospectus, à condition que les nom et adresse de l'établissement de crédit qui leur a délivré un mandat soient
-mentionnés sur ces documents.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°66-1010 du 28 décembre 1966 - art. 13 (M)
-  - Loi n°66-1010 du 28 décembre 1966 - art. 13 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Cité par_:
-
-  - Décret n°2004-1018 du 28 septembre 2004 - art. 1 (Ab)
-  - Décret n°2004-1018 du 28 septembre 2004 - art. 2 (V)
-  - Décret n°2004-1018 du 28 septembre 2004 - art. 3 (Ab)
-  - Décret n°2004-1019 du 28 septembre 2004 - art. 4 (Ab)
-  - Décret n°2004-1019 du 28 septembre 2004 - art. 8 (V)
-  - Loi n°2006-1770 du 30 décembre 2006 - art. 63 (V)
-  - Loi n°2006-1770 du 30 décembre 2006 - art. 72 (V)
-  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
-  - Code monétaire et financier - art. D341-10 (An)
-  - Code monétaire et financier - art. D341-11 (V)
-  - Code monétaire et financier - art. D341-4 (V)
-  - Code monétaire et financier - art. L341-2 (V)
-  - Code monétaire et financier - art. L353-1 (V)
-  - Code monétaire et financier - art. L743-10 (V)
-  - Code monétaire et financier - art. L753-10 (V)
-
-
-#### Chapitre II : Démarchage concernant les valeurs mobilières.<a id=189></a>
-
-###### Article L342-1
-
-Le colportage des valeurs mobilières est interdit. Se livre au colportage celui qui se rend au domicile ou à la résidence des
-personnes ou sur leurs lieux de travail ou dans des lieux publics pour offrir ou acquérir des valeurs mobilières avec
-livraison immédiate des titres et paiement immédiat total ou partiel sous quelque forme que ce soit.
-
-Toutefois, ces activités ne sont pas interdites dans les locaux des établissements de crédit ou des prestataires de services
-d'investissement lorsqu'elles s'y exercent conformément à la destination de ces locaux ou lieux publics et dans les
-conditions où elles y sont normalement pratiquées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 1972-01-03 art. 1
-  - Loi n°72-6 du 3 janvier 1972 - art. 1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-2 (V)
-  - Code monétaire et financier - art. L353-4 (M)
-  - Code monétaire et financier - art. L353-6 (V)
-  - Code monétaire et financier - art. L753-10-1 (V)
-
-
-###### Article L342-2
-
-Sans préjudice des dispositions particulières prévues au huitième alinéa de l'article L. 214-36, le démarchage en vue
-d'opérations sur valeurs mobilières n'est autorisé que dans les limites et sous les conditions prévues par le présent
-chapitre.
-
-Constitue une activité de démarchage le fait de se rendre habituellement au domicile ou à la résidence des personnes, ou sur
-leurs lieux de travail, ou dans des lieux publics, en vue de conseiller la souscription, l'achat, l'échange ou la vente de
-valeurs mobilières ou une participation à des opérations sur ces valeurs.
-
-Sont également considérés comme activités de démarchage les offres de services faites ou les conseils donnés, de façon
-habituelle, en vue des mêmes fins, au domicile ou à la résidence des personnes, ou sur les lieux de travail, par l'envoi de
-lettres ou circulaires ou par communications téléphoniques.
-
-Ne sont pas soumises aux dispositions du présent chapitre les activités mentionnées aux deux alinéas précédents qui sont
-exercées soit dans les locaux des établissements de crédit et des prestataires de services d'investissement lorsque ces
-activités s'y exercent conformément à la destination de ces locaux ou lieux publics et dans les conditions où elles y sont
-normalement pratiquées.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 2 (Ab)
-  - Code monétaire et financier - art. L344-2 (T)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Modifié par_:
-
-  - Loi - art. 78 (V) JORF 29 décembre 2001
-
-_Cite_:
-
-  - Code monétaire et financier - art. L214-36 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-11 (Ab)
-  - Code monétaire et financier - art. L342-12 (Ab)
-  - Code monétaire et financier - art. L342-4 (Ab)
-  - Code monétaire et financier - art. L342-7 (Ab)
-  - Code monétaire et financier - art. L342-8 (Ab)
-
-
-###### Article L342-3
-
-Ne peuvent recourir au démarchage en vue d'opérations sur valeurs mobilières que les établissements de crédit, les
-prestataires de services d'investissement et les entreprises d'assurances.
-
-L'un des décrets prévus à l'article L. 342-21 fixe les formalités à accomplir par les personnes qui désirent recourir au
-démarchage.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 3 (M)
-  - Loi n°72-6 du 3 janvier 1972 - art. 3 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-10 (Ab)
-  - Code monétaire et financier - art. L342-4 (Ab)
-  - Code monétaire et financier - art. L342-7 (Ab)
-  - Code monétaire et financier - art. L342-8 (Ab)
-  - Code monétaire et financier - art. L353-4 (M)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-21 (Ab)
-
-
-###### Article L342-4
-
-Par dérogation aux dispositions de l'article L. 342-3, les opérations de démarchage mentionnées au troisième alinéa de
-l'article L. 342-2 peuvent être faites par les comptables publics en ce qui concerne les titres qu'ils sont autorisés à
-placer.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 4 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-2 (M)
-  - Code monétaire et financier - art. L342-3 (M)
-
-
-###### Article L342-5
-
-Sans préjudice des dispositions du dernier alinéa de l'article L. 214-42 et du second alinéa de l'article L. 214-44, est
-interdit le démarchage :
-
-1. En vue de participations à des groupements de personnes ayant pour objet des opérations fondées sur les différences de
-cours des valeurs mobilières ;
-
-2. En vue d'opérations à terme dans les bourses françaises ou étrangères de valeurs autres que les opérations à terme ferme
-accompagnées d'instructions écrites en vue de lever ou de livrer les titres à la prochaine liquidation ;
-
-3. En vue d'opérations sur des valeurs mobilières étrangères ou sur des parts de fonds communs de placements étrangers
-lorsque leur émission ou leur vente en France est soumise à une autorisation préalable et que celle-ci n'a pas été accordée ;
-
-4. En vue de la souscription de valeurs émises par des sociétés françaises n'ayant pas établi deux bilans en deux ans au
-moins d'existence, à moins qu'il s'agisse :
-
-a) D'opérations sur obligations bénéficiant soit de la garantie de l'Etat ou de collectivités publiques, soit de la garantie
-de sociétés françaises ayant établi deux bilans en deux ans au moins d'existence ;
-
-b) D'opérations sur valeurs émises par des sociétés françaises lorsque l'Etat a apporté à ces sociétés des biens meubles ou
-immeubles ou encore lorsque l'Etat s'est engagé à fournir, pendant cinq ans au moins, soit à la société émettrice, soit aux
-porteurs des titres, les fonds nécessaires au paiement de tout ou partie des intérêts ou dividendes, ou du principal des
-titres ;
-
-c) D'opérations sur valeurs émises par des sociétés d'investissement à capital variable ou des sociétés agréées pour le
-financement des télécommunications ;
-
-5. En vue d'opérations sur des valeurs déjà émises par des sociétés et non admises aux négociations sur un marché réglementé,
-à l'exception des opérations sur valeurs de sociétés d'investissement à capital variable.
-
-Les interdictions prévues aux 4 et 5 du présent article ne sont pas applicables au démarchage en vue d'obtenir des
-souscriptions ou des achats de valeurs émises par des sociétés immobilières pour le commerce et l'industrie réunissant les
-conditions suivantes :
-
-a) Ne pas avoir loué directement ou indirectement à un même preneur des immeubles d'une valeur comptable dépassant des
-proportions du montant du capital et des réserves fixées par arrêté du ministre chargé de l'économie ;
-
-b) Avoir obtenu d'une ou plusieurs institutions agréées à cet effet par le ministre chargé de l'économie l'engagement
-irrévocable de racheter les valeurs placées jusqu'à leur admission aux négociations sur un marché réglementé à un prix
-minimum fixé en fonction du prix payé par les souscripteurs ou les acheteurs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 5 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L214-42 (M)
-  - Code monétaire et financier - art. L214-44 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L353-4 (M)
-
-
-###### Article L342-6
-
-Les opérations de démarchage en vue de faire souscrire ou acheter des valeurs mobilières doivent comporter la remise ou
-l'envoi simultané à la personne sollicitée d'une note d'information succincte sur chacune des valeurs proposées.
-
-La note d'information est établie sous la responsabilité de la personne ou de l'établissement qui a recours au démarchage.
-Elle fait l'objet d'une mise à jour. Elle est communiquée à la commission des opérations de bourse, qui peut demander toutes
-explications ou justifications nécessaires, exiger la modification de la présentation ou de la teneur de la note et, le cas
-échéant, en interdire la diffusion.
-
-L'un des décrets prévus à l'article L. 342-21 fixe, notamment, la présentation et le contenu de cette note d'information.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 6 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-21 (Ab)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L353-5 (M)
-
-
-###### Article L342-7
-
-Tout démarcheur se livrant à l'activité définie au deuxième alinéa de l'article L. 342-2 est tenu d'être porteur d'une carte
-d'emploi délivrée par une personne ou un établissement habilité à recourir au démarchage en application de l'article L.
-342-3. Il ne peut détenir qu'une seule carte.
-
-L'un des décrets prévus à l'article L. 342-21 fixe, notamment, les conditions d'établissement de cette carte.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 1972-01-03 art. 7
-  - Loi n°72-6 du 3 janvier 1972 - art. 7 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-2 (M)
-  - Code monétaire et financier - art. L342-21 (Ab)
-  - Code monétaire et financier - art. L342-3 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-8 (Ab)
-  - Code monétaire et financier - art. L353-4 (M)
-
-
-###### Article L342-8
-
-Toute personne ou tout établissement qui a recours au démarchage doit préalablement déposer au parquet du procureur de la
-République de son domicile ou de son siège social, ou du siège de ses succursales ou agences pour le personnel employé par
-elles, une déclaration écrite contenant les nom, adresse, état civil des personnes auxquelles il compte délivrer la carte
-prévue à l'article L. 342-7.
-
-Sauf autorisation du ministre chargé de l'économie, les personnes ou établissements mentionnés à l'article L. 342-3 ne
-peuvent confier à des personnes morales autres que les sociétés dont ils possèdent, ensemble ou séparément, au moins les deux
-tiers du capital, le soin de procéder pour leur compte aux opérations de démarchage définies par le deuxième alinéa de
-l'article L. 342-2.
-
-Lorsque le démarchage est confié à une personne morale, toute personne physique employée par cette dernière à des opérations
-de démarchage au domicile ou à la résidence des personnes ou sur leurs lieux de travail, ou dans des lieux publics, doit être
-porteur de la carte prévue à l'article L. 342-7.
-
-Les personnes ou établissements mentionnés à l'article L. 342-3 ne peuvent délivrer la carte d'emploi, sous réserve des
-conventions internationales, qu'à des personnes majeures de nationalité française ou ressortissantes d'un Etat membre de la
-Communauté européenne ; cette carte ne peut être délivrée qu'après l'expiration d'un délai d'un mois à compter de la remise
-de la déclaration au parquet.
-
-La carte d'emploi est retirée sur décision motivée du Procureur de la République. Cette décision est immédiatement exécutoire
-et peut faire l'objet, par tout intéressé, d'un recours devant le tribunal de grande instance.
-
-Toutes modifications aux indications prévues au premier alinéa du présent article ainsi que tout retrait de carte doivent
-être notifiés au procureur de la République.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 8 (M)
-  - Loi n°72-6 du 3 janvier 1972 - art. 8 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-2 (M)
-  - Code monétaire et financier - art. L342-3 (M)
-  - Code monétaire et financier - art. L342-7 (Ab)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L353-3 (M)
-  - Code monétaire et financier - art. L353-4 (M)
-
-
-###### Article L342-9
-
-Il est interdit au démarcheur de proposer aux personnes qu'il sollicite des opérations autres que celles pour lesquelles il a
-reçu des instructions expresses de la personne ou de l'établissement pour le compte duquel il agit.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 9 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L353-4 (M)
-
-
-###### Article L342-10
-
-Les personnes et établissements mentionnés à l'article L. 342-3 sont civilement responsables du fait des démarcheurs,
-agissant en cette qualité, auxquels ils ont délivré une carte d'emploi. Nonobstant toute convention contraire, ces
-démarcheurs sont considérés comme leurs préposés au sens de l'article 1384 du code civil.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 11 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code civil - art. 1384 (M)
-  - Code monétaire et financier - art. L342-3 (M)
-
-
-###### Article L342-11
-
-Les opérations de démarchage mentionnées au deuxième alinéa de l'article L. 342-2 et faites en vue de proposer la
-souscription de plans d'épargne en valeurs mobilières composés de valeurs mobilières ou de parts de fonds communs de
-placement sont soumises aux prescriptions des articles L. 342-13 à L. 342-19, sous réserve des dispositions spéciales prévues
-pour les contrats d'assurance ou de capitalisation et sans préjudice des dispositions des articles L. 342-1 à L. 342-10, L.
-353-3 et L. 353-4.
-
-Sont considérés comme plans d'épargne en valeurs mobilières, pour l'application des articles L. 342-11 à L. 342-19, les
-engagements à moyen ou long terme qui assujettissent le souscripteur soit à un seul versement obligatoire, soit à des
-obligations à exécution successive.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 1972-01-03 art. 14
-  - Loi n°72-6 du 3 janvier 1972 - art. 14 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Code des assurances - art. L131-3 (Ab)
-  - Code monétaire et financier - art. L342-12 (Ab)
-  - Code monétaire et financier - art. L342-13 (Ab)
-  - Code monétaire et financier - art. L342-15 (Ab)
-  - Code monétaire et financier - art. L342-17 (Ab)
-  - Code monétaire et financier - art. L342-18 (Ab)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-2 (M)
-  - Code monétaire et financier - art. L353-3 (M)
-  - Code monétaire et financier - art. L353-4 (M)
-  - Code monétaire et financier L342-2, L342-13 à L342-19, L342-1 à L342-10, L353-3, L353-4, L342-11 à L342-19
-
-
-###### Article L342-12
-
-Sans préjudice des dispositions des articles L. 342-1 à L. 342-10, sont soumis aux prescriptions des articles L. 342-15 à L.
-342-17 :
-
-1. Les actes de publicité et les opérations de démarchage mentionnées au troisième alinéa de l'article L. 342-2, faits en vue
-de la souscription de plans d'épargne en valeurs mobilières ;
-
-2. Les actes de démarchage cités aux deuxième et troisième alinéas de l'article L. 342-2 et autres que ceux mentionnés à
-l'article L. 342-11, faits en vue de proposer des titres, de quelque nature que ce soit, de sociétés d'investissement régies
-par l'ordonnance modifiée n° 45-2710 du 2 novembre 1945 ou d'organismes de placement collectif ayant pour objet principal la
-gestion d'un portefeuille de valeurs mobilières.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-2710 1945-11-02
-  - Code monétaire et financier - art. L342-11 (Ab)
-  - Code monétaire et financier - art. L342-2 (M)
-  - Code monétaire et financier L342-1 à L342-10, L342-15 à L342-17, L342-2, L342-11
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 15 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-15 (Ab)
-  - Code monétaire et financier - art. L342-17 (Ab)
-
-
-###### Article L342-13
-
-Tout engagement pris par une personne lors de la visite qu'un démarcheur a faite à son domicile, à sa résidence ou à son lieu
-de travail ou dans un lieu privé ou public en vue de lui proposer la souscription d'un plan d'épargne mentionné à l'article
-L. 342-11 doit, à peine de nullité, être constaté par un bulletin de souscription établi dans les conditions fixées par la
-commission de opérations de bourse.
-
-Ce bulletin doit, sous peine de nullité de l'engagement, mentionner le lieu et la date de sa signature et rappeler en
-caractères très apparents d'une part la faculté de dénonciation prévue par l'article L. 342-18 en précisant ses modalités
-d'exercice et ses conséquences et, d'autre part, l'interdiction pour les démarcheurs de recevoir des fonds ou valeurs édictée
-par l'article L. 342-14.
-
-Une copie sur papier libre de ce bulletin de souscription doit être laissée à la personne qui a contracté un engagement.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 16 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-11 (Ab)
-  - Code monétaire et financier - art. L342-14 (Ab)
-  - Code monétaire et financier - art. L342-18 (Ab)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-16 (Ab)
-
-
-###### Article L342-14
-
-Il est interdit à tout démarcheur se livrant aux opérations mentionnées par l'article L. 342-11 de recevoir des personnes
-qu'il sollicite, des espèces, des effets, des valeurs ou chèques au porteur ou à son ordre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 17 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-13 (Ab)
-
-
-###### Article L342-15
-
-Les opérations de démarchage mentionnées aux articles L. 342-11 et L. 342-12 doivent comporter la remise ou l'envoi simultané
-à la personne sollicitée d'une note d'information.
-
-Cette note d'information doit notamment fournir des indications précises sur la nature des engagements pris par celui qui
-propose le contrat et sur la portée des obligations qui incomberont au souscripteur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 18 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-11 (Ab)
-  - Code monétaire et financier - art. L342-12 (Ab)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-16 (Ab)
-
-
-###### Article L342-16
-
-Préalablement à leur diffusion, le bulletin de souscription et la note d'information prévus aux articles L. 342-13 et L.
-342-15 sont soumis au visa de la commission des opérations de bourse.
-
-La commission des opérations de bourse peut subordonner l'octroi de son visa à une modification de la présentation ou de la
-teneur de ces documents. Elle peut demander toutes explications et justifications nécessaires. S'il n'est pas satisfait à ses
-demandes, elle peut refuser son visa.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 19 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-13 (Ab)
-  - Code monétaire et financier - art. L342-15 (Ab)
-
-
-###### Article L342-17
-
-La commission des opérations de bourse peut, en vue de vérifier leur sincérité et leur conformité à la réglementation, exiger
-communication de tous les autres documents qui, à l'occasion des opérations de démarchage mentionnées aux articles L. 342-11
-et L. 342-12, peuvent être adressés ou remis à des particuliers, ou diffusés par des moyens audiovisuels.
-
-Elle peut demander également la communication préalable de tous les documents relatifs aux opérations mentionnées aux
-articles L. 342-11 et L. 342-12 et destinés au public ou aux porteurs de contrats, quels que soient le moyen et le lieu des
-distributions, publications, remises ou diffusions.
-
-La commission des opérations de bourse peut faire modifier la présentation ou la teneur de ces documents. Toutefois, en
-l'absence de refus explicite de sa part dans un délai de vingt et un jours à compter de la communication, les documents
-peuvent être distribués, publiés, remis ou diffusés.
-
-La commission conserve le pouvoir de demander à tout moment la modification des documents ou d'en exiger le retrait immédiat.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 20 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-11 (Ab)
-  - Code monétaire et financier - art. L342-12 (Ab)
-
-
-###### Article L342-18
-
-Lorsqu'une personne, sollicitée par un démarcheur dans les conditions prévues par l'article L. 342-11 est amenée à souscrire,
-lors de la visite de ce démarcheur, un engagement sur les opérations que celui-ci lui a proposées, un délai qui ne peut être
-inférieur à quinze jours doit lui être laissé à compter de la souscription pour dénoncer cet engagement.
-
-La renonciation au bénéfice du délai est nulle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 21 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Code des assurances - art. L131-3 (Ab)
-  - Code monétaire et financier - art. L342-13 (Ab)
-  - Code monétaire et financier - art. L342-19 (Ab)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-11 (Ab)
-
-
-###### Article L342-19
-
-Sous réserve des dispositions de l'article L. 131-3 du code des assurances, la dénonciation prévue à l'article L. 342-18
-entraîne la restitution de l'intégralité des sommes éventuellement versées par le souscripteur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L342-18 (Ab)
-  - Code des assurances - art. L131-3 (V)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L353-5 (M)
-
-
-###### Article L342-20
-
-Il ne peut être dérogé par des conventions particulières aux dispositions du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 du 3 janvier 1972 - art. 35 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-
-###### Article L342-21
-
-Des décrets en Conseil d'Etat fixent les modalités d'application du présent chapitre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°72-6 1972-01-03 art. 12 et art. 32
-  - Loi n°72-6 du 3 janvier 1972 - art. 12 (Ab)
-  - Loi n°72-6 du 3 janvier 1972 - art. 32 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L342-3 (M)
-  - Code monétaire et financier - art. L342-6 (Ab)
-  - Code monétaire et financier - art. L342-7 (Ab)
-
-
-#### Chapitre III : Démarchage concernant les opérations sur le marché à terme.<a id=190></a>
-
-###### Article L343-1
-
-Le démarchage en vue d'opérations sur le marché à terme n'est autorisé que dans les limites et sous les conditions prévues
-par le présent chapitre sans préjudice du régime spécifique des fonds communs d'intervention sur les marchés à terme.
-
-Constitue une activité de démarchage au sens du présent chapitre, le fait de se rendre habituellement, soit au domicile ou à
-la résidence des personnes, soit sur leurs lieux de travail, soit dans les lieux ouverts au public et non réservés à de
-telles fins, en vue de conseiller une participation à des opérations sur ce marché ou de recueillir des ordres à cet effet,
-quel que soit le lieu où les ordres d'opérations ou le contrat liant le donneur d'ordre à celui qui les a recueillis ou
-exécutés ont été passés ou conclus.
-
-Sont également considérés comme acte de démarchage, les offres de services faites ou les conseils donnés, de façon
-habituelle, en vue des mêmes fins, dans les lieux mentionnés à l'alinéa précédent, par l'envoi de tout document d'information
-ou de publicité, ou par tout moyen de communication.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1885-03-28 art. 10
-  - Loi n°1885-03-28 du 28 mars 1885 - art. 10 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-
-###### Article L343-2
-
-Seuls les prestataires de services d'investissement et les personnes mentionnés à l'article L. 421-8, peuvent recourir au
-démarchage en vue d'opérations sur les instruments financiers à terme.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1885-03-28 du 28 mars 1885 - art. 11 (Ab)
-  - Code monétaire et financier - art. L344-3 (T)
-  - Loi n°1885-03-28 art. 11
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L343-4 (Ab)
-  - Code monétaire et financier - art. L343-5 (Ab)
-  - Code monétaire et financier - art. L343-6 (Ab)
-  - Code monétaire et financier - art. L353-6 (M)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L421-8 (M)
-
-
-###### Article L343-3
-
-Toute personne qui se livre au démarchage en vue d'opérations sur le marché à terme est tenue d'être porteur d'une carte
-d'emploi délivrée par la personne ou l'établissement habilité à recourir à ce démarchage pour le compte duquel elle
-intervient à un titre quelconque. Elle doit produire cette carte lors de tout acte de démarchage ; elle ne peut détenir
-qu'une seule carte.
-
-Cette carte, dont la validité est limitée à un an, mentionne les opérations pour lesquelles son titulaire a vocation à se
-livrer au démarchage.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L343-4 (Ab)
-  - Code monétaire et financier - art. L343-6 (Ab)
-  - Code monétaire et financier - art. L622-20 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°1885-03-28 art. 12
-  - Loi n°1885-03-28 du 28 mars 1885 - art. 12 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-
-###### Article L343-4
-
-I. - Les personnes mentionnées à l'article L. 343-2 doivent déposer au parquet du procureur de la République de leur domicile
-ou de leur siège social, ou du siège de leurs succursales ou agences, une déclaration écrite contenant les noms, adresse et
-état-civil des personnes auxquelles elles comptent délivrer la carte prévue à l'article L. 343-3.
-
-II. - Cette carte ne peut être délivrée qu'à des personnes majeures. Elles doivent être de nationalité française ou
-ressortissantes de l'un des Etats membres de la Communauté européenne, sous réserve des conventions internationales.
-
-Cette carte ne peut être délivrée qu'après l'expiration d'un délai d'un mois à compter de la remise de la déclaration au
-parquet.
-
-III. - Le procureur de la République peut, par une décision motivée, interdire la délivrance de la carte d'emploi ou ordonner
-son retrait par la personne qui l'a délivrée. La décision du procureur de la République est immédiatement exécutoire et peut
-faire l'objet par tout intéressé d'un recours devant le tribunal de grande instance.
-
-Toute modification des indications prévues au I ainsi que tout retrait de cette carte doivent être notifiés au procureur de
-la République.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1885-03-28 art. 13 al. 1, al. 2, al. 3, al. 4, al. 5 et al. 6
-  - Loi n°1885-03-28 du 28 mars 1885 - art. 13 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L343-2 (Ab)
-  - Code monétaire et financier - art. L343-3 (Ab)
-
-
-###### Article L343-5
-
-Les personnes mentionnées à l'article L. 343-2 sont civilement responsables du dommage causé par le fait des démarcheurs,
-agissant à ce titre, auxquels elles ont délivré une carte d'emploi. Nonobstant toute convention contraire, ces démarcheurs
-sont considérés comme leurs préposés au sens de l'article 1384 du code civil.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1885-03-28 du 28 mars 1885 - art. 14 (Ab)
-  - Loi n°1885-03-28 art. 14
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code civil - art. 1384 (M)
-  - Code monétaire et financier - art. L343-2 (Ab)
-
-
-###### Article L343-6
-
-Les personnes mentionnées aux articles L. 343-2 et L. 343-3 ne peuvent recueillir ni ordres ni fonds des personnes qu'elles
-ont démarchées avant l'expiration d'un délai de sept jours, jours fériés compris, à compter de la délivrance, par lettre
-recommandée avec avis de réception, d'une note d'information sur les marchés à terme, les opérations qui s'y font et les
-engagements incombant aux personnes qui y participent. Cette note est soumise au visa de la commission des opérations de
-bourse.
-
-Avant l'expiration de ce délai de sept jours, nul ne peut exiger ou obtenir de la personne sollicitée, directement ou
-indirectement, à quelque titre ou sous quelque forme que ce soit, une contrepartie quelconque, pécuniaire ou non, ni aucun
-engagement sur remise de fonds. Ce délai ne s'applique que lors du premier ordre ou du premier mandat de gestion donné sur le
-marché à terme à la personne pour le compte de laquelle le démarchage est fait.
-
-Les fonds correspondant aux ordres recueillis ne peuvent en aucun cas être remis aux démarcheurs.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1885-03-28 art. 14 bis
-  - Loi n°1885-03-28 du 28 mars 1885 - art. 14 bis (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L343-2 (Ab)
-  - Code monétaire et financier - art. L343-3 (Ab)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L353-6 (M)
-
-
-#### Chapitre IV : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers<a id=191></a>
-
-##### Section 1 : Opérations sur matières précieuses.<a id=192></a>
-
-###### Article L344-1
-
-Sont interdits le colportage et le démarchage en vue de la vente, de l'achat ou de l'échange de l'or en lingots, barres,
-monnaies étrangères et pièces d'or démonétisées.
-
-Se livre au colportage de ces matières celui qui se rend au domicile des particuliers, autres que les banquiers, agents de
-change et négociants en métaux précieux, ou dans les lieux publics non réservés à cet effet, pour offrir ou se procurer les
-matières ci-dessus désignées, avec livraison et paiement immédiats, en totalité ou en partie, soit en numéraire, soit en
-valeurs.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Transféré par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L342-1 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L344-2 (T)
-
-_Anciens textes_:
-
-  - Décret n°1938-11-12 art. 4 al. 1 et al. 2
-
-
-###### Article L344-2
-
-I. - Se livre au démarchage des matières mentionnées au premier alinéa de l'article L. 344-1 celui qui se rend habituellement
-au domicile des particuliers, autres que les banquiers, agents de change, négociants en métaux précieux, ou dans les lieux
-publics non réservés à cet effet, pour conseiller l'achat, la vente ou l'échange de ces matières, ou pour offrir de
-participer soit à des opérations à terme sur les mêmes matières, soit à des syndicats ayant pour objet des opérations fondées
-sur des différences de cours et portant sur les mêmes matières.
-
-II. - Sont également considérées comme actes de démarchage interdits par l'article L. 344-1, les offres de service faites de
-façon habituelle, par lettres, circulaires, communications téléphoniques ou tout autre moyen, au domicile des personnes
-autres que les banquiers, agents de change, négociants en métaux précieux ou dans les lieux publics non réservés à cet effet
-en vue des opérations mentionnées au I.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Transféré par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L342-2 (M)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L344-1 (T)
-
-_Anciens textes_:
-
-  - Décret n°1938-11-12 art. 4 al. 3 et al. 4
-
-
-##### Section 2 : Opérations sur les billets de banque étrangers.<a id=193></a>
-
-###### Article L344-3
-
-Sont interdits le colportage et le démarchage en vue de la vente ou de l'échange des billets de banque étrangers.
-
-Se livre au colportage des billets de banque étrangers celui qui se rend au domicile des particuliers, autres que les
-banquiers et agents de change, ou dans les lieux publics, pour offrir ou se procurer ces billets avec livraison et paiement
-immédiats, en totalité ou en partie, soit en numéraire, soit en valeurs.
-
-Se livre au démarchage des billets de banque étrangers celui qui se rend habituellement au domicile des particuliers, autres
-que les banquiers et agents de change, ou dans les lieux publics, pour conseiller l'achat, la vente ou l'échange de ces
-billets, la participation à des opérations sur ces billets, ou pour offrir de participer, soit à des opérations à terme sur
-les mêmes billets, soit à des syndicats ayant pour objet des opérations fondées sur des différences de cours et portant sur
-les mêmes billets.
-
-Sont également considérées comme actes de démarchage interdits par le présent article les offres de service faites de façon
-habituelle (par lettres, circulaires, communications téléphoniques ou tout autre moyen) au domicile des personnes, autres que
-les banquiers et agents de change, ou dans les lieux publics, en vue des opérations mentionnées à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°1938-11-12 art. 5
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Transféré par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L342-3 (M)
-  - Code monétaire et financier - art. L343-2 (V)
-
-
-### Titre V : Dispositions pénales<a id=194></a>
-
-#### Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client<a id=195></a>
+#### Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client<a id=204></a>
 
 ###### Article L351-1
 
@@ -18915,7 +19035,7 @@ _Cite_:
   - Code monétaire et financier - art. L312-1-3 (M)
 
 
-#### Chapitre II : Infractions relatives au fonds de garantie des déposants<a id=196></a>
+#### Chapitre II : Infractions relatives au fonds de garantie des déposants<a id=205></a>
 
 ###### Article L352-1
 
@@ -18946,19 +19066,33 @@ _Cité par_:
   - Code monétaire et financier - art. L763-2 (VD)
 
 
-#### Chapitre III : Infractions relatives au démarchage<a id=197></a>
+#### Chapitre III : Infractions relatives au démarchage<a id=206></a>
 
-##### Section 1 : Opérations de banque.<a id=198></a>
+##### Section 1 : Démarchage en matière bancaire ou financière<a id=207></a>
 
 ###### Article L353-1
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 45000 euros, le fait, pour toute personne, de méconnaître les
-obligations prévues aux articles L. 341-1 et L. 341-2 portant sur des opérations de banque.
+Est puni de six mois d'emprisonnement et de 7 500 euros d'amende :
 
-Le tribunal peut, en outre, prononcer la fermeture, provisoire ou définitive, de l'entreprise dont l'une des personnes
-chargées de l'administration ou de la direction est condamnée en application du premier alinéa et assortir éventuellement sa
-décision de la nomination d'un administrateur ou d'un liquidateur. En cas de fermeture, les dispositions de l'avant-dernier
-alinéa de l'article L. 313-5 du code de la consommation sont applicables.
+1° Le fait, pour toute personne, de se livrer à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1
+sans avoir obtenu une carte de démarchage en cas d'activité réalisée dans les conditions de l'article L. 341-8 ;
+
+2° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1, de
+ne pas communiquer à la personne démarchée les informations et documents mentionnés à l'article L. 341-12 et à l'avant-
+dernier alinéa de l'article L. 341-6 ;
+
+3° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1, de
+ne pas respecter les règles relatives à la signature du contrat prévues à l'article L. 341-14 ;
+
+4° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1, de
+ne pas permettre à la personne démarchée de bénéficier du délai de rétractation mentionné à l'article L. 341-16 sous réserve
+des dérogations prévues à cet article ;
+
+5° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie au deuxième alinéa de
+l'article L. 341-1, de recevoir des personnes démarchées des ordres ou des fonds en vue de la fourniture de services de
+réception-transmission et exécution d'ordres pour le compte de tiers mentionnés à l'article L. 321-1, ou d'instruments
+financiers mentionnés à l'article L. 221-1, avant l'expiration du délai de quarante-huit heures mentionné au IV de l'article
+L. 341-16.
 
 **Liens relatifs à cet article**
 
@@ -18983,29 +19117,46 @@ _Cité par_:
   - Code monétaire et financier - art. L753-10 (VT)
   - Code monétaire et financier - art. L763-10 (MMN)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
+
 _Cite_:
 
-  - Code de la consommation - art. L313-5 (M)
+  - Code monétaire et financier - art. L221-1 (M)
+  - Code monétaire et financier - art. L321-1 (M)
   - Code monétaire et financier - art. L341-1 (M)
-  - Code monétaire et financier - art. L341-2 (M)
+  - Code monétaire et financier - art. L341-12 (M)
+  - Code monétaire et financier - art. L341-14 (M)
+  - Code monétaire et financier - art. L341-16 (M)
+  - Code monétaire et financier - art. L341-6 (M)
+  - Code monétaire et financier - art. L341-8 (M)
 
 
 ###### Article L353-2
 
-Est puni d'une amende de 4500 euros, le fait, pour toute personne, de méconnaître les obligations prescrites au titre des
-opérations de banque à l'article L. 341-3, au deuxième alinéa de l'article L. 341-4 et au premier alinéa de l'article L.
-341-5.
+Est puni des peines prévues à l'article 313-1 du code pénal :
 
-Est puni de la même peine le fait, pour le démarcheur, de ne pas restituer à l'établissement qui la lui a délivrée la carte
-d'emploi prévue à l'article L. 341-4, dans les vingt-quatre heures de la demande qui lui est faite par lettre recommandée.
+1° Le fait, pour toute personne, de recourir à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1
+sans remplir les conditions prévues aux articles L. 341-3 et L. 341-4 ;
+
+2° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier définie à l'article L. 341-1, de
+proposer des produits interdits de démarchage mentionnés à l'article L. 341-10 ;
+
+3° Le fait, pour toute personne, d'exercer ou de tenter d'exercer une activité de démarchage bancaire ou financier en
+violation de l'interdiction prévue à l'article L. 341-9 ;
+
+4° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier, de proposer aux personnes
+démarchées des produits, instruments financiers et services autres que ceux pour lesquels elle a reçu des instructions
+expresses de la ou des personnes pour le compte de laquelle ou desquelles elle agit ;
+
+5° Le fait, pour toute personne se livrant à l'activité de démarchage bancaire ou financier, de recevoir des personnes
+démarchées des espèces, des effets de commerce, des valeurs ou chèques au porteur ou à son nom ou tout paieront par un autre
+moyen.
 
 **Liens relatifs à cet article**
 
@@ -19021,26 +19172,36 @@ _Cité par_:
   - Code monétaire et financier - art. L753-10 (M)
   - Code monétaire et financier - art. L763-10 (M)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
+
 _Cite_:
 
+  - Code pénal - art. 313-1 (M)
+  - Code monétaire et financier - art. L341-1 (M)
+  - Code monétaire et financier - art. L341-10 (M)
   - Code monétaire et financier - art. L341-4 (M)
-  - Code monétaire et financier - art. L341-5 (M)
+  - Code monétaire et financier - art. L341-9 (M)
 
-
-##### Section 2 : Opérations sur les valeurs mobilières.<a id=199></a>
 
 ###### Article L353-3
 
-Est puni d'une amende de 4500 euros, le fait, pour toute personne, de méconnaître les obligations prescrites au titre des
-opérations sur valeurs mobilières par l'article L. 342-8.
+Les personnes physiques coupables de l'un des délits mentionnés aux articles L. 353-1 et L. 353-2 encourent également les
+peines complémentaires suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 du code
+pénal ; 
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer une fonction publique ou
+d'exercer une activité professionnelle ou sociale dans l'exercice ou à l'occasion de laquelle l'infraction a été commise,
+pour une durée de cinq ans au plus ; 
+
+3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -19048,28 +19209,39 @@ _Anciens textes_:
 
   - Loi n°72-6 du 3 janvier 1972 - art. 8 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code pénal - art. 131-26 (V)
+  - Code pénal - art. 131-27 (V)
+  - Code pénal - art. 131-35 (V)
+  - Code monétaire et financier - art. L353-1 (V)
 
 _Cité par_:
 
   - Code monétaire et financier - art. L342-11 (Ab)
 
-_Cite_:
-
-  - Code monétaire et financier - art. L342-8 (Ab)
-
 
 ###### Article L353-4
 
-Est puni des peines prévues aux articles 313-1, 313-7 et 313-8 du code pénal, le fait, pour toute personne, de méconnaître
-les obligations prescrites au titre des opérations sur les valeurs mobilières par les articles L. 342-1, L. 342-3, L. 342-5,
-au premier alinéa de l'article L. 342-7, au cinquième alinéa de l'article L. 342-8 et à l'article L. 342-9.
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies aux articles L. 353-1 et L. 353-2.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de ce même article porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
@@ -19091,23 +19263,24 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
+
 _Cite_:
 
-  - Code pénal - art. 313-1 (M)
-  - Code pénal - art. 313-7 (MMN)
-  - Code pénal - art. 313-8 (M)
-  - Code monétaire et financier - art. L342-1 (M)
-  - Code monétaire et financier - art. L342-3 (M)
-  - Code monétaire et financier - art. L342-5 (Ab)
-  - Code monétaire et financier - art. L342-7 (Ab)
-  - Code monétaire et financier - art. L342-8 (Ab)
-  - Code monétaire et financier - art. L342-9 (Ab)
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
+  - Code monétaire et financier - art. L353-1 (M)
+  - Code monétaire et financier - art. L353-2 (M)
 
 
 ###### Article L353-5
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 6000 euros, le fait, pour toute personne, de méconnaître les
-obligations prescrites par les articles L. 342-6, L. 342-13 à L. 342-17 et L. 342-19.
+Les agents mentionnés à l'article L. 450-1 du code de commerce sont qualifiés pour procéder à la recherche et à la
+constatation des infractions prévues aux articles L. 353-1 et L. 353-2 du présent code dans les conditions fixées par les
+articles L. 450-2 à L. 450-4, L. 450-7 et L. 450-8 du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -19115,19 +19288,20 @@ _Anciens textes_:
 
   - Loi n°72-6 du 3 janvier 1972 - art. 33 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
+
 _Cite_:
 
-  - Code monétaire et financier - art. L342-19 (Ab)
-  - Code monétaire et financier - art. L342-6 (Ab)
-  - Code monétaire et financier L342-6, L342-13 à L342-17, L342-19
+  - Code de commerce - art. L450-1 (V)
+  - Code de commerce - art. L450-2 (V)
+  - Code de commerce - art. L450-7 (V)
+  - Code monétaire et financier - art. L353-1 (V)
 
 _Cité par_:
 
@@ -19135,30 +19309,35 @@ _Cité par_:
   - Code monétaire et financier - art. L519-6 (V)
 
 
-##### Section 3 : Marché à terme.<a id=200></a>
+##### Section 2 : Opérations sur matières précieuses et billets de banque étrangers<a id=208></a>
 
 ###### Article L353-6
 
-Est puni des peines prévues par les articles 313-1,313-7 et 313-8 du code pénal, le fait, pour toute personne, de méconnaître
-les obligations prescrites au titre des opérations sur les marchés à terme aux articles L. 343-2 à L. 343-4 et L. 343-6.
+Est puni d'un emprisonnement de six mois et d'une amende de 9 000 euros, le fait, pour toute personne, de méconnaître les
+obligations prescrites au titre des opérations sur matières précieuses et des billets de banque, par les articles L. 342-1 à
+L. 342-3. 
+
+La saisie et la confiscation des matières mentionnées aux articles L. 342-1 à L. 342-3 sont obligatoires.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°1885-03-28 du 28 mars 1885 - art. 16 (Ab)
-  - Loi n°1885-03-28 art. 16
+  - Code monétaire et financier - art. L353-7 (M)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 50 (V) JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
+
 _Cite_:
 
-  - Code pénal - art. 313-1 (V)
-  - Code pénal - art. 313-7 (V)
-  - Code monétaire et financier - art. L343-2 (V)
-  - Code monétaire et financier - art. L343-6 (Ab)
+  - Code monétaire et financier - art. L342-1 (V)
 
 _Cité par_:
 
@@ -19171,40 +19350,11 @@ _Cité par_:
   - Code monétaire et financier - art. L763-11 (V)
 
 
-##### Section 4 : Opérations sur matières précieuses et billets de banque étrangers.<a id=201></a>
+## Livre IV : Les marchés<a id=209></a>
 
-###### Article L353-7
+### Titre Ier : L'appel public à l'épargne<a id=210></a>
 
-Est puni d'un emprisonnement de six mois et d'une amende de 9000 euros, le fait, pour toute personne, de méconnaître les
-obligations prescrites au titre des opérations sur matières précieuses et des billets de banque, par les articles L. 344-1 à
-L. 344-3.
-
-La saisie et la confiscation des matières mentionnées aux articles L. 344-1 à L. 344-3 sont obligatoires.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Transféré par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 53 () JORF 2 août 2003
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L353-6 (V)
-
-
-## Livre IV : Les marchés<a id=202></a>
-
-### Titre Ier : L'appel public à l'épargne<a id=203></a>
-
-#### Chapitre Ier : Définition.<a id=204></a>
+#### Chapitre Ier : Définition.<a id=211></a>
 
 ###### Article L411-1
 
@@ -19412,9 +19562,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-#### Chapitre II : Conditions de l'appel public à l'épargne<a id=205></a>
+#### Chapitre II : Conditions de l'appel public à l'épargne<a id=212></a>
 
-##### Section 1 : Obligations générales de publicité.<a id=206></a>
+##### Section 1 : Obligations générales de publicité.<a id=213></a>
 
 ###### Article L412-1
 
@@ -19422,7 +19572,7 @@ Sans préjudice des autres dispositions qui leur sont applicables, les personnes
 public à l'épargne doivent, au préalable, publier et tenir à la disposition de toute personne intéressée un document destiné
 à l'information du public, portant sur le contenu et les modalités de l'opération qui en fait l'objet, ainsi que sur
 l'organisation, la situation financière et l'évolution de l'activité de l'émetteur, dans des conditions prévues par un
-règlement de la commission des opérations de bourse. Ce document est rédigé en français ou, dans les cas définis par le
+règlement général de l'Autorité des marchés financiers. Ce document est rédigé en français ou, dans les cas définis par le
 règlement mentionné ci-dessus, dans une autre langue usuelle en matière financière. Il doit alors être accompagné d'un résumé
 rédigé en français, dans les conditions déterminées par le même règlement. 
 
@@ -19447,13 +19597,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
-
 _Modifié par_:
 
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -19507,7 +19653,7 @@ _Cité par_:
   - Code monétaire et financier - art. R533-15 (VT)
 
 
-##### Section 2 : Interdictions et sanctions<a id=207></a>
+##### Section 2 : Interdictions et sanctions<a id=214></a>
 
 ###### Article L412-2
 
@@ -19600,18 +19746,17 @@ _Anciens textes_:
   - Code de commerce L252-10 al. 1
 
 
-### Titre II : Les catégories de marchés<a id=208></a>
+### Titre II : Les catégories de marchés<a id=215></a>
 
-#### Chapitre Ier : Marchés réglementés français<a id=209></a>
+#### Chapitre Ier : Marchés réglementés français<a id=216></a>
 
-##### Section 1 : Reconnaissance et retrait de la qualité de marché réglementé.<a id=210></a>
+##### Section 1 : Reconnaissance et retrait de la qualité de marché réglementé.<a id=217></a>
 
 ###### Article L421-1
 
 La reconnaissance de la qualité de marché réglementé d'instruments financiers est décidée par arrêté du ministre chargé de
-l'économie sur la proposition du conseil des marchés financiers et après avis de la commission des opérations de bourse ainsi
-que de la Banque de France. Cet arrêté est publié au Journal officiel de la République française. Les règles du marché sont
-publiées dans des conditions fixées par le conseil des marchés financiers.
+l'économie sur la proposition de l'Autorité des marchés financiers. Cet arrêté est publié au Journal officiel de la
+République française. Les règles du marché sont publiées dans des conditions fixées par l'Autorité des marchés financiers.
 
 Le retrait de la qualité de marché réglementé est prononcé soit à la demande de l'entreprise de marché, soit d'office lorsque
 les conditions ayant justifié la reconnaissance ne sont plus remplies ou lorsque le marché ne fonctionne plus depuis au moins
@@ -19629,11 +19774,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 2001-12-11 art. 27 3° JORF 12 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -19741,7 +19882,7 @@ _Cite_:
   - Code monétaire et financier - art. L421-1 (M)
 
 
-##### Section 2 : Conditions de fonctionnement des marchés réglementés.<a id=211></a>
+##### Section 2 : Conditions de fonctionnement des marchés réglementés.<a id=218></a>
 
 ###### Article L421-3
 
@@ -19751,15 +19892,12 @@ l'article L. 441-1, les conditions d'accès au marché et d'admission à la cota
 transactions, les conditions de suspension des négociations d'un ou plusieurs instruments financiers, les règles relatives à
 l'enregistrement et à la publicité des négociations.
 
-Ces règles sont approuvées par le conseil des marchés financiers.
+Ces règles sont approuvées par l'Autorité des marchés financiers.
 
-Les modifications de ces règles sont notifiées au conseil des marchés financiers, à la commission des opérations de bourse et
-à la Banque de France. Le conseil se prononce sur leur compatibilité avec la reconnaissance mentionnée à l'article L. 421-1,
-informe la commission des opérations de bourse et la Banque de France de sa décision, et saisit le ministre chargé de
-l'économie en cas de constat d'une incompatibilité de ces modifications avec la décision de reconnaissance. En cas de
-désaccord avec la décision prise par le conseil des marchés financiers, la commission des opérations de bourse ou la Banque
-de France peuvent saisir le ministre chargé de l'économie dans un délai de quinze jours après la transmission de la décision
-du conseil des marchés financiers.
+Les modifications de ces règles sont notifiées à l'Autorité des marchés financiers et à la Banque de France. L'Autorité des
+marchés financiers se prononce sur leur compatibilité avec la reconnaissance mentionnée à l'article L. 421-1, informe la
+Banque de France de sa décision, et saisit le ministre chargé de l'économie en cas de constat d'une incompatibilité de ces
+modifications avec la décision de reconnaissance.
 
 **Liens relatifs à cet article**
 
@@ -19787,6 +19925,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L421-1 (M)
@@ -19796,23 +19938,21 @@ _Cite_:
 ###### Article L421-4
 
 I. - L'admission d'instruments financiers aux négociations sur un marché réglementé est décidée par l'entreprise de marché,
-sous réserve du droit d'opposition de la commission des opérations de bourse.
+sous réserve du droit d'opposition de l'Autorité des marchés financiers.
 
 L'accord exprès de l'émetteur de l'instrument financier est requis.
 
 II. - Après en avoir informé l'émetteur, l'entreprise de marché peut suspendre, pour une durée déterminée et dans le cadre
 des règles du marché réglementé dont elle a la charge, la négociation d'un instrument financier admis aux négociations sur ce
-marché. Elle informe également de cette suspension le président de la commission des opérations de bourse et le président du
-conseil des marchés financiers. La suspension de la négociation d'un instrument financier peut être requise à titre
-exceptionnel, auprès de l'entreprise de marché, par le président de la commission des opérations de bourse afin d'assurer la
-protection de l'épargne publique. Cette suspension peut également être demandée par le président du conseil des marchés
-financiers, dans le cadre des compétences de ce conseil.
+marché. Elle informe également de cette suspension le président de l'Autorité des marchés financiers. La suspension de la
+négociation d'un instrument financier peut être requise à titre exceptionnel, auprès de l'entreprise de marché, par le
+président de l'Autorité des marchés financiers dans le cadre des compétences confiées à cette autorité.
 
 L'émetteur d'un instrument financier admis sur un marché réglementé peut demander, à l'entreprise de marché, la suspension de
 cet instrument afin de permettre l'information du public dans des conditions satisfaisantes.
 
 III. - La radiation d'un instrument financier est décidée par l'entreprise de marché, sous réserve du droit d'opposition de
-la commission des opérations de bourse.
+l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -19827,11 +19967,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 2001-12-11 art. 27 4° JORF 12 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+  - Loi n°2003-706 2003-08-01 art. 46 III 6°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -19851,10 +19988,10 @@ _Cité par_:
 
 ###### Article L421-5
 
-Lorsqu'un événement exceptionnel perturbe le fonctionnement régulier d'un marché réglementé, le président du conseil des
+Lorsqu'un événement exceptionnel perturbe le fonctionnement régulier d'un marché réglementé, le président de l'Autorité des
 marchés financiers ou, en cas d'empêchement, son représentant désigné à cet effet par lui peut suspendre tout ou partie des
 négociations, pour une durée n'excédant pas deux jours de négociations consécutifs. Au-delà de cette durée, la suspension est
-prononcée par arrêté du ministre chargé de l'économie pris sur proposition du président du conseil des marchés financiers.
+prononcée par arrêté du ministre chargé de l'économie pris sur proposition du président de l'Autorité des marchés financiers.
 
 Si la suspension sur un marché réglementé a duré plus de deux jours de négociations consécutifs, les opérations en cours à la
 date de suspension peuvent être compensées et liquidées dans les conditions définies par les règles du marché.
@@ -19870,13 +20007,17 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Arrêté du 12 novembre 2004 - art. 511-14 (V)
   - Code monétaire et financier - art. L621-7 (V)
 
 
-##### Section 3 : Obligation d'intermédiation et monopole de négociation.<a id=212></a>
+##### Section 3 : Obligation d'intermédiation et monopole de négociation.<a id=219></a>
 
 ###### Article L421-6
 
@@ -19949,26 +20090,26 @@ _Cite_:
   - Code monétaire et financier - art. L421-6 (M)
 
 
-##### Section 4 : Régime des membres d'un marché réglementé.<a id=213></a>
+##### Section 4 : Régime des membres d'un marché réglementé.<a id=220></a>
 
 ###### Article L421-8
 
 Outre les prestataires de services d'investissement dûment agréés, sont autorisées, par dérogation à l'article L. 531-10, à
 être membre d'un marché réglementé d'instruments financiers :
 
-1. Les personnes physiques ou morales habilitées par le conseil des marchés financiers à fournir des services mentionnés aux
+1. Les personnes physiques ou morales habilitées par l'Autorité des marchés financiers à fournir des services mentionnés aux
 2 et 3 de l'article L. 321-1 ;
 
 2. Les personnes morales dont les membres ou associés sont indéfiniment et solidairement responsables des dettes et
 engagements de celles-ci, à condition que ces membres ou associés soient habilités à fournir les services mentionnés au 2 et
 au 3 de l'article L. 321-1 ;
 
-3. Les personnes physiques ou morales déjà habilitées au 4 juillet 1996 à fournir les services mentionnés du 2 et 3 de
+3. Les personnes physiques ou morales déjà habilitées au 4 juillet 1996 à fournir les services mentionnés aux 2 et 3 de
 l'article L. 321-1 sur des bourses de valeur, en fonctionnement régulier, placées sous le contrôle du conseil des bourses de
 valeur ainsi que sur les marchés à terme placés sous le contrôle du conseil du marché à terme.
 
 L'habilitation mentionnée aux 1 et 2 ci-dessus est délivrée au vu de conditions de compétence, d'honorabilité, de solvabilité
-et, en tant que de besoin, de capitaux propres et de garanties, définies par le règlement général du conseil des marchés
+et, en tant que de besoin, de capitaux propres et de garanties, définies par le règlement général de l'Autorité des marchés
 financiers.
 
 **Liens relatifs à cet article**
@@ -19981,6 +20122,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cite_:
 
@@ -20039,7 +20184,7 @@ _Cite_:
 ###### Article L421-10
 
 Les entreprises de marché ne peuvent limiter le nombre de prestataires de services d'investissement sur le marché dont elles
-ont la charge. Le conseil des marchés financiers veille à ce que les entreprises de marché adaptent, en tant que de besoin,
+ont la charge. L'Autorité des marchés financiers veille à ce que les entreprises de marché adaptent, en tant que de besoin,
 leur capacité technique aux demandes d'accès dont elles font l'objet.
 
 **Liens relatifs à cet article**
@@ -20052,6 +20197,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -20089,7 +20238,7 @@ _Cité par_:
   - Code monétaire et financier - art. L621-7 (V)
 
 
-##### Section 5 : Centralisation des ordres sur les marchés réglementés.<a id=214></a>
+##### Section 5 : Centralisation des ordres sur les marchés réglementés.<a id=221></a>
 
 ###### Article L421-12
 
@@ -20100,7 +20249,7 @@ un marché réglementé d'un Etat partie à l'accord sur l'Espace économique eu
 
 Par dérogation aux dispositions de l'alinéa précédent, les transactions qui y sont mentionnées peuvent être effectuées en
 dehors d'un marché réglementé si la demande en est faite par des investisseurs résidant habituellement ou établis sur le
-territoire français et si la transaction remplit les conditions définies par le règlement général du conseil des marchés
+territoire français et si la transaction remplit les conditions définies par le règlement général de l'Autorité des marchés
 financiers concernant son volume, le statut de l'investisseur, la nature de l'instrument financier négocié et l'information
 du marché réglementé sur lequel cet instrument est admis. Cette dérogation est accordée de plein droit pour toutes les
 transactions qui, incluses dans une convention autre qu'une vente pure et simple, en constituent un élément nécessaire.
@@ -20115,6 +20264,15 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Abrogé par_:
+
+  - Loi n°2005-811 du 20 juillet 2005 - art. 5 (V) JORF 21 juillet 2005
+  - Loi n°2007-212 du 20 février 2007 - art. 9 (V)
 
 _Cité par_:
 
@@ -20169,7 +20327,7 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-#### Chapitre II : Marchés réglementés européens.<a id=215></a>
+#### Chapitre II : Marchés réglementés européens.<a id=222></a>
 
 ###### Article L422-1
 
@@ -20242,7 +20400,7 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-#### Chapitre III : Marchés étrangers reconnus.<a id=216></a>
+#### Chapitre III : Marchés étrangers reconnus.<a id=223></a>
 
 ###### Article L423-1
 
@@ -20282,7 +20440,7 @@ _Cité par_:
   - Code monétaire et financier - art. R214-93 (V)
 
 
-#### Chapitre IV : Marché de l'or.<a id=217></a>
+#### Chapitre IV : Marché de l'or.<a id=224></a>
 
 ###### Article L424-1
 
@@ -20336,13 +20494,13 @@ _Cité par_:
   - Code monétaire et financier - art. L764-3 (MMN)
 
 
-### Titre III : Les négociations sur instruments financiers<a id=218></a>
+### Titre III : Les négociations sur instruments financiers<a id=225></a>
 
-#### Chapitre Ier : Dispositions générales<a id=219></a>
+#### Chapitre Ier : Dispositions générales<a id=226></a>
 
-##### Section 1 : Transfert de propriété des titres et mise en gage<a id=220></a>
+##### Section 1 : Transfert de propriété des titres et mise en gage<a id=227></a>
 
-##### Sous-section 1 : Transfert de propriété des titres.<a id=221></a>
+##### Sous-section 1 : Transfert de propriété des titres.<a id=228></a>
 
 ###### Article L431-1
 
@@ -20353,8 +20511,8 @@ premier alinéa de l'article L. 211-4 établit un bordereau de références nomi
 d'identification du donneur d'ordre, la nature juridique de ses droits et les restrictions dont l'instrument financier peut
 être frappé et porte un code permettant de déterminer l'opération à laquelle il se rattache.
 
-Le règlement général du Conseil des marchés financiers détermine les modalités et les délais de circulation du bordereau de
-références nominatives entre l'intermédiaire habilité, le dépositaire central et la personne morale émettrice.
+Le règlement général de l'Autorité des marchés financiers détermine les modalités et les délais de circulation du bordereau
+de références nominatives entre l'intermédiaire habilité, le dépositaire central et la personne morale émettrice.
 
 **Liens relatifs à cet article**
 
@@ -20365,11 +20523,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 2001-12-11 art. 27 5° JORF 12 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -20378,9 +20532,13 @@ _Cité par_:
   - Code de l'action sociale et des familles - art. R314-95 (V)
   - Code monétaire et financier - art. L734-5 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
 _Cite_:
 
-  - Code monétaire et financier - art. L211-4 (M)
+  - Code monétaire et financier - art. L211-4
 
 
 ###### Article L431-2
@@ -20467,7 +20625,7 @@ _Cite_:
   - Code monétaire et financier - art. L211-1 (M)
 
 
-##### Sous-section 2 : Mise en gage.<a id=222></a>
+##### Sous-section 2 : Mise en gage.<a id=229></a>
 
 ###### Article L431-4
 
@@ -20610,24 +20768,21 @@ _Cité par_:
   - Code monétaire et financier - art. L613-31 (M)
 
 
-##### Section 2 : Compensation.<a id=223></a>
+##### Section 2 : Compensation.<a id=230></a>
 
 ###### Article L431-7
 
-Les dettes et les créances afférentes aux opérations sur instruments financiers, lorsqu'elles sont effectuées dans le cadre
-du règlement général du Conseil des marchés financiers, ainsi que les dettes et les créances afférentes aux opérations sur
-instruments financiers ou transferts temporaires de propriété d'instruments financiers lorsqu'elles sont régies par une ou
-plusieurs conventions-cadres respectant les principes généraux de conventions-cadres de place, nationales ou internationales,
-et organisant les relations entre deux parties au moins, dont l'une est un prestataire de services d'investissement, ou un
-établissement public ou une institution, entreprise ou un établissement bénéficiaire des dispositions de l'article L. 531-2
-ou un établissement non résident ayant un statut comparable, sont compensables selon les modalités prévues par ledit
-règlement ou lesdites conventions-cadres et peuvent donner lieu à l'établissement d'un solde unique compensé.
+Les dettes et les créances afférentes à toutes opérations sur instruments financiers, lorsqu'elles sont effectuées dans le
+cadre du règlement général de l'Autorité des marchés financiers ou lorsqu'elles sont régies par une ou plusieurs conventions-
+cadres respectant les principes généraux de conventions-cadres de place, nationales ou internationales, et organisant les
+relations entre deux parties au moins, dont l'une est un prestataire de services d'investissement ou un établissement public
+ou une institution, entreprise ou un établissement bénéficiaire des dispositions de l'article L. 531-2 ou un établissement
+non résident ayant un statut comparable, sont compensables selon les modalités prévues par ledit règlement, la ou lesdites
+conventions-cadres et peuvent donner lieu à l'établissement d'un solde unique compensé.
 
-S'il existe deux conventions-cadres ou plus entre les parties, celles-ci - pour autant que ces parties soient un
-établissement de crédit, une entreprise d'investissement, une institution visée à l'article L. 518-1 ou un établissement non
-résident ayant un statut comparable - peuvent les lier entre elles en sorte que les soldes résultant de la compensation qui
-viendrait à être effectuée pour chaque convention-cadre conformément à l'alinéa précédent fassent à leur tour l'objet d'une
-compensation entre eux.
+S'il existe deux conventions-cadres ou plus entre les parties, celles-ci peuvent les lier entre elles en sorte que les soldes
+résultant de la compensation qui viendrait à être effectuée pour chaque convention-cadre conformément à l'alinéa précédent
+fassent à leur tour l'objet d'une compensation entre eux.
 
 Lorsque l'une des parties fait l'objet de l'une des procédures prévues par le livre VI du code de commerce, ledit règlement
 ou lesdites conventions-cadres peuvent prévoir la résiliation de plein droit des opérations mentionnées aux premier et
@@ -20695,17 +20850,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 38 1°, art. 39 JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 39 () JORF 2 août 2003
 
 _Cite_:
 
-  - Code monétaire et financier - art. L518-1 (M)
   - Code monétaire et financier - art. L531-2 (M)
 
 
-#### Chapitre II : Formes particulières de cessions d'instruments financiers<a id=224></a>
+#### Chapitre II : Formes particulières de cessions d'instruments financiers<a id=231></a>
 
-##### Section 1 : Vente à crédit.<a id=225></a>
+##### Section 1 : Vente à crédit.<a id=232></a>
 
 ###### Article L432-1
 
@@ -20806,7 +20961,7 @@ _Cité par_:
   - Code monétaire et financier - art. L463-2 (Ab)
 
 
-##### Section 2 : Adjudication.<a id=226></a>
+##### Section 2 : Adjudication.<a id=233></a>
 
 ###### Article L432-5
 
@@ -20845,14 +21000,13 @@ _Abrogé par_:
   - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 
-##### Section 3 : Cessions temporaires<a id=227></a>
+##### Section 3 : Cessions temporaires<a id=234></a>
 
-##### Sous-section 1 : Prêt de titres.<a id=228></a>
+##### Sous-section 1 : Prêt de titres.<a id=235></a>
 
 ###### Article L432-6
 
-Les dispositions des articles L. 432-8 et L. 432-9 sont applicables aux prêts de titres qui remplissent les conditions
-suivantes :
+Les dispositions de l'article L. 432-9 sont applicables aux prêts de titres qui remplissent les conditions suivantes :
 
 1. Le prêt porte sur des instruments financiers visés aux 1, 2 et 3 de l'article L. 211-1 ou sur tous instruments équivalents
 émis sur le fondement de droits étrangers ;
@@ -20867,7 +21021,7 @@ par le contrat d'émission ;
 
 4. Les titres sont empruntés par une personne morale soumise de plein droit à un régime réel d'imposition, par un organisme
 de placement collectif en valeurs mobilières, ou par une personne, société ou institution non résidente ayant un statut
-comparable .
+comparable.
 
 Les parties peuvent convenir de remises complémentaires, en pleine propriété, d'espèces ou de titres, pour tenir compte de
 l'évolution de la valeur des titres prêtés.
@@ -20877,10 +21031,10 @@ l'évolution de la valeur des titres prêtés.
 _Cite_:
 
   - CGI 1678 bis, 220
-  - Code civil 1892 à 1904
-  - Code monétaire et financier - art. L211-1 (M)
-  - Code monétaire et financier - art. L432-9 (V)
-  - Code monétaire et financier L432-8, L432-9, L211-1, 119 bis
+  - Code civil
+  - Code monétaire et financier
+  - Code monétaire et financier - art. L211-1
+  - Code monétaire et financier - art. L432-9
 
 _Anciens textes_:
 
@@ -20893,7 +21047,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 38 2° JORF 2 août 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 _Cité par_:
 
@@ -20948,39 +21106,6 @@ _Cité par_:
   - Code monétaire et financier - art. L744-8-1 (V)
   - Code monétaire et financier - art. L754-8-1 (V)
   - Code monétaire et financier - art. L764-8-1 (V)
-
-
-###### Article L432-8
-
-Les dispositions de l'article L. 431-7 sont applicables aux prêts de titres régis par une convention-cadre au sens de cet
-article et conclue entre les personnes ou fonds visés au 4 de l'article L. 432-6.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°87-416 du 17 juin 1987 - art. 33 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
-
-_Abrogé par_:
-
-  - Loi n°2003-706 2003-08-01 art. 38 2° JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L431-7 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L432-6 (M)
 
 
 ###### Article L432-9
@@ -21085,7 +21210,7 @@ _Abrogé par_:
   - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 
-##### Sous-section 2 : Pension.<a id=229></a>
+##### Sous-section 2 : Pension.<a id=236></a>
 
 ###### Article L432-12
 
@@ -21219,32 +21344,6 @@ _Cité par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
-###### Article L432-16
-
-Les dispositions de l'article L. 431-7 sont applicables aux pensions livrées régies par une convention-cadre au sens de cet
-article et conclues entre les personnes ou fonds visés au premier alinéa de l'article L. 432-12.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
-
-_Abrogé par_:
-
-  - Loi n°2003-706 2003-08-01 art. 38 3° JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L431-7 (M)
-  - Code monétaire et financier - art. L432-12 (M)
-
-
 ###### Article L432-17
 
 La rémunération du cessionnaire, quelle qu'en soit la forme, constitue un revenu de créance. Elle est traitée sur le plan
@@ -21338,7 +21437,7 @@ _Cité par_:
   - CODE GENERAL DES IMPOTS, CGI. - art. 39 (V)
 
 
-##### Section 4 : Opérations à terme.<a id=230></a>
+##### Section 4 : Opérations à terme.<a id=237></a>
 
 ###### Article L432-20
 
@@ -21375,48 +21474,13 @@ _Cite_:
   - Code monétaire et financier - art. L211-1 (M)
 
 
-###### Article L432-21
+#### Chapitre III : Opérations spécifiques aux marchés réglementés<a id=238></a>
 
-Les contrats à terme sur toutes marchandises et denrées qui ne donnent pas lieu à livraison sont passés entre deux ou
-plusieurs parties dont l'une au moins est un prestataire de services d'investissement, ou une institution, entreprise ou
-établissement mentionnés à l'article L. 531-2 ou un établissement non-résident ayant un statut comparable.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 46 II
-  - Loi n°96-597 du 2 juillet 1996 - art. 46 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 2003-08-01 art. 91 3° JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L531-2 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L532-18 (M)
-  - Code monétaire et financier - art. L734-9 (M)
-  - Code monétaire et financier - art. L744-9 (M)
-  - Code monétaire et financier - art. L754-9 (M)
-  - Code monétaire et financier - art. L764-9 (M)
-
-
-#### Chapitre III : Opérations spécifiques aux marchés réglementés<a id=231></a>
-
-##### Section 1 : Offres publiques d'achat et d'échange<a id=232></a>
+##### Section 1 : Offres publiques d'achat et d'échange<a id=239></a>
 
 ###### Article L433-1
 
-Afin d'assurer l'égalité des actionnaires et la transparence des marchés, le règlement général du conseil des marchés
+Afin d'assurer l'égalité des actionnaires et la transparence des marchés, le règlement général de l'Autorité des marchés
 financiers fixe les règles relatives aux offres publiques portant sur des instruments financiers négociés sur un marché
 réglementé ainsi que celles mentionnées aux articles L. 433-3 et L. 433-4.
 
@@ -21432,6 +21496,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -21458,10 +21526,10 @@ _Cite_:
 
 ###### Article L433-1-1
 
-Le règlement général du Conseil des marchés financiers fixe également les conditions dans lesquelles, lorsque plus de trois
-mois se sont écoulés depuis le dépôt d'un projet d'offre publique sur les titres d'une société, le conseil peut fixer, après
-avoir préalablement demandé aux parties de présenter leurs observations, une date de clôture définitive de toutes les offres
-publiques portant sur les titres de ladite société.
+Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles, lorsque plus de
+trois mois se sont écoulés depuis le dépôt d'un projet d'offre publique sur les titres d'une société, l'Autorité peut fixer,
+après avoir préalablement demandé aux parties de présenter leurs observations, une date de clôture définitive de toutes les
+offres publiques portant sur les titres de ladite société.
 
 **Liens relatifs à cet article**
 
@@ -21469,9 +21537,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 5 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -21501,18 +21569,18 @@ _Anciens textes_:
   - Code de commerce L225-129 IV
 
 
-##### Section 2 : Obligation de déposer un projet d'offre publique<a id=233></a>
+##### Section 2 : Obligation de déposer un projet d'offre publique<a id=240></a>
 
 ###### Article L433-3
 
-I. - Le règlement général du conseil des marchés financiers fixe les conditions dans lesquelles toute personne physique ou
+I. - Le règlement général de l'Autorité des marchés financiers fixe les conditions dans lesquelles toute personne physique ou
 morale agissant seule ou de concert au sens des dispositions de l'article L. 233-10 du code de commerce et venant à détenir,
 directement ou indirectement, une fraction du capital ou des droits de vote d'une société dont les actions sont admises aux
-négociations sur un marché réglementé, est tenue d'en informer immédiatement le conseil et de déposer un projet d'offre
+négociations sur un marché réglementé, est tenue d'en informer immédiatement l'Autorité et de déposer un projet d'offre
 publique en vue d'acquérir une quantité déterminée des titres de la société ; à défaut d'avoir procédé à ce dépôt, les titres
 qu'elle détient au-delà de la fraction du capital ou des droits de vote sont privés du droit de vote.
 
-II. - Le règlement général du conseil des marchés financiers fixe également les conditions dans lesquelles le projet
+II. - Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles le projet
 d'acquisition d'un bloc de titres conférant la majorité du capital ou des droits de vote d'une société dont les actions sont
 admises aux négociations sur un marché réglementé oblige le ou les acquéreurs à acheter les titres qui leur sont alors
 présentés au cours ou au prix auquel la cession du bloc est réalisée.
@@ -21526,9 +21594,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -21575,25 +21645,25 @@ _Cite_:
   - Code de commerce. - art. L233-10 (M)
 
 
-##### Section 3 : Offres publiques de retrait et retrait obligatoire<a id=234></a>
+##### Section 3 : Offres publiques de retrait et retrait obligatoire<a id=241></a>
 
 ###### Article L433-4
 
-I. - Le règlement général du conseil des marchés financiers fixe les conditions applicables aux procédures d'offre et de
+I. - Le règlement général de l'Autorité des marchés financiers fixe les conditions applicables aux procédures d'offre et de
 demande de retrait, lorsque le ou les actionnaires majoritaires d'une société dont les actions sont admises aux négociations
 sur un marché réglementé ou dont les titres ont cessé d'être négociés sur un marché réglementé détiennent de concert, au sens
 des dispositions de l'article L. 233-10 du code de commerce, une fraction déterminée des droits de vote ou lorsqu'une société
 dont les actions sont admises aux négociations sur un marché réglementé prend la forme d'une société en commandite par
 actions.
 
-II. - Le règlement général du conseil des marchés financiers fixe également les conditions dans lesquelles, à l'issue d'une
-procédure d'offre ou de demande de retrait, les titres non présentés par les actionnaires minoritaires, dès lors qu'ils ne
-représentent pas plus de 5 % du capital ou des droits de vote, sont transférés aux actionnaires majoritaires à leur demande,
-et les détenteurs indemnisés ; l'évaluation des titres, effectuée selon les méthodes objectives pratiquées en cas de cession
-d'actifs tient compte, selon une pondération appropriée à chaque cas, de la valeur des actifs, des bénéfices réalisés, de la
-valeur boursière, de l'existence de filiales et des perspectives d'activité. L'indemnisation est égale, par titre, au
-résultat de l'évaluation précitée ou, s'il est plus élevé, au prix proposé lors de l'offre ou la demande de retrait. Le
-montant de l'indemnisation revenant aux détenteurs non identifiés est consigné.
+II. - Le règlement général de l'Autorité des marchés financiers fixe également les conditions dans lesquelles, à l'issue
+d'une procédure d'offre ou de demande de retrait, les titres non présentés par les actionnaires minoritaires, dès lors qu'ils
+ne représentent pas plus de 5 % du capital ou des droits de vote, sont transférés aux actionnaires majoritaires à leur
+demande, et les détenteurs indemnisés ; l'évaluation des titres, effectuée selon les méthodes objectives pratiquées en cas de
+cession d'actifs tient compte, selon une pondération appropriée à chaque cas, de la valeur des actifs, des bénéfices
+réalisés, de la valeur boursière, de l'existence de filiales et des perspectives d'activité. L'indemnisation est égale, par
+titre, au résultat de l'évaluation précitée ou, s'il est plus élevé, au prix proposé lors de l'offre ou la demande de
+retrait. Le montant de l'indemnisation revenant aux détenteurs non identifiés est consigné.
 
 **Liens relatifs à cet article**
 
@@ -21624,14 +21694,18 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code de commerce. - art. L233-10 (M)
 
 
-### Titre IV : Les entreprises de marché et les chambres de compensation<a id=235></a>
+### Titre IV : Les entreprises de marché et les chambres de compensation<a id=242></a>
 
-#### Chapitre Ier : Entreprises de marché.<a id=236></a>
+#### Chapitre Ier : Entreprises de marché.<a id=243></a>
 
 ###### Article L441-1
 
@@ -21640,9 +21714,9 @@ marché réglementé d'instruments financiers.
 
 Toute personne qui vient à posséder, directement ou indirectement, une fraction du capital ou des droits de vote d'une
 entreprise de marché représentant plus du dixième, du cinquième, du tiers, de la moitié ou des deux tiers est tenue d'en
-informer le Conseil des marchés financiers, dans des conditions et selon des modalités prévues par décret. En cas de
-manquement à cette obligation déclarative et sans préjudice des dispositions de l'article L. 233-14 du code de commerce, le
-Conseil des marchés financiers ou tout actionnaire peut demander au juge de suspendre, jusqu'à régularisation de la
+informer l'Autorité des marchés financiers, dans des conditions et selon des modalités prévues par décret. En cas de
+manquement à cette obligation déclarative et sans préjudice des dispositions de l'article L. 233-14 du code de commerce,
+l'Autorité des marchés financiers ou tout actionnaire peut demander au juge de suspendre, jusqu'à régularisation de la
 situation, l'exercice des droits de vote attachés aux actions de l'entreprise de marché qui n'ont pas été régulièrement
 déclarées.
 
@@ -21650,18 +21724,15 @@ A la suite d'une prise ou d'une extension de participation, le ministre chargé 
 fonctionnement d'un marché réglementé et sans préjudice des dispositions de l'article L. 233-14 du code de commerce, demander
 au juge de suspendre, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux actions de
 l'entreprise de marché détenues directement ou indirectement. Sur proposition du Conseil des marchés financiers et après avis
-de la Commission des opérations de bourse et de la Banque de France, le ministre peut également procéder à une révision de la
-reconnaissance du marché réglementé ou à son retrait, dans les conditions prévues à l'article L. 421-1.
+de la Commission des opérations de bourse (1) et de la Banque de France, le ministre peut également procéder à une révision
+de la reconnaissance du marché réglementé ou à son retrait, dans les conditions prévues à l'article L. 421-1.
 
 **Nota:**
 
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+Nota (1) : Loi n° 2003-706 du 1er août 2003 article 46 V 1° :
 
 1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -21676,11 +21747,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 2001-12-11 art. 27 6° JORF 12 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -21694,43 +21761,6 @@ _Cite_:
 
   - Code de commerce. - art. L233-14 (M)
   - Code monétaire et financier - art. L421-1 (M)
-
-
-###### Article L441-2
-
-Les entreprises de marché délivrent les cartes professionnelles mentionnées au 3 du I de l'article L. 622-7 pour ce qui
-concerne l'accès au marché réglementé dont elles ont la charge.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 40 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi n°2001-1168 2001-12-11 art. 27 7° JORF 12 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 92 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 92 (V)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L622-7 (Ab)
 
 
 ###### Article L441-3
@@ -21762,13 +21792,13 @@ _Cité par_:
   - Code monétaire et financier - art. L464-2 (M)
 
 
-#### Chapitre II : Chambres de compensation.<a id=237></a>
+#### Chapitre II : Chambres de compensation.<a id=244></a>
 
 ###### Article L442-1
 
 Les chambres de compensation assurent la surveillance des positions, l'appel des marges et, le cas échéant, la liquidation
 d'office des positions. Elles doivent avoir la qualité d'établissement de crédit. Leurs règles de fonctionnement doivent
-avoir été approuvées par le conseil des marchés financiers.
+avoir été approuvées par l'Autorité des marchés financiers.
 
 Les relations entre une chambre de compensation et une personne mentionnée à l'article L. 442-2 sont de nature contractuelle.
 
@@ -21785,11 +21815,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 2001-12-11 art. 27 9° JORF 12 décembre 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
-**Liens**:
+_Transféré par_:
 
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
 
 _Nouveaux textes_:
 
@@ -22092,11 +22122,11 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L440-10 (V)
 
 
-### Titre V : La protection des investisseurs<a id=238></a>
+### Titre V : La protection des investisseurs<a id=245></a>
 
-#### Chapitre Ier : La transparence des marchés<a id=239></a>
+#### Chapitre Ier : La transparence des marchés<a id=246></a>
 
-##### Section 1 : Les obligations d'information relative aux comptes<a id=240></a>
+##### Section 1 : Les obligations d'information relative aux comptes<a id=247></a>
 
 ###### Article L451-1
 
@@ -22143,7 +22173,7 @@ _Abrogé par_:
   - PILOTE_SUIVEUR: Code de commerce - art. L232-8
 
 
-##### Section 2 : Obligation d'information sur les prises de participations<a id=241></a>
+##### Section 2 : Obligation d'information sur les prises de participations<a id=248></a>
 
 ###### Article L451-2
 
@@ -22306,27 +22336,34 @@ _Cite_:
   - Code monétaire et financier L233-14, L233-7, L233-3, L233-12
 
 
-#### Chapitre II : Associations de défense des investisseurs<a id=242></a>
+#### Chapitre II : Associations de défense des investisseurs<a id=249></a>
 
 ###### Article L452-1
 
 Les associations régulièrement déclarées ayant pour objet statutaire explicite la défense des investisseurs en valeurs
-mobilières ou en produits financiers peuvent, si elles ont été agréées à cette fin, agir en justice devant toutes les
-juridictions même par voie de constitution de partie civile, relativement aux faits portant un préjudice direct ou indirect à
-l'intérêt collectif des investisseurs ou de certaines catégories d'entre eux.
+mobilières ou en produits financiers peuvent agir en justice devant toutes les juridictions même par voie de constitution de
+partie civile, relativement aux faits portant un préjudice direct ou indirect à l'intérêt collectif des investisseurs ou de
+certaines catégories d'entre eux.
+
+Ces associations sont :
+
+- les associations agréées, dans des conditions fixées par décret après avis du ministère public et de l'Autorité des marchés
+financiers, lorsqu'elles justifient de six mois d'existence et, pendant cette même période, d'au moins deux cents membres
+cotisant individuellement et lorsque leurs dirigeants remplissent des conditions d'honorabilité et de compétence fixées par
+décret ;
+
+- les associations qui répondent aux critères de détention de droits de vote définis par l'article L. 225-120 du code de
+commerce si elles ont communiqué leurs statuts à l'Autorité des marchés financiers.
 
 Lorsqu'une pratique contraire aux dispositions législatives ou réglementaires est de nature à porter atteinte aux droits des
-épargnants, les associations d'actionnaires mentionnées à l'alinéa précédent peuvent demander en justice qu'il soit ordonné à
-la personne qui en est responsable de se conformer à ces dispositions, de mettre fin à l'irrégularité ou d'en supprimer les
+épargnants, les associations d'actionnaires mentionnées au premier alinéa peuvent demander en justice qu'il soit ordonné à la
+personne qui en est responsable de se conformer à ces dispositions, de mettre fin à l'irrégularité ou d'en supprimer les
 effets.
 
 La demande est portée devant le président du tribunal de grande instance du siège social de la société en cause, qui statue
 en la forme des référés et dont la décision est exécutoire par provision. Le président du tribunal est compétent pour
 connaître des exceptions d'illégalité. Il peut prendre, même d'office, toute mesure conservatoire et prononcer, pour
 l'exécution de son ordonnance, une astreinte versée au Trésor public.
-
-Un décret fixe les conditions dans lesquelles ces associations peuvent être agréées après avis du ministère public et de la
-commission des opérations de bourse, compte tenu de leur représentativité sur le plan national ou local.
 
 **Liens relatifs à cet article**
 
@@ -22338,6 +22375,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 126 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V)
@@ -22345,16 +22386,30 @@ _Cité par_:
   - Code monétaire et financier - art. D452-4 (V)
   - Code monétaire et financier - art. L452-2 (VD)
 
+_Cite_:
+
+  - Code de commerce. - art. L225-120 (M)
+
 
 ###### Article L452-2
 
 Lorsque plusieurs personnes physiques, identifiées en leur qualité d'investisseur, ont subi des préjudices individuels qui
 ont été causés par le fait d'une même personne et qui ont une origine commune, toute association mentionnée à l'article L.
 452-1 peut, si elle a été mandatée par au moins deux des investisseurs concernés, agir en réparation devant toute
-juridiction, au nom de ces investisseurs.
+juridiction, au nom de ces investisseurs. 
 
 Le mandat ne peut être sollicité par voie d'appel public télévisé ou radiophonique, ni par voie d'affichage, de tract ou de
-lettre personnalisée. Il doit être donné par écrit par chaque investisseur.
+lettre personnalisée. Il doit être donné par écrit par chaque investisseur. 
+
+Toutefois, lorsqu'une association agréée en application du troisième alinéa de l'article L. 452-1 agit en réparation devant
+les juridictions civiles ou commerciales, le président du tribunal de grande instance ou le président du tribunal de commerce
+selon le cas peut, par ordonnance de référé, l'autoriser à solliciter des actionnaires un mandat pour agir en leur nom en
+ayant recours, à ses frais, aux moyens de publicité mentionnés à l'alinéa précédent. 
+
+Sans préjudice des dispositions des articles L. 612-1 à L. 612-5 du code de commerce, les associations visées à l'alinéa
+précédent établissent chaque année un bilan, un compte de résultat et une annexe, dont les modalités d'établissement sont
+précisées par décret et qui sont approuvés par l'assemblée des adhérents. Lorsque l'association introduit une demande en
+application de l'alinéa précédent, elle transmet ces documents au président du tribunal.
 
 **Liens relatifs à cet article**
 
@@ -22366,6 +22421,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 126 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V)
@@ -22374,7 +22433,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L452-1 (M)
+  - Code de commerce - art. L612-1 (V)
+  - Code monétaire et financier - art. L452-1 (V)
 
 
 ###### Article L452-3
@@ -22420,9 +22480,9 @@ _Cite_:
   - Code monétaire et financier - art. L452-2 (V)
 
 
-### Titre VI : Dispositions pénales<a id=243></a>
+### Titre VI : Dispositions pénales<a id=250></a>
 
-#### Chapitre Ier : Infractions relatives à l'appel public à l'épargne.<a id=244></a>
+#### Chapitre Ier : Infractions relatives à l'appel public à l'épargne.<a id=251></a>
 
 ###### Article L461-1
 
@@ -22448,7 +22508,7 @@ _Anciens textes_:
   - Code de commerce. - art. L252-10 (M)
 
 
-#### Chapitre II : Infractions relatives aux marchés réglementés<a id=245></a>
+#### Chapitre II : Infractions relatives aux marchés réglementés<a id=252></a>
 
 ###### Article L462-1
 
@@ -22517,7 +22577,7 @@ _Cité par_:
   - Code monétaire et financier - art. L764-3 (AbD)
 
 
-#### Chapitre III : Infractions relatives aux négociations sur instruments financiers.<a id=246></a>
+#### Chapitre III : Infractions relatives aux négociations sur instruments financiers.<a id=253></a>
 
 ###### Article L463-1
 
@@ -22579,7 +22639,7 @@ _Anciens textes_:
   - Loi n°1926-12-14 art. 3
 
 
-#### Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation<a id=247></a>
+#### Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation<a id=254></a>
 
 ###### Article L464-1
 
@@ -22651,9 +22711,9 @@ _Cité par_:
   - Code monétaire et financier - art. L764-3 (V)
 
 
-#### Chapitre V : Infractions relatives à la protection des investisseurs<a id=248></a>
+#### Chapitre V : Infractions relatives à la protection des investisseurs<a id=255></a>
 
-##### Section 1 : Atteintes à la transparence des marchés<a id=249></a>
+##### Section 1 : Atteintes à la transparence des marchés<a id=256></a>
 
 ###### Article L465-1
 
@@ -22806,77 +22866,68 @@ _Cité par_:
   - Code monétaire et financier - art. L465-2 (VD)
 
 
-##### Section 2 : Prises de participations<a id=250></a>
+##### Section 2 : Prises de participations<a id=257></a>
 
 ###### Article L465-4
 
 Les sanctions applicables aux infractions relatives à l'obligation d'information sur les prises de participations
 significatives sont fixées par le 1° et le 2° du I et le III de l'article L. 247-1 et par l'article L. 247-2 du code de
-commerce, reproduits ci-après :
+commerce, reproduits ci-après : 
 
-" I. - Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait, pour les présidents, les
-administrateurs, les directeurs généraux ou les gérants de toute société :
+" I.-Est puni d'un emprisonnement de deux ans et d'une amende de 9 000 euros le fait, pour les présidents, les
+administrateurs, les directeurs généraux ou les gérants de toute société : 
 
 1° De ne pas faire mention dans le rapport annuel présenté aux associés sur les opérations de l'exercice, d'une prise de
 participation dans une société ayant son siège sur le territoire de la République française représentant plus du vingtième,
 du dixième, du cinquième, du tiers, de la moitié ou des deux tiers du capital ou des droits de vote aux assemblées générales
-de cette société ou de la prise de contrôle d'une telle société ;
+de cette société ou de la prise de contrôle d'une telle société ; 
 
 2° De ne pas, dans le même rapport, rendre compte de l'activité et des résultats de l'ensemble de la société, des filiales de
-la société et des sociétés qu'elle contrôle par branche d'activité ;
+la société et des sociétés qu'elle contrôle par branche d'activité ; 
 
-III. - Est puni des peines mentionnées au I le fait, pour le commissaire aux comptes, de ne pas faire figurer dans son
-rapport les mentions visées au 1° du I du présent article.
+III.-Est puni des peines mentionnées au I le fait, pour le commissaire aux comptes, de ne pas faire figurer dans son rapport
+les mentions visées au 1° du I du présent article. " 
 
-Art. L. 247-2. - I. - Est puni d'une amende de 18000 euros le fait pour les présidents, les administrateurs, les membres du
+" Art.L. 247-2.-I.-Est puni d'une amende de 18 000 euros le fait, pour les présidents, les administrateurs, les membres du
 directoire, les gérants ou les directeurs généraux des personnes morales, ainsi que pour les personnes physiques de
 s'abstenir de remplir les obligations d'informations auxquelles cette personne est tenue, en application de l'article L.
-233-7, du fait des participations qu'elle détient.
+233-7, du fait des participations qu'elle détient. 
 
-II. - Est puni de la même peine le fait, pour les présidents, les administrateurs, les membres du directoire, les gérants ou
+II.-Est puni de la même peine le fait, pour les présidents, les administrateurs, les membres du directoire, les gérants ou
 les directeurs généraux d'une société, de s'abstenir de procéder aux notifications auxquelles cette société est tenue, en
-application de l'article L. 233-12, du fait des participations qu'elle détient dans la société par actions qui la contrôle.
+application de l'article L. 233-12, du fait des participations qu'elle détient dans la société par actions qui la contrôle. 
 
-III. - Est puni de la même peine le fait, pour les présidents, les administrateurs, les membres du directoire, les gérants ou
+III.-Est puni de la même peine le fait, pour les présidents, les administrateurs, les membres du directoire, les gérants ou
 les directeurs généraux d'une société, d'omettre de faire mention dans le rapport présenté aux actionnaires sur les
-opérations de l'exercice de l'identité des personnes détenant des participations significatives dans cette société des
+opérations de l'exercice de l'identité des personnes détenant des participations significatives dans cette société, des
 modifications intervenues au cours de l'exercice, du nom des sociétés contrôlées et de la part du capital de la société que
-ces sociétés détiennent, dans les conditions prévues par l'article L. 233-13.
+ces sociétés détiennent, dans les conditions prévues par l'article L. 233-13. 
 
-IV. - Est puni de la même peine le fait, pour le commissaire aux comptes, d'omettre dans son rapport les mentions visées au
+IV.-Est puni de la même peine le fait, pour le commissaire aux comptes, d'omettre dans son rapport les mentions visées au
 III.
 
-V. - Pour les sociétés faisant publiquement appel à l'épargne, les poursuites sont engagées après que l'avis de la Commission
-des opérations de bourse a été demandé. "
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+V.-Pour les sociétés faisant publiquement appel à l'épargne, les poursuites sont engagées après que l'avis de l'Autorité des
+marchés financiers a été demandé. "
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-7 du 3 janvier 2003 - art. 50 (V) JORF 4 janvier 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de commerce. - art. L247-1 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L247-2 (V)
+
 _Anciens textes_:
 
   - Code de commerce. - art. L247-2 (M)
-
-_Cite_:
-
-  - Code de commerce. - art. L247-2 (M)
-  - Code monétaire et financier L247-1, L233-7, L233-12, L233-13
 
 _Cité par_:
 
@@ -22885,25 +22936,19 @@ _Cité par_:
   - Code monétaire et financier - art. L754-13 (V)
   - Code monétaire et financier - art. L764-13 (VD)
 
+_Cite_:
 
-#### Chapitre VI : Dispositions communes<a id=251></a>
+  - Code monétaire et financier L247-1, L233-7, L233-12, L233-13
+
+
+#### Chapitre VI : Dispositions communes<a id=258></a>
 
 ###### Article L466-1
 
 Les autorités judiciaires compétentes, saisies de poursuites relatives à des infractions mettant en cause les sociétés qui
 font appel public à l'épargne ou à des infractions commises à l'occasion d'opérations de bourse, peuvent, en tout état de la
-procédure, demander l'avis de la commission des opérations de bourse. Cet avis est obligatoirement demandé lorsque les
-poursuites sont engagées en exécution de l'article L. 465-1.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+procédure, demander l'avis de l'Autorité des marchés financiers. Cet avis est obligatoirement demandé lorsque les poursuites
+sont engagées en exécution de l'article L. 465-1.
 
 **Liens relatifs à cet article**
 
@@ -22915,6 +22960,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
 
 _Cite_:
 
@@ -22929,13 +22978,13 @@ _Cité par_:
   - Code monétaire et financier - art. L764-13 (VD)
 
 
-## Livre V : Les prestataires de services<a id=252></a>
+## Livre V : Les prestataires de services<a id=259></a>
 
-### Titre Ier : Etablissements du secteur bancaire<a id=253></a>
+### Titre Ier : Etablissements du secteur bancaire<a id=260></a>
 
-#### Chapitre Ier : Règles générales applicables aux établissements de crédit<a id=254></a>
+#### Chapitre Ier : Règles générales applicables aux établissements de crédit<a id=261></a>
 
-##### Section 1 : Définitions et activités<a id=255></a>
+##### Section 1 : Définitions et activités<a id=262></a>
 
 ###### Article L511-1
 
@@ -23035,8 +23084,8 @@ _Cite_:
 
 ###### Article L511-2
 
-Les établissements de crédit peuvent, en outre, dans des conditions définies par le comité de la réglementation bancaire et
-financière, prendre et détenir des participations dans des entreprises existantes ou en création.
+Les établissements de crédit peuvent, en outre, dans des conditions définies par le ministre chargé de l'économie, prendre et
+détenir des participations dans des entreprises existantes ou en création.
 
 **Liens relatifs à cet article**
 
@@ -23047,6 +23096,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -23065,7 +23118,7 @@ _Cité par_:
 ###### Article L511-3
 
 Les établissements de crédit ne peuvent exercer à titre habituel une activité autre que celles mentionnées aux articles L.
-311-1, L. 311-2 et L. 511-2 que dans des conditions définies par le comité de la réglementation bancaire et financière.
+311-1, L. 311-2 et L. 511-2 que dans des conditions définies par le ministre chargé de l'économie. 
 
 Ces opérations doivent, en tout état de cause, demeurer d'une importance limitée par rapport à l'ensemble des activités
 habituelles de l'établissement et ne pas empêcher, restreindre ou fausser le jeu de la concurrence sur le marché considéré.
@@ -23080,11 +23133,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L311-1 (V)
-  - Code monétaire et financier - art. L311-2 (M)
-  - Code monétaire et financier - art. L511-2 (M)
+  - Code monétaire et financier - art. L511-2 (V)
 
 _Cité par_:
 
@@ -23095,14 +23151,20 @@ _Cité par_:
 
 ###### Article L511-4
 
-Le livre IV du code de commerce s'applique aux établissements de crédit pour ce qui est de leurs activités définies à
-l'article L. 511-3.
+Lorsque    l'Autorité de la concurrence est saisi, en application de l'article L. 430-5 du code de commerce, de
+concentrations ou de projets de concentration concernant, directement ou indirectement, un établissement de crédit ou une
+entreprise d'investissement, il recueille l'avis du Comité des établissements de crédit et des entreprises d'investissement.
+l'Autorité de la concurrence communique, à cet effet, au Comité des établissements de crédit et des entreprises
+d'investissement toute saisine relative à de telles opérations. Le Comité des établissements de crédit et des entreprises
+d'investissement transmet son avis au Conseil de la concurrence dans le délai d'un mois suivant la réception de cette
+communication.L'avis du Comité des établissements de crédit et des entreprises d'investissement est rendu public dans les
+conditions fixées par l'article L. 430-10 du code de commerce. 
 
 Les articles L. 420-1 à L. 420-4 du code de commerce s'appliquent aux établissements de crédit pour leurs opérations de
 banque et leurs opérations connexes définies à l'article L. 311-2. Les infractions à ces dispositions sont poursuivies dans
 les conditions fixées par les articles L. 442-5, L. 443-2, L. 443-3, L. 462-5 à L. 462-8, L. 463-1 à L. 463-7, L. 464-1 à L.
 464-8, L. 470-1 à L. 470-8 du code de commerce. La notification de griefs prévue à l'article L. 463-2 du même code est
-communiquée à la commission bancaire qui rend son avis dans un délai de deux mois. Dans l'hypothèse où le conseil de la
+communiquée à la commission bancaire qui rend son avis dans un délai de deux mois. Dans l'hypothèse où    l'Autorité de la
 concurrence prononce une sanction à l'issue de la procédure prévue aux articles L. 463-2, L. 463-3 et L. 463-5 du code de
 commerce, il indique, le cas échéant, les raisons pour lesquelles il s'écarte de l'avis de la commission bancaire.
 
@@ -23116,26 +23178,18 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 24 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 3 (V)
   - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
   - Code monétaire et financier - art. L511-24 (VT)
 
-_Cite_:
 
-  - Code de commerce L420-1 à L420-4, L442-5, L443-2, L443-3, L462-5 à L462-8, L463-1 à L463-7, L464-1 à L464-8, L470-1 à L470-8, L463-2, L463-3, L463-5
-  - Code de commerce. - art. L442-5 (M)
-  - Code de commerce. - art. L443-2 (M)
-  - Code de commerce. - art. L443-3 (V)
-  - Code de commerce. - art. L463-2 (M)
-  - Code de commerce. - art. L463-3 (M)
-  - Code de commerce. - art. L463-5 (V)
-  - Code monétaire et financier - art. L311-2 (M)
-  - Code monétaire et financier - art. L511-3 (M)
-
-
-##### Section 2 : Interdictions<a id=256></a>
+##### Section 2 : Interdictions<a id=263></a>
 
 ###### Article L511-5
 
@@ -23176,9 +23230,11 @@ _Cité par_:
 
 Sans préjudice des dispositions particulières qui leur sont applicables, les interdictions définies à l'article L. 511-5 ne
 concernent ni les institutions et services énumérés à l'article L. 518-1, ni les entreprises régies par le code des
-assurances, ni les sociétés de réassurance, ni les entreprises d'investissement, ni les organismes collecteurs de la
-participation des employeurs à l'effort de construction pour les opérations prévues par le code de la construction et de
-l'habitation, ni les fonds communs de créances.
+assurances, ni les sociétés de réassurance, ni les organismes agréés soumis aux dispositions du livre II du code de la
+mutualité pour les opérations visées au e du 1° de l'article L. 111-1 dudit code, ni les entreprises d'investissement, ni les
+organismes collecteurs de la participation des employeurs à l'effort de construction pour les opérations prévues par le code
+de la construction et de l'habitation, ni les fonds communs de créances, ni les organismes de placement collectif en valeurs
+mobilières.
 
 L'interdiction relative aux opérations de crédit ne s'applique pas :
 
@@ -23208,7 +23264,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 19 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 35, art. 58 3° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 35 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -23288,12 +23345,13 @@ _Cite_:
   - Code monétaire et financier - art. L214-36 (M)
   - Code monétaire et financier - art. L511-5 (V)
   - Code monétaire et financier - art. L518-1 (M)
+  - Code de la mutualité - art. L111-1 (Ab)
   - Code de la construction et de l'habitation. - art. L411-1 (M)
 
 
 ###### Article L511-7
 
-Les interdictions définies à l'article L. 511-5 ne font pas obstacle à ce qu'une entreprise, quelle que soit sa nature,
+I. - Les interdictions définies à l'article L. 511-5 ne font pas obstacle à ce qu'une entreprise, quelle que soit sa nature,
 puisse :
 
 1. Dans l'exercice de son activité professionnelle consentir à ses contractants des délais ou avances de paiement ;
@@ -23312,6 +23370,26 @@ par les dispositions de l'article L. 431-7 ;
 
 7. Prendre ou mettre en pension des instruments financiers et effets publics visés à l'article L. 432-12.
 
+II. - Le Comité des établissements de crédit et des entreprises d'investissement peut exempter d'agrément une entreprise
+exerçant toute activité de mise à disposition ou de gestion de moyens de paiement lorsque ceux-ci ne sont acceptés que par
+des sociétés qui sont liées à cette entreprise au sens du 3 du I ou par un nombre limité d'entreprises qui se distinguent
+clairement par le fait qu'elles se trouvent dans les mêmes locaux ou dans une zone géographique restreinte ou par leur
+étroite relation financière ou commerciale avec l'établissement émetteur, notamment sous la forme d'un dispositif de
+commercialisation ou de distribution commun.
+
+Pour accorder l'exemption, le Comité des établissements de crédit et des entreprises d'investissement doit notamment prendre
+en compte la sécurité des moyens de paiement, les modalités retenues pour assurer la protection des utilisateurs, le montant
+unitaire et les modalités de chaque transaction.
+
+Lorsque l'entreprise bénéficiaire de l'exemption gère ou met à disposition des moyens de paiement sous forme de monnaie
+électronique :
+
+1° La capacité maximale de chargement du support électronique mis à la disposition des porteurs à des fins de paiement ne
+peut excéder un montant fixé par arrêté du ministre chargé de l'économie ;
+
+2° Un rapport d'activité, dont le contenu est fixé par arrêté du ministre chargé de l'économie, est fourni annuellement à la
+Banque de France.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -23324,7 +23402,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 70 1° JORF 2 août 2003
 
 _Cité par_:
 
@@ -23373,9 +23451,9 @@ _Cité par_:
   - Code monétaire et financier - art. L571-3 (V)
 
 
-##### Section 3 : Conditions d'accès à la profession<a id=257></a>
+##### Section 3 : Conditions d'accès à la profession<a id=264></a>
 
-##### Sous-section 1 : Agrément<a id=258></a>
+##### Sous-section 1 : Agrément<a id=265></a>
 
 ###### Article L511-9
 
@@ -23555,7 +23633,7 @@ _Cite_:
 ###### Article L511-11
 
 Les établissements de crédit doivent disposer d'un capital libéré ou d'une dotation versée d'un montant au moins égal à une
-somme fixée par le comité de la réglementation bancaire et financière.
+somme fixée par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -23566,6 +23644,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -23628,12 +23710,19 @@ _Cité par_:
 
 Toute modification des conditions auxquelles était subordonné l'agrément délivré à un établissement de crédit doit faire
 l'objet, selon les cas, d'une autorisation préalable du Comité des établissements de crédit et des entreprises
-d'investissement, d'une déclaration ou d'une notification, dans les conditions fixées par un règlement du Comité de la
-réglementation bancaire et financière.
+d'investissement, d'une déclaration ou d'une notification, dans les conditions fixées par un arrêté du ministre chargé de
+l'économie.
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être assortie de conditions particulières
 répondant aux finalités mentionnées au sixième alinéa de l'article L. 511-10 ou subordonnée au respect d'engagements pris par
 l'établissement.
+
+Dans le cadre d'une opération de concentration concernant, directement ou non, un établissement de crédit ou une entreprise
+d'investissement, le Comité des établissements de crédit et des entreprises d'investissement peut, s'il l'estime nécessaire à
+sa complète information, rendre sa décision sur le fondement du présent article après la décision rendue par le ministre
+chargé de l'économie en application des articles L. 430-1 et suivants du code de commerce ou celle rendue par la Commission
+européenne en application du règlement (CEE) n° 4064/89 du Conseil, du 21 décembre 1989, relatif au contrôle des opérations
+de concentration entre entreprises.
 
 **Liens relatifs à cet article**
 
@@ -23641,9 +23730,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 25 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -23790,19 +23880,19 @@ Le retrait d'agrément est prononcé par le Comité des établissements de créd
 demande de l'établissement. Il peut aussi être décidé d'office par le comité si l'établissement ne remplit plus les
 conditions ou les engagements auxquels était subordonné son agrément ou une autorisation ultérieure, ou si l'établissement
 n'a pas fait usage de son agrément dans un délai de douze mois ou lorsqu'il n'exerce plus son activité depuis au moins six
-mois.
+mois. 
 
 Le retrait d'agrément prend effet à l'expiration d'une période dont la durée est déterminée par le comité des établissements
-de crédit et des entreprises d'investissement.
+de crédit et des entreprises d'investissement. 
 
-Pendant cette période :
+Pendant cette période : 
 
-1. L'établissement de crédit demeure soumis au contrôle de la commission bancaire et, le cas échéant, du conseil des marchés
-financiers. La commission bancaire peut prononcer à son encontre les sanctions disciplinaires prévues à l'article L. 613-21,
-y compris la radiation ;
+1.L'établissement de crédit demeure soumis au contrôle de la commission bancaire et, le cas échéant, de l'Autorité des
+marchés financiers. La commission bancaire peut prononcer à son encontre les sanctions disciplinaires prévues à l'article L.
+613-21, y compris la radiation ; 
 
-2. L'établissement ne peut effectuer que les opérations de banque et de services d'investissement strictement nécessaires à
-l'apurement de sa situation et doit limiter les autres activités mentionnées aux articles L. 311-2, L. 511-2 et L. 511-3 ;
+2.L'établissement ne peut effectuer que les opérations de banque et de services d'investissement strictement nécessaires à
+l'apurement de sa situation et doit limiter les autres activités mentionnées aux articles L. 311-2, L. 511-2 et L. 511-3 ; 
 
 3. Il ne peut faire état de sa qualité d'établissement de crédit qu'en précisant que son agrément est en cours de retrait.
 
@@ -23819,7 +23909,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 2001-05-15 art. 7 4° JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -23836,10 +23926,10 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L311-2 (M)
-  - Code monétaire et financier - art. L511-2 (M)
-  - Code monétaire et financier - art. L511-3 (M)
-  - Code monétaire et financier - art. L613-21 (M)
+  - Code monétaire et financier - art. L311-2 (VT)
+  - Code monétaire et financier - art. L511-2 (V)
+  - Code monétaire et financier - art. L511-3 (V)
+  - Code monétaire et financier - art. L613-21 (VT)
 
 
 ###### Article L511-16
@@ -23851,12 +23941,16 @@ est postérieure à l'expiration de la période mentionnée au deuxième alinéa
 comité des établissements de crédit et des entreprises d'investissement. Au terme de cette période, l'entreprise perd la
 qualité d'établissement de crédit et doit avoir changé sa dénomination sociale. Les opérations de banque autres que la
 réception de fonds du public que l'entreprise a conclues ou s'est engagée à conclure avant la décision de retrait d'agrément
-peuvent être menées à leur terme.
+peuvent être menées à leur terme. 
 
-Tout établissement de crédit ayant décidé sa dissolution anticipée avant le terme de la période mentionnée à l'article L.
-511-15 demeure soumis, jusqu'à la clôture de sa liquidation, au contrôle de la commission bancaire, qui peut prononcer les
-sanctions disciplinaires prévues à l'article L. 613-21, y compris la radiation. Il ne peut faire état de sa qualité
-d'établissement de crédit qu'en précisant qu'il est en liquidation.
+Par dérogation aux dispositions des 4° et 5° de l'article 1844-7 du code civil, la dissolution anticipée d'un établissement
+de crédit ne peut être prononcée qu'après obtention du retrait de son agrément par le Comité des établissements de crédit et
+des entreprises d'investissement. Par dérogation aux articles L. 123-1 et L. 237-3 du code de commerce, la publication et
+l'inscription modificative au registre du commerce et des sociétés concernant le prononcé de cette dissolution doivent
+mentionner la date de la décision de retrait d'agrément par le Comité des établissements de crédit et des entreprises
+d'investissement. Jusqu'à la clôture de sa liquidation, l'établissement reste soumis au contrôle de la Commission bancaire,
+qui peut prononcer l'ensemble des sanctions prévues à l'article L. 613-21 du présent code. Il ne peut faire état de sa
+qualité d'établissement de crédit sans préciser qu'il est en liquidation.
 
 **Liens relatifs à cet article**
 
@@ -23868,6 +23962,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 74 1° JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 5 (V)
@@ -23876,9 +23974,11 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de commerce. - art. L123-1 (V)
+  - Code de commerce. - art. L237-3 (V)
   - Code monétaire et financier - art. L312-2 (V)
-  - Code monétaire et financier - art. L511-15 (M)
-  - Code monétaire et financier - art. L613-21 (M)
+  - Code monétaire et financier - art. L511-15 (VT)
+  - Code monétaire et financier - art. L613-21 (VT)
 
 
 ###### Article L511-17
@@ -23914,21 +24014,21 @@ _Cité par_:
 
 ###### Article L511-18
 
-Le comité de la réglementation bancaire et financière précise les conditions d'application des articles L. 511-15 à L.
-511-17. Il fixe notamment les modalités selon lesquelles :
+Le ministre chargé de l'économie précise les conditions d'application des articles L. 511-15 à L. 511-17. Il fixe notamment
+les modalités selon lesquelles : 
 
-1. Les décisions de retrait d'agrément et de radiation sont portées à la connaissance du public ;
+1. Les décisions de retrait d'agrément et de radiation sont portées à la connaissance du public ; 
 
 2. Outre la faculté de recourir aux autres modes légaux de cession et d'opposabilité aux tiers, la cession de créances
 résultant des opérations de crédit mentionnées à l'article L. 313-1 peut être rendue opposable aux tiers par accord écrit du
-débiteur ou par décision de la commission bancaire ;
+débiteur ou par décision de la commission bancaire ; 
 
 3. Les plans et comptes d'épargne logement, les livrets d'épargne d'entreprise, les plans et livrets d'épargne populaire, les
 plans d'épargne en actions, ainsi que les engagements par signature peuvent être transférés, sans préjudice des droits des
-titulaires ou bénéficiaires, à un ou plusieurs autres établissements de crédit ;
+titulaires ou bénéficiaires, à un ou plusieurs autres établissements de crédit ; 
 
 4. Les instruments financiers inscrits en compte auprès de l'établissement peuvent être transférés chez un autre prestataire
-de services d'investissement ou chez l'émetteur ;
+de services d'investissement ou chez l'émetteur ; 
 
 5. Les opérations prévues aux articles L. 311-2, L. 511-2 et L. 511-3 sont limitées.
 
@@ -23942,17 +24042,21 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L311-2 (M)
+  - Code monétaire et financier - art. L311-2 (VT)
   - Code monétaire et financier - art. L313-1 (V)
-  - Code monétaire et financier - art. L511-2 (M)
-  - Code monétaire et financier - art. L511-3 (M)
-  - Code monétaire et financier L511-15 à L511-17, L313-1, L311-2, L511-2, L511-3
+  - Code monétaire et financier - art. L511-15 (VT)
+  - Code monétaire et financier - art. L511-2 (V)
+  - Code monétaire et financier - art. L511-3 (V)
 
 
 ###### Article L511-19
@@ -23984,16 +24088,15 @@ _Cité par_:
 sur laquelle la commission bancaire constate qu'est exercé un contrôle exclusif au sens de l'article L. 233-16 du code de
 commerce.
 
-2. L'expression : " groupe financier " désigne l'ensemble formé par les filiales, directes ou indirectes, d'un établissement
-de crédit, d'une entreprise d'investissement, ou d'une compagnie financière, et par les entreprises à caractère financier sur
+2. L'expression : "groupe financier" désigne l'ensemble formé par les filiales, directes ou indirectes, d'un établissement de
+crédit, d'une entreprise d'investissement, ou d'une compagnie financière, et par les entreprises à caractère financier sur
 lesquelles l'entreprise mère exerce un contrôle conjoint au sens de l'article L. 233-16 du code commerce.
 
-Le comité de la réglementation bancaire et financière définit les entreprises à caractère financier mentionnées à l'alinéa
-précédent.
+Le ministre chargé de l'économie définit les entreprises à caractère financier mentionnées à l'alinéa précédent.
 
-3. L'expression : " groupe mixte " désigne l'ensemble formé par les filiales, directes ou indirectes, d'une entreprise mère
-qui n'est pas une compagnie financière, un établissement de crédit ou une entreprise d'investissement, mais dont l'une au
-moins des filiales est un établissement de crédit ou une entreprise d'investissement.
+3. L'expression : "groupe mixte" désigne l'ensemble formé par les filiales, directes ou indirectes, d'une entreprise mère qui
+n'est pas une compagnie financière, un établissement de crédit ou une entreprise d'investissement, mais dont l'une au moins
+des filiales est un établissement de crédit ou une entreprise d'investissement.
 
 **Liens relatifs à cet article**
 
@@ -24005,6 +24108,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -24050,7 +24157,7 @@ _Cite_:
   - Code de commerce. - art. L233-16 (M)
 
 
-##### Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen<a id=259></a>
+##### Sous-section 2 : Libre établissement et libre prestation de services sur le territoire des Etats partie à l'accord sur l'Espace économique européen<a id=266></a>
 
 ###### Article L511-21
 
@@ -24143,7 +24250,7 @@ siège social et en fonction de l'agrément qu'il y a reçu, tout établissement
 métropolitaine et des départements d'outre-mer, établir des succursales pour fournir des services bancaires et intervenir en
 libre prestation de services dans les conditions définies à l'article L. 511-24, sous réserve que le comité des
 établissements de crédit et des entreprises d'investissement ait préalablement été informé par l'autorité compétente de
-l'Etat membre, dans des conditions fixées par le comité de la réglementation bancaire et financière.
+l'Etat membre, dans des conditions fixées par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -24174,6 +24281,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 
 ###### Article L511-23
 
@@ -24183,7 +24294,7 @@ certifiant qu'il remplit les conditions requises à cet effet par ces autorités
 métropolitaine et des départements d'outre-mer, établir des succursales pour fournir des services bancaires et intervenir en
 libre prestation de services dans les conditions définies à l'article L. 511-24, sous réserve que le comité des
 établissements de crédit et des entreprises d'investissement ait préalablement été informé par l'autorité compétente de
-l'Etat membre, dans des conditions fixées par le comité de la réglementation bancaire et financière.
+l'Etat membre, dans des conditions fixées par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -24194,6 +24305,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -24211,12 +24326,12 @@ _Cité par_:
 Les établissements mentionnés aux articles L. 511-22 et L. 511-23 et leurs succursales établies en France ne sont pas soumis
 aux dispositions des articles L. 511-10, L. 511-11, L. 511-14, L. 511-35, L. 511-38, L. 511-39 et L. 511-40.
 
-Ils ne sont pas soumis aux règlements du comité de la réglementation bancaire et financière, sauf pour celles des
-dispositions de ces règlements qui n'ont pas fait l'objet de coordination entre les Etats membres, lorsqu'elles présentent un
-caractère d'intérêt général ou lorsqu'elles sont relatives à la politique monétaire ou à la liquidité des établissements.
+Ils ne sont pas soumis à l'arrêté du ministre chargé de l'économie, sauf pour celles des dispositions de ces règlements qui
+n'ont pas fait l'objet de coordination entre les Etats membres, lorsqu'elles présentent un caractère d'intérêt général ou
+lorsqu'elles sont relatives à la politique monétaire ou à la liquidité des établissements.
 
-Le comité de la réglementation bancaire et financière détermine les dispositions de ses règlements qui demeurent applicables
-en vertu du présent article.
+Le ministre chargé de l'économie détermine les dispositions de ses règlements qui demeurent applicables en vertu du présent
+article.
 
 **Liens relatifs à cet article**
 
@@ -24228,6 +24343,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 VI 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cite_:
 
@@ -24312,7 +24432,7 @@ _Cite_:
 
 Tout établissement de crédit ayant son siège social en France et désirant établir une succursale dans un autre Etat membre
 notifie son projet au comité des établissements de crédit et des entreprises d'investissement, assorti d'informations dont la
-nature est déterminée par le comité de la réglementation bancaire et financière.
+nature est déterminée par le ministre chargé de l'économie.
 
 A moins que le comité des établissements de crédit et des entreprises d'investissement n'ait des raisons de douter, compte
 tenu de ce projet, de l'adéquation des structures administratives ou de la situation financière de l'établissement de crédit,
@@ -24326,10 +24446,10 @@ l'établissement concerné dans les trois mois suivant la réception régulière
 Les établissements de crédit ayant leur siège social en France qui désirent exercer pour la première fois leurs activités sur
 le territoire d'un autre Etat membre en libre prestation de services sont tenus d'en faire la déclaration au comité des
 établissements de crédit et des entreprises d'investissement. Cette déclaration est assortie d'informations dont la nature
-est déterminée par le comité de la réglementation bancaire et financière.
+est déterminée par le ministre chargé de l'économie.
 
-Le comité de la réglementation bancaire et financière détermine les conditions dans lesquelles les informations mentionnées
-aux alinéas précédents sont communiquées à l'autorité compétente de l'autre Etat membre.
+Le ministre chargé de l'économie détermine les conditions dans lesquelles les informations mentionnées aux alinéas précédents
+sont communiquées à l'autorité compétente de l'autre Etat membre.
 
 **Liens relatifs à cet article**
 
@@ -24340,6 +24460,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -24363,14 +24487,14 @@ _Cité par_:
 
 Tout établissement financier ayant son siège social en France et désirant implanter une succursale sur le territoire d'un
 autre Etat membre pour offrir des services bancaires en libre établissement notifie son projet au comité des établissements
-de crédit et des entreprises d'investissement, assorti d'informations dont la nature est déterminée par le comité de la
-réglementation bancaire et financière.
+de crédit et des entreprises d'investissement, assorti d'informations dont la nature est déterminée par le ministre chargé de
+l'économie.
 
 L'établissement financier doit également justifier, auprès du comité des établissements de crédit et des entreprises
-d'investissement, qu'il remplit les conditions fixées par le comité de la réglementation bancaire et financière. Ces
-conditions portent sur les activités exercées en France par ces établissements, les modalités selon lesquelles ils sont
-placés sous le contrôle d'établissements de crédit et les règles applicables pour assurer la qualité et le contrôle de leur
-gestion ainsi que pour la garantie de leurs engagements par les entreprises mères.
+d'investissement, qu'il remplit les conditions fixées par le ministre chargé de l'économie. Ces conditions portent sur les
+activités exercées en France par ces établissements, les modalités selon lesquelles ils sont placés sous le contrôle
+d'établissements de crédit et les règles applicables pour assurer la qualité et le contrôle de leur gestion ainsi que pour la
+garantie de leurs engagements par les entreprises mères.
 
 Si l'établissement remplit les conditions mentionnées au précédent alinéa, le comité des établissements de crédit et des
 entreprises d'investissement, à moins qu'il n'ait des raisons de douter, compte tenu de ce projet, de l'adéquation des
@@ -24385,12 +24509,12 @@ entreprises d'investissement.
 Ils doivent également justifier qu'ils remplissent les conditions mentionnées au deuxième alinéa du présent article.
 
 L'établissement financier exerçant ses activités dans un autre Etat membre dans le cadre des dispositions du présent article
-est soumis aux dispositions des articles L. 511-13, L. 511-33 et L. 511-39, et, ainsi qu'aux règlements adoptés par le comité
-de la réglementation bancaire et financière, pour ceux de ces règlements qui prévoient que leur champ d'application comprend
-cette catégorie d'établissements. Il est contrôlé par la commission bancaire dans les conditions fixées par les articles L.
-613-1, L. 613-6 à L. 613-8, L. 613-10 et L. 613-11 ; il peut faire l'objet des mesures et sanctions prévues aux articles L.
-613-15, L. 613-16, L. 613-18 et L. 613-21. La radiation prévue au 6 de l'article L. 613-21 doit être comprise comme le
-retrait du bénéfice du régime défini au présent article.
+est soumis aux dispositions des articles L. 511-13, L. 511-33 et L. 511-39, et, ainsi qu'aux arrêtés adoptés par le ministre
+chargé de l'économie, pour ceux d'entre eux qui prévoient que leur champ d'application comprend cette catégorie
+d'établissements. Il est contrôlé par la commission bancaire dans les conditions fixées par les articles L. 613-1, L. 613-6 à
+L. 613-8, L. 613-10 et L. 613-11 ; il peut faire l'objet des mesures et sanctions prévues aux articles L. 613-15, L. 613-16,
+L. 613-18 et L. 613-21. La radiation prévue au 6 de l'article L. 613-21 doit être comprise comme le retrait du bénéfice du
+régime défini au présent article.
 
 Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent article et de l'article L.
 511-27.
@@ -24405,6 +24529,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 III 7°, VI 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -24427,9 +24556,9 @@ _Cite_:
   - Code monétaire et financier L511-13, L511-33, L511-39, L613-1, L613-6 à L613-8, L613-10, L613-11, L613-15, L613-16, L613-18, L613-21, L511-27
 
 
-##### Section 4 : Organes de la profession<a id=260></a>
+##### Section 4 : Organes de la profession<a id=267></a>
 
-##### Sous-section 1 : L'association française des établissements de crédit et des entreprises d'investissement et les autres organismes professionnels<a id=261></a>
+##### Sous-section 1 : L'association française des établissements de crédit et des entreprises d'investissement et les autres organismes professionnels<a id=268></a>
 
 ###### Article L511-29
 
@@ -24476,23 +24605,16 @@ _Cité par_:
   - Code monétaire et financier - art. L755-1-1 (V)
 
 
-##### Sous-section 2 : Les organes centraux<a id=262></a>
+##### Sous-section 2 : Les organes centraux<a id=269></a>
 
 ###### Article L511-30
 
 Pour l'application des dispositions du présent code relatives aux établissements de crédit, sont considérées comme organes
 centraux :
 
-la Caisse nationale de crédit agricole, la Chambre syndicale des banques populaires (1), la Confédération nationale du crédit
-mutuel, la caisse centrale de crédit coopératif, la Caisse nationale des caisses d'épargne et de prévoyance ainsi que la
-Chambre syndicale des sociétés anonymes de crédit immobilier.
-
-**Nota:**
-
-*(1) Nota - Loi 2001-420 2001-05-15 art. 27 I al. 2 :
-
-"Dans les textes législatifs et réglementaires en vigueur, les mots "Chambre syndicale des banques populaires" sont remplacés
-par les mots "Banque fédérale des banques populaires".
+la Caisse nationale de crédit agricole, la Banque fédérale des banques populaires, la Confédération nationale du crédit
+mutuel, la Caisse nationale des caisses d'épargne et de prévoyance ainsi que la Chambre syndicale des sociétés anonymes de
+crédit immobilier.
 
 **Liens relatifs à cet article**
 
@@ -24544,6 +24666,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
 
 
 ###### Article L511-31
@@ -24675,7 +24801,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : Le secret professionnel<a id=263></a>
+##### Section 5 : Le secret professionnel<a id=270></a>
 
 ###### Article L511-33
 
@@ -24725,12 +24851,23 @@ _Cité par_:
 
 ###### Article L511-34
 
-Pour les besoins de la surveillance sur la base de la situation financière consolidée d'un ou plusieurs établissements de
-crédit ou entreprises d'investissement ayant leur siège social dans un Etat partie à l'accord sur l'Espace économique
-européen, les entreprises établies en France et qui font partie du groupe financier ou du groupe mixte auquel appartiennent
-ces établissements de crédit ou entreprises d'investissement sont tenues, nonobstant toutes dispositions législatives
-contraires, de transmettre les renseignements nécessaires à des entreprises du même groupe ayant leur siège social dans un
-Etat partie à l'accord sur l'Espace économique européen.
+Les entreprises établies en France et qui font partie d'un groupe financier ou d'un groupe mixte auquel appartiennent des
+établissements de crédit ou entreprises d'investissement ayant leur siège social dans un Etat membre de la Communauté
+européenne ou Etat partie à l'accord sur l'Espace économique européen ou dans un Etat où sont applicables les accords prévus
+à l'article L. 613-13 sont tenues, nonobstant toutes dispositions contraires, de transmettre à des entreprises du même groupe
+ayant leur siège social dans l'un de ces Etats :
+
+1° Les renseignements relatifs à leur situation financière nécessaires à l'organisation de la surveillance sur base
+consolidée de ces établissements de crédit ou entreprises d'investissement ;
+
+2° Les informations nécessaires à l'organisation de la lutte contre le blanchiment des capitaux et contre le financement du
+terrorisme.
+
+Ces dernières informations ne peuvent être communiquées à des personnes extérieures au groupe, à l'exception des autorités
+compétentes des Etats visés au premier alinéa. Cette exception ne s'étend pas aux autorités des Etats ou territoires dont la
+législation est reconnue insuffisante ou dont les pratiques sont considérées comme faisant obstacle à la lutte contre le
+blanchiment des capitaux ou le financement du terrorisme par l'instance internationale de concertation et de coordination en
+matière de lutte contre le blanchiment d'argent dont la liste est mise à jour par arrêté du ministre chargé de l'économie.
 
 Les personnes recevant ces informations sont tenues au secret professionnel dans les conditions et sous les peines
 mentionnées à l'article L. 511-33, pour tous renseignements ou documents qu'elles seraient ainsi amenées à recevoir ou à
@@ -24745,10 +24882,15 @@ _Cite_:
 
   - Loi n°78-17 1978-01-06
   - Code monétaire et financier - art. L511-33 (V)
+  - Code monétaire et financier - art. L613-13 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 72 1° JORF 2 août 2003
 
 _Cité par_:
 
@@ -24778,15 +24920,15 @@ _Anciens textes_:
   - Ordonnance n°2016-827 du 23 juin 2016 - art. 26
 
 
-##### Section 6 : Dispositions comptables<a id=264></a>
+##### Section 6 : Dispositions comptables<a id=271></a>
 
-##### Sous-section 1 : Comptes sociaux et documents comptables<a id=265></a>
+##### Sous-section 1 : Comptes sociaux et documents comptables<a id=272></a>
 
 ###### Article L511-35
 
 Les dispositions des articles L. 232-1 et L. 232-6 du code de commerce sont applicables à tous les établissements de crédit
-et entreprises d'investissement dans des conditions fixées par le comité de la réglementation comptable après avis du comité
-de la réglementation bancaire et financière.
+et entreprises d'investissement dans des conditions fixées par le comité de la réglementation comptable après avis du Comité
+consultatif de la législation et de la réglementation financières.
 
 **Liens relatifs à cet article**
 
@@ -24797,6 +24939,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -24814,16 +24960,11 @@ _Cité par_:
   - Code monétaire et financier - art. L745-1-1 (V)
   - Code monétaire et financier - art. L755-1-1 (V)
 
-_Cite_:
-
-  - Code de commerce. - art. L232-1 (V)
-  - Code de commerce. - art. L232-6 (V)
-
 
 ###### Article L511-36
 
 Les établissements de crédit sont tenus d'établir leurs comptes, dans les conditions fixées par le comité de la
-réglementation comptable après avis du comité de la réglementation bancaire et financière, sous une forme consolidée.
+réglementation comptable après avis du Comité consultatif de la législation et de la réglementation financière.
 
 **Liens relatifs à cet article**
 
@@ -24834,6 +24975,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -24854,7 +24999,8 @@ _Cité par_:
 
 Tout établissement de crédit, entreprise d'investissement, autre qu'une société de gestion de portefeuille, ou adhérent aux
 chambres de compensation mentionné au 3 de l'article L. 442-2 doit publier ses comptes annuels dans des conditions fixées par
-le comité de la réglementation comptable après avis du comité de la réglementation bancaire et financière.
+le comité de la réglementation comptable après avis du Comité consultatif de la législation et de la réglementation
+financières.
 
 La commission bancaire s'assure que les publications prévues au présent article sont régulièrement effectuées. Elle peut
 ordonner aux personnes mentionnées à l'alinéa précédent de procéder à des publications rectificatives dans le cas où des
@@ -24872,6 +25018,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
@@ -24888,12 +25038,12 @@ _Cite_:
   - Code monétaire et financier - art. L442-2 (M)
 
 
-##### Sous-section 2 : Commissaires aux comptes<a id=266></a>
+##### Sous-section 2 : Commissaires aux comptes<a id=273></a>
 
 ###### Article L511-38
 
 Le contrôle est exercé dans chaque établissement de crédit ou entreprise d'investissement par au moins deux commissaires aux
-comptes inscrits sur la liste prévue à l'article L. 225-219 du code de commerce. Ces commissaires sont désignés après avis de
+comptes inscrits sur la liste prévue à l'article L. 822-1 du code de commerce. Ces commissaires sont désignés après avis de
 la commission bancaire, dans des conditions fixées par décret. La commission bancaire peut en outre, lorsque la situation le
 justifie, procéder à la désignation d'un commissaire aux comptes supplémentaire. Ces commissaires aux comptes ne doivent pas
 représenter ou appartenir à des cabinets ayant entre eux des liens de nature juridique, professionnelle, de capital ou
@@ -24902,14 +25052,14 @@ la certification des comptes annuels. Ils vérifient la sincérité des informat
 avec lesdits comptes.
 
 Toutefois, lorsque le total du bilan d'un établissement de crédit ou d'une entreprise d'investissement est inférieur à un
-seuil fixé par le comité de la réglementation comptable après avis du comité de la réglementation bancaire et financière, la
-certification mentionnée à l'alinéa précédent peut être exercée par un seul commissaire aux comptes. Lorsque cette condition
-est remplie, et que l'établissement est soumis soit aux règles de la comptabilité publique, soit à un régime spécifique
-d'approbation de ses comptes présentant des garanties jugées suffisantes par la commission bancaire, celle-ci peut décider de
-lever l'obligation de certification mentionnée à l'alinéa précédent.
+seuil fixé par le comité de la réglementation comptable après avis du Comité consultatif de la législation et de la
+réglementation financières, la certification mentionnée à l'alinéa précédent peut être exercée par un seul commissaire aux
+comptes. Lorsque cette condition est remplie, et que l'établissement est soumis soit aux règles de la comptabilité publique,
+soit à un régime spécifique d'approbation de ses comptes présentant des garanties jugées suffisantes par la commission
+bancaire, celle-ci peut décider de lever l'obligation de certification mentionnée à l'alinéa précédent.
 
 Les commissaires aux comptes doivent présenter toutes les garanties d'indépendance à l'égard des établissements de crédit,
-des entreprises d'investissement ou des compagnies financières contrôlés. Les articles L. 225-219 à L. 225-226 du code de
+des entreprises d'investissement ou des compagnies financières contrôlés. Les articles L. 822-1 à L. 822-13 du code de
 commerce sont applicables aux commissaires aux comptes de tout établissement de crédit, entreprise d'investissement ou
 compagnie financière.
 
@@ -24922,6 +25072,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -24947,8 +25102,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce L225-219, L225-219 à L225-226
-  - Code de commerce. - art. L225-219 (Ab)
+  - Code de commerce L822-1, L822-1 à L822-13
+  - Code de commerce. - art. L822-1 (V)
 
 
 ###### Article L511-39
@@ -24993,16 +25148,16 @@ _Cite_:
   - Code monétaire et financier - art. L511-38 (V)
 
 
-##### Section 7 : Dispositions prudentielles.<a id=267></a>
+##### Section 7 : Dispositions prudentielles.<a id=274></a>
 
 ###### Article L511-40
 
 Tout établissement de crédit doit justifier à tout moment que son actif excède effectivement d'un montant au moins égal au
-capital minimum mentionné à l'article L. 511-11 le passif dont il est tenu envers les tiers.
+capital minimum mentionné à l'article L. 511-11 le passif dont il est tenu envers les tiers. 
 
-Toutefois, le comité de la réglementation bancaire et financière fixe les conditions dans lesquelles des établissements
-résultant de la fusion de deux ou plusieurs établissements de crédit, et qui ne satisfont pas aux dispositions du précédent
-alinéa, peuvent poursuivre leurs activités.
+Toutefois, le ministre chargé de l'économie fixe les conditions dans lesquelles des établissements résultant de la fusion de
+deux ou plusieurs établissements de crédit, et qui ne satisfont pas aux dispositions du précédent alinéa, peuvent poursuivre
+leurs activités.
 
 **Liens relatifs à cet article**
 
@@ -25014,6 +25169,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
@@ -25023,22 +25182,22 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L511-11 (M)
+  - Code monétaire et financier (V)
 
 
 ###### Article L511-41
 
-Les établissements de crédit sont tenus, dans des conditions définies par le comité de la réglementation bancaire et
-financière, de respecter des normes de gestion destinées à garantir leur liquidité et leur solvabilité à l'égard des
-déposants et, plus généralement, des tiers, ainsi que l'équilibre de leur structure financière.
+Les établissements de crédit sont tenus, dans des conditions définies par le ministre chargé de l'économie, de respecter des
+normes de gestion destinées à garantir leur liquidité et leur solvabilité à l'égard des déposants et, plus généralement, des
+tiers, ainsi que l'équilibre de leur structure financière.
 
 Ils doivent en particulier respecter des ratios de couverture et de division de risques.
 
 Les établissements de crédit doivent également disposer d'un système adéquat de contrôle interne leur permettant notamment de
 mesurer les risques et la rentabilité de leurs activités. Lorsque la surveillance est exercée sur la base de la situation
 financière consolidée, les groupes financiers doivent adopter des procédures de contrôle interne adéquates pour la production
-des informations et renseignements utiles aux fins de l'exercice de cette surveillance. Un règlement du comité de la
-réglementation bancaire et financière définit les conditions d'application du présent alinéa.
+des informations et renseignements utiles aux fins de l'exercice de cette surveillance. Un arrêté du ministre chargé de
+l'économie définit les conditions d'application du présent alinéa.
 
 **Liens relatifs à cet article**
 
@@ -25049,6 +25208,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 VI 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -25122,9 +25286,9 @@ _Cite_:
   - Code monétaire et financier - art. L312-4 (V)
 
 
-#### Chapitre II : Les banques mutualistes ou coopératives<a id=268></a>
+#### Chapitre II : Les banques mutualistes ou coopératives<a id=275></a>
 
-##### Section 1 : Dispositions générales<a id=269></a>
+##### Section 1 : Dispositions générales<a id=276></a>
 
 ###### Article L512-1
 
@@ -25164,9 +25328,9 @@ _Cite_:
   - Code de commerce. - art. L236-10 (V)
 
 
-##### Section 2 : Les banques populaires<a id=270></a>
+##### Section 2 : Les banques populaires<a id=277></a>
 
-##### Sous-section 1 : Dispositions générales<a id=271></a>
+##### Sous-section 1 : Dispositions générales<a id=278></a>
 
 ###### Article L512-2
 
@@ -25393,7 +25557,7 @@ _Cite_:
   - Code monétaire et financier - art. L512-8 (V)
 
 
-##### Sous-section 2 : Banque fédérale des banques populaires<a id=272></a>
+##### Sous-section 2 : Banque fédérale des banques populaires<a id=279></a>
 
 ###### Article L512-10
 
@@ -25503,7 +25667,7 @@ _Anciens textes_:
   - Loi n°1929-07-24 du 24 juillet 1929 - art. 10 (Ab)
 
 
-##### Sous-section 3 : Dispositions diverses<a id=273></a>
+##### Sous-section 3 : Dispositions diverses<a id=280></a>
 
 ###### Article L512-13
 
@@ -25530,7 +25694,7 @@ _Anciens textes_:
   - Loi n°1929-07-24 du 24 juillet 1929 - art. 11 (Ab)
 
 
-##### Section 3 : Le crédit agricole<a id=274></a>
+##### Section 3 : Le crédit agricole<a id=281></a>
 
 ###### Article L512-20
 
@@ -25565,9 +25729,9 @@ _Anciens textes_:
   - Code rural ancien - art. 614 (Ab)
 
 
-##### Sous-section 1 : Les caisses de crédit agricole mutuel<a id=275></a>
+##### Sous-section 1 : Les caisses de crédit agricole mutuel<a id=282></a>
 
-##### Paragraphe 1 : Organisation<a id=276></a>
+##### Paragraphe 1 : Organisation<a id=283></a>
 
 ###### Article L512-21
 
@@ -25898,7 +26062,7 @@ _Anciens textes_:
   - Code rural ancien - art. 631 (Ab)
 
 
-##### Paragraphe 2 : Fonctionnement<a id=277></a>
+##### Paragraphe 2 : Fonctionnement<a id=284></a>
 
 ###### Article L512-36
 
@@ -26086,7 +26250,7 @@ _Anciens textes_:
   - Code rural ancien - art. 644 (Ab)
 
 
-##### Paragraphe 3 : Ressources<a id=278></a>
+##### Paragraphe 3 : Ressources<a id=285></a>
 
 ###### Article L512-44
 
@@ -26138,9 +26302,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : La Caisse nationale de crédit agricole<a id=279></a>
+##### Sous-section 2 : La Caisse nationale de crédit agricole<a id=286></a>
 
-##### Paragraphe 1 : Organisation.<a id=280></a>
+##### Paragraphe 1 : Organisation.<a id=287></a>
 
 ###### Article L512-47
 
@@ -26222,7 +26386,7 @@ _Cite_:
   - Code de commerce. - art. L225-18 (M)
 
 
-##### Paragraphe 2 : Ressources.<a id=281></a>
+##### Paragraphe 2 : Ressources.<a id=288></a>
 
 ###### Article L512-50
 
@@ -26239,7 +26403,7 @@ _Anciens textes_:
   - Code rural ancien - art. 718 (Ab)
 
 
-##### Sous-section 3 : Contrôles<a id=282></a>
+##### Sous-section 3 : Contrôles<a id=289></a>
 
 ###### Article L512-51
 
@@ -26315,7 +26479,7 @@ _Anciens textes_:
   - Code rural ancien - art. 741 (Ab)
 
 
-##### Section 4 : Le crédit mutuel<a id=283></a>
+##### Section 4 : Le crédit mutuel<a id=290></a>
 
 ###### Article L512-55
 
@@ -26450,45 +26614,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : Le crédit coopératif.<a id=284></a>
+##### Section 6 : Les sociétés coopératives de banque<a id=291></a>
 
-###### Article L512-60
-
-Les établissements de crédit coopératif sont soumis aux dispositions de la loi n° 47-1775 du 10 septembre 1947 portant statut
-de la coopération. Ils sont affiliés à la caisse centrale de crédit coopératif. Ces établissements peuvent admettre des tiers
-non sociétaires à bénéficier de leurs concours et de leurs services sous les conditions et selon les modalités fixées par
-leurs statuts.
-
-Ceux de ces établissements qui sont agréés comme banque coopérative peuvent recevoir des dépôts de toute personne physique ou
-morale.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°47-1775 1947-09-10
-
-_Anciens textes_:
-
-  - Loi n°92-643 du 13 juillet 1992 - art. 62 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 93 (V)
-  - Code général des impôts, CGI. - art. 223 A (V)
-
-
-##### Section 6 : Les sociétés coopératives de banque<a id=285></a>
-
-##### Sous-section 1 : Dispositions générales<a id=286></a>
+##### Sous-section 1 : Dispositions générales<a id=292></a>
 
 ###### Article L512-61
 
@@ -26572,7 +26700,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Conseil d'administration<a id=287></a>
+##### Sous-section 2 : Conseil d'administration<a id=293></a>
 
 ###### Article L512-64
 
@@ -26594,7 +26722,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 3 : Commissaire du Gouvernement<a id=288></a>
+##### Sous-section 3 : Commissaire du Gouvernement<a id=294></a>
 
 ###### Article L512-65
 
@@ -26622,7 +26750,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 4 : Statuts<a id=289></a>
+##### Sous-section 4 : Statuts<a id=295></a>
 
 ###### Article L512-66
 
@@ -26660,9 +26788,9 @@ _Cite_:
   - Code monétaire et financier - art. L512-61 (V)
 
 
-##### Section 7 : Le crédit maritime mutuel<a id=290></a>
+##### Section 7 : Le crédit maritime mutuel<a id=296></a>
 
-##### Sous-section 1 : Dispositions générales<a id=291></a>
+##### Sous-section 1 : Dispositions générales<a id=297></a>
 
 ###### Article L512-68
 
@@ -26672,7 +26800,7 @@ activités qui s'y rattachent, ainsi qu'à l'extraction des sables, graviers et 
 provenant de la mer ou du domaine maritime.
 
 Les établissements de crédit maritime mutuel peuvent également effectuer toute opération de banque en faveur de leurs
-sociétaires et de ceux de la caisse centrale de crédit coopératif et recevoir de toute personne des dépôts de fonds et de
+sociétaires et de ceux de la Banque fédérale des banques populaires et recevoir de toute personne des dépôts de fonds et de
 titres.
 
 **Liens relatifs à cet article**
@@ -26695,11 +26823,15 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
+
 
 ###### Article L512-69
 
-Le crédit maritime mutuel est pratiqué par trois catégories d'établissements de crédit affiliés à la caisse centrale de
-crédit coopératif :
+Le crédit maritime mutuel est pratiqué par trois catégories d'établissements de crédit affiliés à la Banque fédérale des
+banques populaires :
 
 1. Des caisses régionales de crédit maritime mutuel ;
 
@@ -26714,11 +26846,6 @@ crédit maritime mutuel doivent détenir la majorité du capital et des droits d
 soumis à approbation ministérielle.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°47-1775 1947-09-10 art. 19 bis
-  - Code monétaire et financier - art. L512-74 (M)
 
 _Anciens textes_:
 
@@ -26736,6 +26863,10 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
 
 
 ###### Article L512-70
@@ -26790,7 +26921,7 @@ _Cite_:
 
 ###### Article L512-72
 
-La caisse centrale de crédit coopératif assure le contrôle de la régularité des opérations financières et comptables des
+La Banque fédérale des banques populaires assure le contrôle de la régularité des opérations financières et comptables des
 établissements affiliés mentionnés à l'article L. 512-69 ; elle effectue à leur bénéfice toutes opérations financières ; elle
 leur apporte ses services dans le respect de leur autonomie juridique et financière.
 
@@ -26810,10 +26941,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L512-69 (M)
-  - Code monétaire et financier - art. L512-84 (V)
+  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -26867,19 +26997,13 @@ les ascendants, veuves et orphelins de ces personnes ;
 2. Les groupements qui, se rattachant par leur objet à l'une des activités mentionnées au premier alinéa de l'article L.
 512-68 appartiennent à l'une des catégories déterminées par le décret prévu à l'article L. 512-84 ;
 
-3. La Caisse centrale de crédit coopératif et les organismes dont elle centralise ou contrôle la gestion financière et
+3. La Banque fédérale des banques populaires et les organismes dont elle centralise ou contrôle la gestion financière et
 comptable ;
 
 4. Les autres personnes physiques ou morales qui exercent leur activité ou qui ont une résidence dans les départements
 côtiers.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°47-1775 1947-09-10 art. 3 bis
-  - Code monétaire et financier - art. L512-68 (M)
-  - Code monétaire et financier - art. L512-84 (V)
 
 _Anciens textes_:
 
@@ -26899,6 +27023,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
 
 
 ###### Article L512-75
@@ -26937,7 +27065,7 @@ _Cite_:
   - Code monétaire et financier - art. L512-84 (V)
 
 
-##### Sous-section 2 : Administration<a id=292></a>
+##### Sous-section 2 : Administration<a id=298></a>
 
 ###### Article L512-76
 
@@ -27043,7 +27171,7 @@ _Codifié par_:
 
 Si le conseil d'administration prend des décisions contraires aux dispositions législatives ou réglementaires particulières
 régissant le crédit maritime mutuel ou aux orientations prévues à l'article L. 512-68, ou s'il s'abstient d'exercer ses
-fonctions, la Caisse centrale de crédit coopératif peut, sans préjudice des dispositions de l'article L. 613-19, après mise
+fonctions, la Banque fédérale des banques populaires peut, sans préjudice des dispositions de l'article L. 613-19, après mise
 en demeure restée vaine et dans des conditions définies par le décret prévu à l'article L. 512-84, proposer au ministre
 chargé de l'économie, de dissoudre le conseil d'administration et de désigner un administrateur ou un comité provisoire,
 chargé de l'administration de la caisse ou de l'union.
@@ -27065,11 +27193,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L512-68 (M)
-  - Code monétaire et financier - art. L512-84 (V)
-  - Code monétaire et financier - art. L613-19 (M)
+  - Loi n°2003-706 du 1 août 2003 - art. 93 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -27109,7 +27235,50 @@ _Cite_:
   - Code monétaire et financier - art. L512-82 (V)
 
 
-##### Sous-section 4 : Dispositions diverses<a id=293></a>
+##### Sous-section 3 : Commissaires aux comptes<a id=299></a>
+
+###### Article L512-82
+
+Dans chaque caisse régionale ou union, un commissaire aux comptes est élu par l'assemblée générale pour une durée de trois
+exercices. Il doit être choisi sur la liste des commissaires de sociétés prévue à l'article L. 822-1 du code de commerce et
+conformément aux dispositions de l'article L. 511-38. Son mandat est renouvelable.
+
+Le commissaire aux comptes certifie, sous sa responsabilité, la régularité et la sincérité du compte d'exploitation générale,
+du compte de pertes et profits et du bilan.
+
+Il a pour mission permanente de vérifier les livres et de contrôler la régularité et la sincérité des informations données
+aux sociétaires. Il dresse un rapport annuel qui est porté à la connaissance du conseil d'administration et du directeur
+avant d'être présenté à l'assemblée générale. Il est convoqué à la réunion du conseil d'administration, qui arrête les
+comptes de l'exercice écoulé, ainsi qu'à toutes les assemblées générales.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°75-628 du 11 juillet 1975 - art. 18 (M)
+  - Loi n°75-628 du 11 juillet 1975 - art. 18 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 116 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code de commerce. - art. L822-1 (V)
+  - Code monétaire et financier - art. L511-38 (M)
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L512-81 (V)
+
+
+##### Sous-section 4 : Dispositions diverses<a id=300></a>
 
 ###### Article L512-83
 
@@ -27161,9 +27330,9 @@ _Cité par_:
   - Code monétaire et financier - art. L512-83 (V)
 
 
-##### Section 8 : Le réseau des caisses d'épargne<a id=294></a>
+##### Section 8 : Le réseau des caisses d'épargne<a id=301></a>
 
-##### Sous-section 1 : Missions<a id=295></a>
+##### Sous-section 1 : Missions<a id=302></a>
 
 ###### Article L512-85
 
@@ -27199,7 +27368,7 @@ _Cité par_:
   - Code monétaire et financier - art. L512-95 (V)
 
 
-##### Sous-section 2 : Le réseau<a id=296></a>
+##### Sous-section 2 : Le réseau<a id=303></a>
 
 ###### Article L512-86
 
@@ -27223,7 +27392,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 223 A (V)
 
 
-##### Sous-section 3 : Les caisses d'épargne et de prévoyance<a id=297></a>
+##### Sous-section 3 : Les caisses d'épargne et de prévoyance<a id=304></a>
 
 ###### Article L512-87
 
@@ -27396,7 +27565,7 @@ _Cité par_:
   - Code monétaire et financier - art. L512-85 (V)
 
 
-##### Sous-section 4 : Les sociétés locales d'épargne<a id=298></a>
+##### Sous-section 4 : Les sociétés locales d'épargne<a id=305></a>
 
 ###### Article L512-92
 
@@ -27486,7 +27655,7 @@ _Cité par_:
   - Code monétaire et financier - art. R512-52 (V)
 
 
-##### Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance.<a id=299></a>
+##### Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance.<a id=306></a>
 
 ###### Article L512-94
 
@@ -27678,7 +27847,7 @@ _Abrogé par_:
   - Loi n°2009-715 du 18 juin 2009 - art. 1
 
 
-##### Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance<a id=300></a>
+##### Sous-section 6 : La Fédération nationale des caisses d'épargne et de prévoyance<a id=307></a>
 
 ###### Article L512-99
 
@@ -27751,7 +27920,7 @@ _Anciens textes_:
   - Code des caisses d'épargne - art. 57 (Ab)
 
 
-##### Sous-section 7 : Fonds de réserve et de garantie.<a id=301></a>
+##### Sous-section 7 : Fonds de réserve et de garantie.<a id=308></a>
 
 ###### Article L512-101
 
@@ -27789,7 +27958,7 @@ _Cité par_:
   - Code monétaire et financier - art. R518-52 (Ab)
 
 
-##### Sous-section 8 : Dispositions générales<a id=302></a>
+##### Sous-section 8 : Dispositions générales<a id=309></a>
 
 ###### Article L512-102
 
@@ -27850,7 +28019,7 @@ _Codifié par_:
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 
-#### Chapitre III : Les sociétés anonymes de crédit immobilier<a id=303></a>
+#### Chapitre III : Les sociétés anonymes de crédit immobilier<a id=310></a>
 
 ###### Article L513-1
 
@@ -27882,9 +28051,9 @@ _Nouveaux textes_:
   - Code monétaire et financier art. L515-34
 
 
-#### Chapitre IV : Les caisses de crédit municipal<a id=304></a>
+#### Chapitre IV : Les caisses de crédit municipal<a id=311></a>
 
-##### Section 1 : Missions<a id=305></a>
+##### Section 1 : Missions<a id=312></a>
 
 ###### Article L514-1
 
@@ -27950,7 +28119,7 @@ _Cite_:
   - Code monétaire et financier - art. L311-2 (M)
 
 
-##### Section 2 : Création et administration<a id=306></a>
+##### Section 2 : Création et administration<a id=313></a>
 
 ###### Article L514-2
 
@@ -28011,23 +28180,23 @@ _Cite_:
 
 ###### Article L514-3
 
-Sans préjudice des compétences dévolues au comité de la réglementation bancaire et financière, l'organisation et le
-fonctionnement des caisses de crédit municipal et notamment les attributions du conseil d'orientation et de surveillance
-ainsi que le régime financier sont déterminés par décrets en Conseil d'Etat pris sur le rapport du ministre chargé de
-l'économie.
+L'organisation et le fonctionnement des caisses de crédit municipal et notamment les attributions du conseil d'orientation et
+de surveillance ainsi que le régime financier sont déterminés par décrets en Conseil d'Etat pris sur le rapport du ministre
+chargé de l'économie.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°55-622 du 20 mai 1955 - art. 3 (M)
   - Décret n°55-622 du 20 mai 1955 - art. 3 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -28060,15 +28229,15 @@ _Cité par_:
   - Code monétaire et financier - art. R514-34 (V)
 
 
-#### Chapitre V : Les sociétés financières<a id=307></a>
+#### Chapitre V : Les sociétés financières<a id=314></a>
 
-##### Section 1 : Dispositions communes<a id=308></a>
+##### Section 1 : Dispositions communes<a id=315></a>
 
 ###### Article L515-1
 
 Les sociétés financières mentionnées à l'article L. 511-9 ne peuvent recevoir du public des fonds à vue ou à moins de deux
-ans de terme, sauf si elles y sont autorisées à titre accessoire dans les conditions définies par le comité de la
-réglementation bancaire et financière.
+ans de terme, sauf si elles y sont autorisées à titre accessoire dans les conditions définies par le ministre chargé de
+l'économie. 
 
 Les sociétés financières ne peuvent effectuer que les opérations de banque résultant soit de la décision d'agrément qui les
 concerne, soit des dispositions législatives et réglementaires qui leur sont propres.
@@ -28077,14 +28246,15 @@ concerne, soit des dispositions législatives et réglementaires qui leur sont p
 
 _Anciens textes_:
 
-  - Loi n°84-46 1984-01-24 art. 18 al. 5 et al. 6
   - Loi n°84-46 du 24 janvier 1984 - art. 18 (Ab)
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -28100,7 +28270,7 @@ _Cite_:
   - Code monétaire et financier - art. L511-9 (V)
 
 
-##### Section 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=309></a>
+##### Section 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=316></a>
 
 ###### Article L515-2
 
@@ -28164,9 +28334,9 @@ _Cite_:
   - Code monétaire et financier - art. L613-21 (M)
 
 
-##### Section 3 : Les sociétés de caution mutuelle<a id=310></a>
+##### Section 3 : Les sociétés de caution mutuelle<a id=317></a>
 
-##### Sous-section 1 : Objet<a id=311></a>
+##### Sous-section 1 : Objet<a id=318></a>
 
 ###### Article L515-4
 
@@ -28226,7 +28396,7 @@ _Cité par_:
   - Code rural - art. D666-11 (V)
 
 
-##### Sous-section 2 : Statuts<a id=312></a>
+##### Sous-section 2 : Statuts<a id=319></a>
 
 ###### Article L515-5
 
@@ -28290,7 +28460,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 3 : Emploi des fonds<a id=313></a>
+##### Sous-section 3 : Emploi des fonds<a id=320></a>
 
 ###### Article L515-8
 
@@ -28349,7 +28519,7 @@ _Cite_:
   - Code de commerce - art. L232-10 (V)
 
 
-##### Sous-section 4 : Publicité<a id=314></a>
+##### Sous-section 4 : Publicité<a id=321></a>
 
 ###### Article L515-10
 
@@ -28422,9 +28592,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les sociétés de crédit foncier<a id=315></a>
+##### Section 4 : Les sociétés de crédit foncier<a id=322></a>
 
-##### Sous-section 1 : Statut et objet<a id=316></a>
+##### Sous-section 1 : Statut et objet<a id=323></a>
 
 ###### Article L515-13
 
@@ -28445,11 +28615,16 @@ mentionnés aux articles L. 313-42 à L. 313-48.
 III. - Nonobstant toutes dispositions ou stipulations contraires, les sociétés de crédit foncier peuvent mobiliser,
 conformément aux articles L. 313-23 à L. 313-34, l'ensemble des créances qu'elles détiennent, quelle que soit la nature,
 professionnelle ou non, de ces créances. Dans ce cas, les énonciations figurant au bordereau mentionné à l'article L. 313-23
-sont déterminées par décret. Les créances ainsi mobilisées ne sont pas comptabilisées par ces sociétés au titre de l'article
-L. 515-20.
+sont déterminées par décret. Les sociétés de crédit foncier peuvent également procéder à des cessions temporaires de leurs
+titres dans les conditions fixées aux articles L. 432-6 à L. 432-19 (1). Les créances ou titres ainsi mobilisés ou cédés ne
+sont pas comptabilisés par ces sociétés au titre de l'article L. 515-20.
 
 IV. - Les sociétés de crédit foncier peuvent acquérir et posséder tous biens immeubles ou meubles nécessaires à
 l'accomplissement de leur objet ou provenant du recouvrement de leurs créances.
+
+**Nota:**
+
+NOTA (1) : Les articles L. 432-8 et L. 432-16 ont été abrogés par l'article 38 2° de la loi n° 2003-706 du 1er août 2003.
 
 **Liens relatifs à cet article**
 
@@ -28491,18 +28666,22 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 94 1° JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L313-23 (V)
   - Code monétaire et financier - art. L515-20 (M)
-  - Code monétaire et financier L515-14 à L515-17, L515-19, L313-42 à L313-48, L313-23 à L313-34, L313-23, L515-20
+  - Code monétaire et financier L515-14 à L515-17, L515-19, L313-42 à L313-48, L313-23 à L313-34, L313-23, L432-6 à L432-19, L515-20
 
 _Nouveaux textes_:
 
   - Code monétaire et financier - art. L513-2 (V)
 
 
-##### Sous-section 2 : Opérations<a id=317></a>
+##### Sous-section 2 : Opérations<a id=324></a>
 
 ###### Article L515-14
 
@@ -28531,8 +28710,7 @@ l'article L. 515-13.
 III. - Le bien apporté en garantie ou le bien financé par un prêt cautionné doit être situé dans l'Espace économique
 européen, dans les territoires d'outre-mer de la République, en Suisse, aux Etats- Unis d'Amérique, au Canada ou au Japon. Sa
 valeur est déterminée de manière prudente et exclut tout élément d'ordre spéculatif. Les modalités d'évaluation sont fixées
-par un règlement du comité de la réglementation bancaire et financière, qui prévoit notamment dans quels cas il doit être
-recouru à une expertise.
+par un arrêté du ministre chargé de l'économie, qui prévoit notamment dans quels cas il doit être recouru à une expertise.
 
 **Liens relatifs à cet article**
 
@@ -28549,7 +28727,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 31 () JORF 12 décembre 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code de commerce. - art. L233-16 (M)
+  - Code monétaire et financier - art. L515-15 (M)
+  - Code de la construction et de l'habitation. - art. L312-1 (M)
 
 _Cité par_:
 
@@ -28573,13 +28757,21 @@ _Cité par_:
 
 Les prêts aux personnes publiques sont des prêts accordés aux Etats, aux collectivités territoriales ou à leurs groupements
 et aux établissements publics de l'Espace économique européen, de Suisse, des Etats-Unis d'Amérique, du Canada ou du Japon,
-ou totalement garantis par un ou plusieurs Etats ou collectivités territoriales ou groupements de celles-ci.
+ou totalement garantis par un ou plusieurs de ces Etats ou collectivités territoriales ou groupements de celles-ci.
 
 Sont assimilés aux prêts aux personnes publiques les titres de créances émis par les Etats, les collectivités territoriales
 ou leurs groupements et les établissements publics de l'Espace économique européen, de Suisse, des Etats-Unis d'Amérique, du
-Canada ou du Japon, ou totalement garantis par un ou plusieurs Etats ou collectivités territoriales ou groupements de celles-
-ci. Ces titres doivent être acquis avec une intention de conservation durable jusqu'à leur échéance et, en conséquence, être
-traités sur le plan comptable conformément à un règlement du comité de la réglementation comptable.
+Canada ou du Japon, totalement garantis par un ou plusieurs de ces Etats ou collectivités territoriales ou groupements de
+celles-ci. Ces titres doivent être acquis avec une intention de conservation durable jusqu'à leur échéance et, en
+conséquence, être traités sur le plan comptable conformément à un règlement du comité de la réglementation comptable.
+
+Sont assimilées aux prêts aux personnes publiques les créances de sommes d'argent, y compris celles résultant d'un contrat à
+exécution successive, sur des personnes publiques mentionnées à l'alinéa précédent et figurant sur une liste fixée par décret
+en Conseil d'Etat.
+
+Sont assimilées aux prêts à des personnes publiques les créances nées de contrats de crédit-bail auxquels une personne
+publique française est partie en qualité de crédit-preneur. Les sociétés de crédit foncier acquérant les créances résultant
+d'un contrat de crédit-bail peuvent également acquérir tout ou partie de la créance qui résultera de la vente du bien loué.
 
 **Liens relatifs à cet article**
 
@@ -28596,7 +28788,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 31 () JORF 12 décembre 2001
+  - Loi n°2003-706 2003-08-01 art. 95 1°, art. 96 I JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -28617,10 +28810,12 @@ _Cité par_:
 Sont assimilés aux prêts mentionnés aux articles L. 515-14 et L. 515-15 les parts de fonds communs de créances ainsi que les
 parts ou titres de créances émis par des entités similaires soumises au droit d'un Etat appartenant à l'Espace économique
 européen, de la Suisse, des Etats-Unis d'Amérique, du Canada ou du Japon, dès lors que l'actif de ces fonds communs de
-créances ou entités similaires est composé, à hauteur de 90 % au moins, de créances de même nature que les prêts répondant
-aux caractéristiques définies aux trois premiers alinéas de l'article L. 515-14 ainsi qu'à l'article L. 515-15 ou, dans des
-conditions fixées par décret en Conseil d'Etat, de créances assorties de garanties équivalentes à celles des prêts mentionnés
-à l'article L. 515-14 et à l'exclusion des parts spécifiques supportant le risque de défaillance des débiteurs de créances.
+créances ou entités similaires est composé, à l'exclusion des sommes momentanément disponibles et en instance d'affectation,
+des garanties, sûretés ou autres privilèges dont ils bénéficient, à hauteur de 90 % au moins, de créances de même nature que
+les prêts répondant aux caractéristiques définies aux trois premiers alinéas de l'article L. 515-14 ainsi qu'à l'article L.
+515-15 ou, dans des conditions fixées par décret en Conseil d'Etat, de créances assorties de garanties équivalentes à celles
+des prêts mentionnés aux articles L. 515-14 et L. 515-15 et à l'exclusion des parts spécifiques supportant le risque de
+défaillance des débiteurs de créances.
 
 **Liens relatifs à cet article**
 
@@ -28645,7 +28840,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 31 () JORF 12 décembre 2001
+  - Loi n°2003-706 2003-08-01 art. 95 3° JORF 2 août 2003
 
 _Cite_:
 
@@ -28688,8 +28883,10 @@ Afin d'assurer la couverture des opérations de gestion des prêts mentionnés a
 obligations foncières ou des autres ressources bénéficiant du privilège défini à l'article L. 515-19, les sociétés de crédit
 foncier peuvent recourir à des instruments financiers à terme, tels que définis à l'article L. 211-1.
 
-Les sommes dues au titre de ces instruments financiers à terme, le cas échéant après compensation, bénéficient du privilège
-mentionné à l'article L. 515-19.
+Les sommes dues au titre des instruments financiers à terme conclus par les sociétés de crédit foncier pour la couverture de
+leurs éléments d'actif et de passif, le cas échéant après compensation, bénéficient du privilège mentionné à l'article L.
+515-19 de même que les sommes dues au titre des instruments financiers à terme conclus par les sociétés de crédit foncier
+pour la gestion ou la couverture du risque global sur l'actif, le passif et le hors-bilan de ces sociétés.
 
 Les sommes dues au titre des instruments financiers à terme utilisés pour la couverture des opérations mentionnées au II de
 l'article L. 515-13 ne bénéficient pas de ce privilège.
@@ -28707,6 +28904,10 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 94 2° JORF 2 août 2003
+
 _Cité par_:
 
   - Loi n°2010-1249 du 22 octobre 2010 - art. 74 (V)
@@ -28714,18 +28915,25 @@ _Cité par_:
   - Code monétaire et financier - art. R515-7 (V)
   - Code monétaire et financier - art. R515-7-1 (T)
 
+_Cite_:
 
-##### Sous-section 3 : Privilège des créances nées des opérations<a id=318></a>
+  - Code monétaire et financier - art. L211-1 (M)
+  - Code monétaire et financier - art. L515-13 (M)
+  - Code monétaire et financier L515-14 à L515-17, L515-19, L211-1, L515-13
+
+
+##### Sous-section 3 : Privilège des créances nées des opérations<a id=325></a>
 
 ###### Article L515-19
 
 Nonobstant toutes dispositions législatives contraires, et notamment celles du titre Ier et du titre II du livre VI du code
 de commerce :
 
-1. Les sommes provenant de prêts, titres et valeurs mentionnés aux articles L. 515-14 à L. 515-17 des instruments financiers
-mentionnés à l'article L. 515-18, le cas échéant après compensation, ainsi que les créances résultant des dépôts effectués
-par la société de crédit foncier auprès d'établissements de crédit, sont affectées par priorité au service du paiement des
-obligations foncières et des autres ressources privilégiées mentionnées au 2 du I de l'article L. 515-13 ;
+1. Les sommes provenant de prêts ou créances assimilées, titres et valeurs mentionnés aux articles L. 515-14 à L. 515-17 des
+instruments financiers mentionnés à l'article L. 515-18, le cas échéant après compensation, ainsi que les créances résultant
+des dépôts effectués par la société de crédit foncier auprès d'établissements de crédit, sont affectées par priorité au
+service du paiement des obligations foncières et des autres ressources privilégiées mentionnées au 2 du I de l'article L.
+515-13 ;
 
 2. Lorsqu'une société de crédit foncier fait l'objet d'une procédure de redressement ou de liquidation judiciaires, ou de
 règlement amiable, les créances nées régulièrement des opérations mentionnées au 2 du I de l'article L. 515-13 sont payées à
@@ -28752,6 +28960,10 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+
 _Cité par_:
 
   - Loi n°2010-1249 du 22 octobre 2010 - art. 74 (V)
@@ -28770,13 +28982,13 @@ _Cite_:
   - Code monétaire et financier L515-14 à L515-17, L515-18, L515-13, L515-22
 
 
-##### Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier<a id=319></a>
+##### Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier<a id=326></a>
 
 ###### Article L515-20
 
 Le montant total des éléments d'actif des sociétés de crédit foncier doit être supérieur au montant des éléments de passif
-bénéficiant du privilège mentionné à l'article L. 515-19. Le comité de la réglementation bancaire et financière détermine les
-modalités d'évaluation de ces éléments d'actif et de passif.
+bénéficiant du privilège mentionné à l'article L. 515-19. Le ministre chargé de l'économie détermine les modalités
+d'évaluation de ces éléments d'actif et de passif.
 
 **Liens relatifs à cet article**
 
@@ -28786,9 +28998,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L513-12 (VD)
 
 _Cité par_:
 
@@ -28798,16 +29020,22 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L515-19 (M)
+  - Code monétaire et financier - art. L515-19
 
 
 ###### Article L515-21
 
-La cession à une société de crédit foncier des prêts mentionnés à l'article L. 515-13 est opérée par la seule remise d'un
-bordereau au cessionnaire, dont les énonciations sont déterminées par décret. La cession ou l'apport prend effet entre les
-parties, et devient opposable aux tiers, à la date apposée sur le bordereau lors de sa remise. La remise du bordereau
-entraîne de plein droit le transfert des accessoires des créances cédées et des sûretés garantissant chaque prêt, y compris
-les sûretés hypothécaires, ainsi que son opposabilité aux tiers, sans qu'il soit besoin d'autres formalités.
+La cession à une société de crédit foncier des prêts mentionnés à l'article L. 515-13 et des créances assimilées s'effectue
+par la seule remise d'un bordereau au cessionnaire, dont les énonciations sont fixées par décret. Nonobstant l'ouverture
+éventuelle de toute procédure de redressement ou de liquidation judiciaires à l'encontre du cédant postérieurement à la
+cession, la cession prend effet entre les parties et devient opposable aux tiers à la date apposée sur le bordereau lors de
+sa remise, quelle que soit la date de naissance, d'échéance ou d'exigibilité des créances, sans qu'il soit besoin d'autre
+formalité, et ce quelle que soit la loi applicable aux créances et la loi du pays de résidence des débiteurs. La remise du
+bordereau entraîne de plein droit le transfert des sûretés, des garanties et des accessoires attachés à chaque prêt, y
+compris les sûretés hypothécaires, ainsi que son opposabilité aux tiers sans qu'il soit besoin d'autre formalité.
+
+Lorsque les créances résultent d'un contrat de crédit-bail, la survenance d'un redressement ou d'une liquidation judiciaires
+du crédit-bailleur cédant en cours de contrat ne peut remettre en cause la poursuite du contrat de crédit-bail.
 
 **Liens relatifs à cet article**
 
@@ -28820,6 +29048,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -28834,8 +29066,9 @@ _Cite_:
 
 ###### Article L515-22
 
-La gestion ou le recouvrement des prêts, des obligations ou des autres ressources prévus à l'article L. 515-13 ne peuvent
-être assurés que par un établissement de crédit lié à la société de crédit foncier par contrat.
+La gestion ou le recouvrement des prêts, créances assimilées, titres et valeurs, des obligations ou des autres ressources
+prévus à l'article L. 515-13 ne peuvent être assurés que par un établissement de crédit lié à la société de crédit foncier
+par contrat.
 
 **Liens relatifs à cet article**
 
@@ -28849,21 +29082,22 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+
 _Cité par_:
 
   - Loi n°2010-1249 du 22 octobre 2010 - art. 74 (V)
   - Code monétaire et financier - art. L515-19 (M)
   - Code monétaire et financier - art. L515-31 (VT)
 
-_Cite_:
-
-  - Code monétaire et financier - art. L515-13 (M)
-
 
 ###### Article L515-23
 
-L'établissement de crédit chargé de la gestion des prêts est habilité à agir en justice tant en demande qu'en défense et à
-exercer toutes voies d'exécution au nom et pour le compte de la société de crédit foncier.
+L'établissement de crédit chargé de la gestion des prêts, créances assimilées, titres et valeurs, est habilité à agir en
+justice tant en demande qu'en défense et à exercer toutes voies d'exécution au nom et pour le compte de la société de crédit
+foncier.
 
 **Liens relatifs à cet article**
 
@@ -28877,6 +29111,10 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+
 _Cité par_:
 
   - Code monétaire et financier - art. L515-30 (VT)
@@ -28884,8 +29122,8 @@ _Cité par_:
 
 ###### Article L515-24
 
-En cas de changement de l'entité juridique chargée de gérer ou de procéder au recouvrement des prêts, les débiteurs en sont
-informés par simple lettre.
+En cas de changement de l'entité juridique chargée de gérer ou de procéder au recouvrement des prêts ou créances assimilées,
+les débiteurs en sont informés par simple lettre.
 
 **Liens relatifs à cet article**
 
@@ -28899,12 +29137,16 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+
 _Cité par_:
 
   - Code monétaire et financier - art. L515-30 (VT)
 
 
-##### Sous-section 5 : Redressement et liquidation judiciaires<a id=320></a>
+##### Sous-section 5 : Redressement et liquidation judiciaires<a id=327></a>
 
 ###### Article L515-25
 
@@ -28984,9 +29226,9 @@ _Cité par_:
 ###### Article L515-28
 
 En cas de redressement ou de liquidation judiciaires d'une société chargée de la gestion ou du recouvrement, pour le compte
-d'une société de crédit foncier, des prêts, des obligations ou des autres ressources prévus à l'article L. 515-13, les
-contrats qui prévoient cette gestion ou ce recouvrement peuvent être immédiatement résiliés, nonobstant toutes dispositions
-contraires et notamment celles du titre II du livre VI du code de commerce.
+d'une société de crédit foncier, des prêts, créances assimilées, titres et valeurs, des obligations ou des autres ressources
+prévus à l'article L. 515-13, les contrats qui prévoient cette gestion ou ce recouvrement peuvent être immédiatement
+résiliés, nonobstant toutes dispositions contraires et notamment celles du titre II du livre VI du code de commerce.
 
 **Liens relatifs à cet article**
 
@@ -29000,12 +29242,16 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 96 () JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L515-13 (M)
 
 
-##### Sous-section 6 : Contrôles<a id=321></a>
+##### Sous-section 6 : Contrôles<a id=328></a>
 
 ###### Article L515-29
 
@@ -29061,8 +29307,11 @@ Le contrôleur, ainsi que ses collaborateurs et experts, est astreint au secret 
 renseignements dont il a pu avoir connaissance à raison de ses fonctions. Il est toutefois délié du secret professionnel à
 l'égard de la commission bancaire à laquelle il est tenu de signaler immédiatement tout fait ou toute décision dont il a eu
 connaissance dans l'exercice de sa mission et qui est de nature à porter atteinte aux conditions ou à la continuité
-d'exploitation de la société de crédit foncier. Il révèle au procureur de la République les faits délictueux dont il a eu
-connaissance, sans que sa responsabilité soit engagée par cette révélation.
+d'exploitation de la société de crédit foncier. Le secret professionnel est également levé, dans le cadre de leurs missions
+respectives, entre le contrôleur spécifique et les commissaires aux comptes de la société de crédit foncier et de toute
+société contrôlant, au sens de l'article L. 233-3 du code de commerce, la société de crédit foncier. Le contrôleur spécifique
+révèle au procureur de la République les faits délictueux dont il a eu connaissance, sans que sa responsabilité soit engagée
+par cette révélation.
 
 Il est responsable, tant à l'égard de la société que des tiers, des conséquences dommageables des fautes et négligences par
 lui commises dans l'exercice de ses fonctions.
@@ -29079,6 +29328,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 95 2° JORF 2 août 2003
 
 _Cité par_:
 
@@ -29106,9 +29359,9 @@ exercer l'action prévue à l'article L. 225-233 du code de commerce.
 
 Par dérogation aux dispositions du dernier alinéa de l'article L. 225-236 du code de commerce, le droit d'information du
 contrôleur peut s'étendre à la communication des pièces, contrats et documents détenus par la société chargée de la gestion
-ou du recouvrement des prêts, des obligations et autres ressources, en application de l'article L. 515-22, à condition que
-ces pièces, contrats et documents soient directement en rapport avec les opérations réalisées par cette société pour le
-compte de la société de crédit foncier.
+ou du recouvrement des prêts, créances assimilées, titres et valeurs, des obligations et autres ressources, en application de
+l'article L. 515-22, à condition que ces pièces, contrats et documents soient directement en rapport avec les opérations
+réalisées par cette société pour le compte de la société de crédit foncier.
 
 **Liens relatifs à cet article**
 
@@ -29122,6 +29375,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 96 5° JORF 2 août 2003
 
 _Cite_:
 
@@ -29137,11 +29394,12 @@ _Cite_:
   - Code monétaire et financier - art. L613-9 (M)
 
 
-##### Sous-section 7 : Dispositions diverses<a id=322></a>
+##### Sous-section 7 : Dispositions diverses<a id=329></a>
 
 ###### Article L515-32
 
-L'article L. 228-39 du code de commerce n'est pas applicable aux sociétés de crédit foncier.
+Les articles L. 228-39, L. 228-42 et la seconde phrase du dernier alinéa de l'article L. 225-100 du code de commerce ne sont
+pas applicables aux sociétés de crédit foncier.
 
 **Liens relatifs à cet article**
 
@@ -29155,9 +29413,14 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 95 3° JORF 2 août 2003
+
 _Cite_:
 
-  - Code de commerce. - art. L228-39 (M)
+  - Code de commerce. - art. L225-100 (M)
+  - Code monétaire et financier L228-39, L228-42
 
 
 ###### Article L515-33
@@ -29183,7 +29446,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L513-27 (VD)
 
 
-#### Chapitre VI : Les institutions financières spécialisées<a id=323></a>
+#### Chapitre VI : Les institutions financières spécialisées<a id=330></a>
 
 ###### Article L516-1
 
@@ -29219,21 +29482,21 @@ _Abrogé par_:
 ###### Article L516-2
 
 Les institutions financières spécialisées ne peuvent recevoir du public des fonds à vue ou à moins de deux ans de terme, sauf
-si elles y sont autorisées à titre accessoire dans les conditions définies par le comité de la réglementation bancaire et
-financière
+si elles y sont autorisées à titre accessoire dans les conditions définies par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°84-46 1984-01-24 art. 18 al. 5
-  - Loi n°84-46 du 24 janvier 1984 - art. 18 (Ab)
-
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Anciens textes_:
+
+  - Loi n°84-46 du 24 janvier 1984 - art. 18 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -29242,8 +29505,12 @@ _Cité par_:
   - Code monétaire et financier - art. L755-5 (VT)
   - Code monétaire et financier - art. L765-5 (M)
 
+_Abrogé par_:
 
-#### Chapitre VII : Compagnies financières<a id=324></a>
+  - Ordonnance n°2013-544 du 27 juin 2013 - art. 4
+
+
+#### Chapitre VII : Compagnies financières<a id=331></a>
 
 ###### Article L517-1
 
@@ -29253,7 +29520,7 @@ exclusivement ou principalement, un ou plusieurs établissements de crédit ou d
 
 Les compagnies financières sont soumises aux dispositions prévues au premier alinéa de l'article L. 511-13, à l'article L.
 511-21, aux articles L. 511-35 à L. 511-38, L. 511-41, L. 571-3, L. 571-4, L. 613-8 à L. 613-11, L. 613-16, L. 613-18, L.
-613-21 et L. 613-22 dans des conditions précisées par un règlement du comité de la réglementation bancaire et financière.
+613-21 et L. 613-22 dans des conditions précisées par un arrêté du ministre chargé de l'économie.
 
 Les commissaires aux comptes de ces entreprises sont également soumis à l'ensemble des dispositions applicables aux
 commissaires aux comptes des établissements de crédit et des entreprises d'investissement.
@@ -29269,6 +29536,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -29310,9 +29581,9 @@ _Cite_:
   - Code monétaire et financier L511-21, L511-13, L511-35 à L511-38, L511-41, L571-3, L571-4, L613-8 à L613-11, L613-16, L613-18, L613-21, L613-22
 
 
-#### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque<a id=325></a>
+#### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque<a id=332></a>
 
-##### Section 1 : Dispositions générales<a id=326></a>
+##### Section 1 : Dispositions générales<a id=333></a>
 
 ###### Article L518-1
 
@@ -29333,10 +29604,10 @@ d'entreprise et du développement durable.
 Ces institutions et services peuvent effectuer les opérations de banque prévues par les dispositions législatives et
 réglementaires qui les régissent.
 
-Les règlements du comité de la réglementation bancaire et financière ainsi que les règlements du comité de la réglementation
-comptable peuvent, sous réserve des adaptations nécessaires et dans des conditions fixées par décret en Conseil d'Etat, être
-étendus aux services financiers de La Poste, à la caisse des dépôts et consignations et aux comptables du Trésor assurant un
-service de dépôts de fonds de particuliers.
+Les arrêtés du ministre chargé de l'économie pris en application des articles L. 611-1, L. 611-3, L. 611-4 ainsi que les
+règlements du comité de la réglementation comptable peuvent, sous réserve des adaptations nécessaires et dans des conditions
+fixées par décret en Conseil d'Etat, être étendus aux services financiers de La Poste, à la caisse des dépôts et
+consignations et aux comptables du Trésor assurant un service de dépôts de fonds de particuliers.
 
 **Liens relatifs à cet article**
 
@@ -29447,10 +29718,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 143 (V)
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L611-1 (M)
+  - Code monétaire et financier - art. L611-3 (M)
+  - Code monétaire et financier - art. L611-4 (M)
 
 
-##### Section 2 : La Caisse des dépôts et consignations<a id=327></a>
+##### Section 2 : La Caisse des dépôts et consignations<a id=334></a>
 
 ###### Article L518-2
 
@@ -29508,9 +29785,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 1 : Commission de surveillance<a id=328></a>
+##### Sous-section 1 : Commission de surveillance<a id=335></a>
 
-##### Paragraphe 1 : Composition<a id=329></a>
+##### Paragraphe 1 : Composition<a id=336></a>
 
 ###### Article L518-4
 
@@ -29587,7 +29864,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Missions<a id=330></a>
+##### Paragraphe 2 : Missions<a id=337></a>
 
 ###### Article L518-7
 
@@ -29657,7 +29934,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 3 : Rapport au Parlement<a id=331></a>
+##### Paragraphe 3 : Rapport au Parlement<a id=338></a>
 
 ###### Article L518-10
 
@@ -29684,9 +29961,9 @@ _Anciens textes_:
   - Loi n°1816-04-28 art. 114
 
 
-##### Sous-section 2 : Administration de la Caisse des dépôts et consignations<a id=332></a>
+##### Sous-section 2 : Administration de la Caisse des dépôts et consignations<a id=339></a>
 
-##### Paragraphe 1 : Le directeur général<a id=333></a>
+##### Paragraphe 1 : Le directeur général<a id=340></a>
 
 ###### Article L518-11
 
@@ -29733,7 +30010,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Le caissier général<a id=334></a>
+##### Paragraphe 2 : Le caissier général<a id=341></a>
 
 ###### Article L518-13
 
@@ -29757,7 +30034,7 @@ _Anciens textes_:
   - Ordonnance 1816-05-22 art. 15 al. 2 et art. 17
 
 
-##### Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor<a id=335></a>
+##### Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor<a id=342></a>
 
 ###### Article L518-14
 
@@ -29794,7 +30071,7 @@ _Anciens textes_:
   - Ordonnance 1816-07-03 art. 11 al. 1
 
 
-##### Paragraphe 4 : Contrôle par la Cour des comptes<a id=336></a>
+##### Paragraphe 4 : Contrôle par la Cour des comptes<a id=343></a>
 
 ###### Article L518-15
 
@@ -29820,7 +30097,7 @@ _Cité par_:
   - Code monétaire et financier - art. R518-38 (VD)
 
 
-##### Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations<a id=337></a>
+##### Sous-section 3 : Affectation du résultat de la Caisse des dépôts et consignations<a id=344></a>
 
 ###### Article L518-16
 
@@ -29840,9 +30117,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 4 : Opérations<a id=338></a>
+##### Sous-section 4 : Opérations<a id=345></a>
 
-##### Paragraphe 1 : Consignations et dépôts<a id=339></a>
+##### Paragraphe 1 : Consignations et dépôts<a id=346></a>
 
 ###### Article L518-17
 
@@ -29946,7 +30223,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Rémunération des dépôts et des consignations<a id=340></a>
+##### Paragraphe 2 : Rémunération des dépôts et des consignations<a id=347></a>
 
 ###### Article L518-23
 
@@ -29982,7 +30259,7 @@ _Cité par_:
   - Code monétaire et financier - art. R312-22 (V)
 
 
-##### Paragraphe 3 : Règles de déchéance<a id=341></a>
+##### Paragraphe 3 : Règles de déchéance<a id=348></a>
 
 ###### Article L518-24
 
@@ -30031,7 +30308,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 3 : La Poste<a id=342></a>
+##### Section 3 : La Poste<a id=349></a>
 
 ###### Article L518-25
 
@@ -30071,7 +30348,7 @@ _Cite_:
   - Code monétaire et financier L518-26 à L518-28
 
 
-##### Section 4 : La Caisse nationale d'épargne<a id=343></a>
+##### Section 4 : La Caisse nationale d'épargne<a id=350></a>
 
 ###### Article L518-26
 
@@ -30158,7 +30435,7 @@ _Cité par_:
   - Code monétaire et financier - art. R518-54 (Ab)
 
 
-#### Chapitre IX : Les intermédiaires en opérations de banque<a id=344></a>
+#### Chapitre IX : Les intermédiaires en opérations de banque<a id=351></a>
 
 ###### Article L519-1
 
@@ -30286,8 +30563,8 @@ _Cité par_:
 
 ###### Article L519-5
 
-Les intermédiaires en opérations de banque sont soumis aux dispositions des articles L. 341-1 à L. 341-6, L. 353-1 et L.
-353-2.
+Lorsque les intermédiaires en opérations de banque se livrent à une activité de démarchage au sens de l'article L. 341-1, ils
+sont soumis aux dispositions des articles L. 341-4 à L. 341-17 et L. 353-1 à L. 353-5.
 
 **Liens relatifs à cet article**
 
@@ -30299,18 +30576,24 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 54 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 10 (V)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L353-1 (M)
-  - Code monétaire et financier - art. L353-2 (M)
-  - Code monétaire et financier L341-1 à L341-6, L353-1, L353-2
+  - Code monétaire et financier - art. L341-1 (VD)
+  - Code monétaire et financier - art. L341-17 (V)
+  - Code monétaire et financier - art. L353-1 (V)
+  - Code monétaire et financier - art. L353-5 (V)
+  - Code monétaire et financier L341-1, L341-4 à L341-17, L353-1 à L353-5
 
 
-### Titre II : Les changeurs manuels.<a id=345></a>
+### Titre II : Les changeurs manuels.<a id=352></a>
 
 ###### Article L520-1
 
@@ -30325,12 +30608,13 @@ règlement par un autre moyen de paiement, sous réserve que celui-ci soit libel
 l'interdiction édictée à l'article L. 511-5, ils peuvent également remettre des francs en espèces en contrepartie de chèques
 de voyage libellés en francs.
 
-L'exercice de la profession de changeur manuel est interdit à toute personne qui n'a pas souscrit la déclaration d'activité à
-la Banque de France.
+L'exercice de la profession de changeur manuel, ou de fonctions de dirigeant de droit ou de fait dans une personne morale
+exerçant cette profession, est interdit à toute personne qui n'a pas souscrit la déclaration d'activité à la Banque de France
+ou qui a fait l'objet de la sanction prévue au 3 de l'article L. 520-3.
 
 Les changeurs manuels sont tenus à tout moment de justifier soit d'un capital libéré, soit d'une caution d'un établissement
-de crédit ou d'une entreprise d'assurances, d'un montant au moins égal à une somme fixée par un règlement du comité de la
-réglementation bancaire et financière.
+de crédit ou d'une entreprise d'assurances, d'un montant au moins égal à une somme fixée par un arrêté du ministre chargé de
+l'économie.
 
 Les changeurs manuels tiennent un registre des transactions.
 
@@ -30360,18 +30644,23 @@ _Cité par_:
   - Code monétaire et financier - art. L755-8 (V)
   - Code monétaire et financier - art. L765-8 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 VI 2°, art. 71 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L511-5 (V)
   - Code monétaire et financier - art. L518-1 (M)
+  - Code monétaire et financier - art. L520-3 (M)
 
 
 ###### Article L520-2
 
 Pour l'application du présent titre :
 
-Le Comité de la réglementation bancaire et financière peut, par voie de règlement, soumettre les changeurs manuels à des
-règles particulières.
+Le ministre chargé de l'économie peut, par voie d'arrêté, soumettre les changeurs manuels à des règles particulières.
 
 La commission bancaire exerce le pouvoir disciplinaire sur les changeurs manuels dans les conditions prévues à l'article L.
 520-3.
@@ -30395,6 +30684,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -30424,10 +30717,13 @@ suivantes :
 
 2. Le blâme ;
 
-3. L'interdiction d'exercer la profession de changeur manuel.
+3. L'interdiction d'exercer la profession de changeur manuel. La Commission bancaire peut, en outre, interdire aux dirigeants
+de droit ou de fait des personnes morales mentionnées à l'article L. 520-1 d'exercer, directement ou indirectement,
+l'activité de change manuel définie au même article.
 
 En outre, la commission bancaire peut prononcer soit à la place, soit en sus de ces sanctions, une sanction pécuniaire au
-plus égale à 37500 euros.
+plus égale à un million d'euros. Lorsque le changeur manuel est une personne morale, la Commission bancaire peut décider que
+ses dirigeants de droit ou de fait seront tenus solidairement au paiement de la sanction pécuniaire prononcée.
 
 Les sommes correspondantes sont recouvrées par le Trésor public et versées au budget de l'Etat.
 
@@ -30437,13 +30733,13 @@ _Anciens textes_:
 
   - Loi n°90-614 1990-07-12 art. 25 III
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 71 2°, 3°, 4° JORF 2 août 2003
 
 _Cité par_:
 
@@ -30523,11 +30819,11 @@ _Cité par_:
   - Code monétaire et financier - art. L572-4 (M)
 
 
-### Titre III : Les prestataires de services d'investissement<a id=346></a>
+### Titre III : Les prestataires de services d'investissement<a id=353></a>
 
-#### Chapitre Ier : Définitions<a id=347></a>
+#### Chapitre Ier : Définitions<a id=354></a>
 
-##### Section 1 : Dispositions générales<a id=348></a>
+##### Section 1 : Dispositions générales<a id=355></a>
 
 ###### Article L531-1
 
@@ -30599,10 +30895,15 @@ e) Les entreprises dont les activités se limitent à celles mentionnées aux c 
 f) Les personnes qui fournissent un service d'investissement, de manière accessoire à une activité professionnelle et dans la
 mesure où celle-ci est régie par des règles qui ne l'interdisent pas formellement ;
 
-g) Les personnes dont l'activité est régie par les chapitres Ier à III du titre IV du livre III ;
+g) Les personnes dont l'activité est régie par le chapitre Ier du titre IV du livre III à la condition qu'elles soient
+mandatées, conformément à l'article L. 341-4, par des personnes habilitées à fournir les mêmes services d'investissement ;
 
-h) Les courtiers en marchandises qui ne fournissent un service d'investissement qu'à leurs contreparties et dans la mesure
-nécessaire à l'exercice de leur activité principale.
+h) Les intermédiaires en marchandises qui ne fournissent un service d'investissement qu'à leurs clients et dans la mesure
+nécessaire à l'exercice de leur activité principale ;
+
+i) Les entreprises qui, ayant pour activité principale la production, la transformation, la distribution ou la vente de
+marchandises, négocient les instruments mentionnés au 4 du II de l'article L. 211-1 pour les besoins normaux de leurs
+activités et dans la mesure où celles-ci sont régies par des règles qui ne l'interdisent pas formellement.
 
 **Liens relatifs à cet article**
 
@@ -30614,6 +30915,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 54 I 2°, art. 91 4° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 54 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -30646,10 +30952,12 @@ _Cité par_:
 _Cite_:
 
   - Code de commerce. - art. L233-3 (M)
+  - Code monétaire et financier - art. L211-1 (M)
+  - Code monétaire et financier - art. L341-4 (M)
   - Code monétaire et financier - art. L422-1 (M)
   - Code monétaire et financier - art. L532-1 (M)
   - Code monétaire et financier - art. L612-2 (M)
-  - Code monétaire et financier L532-1, L422-1, L532-16 à L532-27, L612-2
+  - Code monétaire et financier L532-1, L422-1, L532-16 à L532-27, L612-2, L341-4, L211-1
 
 
 ###### Article L531-3
@@ -30693,7 +31001,7 @@ _Cite_:
   - Code monétaire et financier L422-1, L532-16 à L532-27, L612-2, L321-1, L211-1
 
 
-##### Section 2 : Les entreprises d'investissement<a id=349></a>
+##### Section 2 : Les entreprises d'investissement<a id=356></a>
 
 ###### Article L531-4
 
@@ -30752,8 +31060,8 @@ _Cité par_:
 
 ###### Article L531-5
 
-Les entreprises d'investissement peuvent, dans des conditions définies par le Comité de la réglementation bancaire et
-financière, prendre et détenir des participations dans des entreprises existantes ou en création.
+Les entreprises d'investissement peuvent, dans des conditions définies par le ministre chargé de l'économie, prendre et
+détenir des participations dans des entreprises existantes ou en création.
 
 **Liens relatifs à cet article**
 
@@ -30764,6 +31072,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -30777,9 +31089,15 @@ _Cité par_:
 ###### Article L531-6
 
 Toute modification dans la structure du capital d'une entreprise d'investissement doit être effectuée dans des conditions
-définies par le règlement du Comité de la réglementation bancaire et financière. Elle doit être notifiée au comité des
-établissements de crédit et des entreprises d'investissement et au conseil des marchés financiers. Le cas échéant, elle doit
-être autorisée par le comité des établissements de crédit et des entreprises d'investissement.
+définies par l'arrêté du ministre chargé de l'économie. Elle doit être notifiée au comité des établissements de crédit et des
+entreprises d'investissement et à l'Autorité des marchés financiers. Le cas échéant, elle doit être autorisée par le comité
+des établissements de crédit et des entreprises d'investissement.
+
+En cas de manquement aux règles fixées au premier alinéa et sans préjudice des dispositions de l'article L. 233-14 du code de
+commerce, le procureur de la République, le Comité des établissements de crédit et des entreprises d'investissement, la
+Commission bancaire ou tout actionnaire ou détenteur de parts sociales peut demander au juge de suspendre, jusqu'à
+régularisation de la situation, l'exercice des droits de vote attachés aux actions et parts sociales d'entreprise
+d'investissement autre que les sociétés de gestion de portefeuille détenues irrégulièrement, directement ou indirectement.
 
 **Liens relatifs à cet article**
 
@@ -30812,11 +31130,20 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 VI 1°, art. 73 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Cite_:
+
+  - Code de commerce. - art. L233-14 (M)
+
 
 ###### Article L531-7
 
-Le Comité de la réglementation bancaire et financière fixe les conditions dans lesquelles les entreprises d'investissement
-peuvent exercer, à titre professionnel, une activité autre que celles prévues à l'article L. 321-1.
+Le ministre chargé de l'économie fixe les conditions dans lesquelles les entreprises d'investissement peuvent exercer, à
+titre professionnel, une activité autre que celles prévues à l'article L. 321-1.
 
 **Liens relatifs à cet article**
 
@@ -30831,7 +31158,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 8 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -30873,7 +31200,34 @@ _Cité par_:
   - Code monétaire et financier - art. L532-50 (V)
 
 
-##### Section 3 : Interdictions<a id=350></a>
+###### Article L531-9
+
+Pour l'application des articles L. 531-5, L. 531-6 et L. 531-7 aux sociétés de gestion de portefeuille, les compétences des
+autorités définies à ces articles sont exercées par l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L531-5 (M)
+  - Code monétaire et financier - art. L531-6 (M)
+  - Code monétaire et financier - art. L531-7 (M)
+
+
+##### Section 3 : Interdictions<a id=357></a>
 
 ###### Article L531-10
 
@@ -30929,11 +31283,11 @@ _Cité par_:
   - Code monétaire et financier - art. L745-9 (VD)
 
 
-#### Chapitre II : Conditions d'exercice de la profession<a id=351></a>
+#### Chapitre II : Conditions d'exercice de la profession<a id=358></a>
 
-##### Section 1 : Agrément<a id=352></a>
+##### Section 1 : Agrément<a id=359></a>
 
-##### Sous-section 1 : Conditions et procédures d'agrément<a id=353></a>
+##### Sous-section 1 : Conditions et procédures d'agrément<a id=360></a>
 
 ###### Article L532-1
 
@@ -30942,13 +31296,12 @@ un agrément. Sous réserve des dispositions du troisième alinéa ci-dessous, c
 établissements de crédit et des entreprises d'investissement. Il n'est pas requis pour le seul exercice d'un ou plusieurs des
 services mentionnés à l'article L. 321-2.
 
-Préalablement à la délivrance de cet agrément, les entreprises d'investissement et les établissements de crédit doivent
-obtenir l'approbation par le conseil des marchés financiers de leur programme d'activité. Cette approbation est nécessaire
-pour chacun des services d'investissement définis à l'article L. 321-1.
+Préalablement à la délivrance d'un agrément portant sur le service mentionné au 4 de l'article L. 321-1, les entreprises
+d'investissement et les établissements de crédit doivent obtenir l'approbation par l'Autorité des marchés financiers de leur
+programme d'activité.
 
-L'approbation du programme d'activité portant sur le service mentionné au 4 de l'article L. 321-1 est délivrée par la
-commission des opérations de bourse. Lorsque ce service a vocation à être exercé à titre principal, l'agrément de
-l'entreprise d'investissement est délivré par la Commission des opérations de bourse.
+Lorsque ce service a vocation à être exercé à titre principal, l'agrément de l'entreprise d'investissement est délivré par
+l'Autorité des marchés financiers.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article. Il précise, notamment, les conditions
 dans lesquelles les décisions sont prises et notifiées ainsi que les dispositions particulières applicables aux entreprises
@@ -30965,6 +31318,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -31013,7 +31371,7 @@ d'investissement vérifie si celle-ci :
 1. A son siège social et son administration centrale en France ;
 
 2. Dispose, compte tenu de la nature du service qu'elle souhaite fournir, d'un capital initial suffisant déterminé par le
-comité de la réglementation bancaire et financière ;
+ministre chargé de l'économie ;
 
 3. Fournit l'identité de ses actionnaires, directs ou indirects, personnes physiques ou morales, qui détiennent une
 participation qualifiée, ainsi que le montant de leur participation ; le comité apprécie la qualité de ces actionnaires au
@@ -31034,9 +31392,6 @@ d'être entravé soit par l'existence de liens de capital ou de contrôle direct
 personnes physiques ou morales, soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas
 partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
 
-Le comité des établissements de crédit et des entreprises d'investissement statue dans un délai de trois mois à compter de la
-transmission de la requête par le conseil des marchés financiers. Sa décision est motivée et notifiée au demandeur.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -31050,7 +31405,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -31104,8 +31460,8 @@ Pour délivrer l'agrément autorisant la fourniture d'un ou plusieurs services d
 le comité des établissements de crédit et des entreprises d'investissement vérifie, outre les conditions posées à l'article
 L. 511-10, si celui-ci dispose :
 
-1. D'un capital initial suffisant déterminé par le comité de la réglementation bancaire et financière, compte tenu de la
-nature du service qu'il entend fournir ;
+1. D'un capital initial suffisant déterminé par le ministre chargé de l'économie, compte tenu de la nature du service qu'il
+entend fournir ;
 
 2. D'une forme juridique adéquate à la fourniture de services d'investissement ;
 
@@ -31114,9 +31470,6 @@ nature du service qu'il entend fournir ;
 Le comité peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière de
 l'établissement. Le comité peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par
 l'établissement requérant.
-
-Le comité des établissements de crédit et des entreprises d'investissement statue dans un délai de trois mois à compter de la
-transmission de la requête par le conseil des marchés financiers. Sa décision est motivée et notifiée au demandeur.
 
 **Liens relatifs à cet article**
 
@@ -31130,7 +31483,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -31150,7 +31504,7 @@ _Cité par_:
 Toute modification des conditions auxquelles était subordonné l'agrément délivré à une entreprise d'investissement ou à un
 établissement de crédit fournissant un ou plusieurs services d'investissement doit faire l'objet, selon les cas, d'une
 autorisation préalable du Comité des établissements de crédit et des entreprises d'investissement, d'une déclaration ou d'une
-notification, dans les conditions fixées par un règlement du Comité de la réglementation bancaire et financière.
+notification, dans les conditions fixées par un arrêté du ministre chargé de l'économie.
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être assortie de conditions particulières
 répondant à la finalité mentionnée au huitième alinéa de l'article L. 532-2 et au cinquième alinéa de l'article L. 532-3 ou
@@ -31176,9 +31530,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cite_:
 
@@ -31188,19 +31542,11 @@ _Cite_:
 
 ###### Article L532-4
 
-Pour délivrer l'approbation du programme d'activité à un prestataire de services d'investissement, le conseil des marchés
-financiers ou la commission des opérations de bourse lorsque ce programme porte sur un service d'investissement mentionné au
-4 de l'article L. 321-1 apprécie la qualité de ce programme au regard de l'honorabilité et de la compétence des dirigeants et
-de l'adéquation de leur expérience à leurs fonctions ainsi que les conditions dans lesquelles le prestataire envisage de
-fournir les services d'investissement concernés. Ce programme indique le type d'opérations envisagées et la structure de
-l'organisation de l'entreprise ou de l'établissement prestataire de services d'investissement.
-
-Le conseil des marchés financiers statue dans un délai de trois mois à compter du dépôt de la demande. Sa décision est
-motivée et notifiée au demandeur.
-
-La commission des opérations de bourse prend un règlement précisant les conditions d'approbation du programme d'activité
-lorsqu'il porte sur un service d'investissement mentionné au 4 de l'article L. 321-1 et statue sur la demande d'approbation
-des programmes d'activité qui portent sur un tel service d'investissement.
+Pour délivrer l'approbation du programme d'activité portant sur le service d'investissement mentionné au 4 de l'article L.
+321-1, l'Autorité des marchés financiers apprécie la qualité de ce programme au regard de l'honorabilité et de la compétence
+des dirigeants et de l'adéquation de leur expérience à leurs fonctions ainsi que les conditions dans lesquelles le
+prestataire envisage de fournir les services d'investissement concernés. Ce programme indique le type d'opérations envisagées
+et la structure de l'organisation de l'entreprise ou de l'établissement prestataire de services d'investissement.
 
 **Liens relatifs à cet article**
 
@@ -31214,11 +31560,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-1168 2001-12-11 art. 27 12° JORF 12 décembre 2001
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -31244,21 +31586,11 @@ I. - Les personnes morales autorisées à fournir, au 5 juillet 1996, un service
 dispositions des articles L. 422-1 et L. 532-23 à L. 532-26.
 
 Ces personnes morales doivent figurer sur les listes établies par le comité des établissements de crédit et des entreprises
-d'investissement et par la commission des opérations de bourse. Elles sont alors réputées avoir obtenu l'agrément mentionné à
+d'investissement et par l'Autorité des marchés financiers. Elles sont alors réputées avoir obtenu l'agrément mentionné à
 l'article L. 532-1 pour les services concernés.
 
 II. - Les prestataires de services d'investissement qui exerçaient leur activité avant le 4 juillet 1996 sont dispensés de la
 procédure d'agrément prévue à l'article L. 532-9.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -31269,6 +31601,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
 
 _Cite_:
 
@@ -31287,7 +31623,7 @@ _Cité par_:
   - Code monétaire et financier - art. L765-10 (VT)
 
 
-##### Sous-section 2 : Retrait d'agrément et radiation<a id=354></a>
+##### Sous-section 2 : Retrait d'agrément et radiation<a id=361></a>
 
 ###### Article L532-6
 
@@ -31303,10 +31639,10 @@ de crédit et des entreprises d'investissement.
 
 Pendant cette période :
 
-1. L'entreprise d'investissement demeure soumise au contrôle de la commission bancaire et du Conseil des marchés financiers.
-La commission bancaire, le Conseil des marchés financiers et la commission des opérations de bourse peuvent prononcer les
-sanctions disciplinaires prévues aux articles L. 613-21, L. 621-24 à L. 621-27, L. 622-15 à L. 622-18 à l'encontre de toute
-entreprise d'investissement ayant fait l'objet d'un retrait d'agrément ;
+1. L'entreprise d'investissement demeure soumise au contrôle de la commission bancaire et à l'Autorité des marchés
+financiers. La commission bancaire et l'Autorité des marchés financiers peuvent prononcer les sanctions disciplinaires
+prévues à l'article L. 613-21 et les sanctions prévues à l'article L. 621-15 à l'encontre de toute entreprise
+d'investissement ayant fait l'objet d'un retrait d'agrément ;
 
 2. Elle ne peut effectuer que des opérations strictement nécessaires à l'apurement de ses services d'investissements ;
 
@@ -31320,11 +31656,16 @@ comité des établissements de crédit et des entreprises d'investissement.
 Au terme de cette période, l'entreprise perd la qualité d'entreprise d'investissement et doit avoir changé sa dénomination
 sociale.
 
-Toute entreprise d'investissement ayant décidé sa dissolution anticipée avant le terme de cette période demeure soumise,
-jusqu'à la clôture de sa liquidation, au contrôle de la commission bancaire et du Conseil des marchés financiers. La
-commission bancaire, le Conseil des marchés financiers et la commission des opérations de bourse peuvent prononcer les
-sanctions disciplinaires prévues aux articles L. 613-21, L. 621-24 à L. 621-27, L. 622-15 à L. 622-18. L'entreprise ne peut
-faire état de sa qualité d'entreprise d'investissement qu'en précisant qu'elle est en liquidation.
+Par dérogation aux dispositions des 4° et 5° de l'article 1844-7 du code civil, la dissolution anticipée d'une entreprise
+d'investissement ne peut être prononcée qu'après obtention du retrait de son agrément par le Comité des établissements de
+crédit et des entreprises d'investissement ou, lorsque l'entreprise est agréée en tant que société de gestion de
+portefeuille, de l'Autorité des marchés financiers. Par dérogation aux articles L. 123-1 et L. 237-3 du code de commerce, la
+publication et l'inscription modificative au registre du commerce et des sociétés concernant le prononcé de cette dissolution
+doivent mentionner la date de la décision de retrait d'agrément prononcée par le Comité des établissements de crédit et des
+entreprises d'investissement ou par l'Autorité des marchés financiers. Jusqu'à la clôture de sa liquidation, l'entreprise
+reste soumise au contrôle de la Commission bancaire ou de l'Autorité des marchés financiers, qui peuvent prononcer l'ensemble
+des sanctions prévues, selon les cas, aux articles L. 613-21 et L. 621-15 du présent code. L'entreprise ne peut faire état de
+sa qualité d'entreprise d'investissement sans préciser qu'elle est en liquidation.
 
 **Liens relatifs à cet article**
 
@@ -31338,7 +31679,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 46 III 12°, art. 74 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -31353,8 +31695,11 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de commerce. - art. L123-1 (V)
+  - Code de commerce. - art. L237-3 (V)
+  - Code civil - art. 1844-7 (M)
   - Code monétaire et financier - art. L613-21 (M)
-  - Code monétaire et financier L613-21, L621-24 à L621-27, L622-15 à L622-18
+  - Code monétaire et financier - art. L621-15 (M)
 
 
 ###### Article L532-7
@@ -31388,10 +31733,10 @@ _Cité par_:
 
 ###### Article L532-8
 
-Le Comité de la réglementation bancaire et financière précise les conditions d'application des articles L. 532-6 et L. 532-7.
-Il fixe notamment les modalités selon lesquelles :
+Le ministre chargé de l'économie précise les conditions d'application des articles L. 532-6 et L. 532-7. Il fixe notamment
+les modalités selon lesquelles : 
 
-a) Les décisions de retrait d'agrément et de radiation sont portées à la connaissance du public ;
+a) Les décisions de retrait d'agrément et de radiation sont portées à la connaissance du public ; 
 
 b) Les instruments financiers inscrits en compte auprès de l'entreprise peuvent être transférés chez un autre prestataire de
 services d'investissement ou chez la personne morale émettrice.
@@ -31407,24 +31752,27 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VT)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L532-6 (M)
-  - Code monétaire et financier - art. L532-7 (V)
+  - Code monétaire et financier - art. L532-6 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille<a id=355></a>
+##### Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille<a id=362></a>
 
-##### Paragraphe 1 : Agrément<a id=356></a>
+##### Paragraphe 1 : Agrément<a id=363></a>
 
 ###### Article L532-9
 
 L'entreprise d'investissement qui exerce, à titre principal, le service mentionné au 4 de l'article L. 321-1, est agréée par
-la Commission des opérations de bourse et prend le nom de société de gestion de portefeuille.
+l'Autorité des marchés financiers et prend le nom de société de gestion de portefeuille.
 
 Pour délivrer l'agrément à une société de gestion de portefeuille, la commission vérifie si celle-ci :
 
@@ -31445,21 +31793,31 @@ adéquate à leur fonction ;
 
 7. Dispose d'un programme d'activité pour chacun des services qu'elle entend fournir.
 
-La Commission des opérations de bourse peut refuser l'agrément lorsque l'exercice de la mission de surveillance de la société
-de gestion de portefeuille est susceptible d'être entravé soit par l'existence d'un lien de capital ou de contrôle direct ou
+L'Autorité des marchés financiers peut refuser l'agrément lorsque l'exercice de la mission de surveillance de la société de
+gestion de portefeuille est susceptible d'être entravé soit par l'existence d'un lien de capital ou de contrôle direct ou
 indirect entre l'entreprise requérante et d'autres personnes physiques ou morales, soit par l'existence de dispositions
 législatives ou réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent
 une ou plusieurs de ces personnes.
 
-La Commission des opérations de bourse statue, après l'avis prévu à l'article L. 621-29, dans un délai de trois mois à
-compter de la présentation de la demande. Sa décision est motivée et notifiée au demandeur.
+L'Autorité des marchés financiers statue dans un délai de trois mois à compter de la présentation de la demande. Sa décision
+est motivée et notifiée au demandeur.
 
 La commission peut assortir l'agrément de conditions particulières visant à préserver l'équilibre de la structure financière
 de la société de gestion. Elle peut également subordonner l'octroi de l'agrément au respect d'engagements souscrits par la
 société requérante.
 
-Un règlement de la Commission des opérations de bourse pris conformément aux dispositions de l'article L. 621-29 précise les
-conditions d'agrément des sociétés de gestion de portefeuille.
+Un règlement général de l'Autorité des marchés financiers précise les conditions d'agrément des sociétés de gestion de
+portefeuille.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil de discipline de la gestion financière sont remplacées
+par la références à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+fianciers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -31525,6 +31883,7 @@ _Cité par_:
   - Code monétaire et financier - art. L621-13-4 (V)
   - Code monétaire et financier - art. L621-18-8 (V)
   - Code monétaire et financier - art. L621-20-3 (V)
+  - Code monétaire et financier - art. L621-29 (Ab)
   - Code monétaire et financier - art. L621-7 (V)
   - Code monétaire et financier - art. L745-10 (V)
   - Code monétaire et financier - art. R214-203-3 (V)
@@ -31540,19 +31899,25 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 10
+  - Loi n°2003-706 2003-08-01 art. 46 III 13°, V 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cite_:
 
   - Code monétaire et financier - art. L321-1 (M)
-  - Code monétaire et financier - art. L621-29 (Ab)
 
 
 ###### Article L532-9-1
 
 Toute modification apportée aux conditions auxquelles était subordonné l'agrément délivré à une société de gestion de
-portefeuille doit faire l'objet, selon les cas, d'une autorisation préalable de la Commission des opérations de bourse, d'une
-déclaration ou d'une notification, dans les conditions fixées par un règlement de la commission.
+portefeuille doit faire l'objet, selon les cas, d'une autorisation préalable de l'Autorité des marchés financiers, d'une
+déclaration ou d'une notification, dans les conditions fixées par un règlement de l'Autorité.
+
+En cas de défaut d'information préalable concernant toute modification dans la structure de l'actionnariat d'une société de
+gestion de portefeuille et sans préjudice des dispositions de l'article L. 233-14 du code de commerce, l'Autorité des marchés
+financiers, le procureur de la République ou tout actionnaire ou détenteur de parts sociales peut demander au juge de
+suspendre, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux actions et parts sociales de la
+société de gestion détenues irrégulièrement, directement ou indirectement.
 
 Dans les cas où une autorisation doit être délivrée, elle peut, elle-même, être assortie de conditions particulières
 répondant à la finalité mentionnée à l'avant-dernier alinéa de l'article L. 532-9 ou subordonnée au respect d'engagements
@@ -31564,9 +31929,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 46 V 1°, art. 73 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -31582,26 +31948,27 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de commerce. - art. L233-14 (M)
   - Code monétaire et financier - art. L532-9 (M)
 
 
-##### Paragraphe 2 : Retrait d'agrément et radiation<a id=357></a>
+##### Paragraphe 2 : Retrait d'agrément et radiation<a id=364></a>
 
 ###### Article L532-10
 
-Le retrait d'agrément d'une société de gestion de portefeuille est prononcé par la Commission des opérations de bourse à la
-demande de la société. Il peut aussi être décidé d'office par la commission si la société ne remplit plus les conditions ou
-les engagements auxquels étaient subordonnés son agrément ou une autorisation ultérieure, ou si la société n'a pas fait usage
-de son agrément dans un délai de douze mois ou lorsqu'elle n'exerce plus son activité depuis au moins six mois.
+Le retrait d'agrément d'une société de gestion de portefeuille est prononcé par l'Autorité des marchés financiers à la
+demande de la société. Il peut aussi être décidé d'office par l'Autorité si la société ne remplit plus les conditions ou les
+engagements auxquels étaient subordonnés son agrément ou une autorisation ultérieure, ou si la société n'a pas fait usage de
+son agrément dans un délai de douze mois ou lorsqu'elle n'exerce plus son activité depuis au moins six mois.
 
-Le retrait d'agrément prend effet à l'expiration d'une période dont la durée est déterminée par la commission des opérations
-de bourse.
+Le retrait d'agrément prend effet à l'expiration d'une période dont la durée est déterminée par l'Autorité des marchés
+financiers.
 
 Pendant cette période :
 
-1. La société de gestion de portefeuille est soumise au contrôle de la Commission des opérations de bourse. La commission des
-opérations de bourse peut prononcer les sanctions disciplinaires prévues aux articles L. 621-24 à L. 621-27 à l'encontre de
-toute société ayant fait l'objet d'un retrait d'agrément, y compris la radiation ;
+1. La société de gestion de portefeuille est soumise au contrôle de l'Autorité des marchés financiers. L'Autorité des marchés
+financiers peut prononcer les sanctions prévues à l'article L. 621-15 à l'encontre de toute société ayant fait l'objet d'un
+retrait d'agrément, y compris la radiation ;
 
 2. Elle ne peut effectuer que des opérations strictement nécessaires à la préservation des intérêts des clients.
 
@@ -31624,7 +31991,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 46 III 14°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -31642,15 +32010,15 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier L621-24 à L621-27
+  - Code monétaire et financier - art. L621-15 (M)
 
 
 ###### Article L532-11
 
 Toute société de gestion de portefeuille ayant décidé sa dissolution anticipée avant le terme de cette période demeure
-soumise, jusqu'à la clôture de sa liquidation, au contrôle de la Commission des opérations de bourse qui peut prononcer les
-sanctions prévues aux articles L. 621-24 à L. 621-27, y compris la radiation. Elle ne peut faire état de sa qualité de
-société de gestion de portefeuille qu'en précisant qu'elle est en liquidation.
+soumise, jusqu'à la clôture de sa liquidation, au contrôle de l'Autorité des marchés financiers qui peut prononcer les
+sanctions prévues à l'article L. 621-15, y compris la radiation. Elle ne peut faire état de sa qualité de société de gestion
+de portefeuille qu'en précisant qu'elle est en liquidation.
 
 **Liens relatifs à cet article**
 
@@ -31663,24 +32031,29 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 III 15°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
-  - Code monétaire et financier L621-24 à L621-27
+  - Code monétaire et financier - art. L621-15 (V)
 
 
 ###### Article L532-12
 
 La radiation d'une société de gestion de portefeuille de la liste des sociétés de gestion de portefeuille agréées peut être
-prononcée à titre de sanction disciplinaire par la Commission des opérations de bourse.
+prononcée à titre de sanction par l'Autorité des marchés financiers.
 
 La radiation entraîne la liquidation de la personne morale, lorsque celle-ci a son siège social en France. Dans le cas des
 succursales de sociétés ayant leur siège hors de l'Espace économique européen, cette radiation entraîne la liquidation du
 bilan et du hors bilan de la succursale.
 
-Toute société qui a fait l'objet d'une radiation demeure soumise au contrôle de la Commission des opérations de bourse
-jusqu'à la clôture de la liquidation. Elle ne peut effectuer que des opérations strictement nécessaires à la préservation des
-intérêts des clients. Elle ne peut faire état de sa qualité de société de gestion de portefeuille qu'en précisant qu'elle a
-fait l'objet d'une mesure de radiation.
+Toute société qui a fait l'objet d'une radiation demeure soumise au contrôle de l'Autorité des marchés financiers jusqu'à la
+clôture de la liquidation. Elle ne peut effectuer que des opérations strictement nécessaires à la préservation des intérêts
+des clients. Elle ne peut faire état de sa qualité de société de gestion de portefeuille qu'en précisant qu'elle a fait
+l'objet d'une mesure de radiation.
 
 **Liens relatifs à cet article**
 
@@ -31693,6 +32066,11 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 III 16°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Arrêté du 12 novembre 2004 - art. 311-6 (Ab)
@@ -31702,17 +32080,12 @@ _Cité par_:
 
 ###### Article L532-13
 
-La Commission des opérations de bourse précise les conditions d'application des articles L. 532-10 à L. 532-12. Elle fixe
+L'Autorité des marchés financiers précise les conditions d'application des articles L. 532-10 à L. 532-12. Elle fixe
 notamment les modalités selon lesquelles les décisions de retrait d'agrément ou de radiation sont portées à la connaissance
 du public.
 
 Les sociétés de gestion de portefeuille exercent leur activité dans les conditions fixées notamment par les articles L.
 533-10 et L. 533-13.
-
-Le contrôle de ces sociétés est assuré dans les conditions prévues aux articles L. 621-7 et L. 621-22.
-
-Lorsqu'une société de gestion de portefeuille a manqué à ses obligations professionnelles définies par les lois et règlements
-dont elle relève, elle est passible des mesures et sanctions disciplinaires prévues par les articles L. 621-24 à L. 621-27.
 
 **Liens relatifs à cet article**
 
@@ -31725,6 +32098,11 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 III 17°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD)
@@ -31733,18 +32111,16 @@ _Cite_:
 
   - Code monétaire et financier - art. L533-10 (M)
   - Code monétaire et financier - art. L533-13 (M)
-  - Code monétaire et financier - art. L621-22 (M)
-  - Code monétaire et financier - art. L621-7 (M)
-  - Code monétaire et financier L532-10 à L532-12, L533-10, L533-13, L621-7, L621-22, L621-24 à L621-27
+  - Code monétaire et financier L532-10 à L532-12, L533-10, L533-13
 
 
-##### Sous-section 4 : Bureaux de représentation<a id=358></a>
+##### Sous-section 4 : Bureaux de représentation<a id=365></a>
 
 ###### Article L532-14
 
 Lorsque des entreprises d'investissement ouvrent en France des bureaux ayant une activité d'information, de liaison ou de
 représentation, l'ouverture de ces bureaux doit être préalablement notifiée au comité des établissements de crédit et des
-entreprises d'investissement, qui en informe le conseil des marchés financiers.
+entreprises d'investissement, qui en informe l'Autorité des marchés financiers.
 
 Ces bureaux font état de la dénomination ou de la raison sociale de l'établissement qu'ils représentent.
 
@@ -31759,6 +32135,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Code monétaire et financier - art. L532-15 (V)
@@ -31767,8 +32147,8 @@ _Cité par_:
 ###### Article L532-15
 
 Lorsque les bureaux sont ouverts par des sociétés de gestion de portefeuille, la notification prévue à l'article L. 532-14
-est adressée à la commission des opérations de bourse. Celle-ci en informe le comité des établissements de crédit et des
-entreprises d'investissement et le conseil des marchés financiers.
+est adressée à l'Autorité des marchés financiers. Celle-ci en informe le comité des établissements de crédit et des
+entreprises d'investissement.
 
 **Liens relatifs à cet article**
 
@@ -31781,6 +32161,11 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 III 18°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
@@ -31791,9 +32176,9 @@ _Cite_:
   - Code monétaire et financier - art. L532-14 (M)
 
 
-##### Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen<a id=359></a>
+##### Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen<a id=366></a>
 
-##### Sous-section 1 : Dispositions générales<a id=360></a>
+##### Sous-section 1 : Dispositions générales<a id=367></a>
 
 ###### Article L532-16
 
@@ -31865,7 +32250,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Libre prestation de services et liberté d'établissement en France<a id=361></a>
+##### Sous-section 2 : Libre prestation de services et liberté d'établissement en France<a id=368></a>
 
 ###### Article L532-18
 
@@ -31873,12 +32258,12 @@ Dans la limite des services qu'elle est autorisée à fournir sur le territoire 
 l'agrément qu'elle y a reçu, toute personne morale ou physique agréée pour fournir des services d'investissement peut, sans
 préjudice des dispositions des articles L. 511-21 à L. 511-28, sur le territoire de la France métropolitaine et des
 départements d'outre-mer, établir des succursales pour fournir des services d'investissement et des services connexes, et
-intervenir en libre prestation de services dans des conditions fixées par le conseil des marchés financiers, notamment en ce
+intervenir en libre prestation de services dans des conditions fixées par l'Autorité des marchés financiers, notamment en ce
 qui concerne la protection des fonds des clients.
 
-Pour l'application des articles L. 213-3, L. 322-1 à L. 322-4, L. 421-6, L. 421-7, L. 421-8 à L. 421-11, L. 432-20, L.
-432-21, L. 431-7, L. 531-10, L. 533-3, L. 533-4, L. 533-6 à L. 533-11, L. 533-13 et L. 622-21, les personnes mentionnées à
-l'alinéa précédent sont assimilées à des prestataires de services d'investissement.
+Pour l'application des articles L. 213-3, L. 322-1 à L. 322-4, L. 421-6, L. 421-7, L. 421-8 à L. 421-11, L. 432-20, L. 431-7,
+L. 531-10, L. 533-3, L. 533-4, L. 533-6 à L. 533-11, L. 533-13 et L. 621-18-1, les personnes mentionnées à l'alinéa précédent
+sont assimilées à des prestataires de services d'investissement.
 
 **Liens relatifs à cet article**
 
@@ -31916,6 +32301,11 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 III 19°, art. 91 5° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L213-3 (M)
@@ -31923,12 +32313,11 @@ _Cite_:
   - Code monétaire et financier - art. L421-7 (M)
   - Code monétaire et financier - art. L431-7 (M)
   - Code monétaire et financier - art. L432-20 (M)
-  - Code monétaire et financier - art. L432-21 (Ab)
   - Code monétaire et financier - art. L533-13 (M)
   - Code monétaire et financier - art. L533-3 (M)
   - Code monétaire et financier - art. L533-4 (M)
-  - Code monétaire et financier - art. L622-21 (T)
-  - Code monétaire et financier L511-21 à L511-28, L213-3, L322-1 à L322-4, L421-6, L421-7, L421-8 à L421-11, L432-20, L432-21, L431-7, L531-10, L533-3, L533-4, L533-6 à L533-11, L533-13, L622-21
+  - Code monétaire et financier - art. L621-18-1 (M)
+  - Code monétaire et financier L511-21 à L511-28, L213-3, L322-1 à L322-4, L421-6, L421-7, L421-8 à L421-11, L432-20, L431-7, L531-10, L533-3, L533-4, L533-6 à L533-11, L533-13, L621-18-1
 
 
 ###### Article L532-19
@@ -31938,15 +32327,15 @@ En vue d'exercer la surveillance d'un prestataire de services d'investissement b
 France communication de toutes informations utiles à l'exercice de cette surveillance.
 
 Après information préalable de la commission bancaire ou, lorsqu'il s'agit du service mentionné au 4 de l'article L. 321-1,
-de la commission des opérations de bourse, les succursales de ce prestataire situées sur le territoire de la France
-métropolitaine et des départements d'outre-mer peuvent être contrôlées sur place, par les autorités compétentes de leur Etat
-d'origine, directement ou par l'intermédiaire de personnes que ces autorités mandatent spécialement à cet effet. Les
-résultats de ces contrôles sont communiqués à la commission bancaire sans que les règles relatives au secret professionnel
-puissent être opposées. La commission bancaire informe, le cas échéant, le conseil des marchés financiers ou la commission
-des opérations de bourse des contrôles ci-mentionnés et de leurs résultats.
+de l'Autorité des marchés financiers, les succursales de ce prestataire situées sur le territoire de la France métropolitaine
+et des départements d'outre-mer peuvent être contrôlées sur place, par les autorités compétentes de leur Etat d'origine,
+directement ou par l'intermédiaire de personnes que ces autorités mandatent spécialement à cet effet. Les résultats de ces
+contrôles sont communiqués à la commission bancaire sans que les règles relatives au secret professionnel puissent être
+opposées. La commission bancaire informe, le cas échéant, l'Autorité des marchés financiers des contrôles ci-mentionnés et de
+leurs résultats.
 
-En outre, la commission bancaire, la commission des opérations de bourse et le conseil des marchés financiers procèdent, le
-cas échéant, aux vérifications sollicitées par les autorités compétentes de l'Etat d'origine.
+En outre, la commission bancaire et l'Autorité des marchés financiers procèdent, le cas échéant, aux vérifications
+sollicitées par les autorités compétentes de l'Etat d'origine.
 
 **Liens relatifs à cet article**
 
@@ -31958,6 +32347,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 III 20°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cite_:
 
@@ -31974,11 +32368,10 @@ _Cité par_:
 
 ###### Article L532-20
 
-Sous réserve du contrôle exercé par la commission bancaire en application de l'article L. 613-2 et par la commission des
-opérations de bourse en application de l'article L. 621-7, les prestataires de services d'investissement mentionnés à
-l'article L. 532-18 sont soumis au contrôle du conseil des marchés financiers.
+Sous réserve du contrôle exercé par la commission bancaire en application de l'article L. 613-2, les prestataires de services
+d'investissement mentionnés à l'article L. 532-18 sont soumis au contrôle de l'Autorité des marchés financiers.
 
-Le conseil examine les conditions d'exercice de leurs activités et les résultats de celles-ci en tenant compte de la
+L'Autorité examine les conditions d'exercice de leurs activités et les résultats de celles-ci en tenant compte de la
 surveillance exercée par les autorités compétentes de l'Etat d'origine.
 
 **Liens relatifs à cet article**
@@ -31992,11 +32385,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L532-18 (M)
   - Code monétaire et financier - art. L613-2 (M)
-  - Code monétaire et financier - art. L621-7 (M)
 
 _Cité par_:
 
@@ -32005,19 +32401,18 @@ _Cité par_:
 
 ###### Article L532-21
 
-Lorsque la commission bancaire ou, lorsqu'il s'agit du service mentionné au 4 de l'article L. 321-1, la Commission des
-opérations de bourse constate qu'un prestataire de services d'investissement bénéficiant du régime prévu à l'article L.
-532-18 ne respecte pas les dispositions législatives ou réglementaires en matière de règles prudentielles ou de règles
-d'agrément, ces autorités peuvent exiger que le prestataire mette fin à cette situation irrégulière et en informent les
-autorités compétentes de l'Etat membre d'origine.
+Lorsque la commission bancaire ou, lorsqu'il s'agit du service mentionné au 4 de l'article L. 321-1, l'Autorité des marchés
+financiers constate qu'un prestataire de services d'investissement bénéficiant du régime prévu à l'article L. 532-18 ne
+respecte pas les dispositions législatives ou réglementaires en matière de règles prudentielles ou de règles d'agrément, ces
+autorités peuvent exiger que le prestataire mette fin à cette situation irrégulière et en informent les autorités compétentes
+de l'Etat membre d'origine.
 
 Si, en dépit des mesures prises par l'Etat membre d'origine ou parce que ces mesures se révèlent inadéquates ou font défaut
 dans cet Etat, le prestataire de services d'investissement persiste à enfreindre les dispositions législatives ou
-réglementaires mentionnées à l'alinéa précédent, la commission bancaire, la Commission des opérations de bourse et, le cas
-échéant, le Conseil des marchés financiers prennent les mesures appropriées pour prévenir ou sanctionner de nouvelles
-irrégularités et, au besoin, empêcher ce prestataire d'effectuer de nouvelles opérations sur le territoire de la France
-métropolitaine et des départements d'outre-mer. Ces autorités en informent, sans délai, les autorités de l'Etat membre
-d'origine.
+réglementaires mentionnées à l'alinéa précédent, la commission bancaire, l'Autorité des marchés financiers prend les mesures
+appropriées pour prévenir ou sanctionner de nouvelles irrégularités et, au besoin, empêcher ce prestataire d'effectuer de
+nouvelles opérations sur le territoire de la France métropolitaine et des départements d'outre-mer. Ces autorités en
+informent, sans délai, les autorités de l'Etat membre d'origine.
 
 **Liens relatifs à cet article**
 
@@ -32030,10 +32425,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L321-1 (M)
-  - Code monétaire et financier - art. L532-18 (M)
+  - Loi n°2003-706 2003-08-01 art. 46 III 22°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -32042,10 +32437,9 @@ _Cité par_:
 
 ###### Article L532-22
 
-Un décret en Conseil d'Etat détermine les procédures que suivent la commission bancaire, la Commission des opérations de
-bourse et le Conseil des marchés financiers dans l'exercice des compétences qui leur sont dévolues aux articles L. 532-19 à
-L. 532-21. Ce décret détermine, en particulier, les modalités d'information des autorités compétentes des autres Etats
-membres.
+Un décret en Conseil d'Etat détermine les procédures que suivent la commission bancaire et l'Autorité des marchés financiers
+dans l'exercice des compétences qui leur sont dévolues aux articles L. 532-19 à L. 532-21. Ce décret détermine, en
+particulier, les modalités d'information des autorités compétentes des autres Etats membres.
 
 **Liens relatifs à cet article**
 
@@ -32058,37 +32452,41 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier L532-19 à L532-21
 
 
-##### Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen<a id=362></a>
+##### Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen<a id=369></a>
 
 ###### Article L532-23
 
 Tout prestataire de services d'investissement ayant son siège social sur le territoire de la France métropolitaine et des
 départements d'outre mer et autorisé à fournir des services d'investissement en application de l'article L. 532-1 qui veut
 établir une succursale dans un autre Etat membre notifie son projet au Comité des établissements de crédit et des entreprises
-d'investissement et au Conseil des marchés financiers selon des règles fixées par décret en Conseil d'Etat.
+d'investissement et à l'Autorité des marchés financiers selon des règles fixées par décret en Conseil d'Etat.
 
 Ce projet ainsi que les informations prévues à l'article L. 533-13 assurant la protection des clients de la succursale sont
 transmis, dans les trois mois de leur réception, aux autorités compétentes de l'Etat membre d'accueil dans les conditions et
 selon les modalités fixées par le décret en Conseil d'Etat prévu au précédent alinéa. Le refus de transmission ne peut
-intervenir que si le comité des établissements de crédit et des entreprises d'investissement et le Conseil des marchés
+intervenir que si le comité des établissements de crédit et des entreprises d'investissement et l'Autorité des marchés
 financiers établissent que les structures administratives ou la situation financière de l'entreprise d'investissement ou de
 l'établissement de crédit fournissant des services d'investissement ne permettent pas l'établissement d'une succursale.
 
 Le prestataire de services d'investissement concerné est avisé de cette transmission.
 
-Si le comité des établissements de crédit et des entreprises d'investissement et le Conseil des marchés financiers refusent
+Si le comité des établissements de crédit et des entreprises d'investissement et l'Autorité des marchés financiers refusent
 de communiquer les informations mentionnées au premier alinéa aux autorités compétentes de l'Etat membre d'accueil, ils font
 connaître les motifs de ce refus à l'entreprise d'investissement ou à l'établissement de crédit concerné dans les trois mois
 suivant la réception de ces informations.
 
 Dès réception de la réponse des autorités compétentes de l'Etat membre d'accueil ou, en cas d'absence de réponse de leur
 part, à l'expiration d'un délai de deux mois à compter de la réception, par ces autorités, des informations communiquées par
-le comité des établissements de crédit et des entreprises d'investissement et le Conseil des marchés financiers, la
+le comité des établissements de crédit et des entreprises d'investissement et l'Autorité des marchés financiers, la
 succursale de l'entreprise ou de l'établissement pétitionnaire peut être établie et commencer à exercer ses activités sous
 réserve, le cas échéant, de remplir les conditions spécifiques nécessaires pour négocier sur un marché réglementé.
 
@@ -32102,6 +32500,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -32136,10 +32538,10 @@ _Cite_:
 Tout prestataire de services d'investissement ayant son siège social sur le territoire de la France métropolitaine et des
 départements d'outre-mer et autorisé à fournir des services d'investissement en application de l'article L. 532-1, qui veut
 exercer ses activités sur le territoire d'un autre Etat membre en libre prestation de services, le déclare au comité des
-établissements de crédit et des entreprises d'investissement et au Conseil des marchés financiers dans les conditions et
+établissements de crédit et des entreprises d'investissement et à l'Autorité des marchés financiers dans les conditions et
 selon des modalités fixées par décret en Conseil d'Etat.
 
-Le comité des établissements de crédit et des entreprises d'investissement et le Conseil des marchés financiers communiquent
+Le comité des établissements de crédit et des entreprises d'investissement et l'Autorité des marchés financiers communiquent
 cette déclaration à l'autorité compétente de l'Etat membre d'accueil dans un délai d'un mois à compter de sa réception
 régulière. Le prestataire de services d'investissement peut alors commencer à fournir dans l'Etat membre d'accueil les
 services d'investissement déclarés.
@@ -32154,6 +32556,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -32193,19 +32599,9 @@ _Cité par_:
 
 ###### Article L532-26
 
-La Commission des opérations de bourse exerce les attributions définies aux articles L. 532-18, L. 532-23 à L. 532-27 et L.
-612-2 à l'égard des sociétés de gestion de portefeuille et des entreprises relevant de l'article L. 532-18 exerçant, à titre
+L'Autorité des marchés financiers exerce les attributions définies aux articles L. 532-18, L. 532-23 à L. 532-27 et L. 612-2
+à l'égard des sociétés de gestion de portefeuille et des entreprises relevant de l'article L. 532-18 exerçant, à titre
 principal, le service défini au 4 de l'article L. 321-1.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -32217,6 +32613,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
 
 _Cite_:
 
@@ -32251,19 +32651,19 @@ _Cite_:
   - Code monétaire et financier L532-23 à L532-26
 
 
-#### Chapitre III : Obligations des prestataires de services d'investissement<a id=363></a>
+#### Chapitre III : Obligations des prestataires de services d'investissement<a id=370></a>
 
-##### Section 1 : Normes de gestion<a id=364></a>
+##### Section 1 : Normes de gestion<a id=371></a>
 
 ###### Article L533-1
 
 Les prestataires de services d'investissement sont tenus, pour ce qui concerne leurs activités de services d'investissement,
 de respecter les normes de gestion destinées à garantir leur liquidité, leur solvabilité et l'équilibre de leur structure
-financière définies par le comité de la réglementation bancaire et financière en application de l'article L. 611-3.
+financière définies par le ministre chargé de l'économie en application de l'article L. 611-3.
 
 Ils doivent en particulier respecter des ratios de couverture et de division des risques.
 
-Le non respect de ces obligations entraîne l'application de la procédure prévue aux articles L. 613-21 et L. 621-25.
+Le non respect de ces obligations entraîne l'application de la procédure prévue aux articles L. 613-21 et L. 621-15.
 
 **Liens relatifs à cet article**
 
@@ -32274,6 +32674,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 46 III 24°, VI 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -32286,10 +32691,10 @@ _Cite_:
 
   - Code monétaire et financier - art. L611-3 (M)
   - Code monétaire et financier - art. L613-21 (M)
-  - Code monétaire et financier - art. L621-25 (M)
+  - Code monétaire et financier - art. L621-15 (M)
 
 
-##### Section 2 : Obligations comptables et déclaratives<a id=365></a>
+##### Section 2 : Obligations comptables et déclaratives<a id=372></a>
 
 ###### Article L533-2
 
@@ -32352,7 +32757,36 @@ _Cité par_:
   - Code monétaire et financier - art. L532-18-1 (MMN)
 
 
-##### Section 3 : Règles de bonne conduite<a id=366></a>
+###### Article L533-3-1
+
+Les entreprises établies en France et qui font partie d'un groupe auquel appartiennent une ou plusieurs sociétés de gestion
+de portefeuille ayant leur siège social dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen ou dans un Etat où sont applicables les accords prévus par l'article L. 621-21 sont
+tenues, nonobstant toutes dispositions contraires, de transmettre à des entreprises du même groupe les informations
+nécessaires à l'organisation de la lutte contre le blanchiment de capitaux et contre le financement du terrorisme. Les
+dispositions du quatrième alinéa de l'article L. 511-34 sont applicables à ces informations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 2003-08-01 art. 72 2° JORF 2 août 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+_Cite_:
+
+  - Code monétaire et financier - art. L511-34 (M)
+  - Code monétaire et financier - art. L621-21 (M)
+
+
+##### Section 3 : Règles de bonne conduite<a id=373></a>
 
 ###### Article L533-4
 
@@ -32360,8 +32794,7 @@ Les prestataires de services d'investissement et les personnes mentionnées à l
 mentionnées à l'article L. 214-83-1, sont tenus de respecter des règles de bonne conduite destinées à garantir la protection
 des investisseurs et la régularité des opérations.
 
-Ces règles sont établies par le Conseil des marchés financiers et, pour celles ayant trait aux services définis au 4 de
-l'article L. 321-1, par la Commission des opérations de bourse.
+Ces règles sont établies par l'Autorité des marchés financiers.
 
 Elles portent, le cas échéant, sur les services connexes que ces prestataires sont susceptibles de fournir.
 
@@ -32386,6 +32819,13 @@ clients soient traités équitablement ;
 7. Se conformer à toutes les réglementations applicables à l'exercice de leurs activités de manière à promouvoir au mieux les
 intérêts de leurs clients et l'intégrité du marché.
 
+8. Pour les sociétés de gestion de portefeuille, exercer les droits attachés aux titres détenus par les organismes de
+placement collectif en valeurs mobilières qu'elles gèrent, dans l'intérêt exclusif des actionnaires ou des porteurs de parts
+de ces organismes de placement collectif en valeurs mobilières et rendre compte de leurs pratiques en matière d'exercice des
+droits de vote dans des conditions fixées par le règlement général de l'Autorité des marchés financiers. En particulier,
+lorsqu'elles n'exercent pas ces droits de vote, elles expliquent leurs motifs aux porteurs de parts ou actionnaires des
+organismes de placement collectif en valeurs mobilières.
+
 Les règles énoncées au présent article doivent être appliquées en tenant compte de la compétence professionnelle, en matière
 de services d'investissement, de la personne à laquelle le service d'investissement est rendu.
 
@@ -32401,7 +32841,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-602 2001-07-09 art. 9 V 5° JORF 11 juillet 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 66 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -32428,7 +32869,7 @@ Les prestataires de services d'investissement agréés pour fournir des services
 l'article L. 321-1 sont responsables à l'égard de leurs donneurs d'ordres de la livraison et du paiement de ce qu'ils vendent
 ou achètent.
 
-Sous réserve des dispositions de l'article L. 442-4, le règlement général du Conseil des marchés financiers définit les
+Sous réserve des dispositions de l'article L. 442-4, le règlement général de l'Autorité des marchés financiers définit les
 conditions dans lesquelles des dérogations à l'alinéa précédent peuvent être accordées.
 
 **Liens relatifs à cet article**
@@ -32440,6 +32881,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -32546,7 +32991,7 @@ _Cite_:
 ###### Article L533-9
 
 Les prestataires de services d'investissement et les membres d'un marché réglementé assurent l'enregistrement de leurs ordres
-dans des conditions fixées par le règlement général du Conseil des marchés financiers.
+dans des conditions fixées par le règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -32558,6 +33003,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -32690,7 +33139,7 @@ _Cité par_:
   - Code monétaire et financier - art. L533-20 (VD)
 
 
-##### Section 4 : Garantie des investisseurs.<a id=367></a>
+##### Section 4 : Garantie des investisseurs.<a id=374></a>
 
 ###### Article L533-13
 
@@ -32743,9 +33192,520 @@ _Cite_:
   - Code monétaire et financier L421-8, L322-1 à L322-4
 
 
-### Titre IV : Les sociétés de gestion collective<a id=368></a>
+### Titre IV : Autres prestataires de services<a id=375></a>
 
-###### Article L540
+#### Chapitre Ier : Les conseillers en investissements financiers<a id=376></a>
+
+###### Article L541-1
+
+I. - Les conseillers en investissements financiers sont les personnes exerçant à titre de profession habituelle une activité
+de conseil portant sur :
+
+1° La réalisation d'opérations sur les instruments financiers définis à l'article L. 211-1 ;
+
+2° La réalisation d'opérations de banque ou d'opérations connexes définies aux articles L. 311-1 et L. 311-2 ;
+
+3° La fourniture de services d'investissement ou de services connexes définis aux articles L. 321-1 et L. 321-2 ;
+
+4° La réalisation d'opérations sur biens divers définis à l'article L. 550-1.
+
+II. - Ne sont pas soumis aux dispositions du présent chapitre :
+
+1° Les établissements de crédit et les organismes mentionnés à l'article L. 518-1, les entreprises d'investissement et les
+entreprises d'assurance ;
+
+2° Les professionnels soumis à une réglementation spécifique qui exercent une activité de conseil en investissements
+financiers dans les limites de cette réglementation.
+
+III. - Les conseillers en investissements financiers ne peuvent à titre habituel et rémunéré donner de consultations
+juridiques ou rédiger des actes sous seing privé pour autrui que dans les conditions et limites des articles 54, 55 et 60 de
+la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°71-1130 1971-12-31 art. 54, art. 55, art. 60
+  - Loi n°71-1130 du 31 décembre 1971 - art. 55 (M)
+  - Loi n°71-1130 du 31 décembre 1971 - art. 60 (M)
+  - Code monétaire et financier - art. L211-1 (M)
+  - Code monétaire et financier - art. L311-1 (V)
+  - Code monétaire et financier - art. L311-2 (M)
+  - Code monétaire et financier - art. L321-1 (M)
+  - Code monétaire et financier - art. L321-2 (M)
+  - Code monétaire et financier - art. L518-1 (M)
+  - Code monétaire et financier - art. L550-1 (M)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 55 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1023 du 29 septembre 2004 - art. 9 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 325-1 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-28 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-29 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-3 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-6 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-8 (V)
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD)
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 92 (V)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 101 (V)
+  - Décret n°2012-100 du 26 janvier 2012 - art. 2 (V)
+  - Arrêté du 1er mars 2012 - art. 1 (VT)
+  - Arrêté du 1er mars 2012 - art. 3 (VT)
+  - Arrêté du 20 décembre 2012 - art. 1 (VD)
+  - Arrêté du 9 juin 2016 - art. 1 (V)
+  - Arrêté du 23 juin 2016 - art. 1
+  - Ordonnance n°2017-1107 du 22 juin 2017 - art. 9
+  - Code de commerce - art. A123-68-1 (V)
+  - Code général des impôts, CGI. - art. 242 septies (V)
+  - Code monétaire et financier - art. D541-2 (Ab)
+  - Code monétaire et financier - art. D541-9 (VD)
+  - Code monétaire et financier - art. L341-1 (V)
+  - Code monétaire et financier - art. L341-3 (V)
+  - Code monétaire et financier - art. L500-1 (VD)
+  - Code monétaire et financier - art. L541-1-1 (VT)
+  - Code monétaire et financier - art. L541-4 (V)
+  - Code monétaire et financier - art. L541-4-1 (VD)
+  - Code monétaire et financier - art. L541-8 (VD)
+  - Code monétaire et financier - art. L541-8-1 (VD)
+  - Code monétaire et financier - art. L546-1 (V)
+  - Code monétaire et financier - art. L573-9 (V)
+  - Code monétaire et financier - art. L621-17 (V)
+  - Code monétaire et financier - art. L621-9 (V)
+  - Code monétaire et financier - art. R546-2 (VD)
+  - Code monétaire et financier - art. R546-3 (VD)
+
+
+###### Article L541-2
+
+Les conseillers en investissements financiers personnes physiques, ainsi que les personnes physiques ayant le pouvoir de
+gérer ou d'administrer les personnes morales habilitées en tant que conseillers en investissements financiers doivent
+obligatoirement remplir des conditions d'âge et d'honorabilité fixées par décret, ainsi que des conditions de compétence
+professionnelle fixées par le règlement général de l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 55 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1023 du 29 septembre 2004 - art. 8 (Ab)
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD)
+  - Code monétaire et financier - art. D541-8 (VD)
+  - Code monétaire et financier - art. L541-4 (VD)
+  - Code monétaire et financier - art. L573-9 (V)
+  - Code monétaire et financier - art. R546-1 (VD)
+  - Code monétaire et financier - art. R546-5 (VD)
+
+
+###### Article L541-3
+
+Tout conseiller en investissements financiers doit être en mesure de justifier à tout moment de l'existence d'un contrat
+d'assurance le couvrant contre les conséquences pécuniaires de sa responsabilité civile professionnelle, en cas de manquement
+à ses obligations professionnelles telles que définies au présent chapitre.
+
+Le niveau minimal des garanties qui doivent être apportées par l'assurance en responsabilité civile professionnelle est fixé
+par décret, en fonction de la forme juridique sous laquelle l'activité de conseil est exercée et des produits et services
+susceptibles d'être conseillés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 55 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1023 du 29 septembre 2004 - art. 9 (Ab)
+  - Arrêté du 1er mars 2012 - art. 1 (VT)
+  - Arrêté du 9 juin 2016 - art. 1 (V)
+  - Code monétaire et financier - art. D541-9 (VD)
+  - Code monétaire et financier - art. L541-4 (VD)
+  - Code monétaire et financier - art. R546-1 (VD)
+
+
+###### Article L541-4
+
+Tout conseiller en investissements financiers doit adhérer à une association chargée de la représentation collective et de la
+défense des droits et intérêts de ses membres. Ces associations sont agréées par l'Autorité des marchés financiers en
+considération, notamment, de leur représentativité et de leur aptitude à remplir leurs missions. Elles doivent avoir fait
+approuver par l'Autorité des marchés financiers les conditions de compétence et le code de bonne conduite auxquels sont
+soumis leurs membres. Ce code doit respecter un minimum de prescriptions fixées par le règlement général de l'Autorité des
+marchés financiers obligeant notamment les conseillers en investissements financiers à :
+
+1° Se comporter avec loyauté et agir avec équité au mieux des intérêts de leurs clients ;
+
+2° Exercer leur activité, dans les limites autorisées par leur statut, avec la compétence, le soin et la diligence qui
+s'imposent au mieux des intérêts de leurs clients, afin de leur proposer une offre de services adaptée et proportionnée à
+leurs besoins et à leurs objectifs ;
+
+3° Etre dotés des ressources et procédures nécessaires pour mener à bien leurs activités et mettre en oeuvre ces ressources
+et procédures avec un souci d'efficacité ;
+
+4° S'enquérir, avant de formuler un conseil, de la situation financière de leurs clients, de leur expérience et de leurs
+objectifs en matière d'investissement ;
+
+5° Communiquer aux clients, d'une manière appropriée, la nature juridique et l'étendue des éventuelles relations entretenues
+avec les établissements promoteurs de produits mentionnés au 1° de l'article L. 341-3, les informations utiles à la prise de
+décision par ces clients, ainsi que celles concernant les modalités de leur rémunération, notamment la tarification de leurs
+prestations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 55 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1023 du 29 septembre 2004 - art. 1 (Ab)
+  - Décret n°2004-1023 du 29 septembre 2004 - art. 6 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 325-2 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-2-1  (VD)
+  - Arrêté du 12 novembre 2004 - art. 325-21 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-33 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-36 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-37 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-40 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-43 (V)
+  - Arrêté du 12 novembre 2004 - art. 335-21 (MMN)
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD)
+  - Décret n°2012-100 du 26 janvier 2012 - art. 2 (V)
+  - Décret n°2015-1454 du 10 novembre 2015 - art. (V)
+  - Arrêté du 28 janvier 2020 - art.
+  - Code monétaire et financier - art. D541-1 (Ab)
+  - Code monétaire et financier - art. D541-6 (Ab)
+  - Code monétaire et financier - art. L541-8-1 (V)
+  - Code monétaire et financier - art. L541-9 (VD)
+  - Code monétaire et financier - art. L621-9 (MMN)
+  - Code monétaire et financier - art. L621-9-2 (V)
+  - Code monétaire et financier - art. L745-11-1 (V)
+  - Code monétaire et financier - art. L755-11-1 (MMN)
+  - Code monétaire et financier - art. L765-11-1 (MMN)
+  - Code monétaire et financier - art. R546-1 (VD)
+  - Code monétaire et financier - art. R546-3 (VD)
+  - Code monétaire et financier - art. R621-31 (VD)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L341-3 (M)
+
+
+###### Article L541-6
+
+Il est interdit à tout conseiller en investissements financiers de recevoir de ses clients des fonds autres que ceux destinés
+à rémunérer son activité de conseil en investissements financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 55 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD)
+  - Code monétaire et financier - art. L573-12 (V)
+  - Code monétaire et financier - art. L573-9 (V)
+  - Code monétaire et financier - art. L745-11-1 (V)
+  - Code monétaire et financier - art. L755-11-1 (V)
+  - Code monétaire et financier - art. L765-11-1 (V)
+
+
+###### Article L541-7
+
+I. - Nul ne peut directement ou indirectement, pour son propre compte ou pour le compte d'autrui, exercer une activité de
+conseiller en investissements financiers s'il a fait l'objet depuis moins de dix ans d'une condamnation définitive :
+
+1° Pour crime ;
+
+2° A une peine d'au moins trois mois d'emprisonnement sans sursis pour :
+
+a) L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et
+punis des peines prévues pour l'escroquerie et l'abus de confiance ;
+
+b) Recel ;
+
+c) Blanchiment ;
+
+d) Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
+
+e) Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de
+l'autorité ;
+
+f) Participation à une association de malfaiteurs ;
+
+g) Trafic de stupéfiants ;
+
+h) Proxénétisme et infractions assimilées ;
+
+i) L'une des infractions prévues à la section 3 du chapitre V du titre II du livre II du code pénal ;
+
+j) L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
+
+k) Banqueroute ;
+
+l) Pratique de prêt usuraire ;
+
+m) L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907
+réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales et climatiques et par la loi n° 83-628
+du 12 juillet 1983 relative aux jeux de hasard ;
+
+n) Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
+
+o) Fraude fiscale ;
+
+p) L'une des infractions prévues aux articles L. 163-2 à L. 163-8, L. 163-11 et L. 163-12 du présent code ;
+
+q) L'une des infractions prévues aux articles L. 122-8 à L. 122-10 et L. 213-1 à L. 213-5 du code de la consommation ;
+
+r) L'une des infractions prévues aux articles L. 465-1 et L. 465-2 du présent code ;
+
+s) L'une des infractions prévues à la section 2 du chapitre Ier du titre III du livre II, à la section 1 du chapitre III du
+titre V du livre III, aux chapitres Ier à IV du titre VI du livre IV et au titre VII du livre V du présent code ;
+
+3° A la destitution des fonctions d'officier public ou ministériel.
+
+II. - L'incapacité prévue au I s'applique à toute personne à l'égard de laquelle a été prononcée une mesure définitive de
+faillite personnelle ou une autre mesure définitive d'interdiction prévue aux articles L. 625-1 à L. 625-7 et L. 625-9 à L.
+625-10 du code de commerce ou, dans le régime antérieur, à l'article 108 de la loi n° 67-563 du 13 juillet 1967 sur le
+règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes, si elle n'a pas été réhabilitée.
+
+III. - Les personnes exerçant une activité de conseil en investissements financiers qui font l'objet de l'une des
+condamnations prévues au I doivent cesser leur activité dans un délai d'un mois à compter de la date à laquelle la décision
+de justice est devenue définitive.
+
+IV. - En cas de condamnation prononcée par une juridiction étrangère et passée en force de chose jugée pour une infraction
+constituant, selon la loi française, un crime ou l'un des délits mentionnés au I, le tribunal correctionnel du domicile du
+condamné déclare, à la requête du ministère public, après constatation de la régularité et de la légalité de la condamnation
+et l'intéressé dûment appelé en chambre du conseil, qu'il y a lieu à l'application de l'incapacité prévue par le I.
+
+Cette incapacité s'applique également à toute personne non réhabilitée ayant fait l'objet d'une faillite personnelle
+prononcée par une juridiction étrangère quand le jugement déclaratif a été déclaré exécutoire en France. La demande
+d'exequatur peut être, à cette fin seulement, formée par le ministère public devant le tribunal de grande instance du
+domicile du condamné.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°67-563 du 13 juillet 1967 - art. 108 (Ab)
+  - Loi n°83-628 1983-07-12
+  - Code de commerce L625-1 à L625-7, L625-9 à L625-10
+  - Code de la consommation L122-8 à L122-10, L213-1 à L213-5
+  - Code monétaire et financier - art. L163-11 (M)
+  - Code monétaire et financier - art. L163-12 (V)
+  - Code monétaire et financier - art. L465-1 (M)
+  - Code monétaire et financier - art. L465-2 (M)
+  - Code monétaire et financier L163-2 à L163-8, L163-11, L163-12, L465-1, L465-2
+  - Loi n°1836-05-21
+  - Loi n°1907-06-15
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 55 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L573-9 (M)
+  - Code monétaire et financier - art. R546-5 (VD)
+
+
+##### Section 2 :  Autres conditions d'accès et d'exercice<a id=377></a>
+
+###### Article L541-5
+
+Tout conseiller en investissements financiers qui souhaite exercer ses activités en France doit, après vérification qu'il
+remplit les conditions posées aux articles L. 541-2 à L. 541-4, être enregistré sur une liste tenue et régulièrement mise à
+jour par chaque association professionnelle mentionnée à l'article L. 541-4 selon des modalités fixées par décret pris après
+avis de la Commission nationale de l'informatique et des libertés. Cette liste est transmise à l'Autorité des marchés
+financiers, selon des modalités fixées par son règlement général, et auprès de laquelle elle est librement consultable par le
+public.
+
+Il est attribué au conseiller en investissements financiers un numéro d'enregistrement délivré par l'association
+professionnelle auprès de laquelle il est enregistré. Ce numéro doit être communiqué à toute personne entrant en relation
+avec lui et doit figurer sur tous les documents émanant des conseillers en investissements financiers.
+
+**Nota:**
+
+Loi n° 2010-1249 du 22 octobre 2010 article 92 II : L'article L. 541-5 est abrogé le premier jour du septième mois qui suit
+la mise en place du registre mentionné au I de l'article L. 546-1 du code monétaire et financier. L'arrêté du 20 décembre
+2012 publié au Journal officiel de la République française le 26 décembre 2012 fixe au 15 janvier 2013 la mise en place de ce
+registre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 55 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2004-1023 du 29 septembre 2004 - art. 1 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 325-21 (V)
+  - Décret n°2012-100 du 26 janvier 2012 - art. 2 (V)
+  - Code monétaire et financier - art. D541-1 (Ab)
+
+**Liens**:
+
+  - DEPLACE: Loi n°2010-1249 du 22 octobre 2010 - art. 36
+
+_Abrogé par_:
+
+  - Loi n°2010-1249 du 22 octobre 2010 - art. 92 (V)
+
+_Cite_:
+
+  - Code monétaire et financier
+
+
+#### Chapitre II : Les intermédiaires habilités en vue de l'administration ou de la conservation d'instruments financiers<a id=378></a>
+
+###### Article L542-1
+
+Seuls peuvent exercer les activités de conservation ou d'administration d'instruments financiers :
+
+1° Les personnes morales au titre des instruments financiers qu'elles émettent par appel public à l'épargne ;
+
+2° Les établissements de crédit établis en France ;
+
+3° Les entreprises d'investissement établies en France ;
+
+4° Les personnes morales dont les membres ou associés sont indéfiniment et solidairement responsables des dettes et
+engagements, à condition que ces membres ou associés soient des établissements ou entreprises mentionnées aux 2° et 3° ;
+
+5° Les personnes morales établies en France ayant pour objet principal ou unique l'activité de conservation ou
+d'administration d'instruments financiers ;
+
+6° Les institutions mentionnées à l'article L. 518-1 ;
+
+7° Dans des conditions fixées par le règlement général de l'Autorité des marchés financiers, les établissements de crédit,
+les entreprises d'investissement et les personnes morales ayant pour objet principal ou unique l'activité de conservation ou
+d'administration d'instruments financiers qui ne sont pas établis en France.
+
+Les personnes mentionnées aux 1° à 5° sont soumises, pour leur activité de conservation ou d'administration d'instruments
+financiers, aux règles de contrôle et de sanction fixées par le présent code pour les prestataires de services
+d'investissement. En outre, les personnes mentionnées au 5° sont soumises aux règles d'agrément fixées par le présent code
+pour les entreprises d'investissement.
+
+Les personnes mentionnées au 7° doivent être soumises dans leur Etat d'origine à des règles d'exercice de l'activité de
+conservation ou d'administration d'instruments financiers et de contrôle équivalentes à celles en vigueur en France.
+L'Autorité des marchés financiers exerce à l'égard de ces personnes les pouvoirs de contrôle et de sanction prévus par le
+présent code pour les prestataires de services d'investissement, en tenant compte de la surveillance exercée par les
+autorités compétentes de chaque Etat.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 31 décembre 1998 - art. 3 (V)
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 6 (V)
+  - Arrêté du 12 novembre 2004 - art. 322-1 (V)
+  - Arrêté du 12 novembre 2004 - art. 322-3 (V)
+  - Arrêté du 12 novembre 2004 - art. 322-49-1 (V)
+  - Arrêté du 12 novembre 2004 - art. 322-59 (V)
+  - Arrêté du 12 novembre 2004 - art. 323-14 (M)
+  - Arrêté du 12 novembre 2004 - art. 323-56 (V)
+  - Arrêté du 12 novembre 2004 - art. 333-15 (V)
+  - Arrêté du 12 novembre 2004 - art. 550-1 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 550-1-1 (Ab)
+  - Arrêté du 16 février 2005 - art. 7 (V)
+  - Ordonnance n°2006-344 du 23 mars 2006 - art. 8 (V)
+  - Décret n°2007-67 du 18 janvier 2007 - art. 1 (V)
+  - Décret n°2007-67 du 18 janvier 2007 - art. 5 (V)
+  - Arrêté du 20 février 2007 - art. 1 (VD)
+  - Arrêté du 29 octobre 2009 - art. 34 (V)
+  - Loi n°2010-768 du 9 juillet 2010 - art. 3
+  - Décret n°2012-1517 du 29 décembre 2012 - art. 3 (V)
+  - Arrêté du 2 mai 2013 - art. 38 (V)
+  - Arrêté du 2 mai 2013 - art. 56 (VT)
+  - Arrêté du 3 novembre 2014 - art. 1 (VD)
+  - Arrêté du 3 novembre 2014 - art. 10 (VD)
+  - Arrêté du 3 novembre 2014 - art. 255 (V)
+  - Arrêté du 3 novembre 2014 - art. 86 (V)
+  - Décret n°2015-545 du 18 mai 2015 (V)
+  - Code de commerce - art. R228-12 (VD)
+  - Code de commerce. - art. R225-112 (V)
+  - Code de commerce. - art. R225-6 (V)
+  - Code de la mutualité - art. L221-19 (VD)
+  - Code de la sécurité sociale. - art. L931-15-1 (V)
+  - Code des assurances - art. L322-26-8 (VD)
+  - Code des assurances - art. L370-4 (VD)
+  - Code du travail - art. L3332-8 (VD)
+  - Code du travail - art. L3341-8 (VD)
+  - Code du travail - art. L443-1 (AbD)
+  - Code du travail - art. L444-5 (AbD)
+  - Code général des impôts, CGI. - art. 145 (V)
+  - Code monétaire et financier - art. L211-3 (VD)
+  - Code monétaire et financier - art. L211-4-1 (Ab)
+  - Code monétaire et financier - art. L214-10-1 (V)
+  - Code monétaire et financier - art. L500-1 (VD)
+  - Code monétaire et financier - art. L522-17 (VD)
+  - Code monétaire et financier - art. L526-32 (VD)
+  - Code monétaire et financier - art. L532-18 (VD)
+  - Code monétaire et financier - art. L532-50 (V)
+  - Code monétaire et financier - art. L612-2 (VT)
+  - Code monétaire et financier - art. L621-7 (V)
+  - Code monétaire et financier - art. L621-9 (V)
+  - Code monétaire et financier - art. L735-11-2 (Ab)
+  - Code monétaire et financier - art. L745-11-2 (V)
+  - Code monétaire et financier - art. L755-11-2 (V)
+  - Code monétaire et financier - art. L765-11-2 (V)
+  - Code monétaire et financier - art. R211-1 (V)
+  - Code monétaire et financier - art. R542-1 (V)
+  - Code monétaire et financier - art. R612-20-1 (VT)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 2003-08-01 art. 41 II, III JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 41 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L518-1 (M)
+
+
+#### Chapitre III : Les sociétés de gestion collective<a id=379></a>
+
+###### Article L543-1
 
 Les dispositions relatives aux sociétés de gestion collective sont fixées au chapitre IV du titre Ier du livre II.
 
@@ -32753,37 +33713,183 @@ Les dispositions relatives aux sociétés de gestion collective sont fixées au 
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Transféré par_:
+_Créé par_:
 
+  - Loi n°2003-706 2003-08-01 art. 41 I, IV JORF 2 août 2003
   - Loi n°2003-706 du 1 août 2003 - art. 41 () JORF 2 août 2003
 
-_Nouveaux textes_:
+_Abrogé par_:
 
-  - Code monétaire et financier - art. L543-1 (Ab)
+  - Loi n°2003-706 du 1 août 2003 - art. 68 (V) JORF 2 août 2003 en vigueur le 13 février 2004
+
+_Cité par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 68 (V)
+  - Arrêté du 23 juin 2016 - art. 1
+  - Code de commerce - art. A123-68-1 (V)
+  - Code monétaire et financier - art. D411-1 (V)
+  - Code monétaire et financier - art. D533-11 (VD)
+  - Code monétaire et financier - art. D533-13 (VD)
+  - Code monétaire et financier - art. L341-3 (V)
+  - Code monétaire et financier - art. L500-1 (VD)
+  - Code monétaire et financier - art. L561-2 (VT)
+  - Code monétaire et financier - art. L561-36 (VT)
+  - Code monétaire et financier - art. L562-1 (V)
+  - Code monétaire et financier - art. L564-3 (T)
+  - Code monétaire et financier - art. L565-3 (T)
+  - Code monétaire et financier - art. L566-3 (Ab)
+  - Code monétaire et financier - art. L621-13-1 (V)
+  - Code monétaire et financier - art. L621-5-3 (V)
+  - Code monétaire et financier - art. L621-7 (V)
+  - Code monétaire et financier - art. L621-9 (V)
+  - Code monétaire et financier - art. L735-11-2-1 (V)
+  - Code monétaire et financier - art. L745-11-2-1 (VD)
+  - Code monétaire et financier - art. L755-11-2-1 (VD)
+  - Code monétaire et financier - art. L765-11-2-1 (VD)
+
+_Anciens textes_:
+
+  - Code monétaire et financier - art. L540 (T)
+  - Code monétaire et financier art. L214-1 II
 
 
-### Titre V : Intermédiaires en biens divers<a id=369></a>
+#### Chapitre IV : Services d'analyse financière et agences de notation<a id=380></a>
+
+###### Article L544-1
+
+Exerce une activité d'analyse financière toute personne qui, à titre de profession habituelle, produit et diffuse des études
+sur les personnes morales faisant appel public à l'épargne, en vue de formuler et de diffuser une opinion sur l'évolution
+prévisible desdites personnes morales et, le cas échéant, sur l'évolution prévisible du prix des instruments financiers
+qu'elles émettent.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 42 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Arrêté du 12 novembre 2004 - art. 313-25 (M)
+  - Arrêté du 12 novembre 2004 - art. 318-16 (V)
+  - Arrêté du 12 novembre 2004 - art. 327-1 (V)
+  - Arrêté du 12 novembre 2004 - art. 337-1 (T)
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 9 (VD)
+  - Arrêté du 23 juin 2016 - art. 1
+  - Code de commerce - art. A123-68-1 (V)
+  - Code monétaire et financier - art. L621-7 (M)
+  - Code monétaire et financier - art. L745-11-3 (V)
+  - Code monétaire et financier - art. L755-11-3 (V)
+  - Code monétaire et financier - art. L765-11-3 (V)
+  - Code monétaire et financier - art. R214-1-2 (Ab)
+  - Code monétaire et financier - art. R214-2 (V)
+  - Code monétaire et financier - art. R214-9 (V)
+
+
+###### Article L544-2
+
+Les dirigeants d'une entreprise doivent s'abstenir de toute initiative auprès des analystes financiers dont ils rémunèrent
+les services qui aurait pour objet ou pour effet de privilégier leurs intérêts propres, ou ceux de leurs actionnaires, au
+détriment d'une information sincère.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 42 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L745-11-3 (V)
+  - Code monétaire et financier - art. L755-11-3 (V)
+  - Code monétaire et financier - art. L765-11-3 (V)
+
+
+###### Article L544-3
+
+Tous les documents préparatoires à l'élaboration des publications diffusées sous la responsabilité d'un service d'analyse
+financière ou d'une agence de notation doivent être conservés pendant un délai de trois ans et tenus à disposition de
+l'Autorité des marchés financiers dans le cadre de sa mission définie au II de l'article L. 621-9.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 42 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L621-9 (M)
+
+
+###### Article L544-4
+
+L'Autorité des marchés financiers publie chaque année un rapport sur le rôle des agences de notation, leurs règles
+déontologiques, la transparence de leurs méthodes et l'impact de leur activité sur les émetteurs et les marchés financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 42 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Arrêté du 23 juin 2016 - art. 1
+  - Décret n°2019-1235 du 27 novembre 2019 (V)
+  - Code de commerce - art. A123-68-1 (V)
+  - Code monétaire et financier - art. L544-5 (VD)
+  - Code monétaire et financier - art. L544-6 (Ab)
+  - Code monétaire et financier - art. L613-52-6 (M)
+  - Code monétaire et financier - art. L621-7 (V)
+  - Code monétaire et financier - art. L621-9 (V)
+  - Code monétaire et financier - art. L745-11-3 (V)
+  - Code monétaire et financier - art. L755-11-3 (V)
+  - Code monétaire et financier - art. L765-11-3 (V)
+  - Code monétaire et financier - art. R214-12 (V)
+  - Code monétaire et financier - art. R214-32-20 (V)
+
+
+### Titre V : Intermédiaires en biens divers<a id=381></a>
 
 ###### Article L550-1
 
-Est soumise aux dispositions des articles L. 550-2, L. 550-3, L. 550-4, L. 550-5 et L. 573-8 :
+Est soumise aux dispositions des articles L. 550-2, L. 550-3, L. 550-4, L. 550-5 et L. 573-8 : 
 
 1. Toute personne qui, directement ou indirectement, par voie de publicité ou de démarchage, propose à titre habituel à des
 tiers de souscrire des rentes viagères ou d'acquérir des droits sur des biens mobiliers ou immobiliers lorsque les acquéreurs
-n'en n'assurent pas eux-mêmes la gestion ou lorsque le contrat offre une faculté de reprise ou d'échange et la revalorisation
-du capital investi ;
+n'en assurent pas eux-mêmes la gestion ou lorsque le contrat offre une faculté de reprise ou d'échange et la revalorisation
+du capital investi ; 
 
-2. Toute personne qui recueille des fonds à cette fin ;
+2. Toute personne qui recueille des fonds à cette fin ; 
 
-3. Toute personne chargée de la gestion desdits biens.
+3. Toute personne chargée de la gestion desdits biens. 
 
 Ces articles ne s'appliquent pas aux opérations déjà régies par des dispositions particulières et notamment aux opérations
 d'assurance et de capitalisation régies par le code des assurances, aux opérations de crédit différé, aux opérations régies
 par le code de la mutualité et par le code de la sécurité sociale, aux opérations donnant normalement droit à l'attribution
-en propriété ou en jouissance de parties déterminées d'un ou plusieurs immeubles bâtis.
+en propriété ou en jouissance de parties déterminées d'un ou plusieurs immeubles bâtis. 
+
+Les personnes mentionnées au présent article sont soumises aux dispositions des articles L. 341-1 à L. 341-17 et L. 353-1 à
+L. 353-5 lorsqu'elles agissent par voie de démarchage.
 
 **Liens relatifs à cet article**
 
@@ -32795,6 +33901,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 54 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -32820,9 +33930,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L550-4 (V)
-  - Code monétaire et financier - art. L550-5 (M)
-  - Code monétaire et financier - art. L573-8 (M)
+  - Code monétaire et financier - art. L353-1 (V)
+  - Code monétaire et financier - art. L573-8 (V)
 
 _Nouveaux textes_:
 
@@ -32865,46 +33974,36 @@ _Nouveaux textes_:
 
 Préalablement à toute publicité ou à tout démarchage, un document destiné à donner toute information utile au public sur
 l'opération proposée, sur la personne qui en a pris l'initiative et sur le gestionnaire, doit être établi dans des conditions
-déterminées par décret.
+déterminées par décret. 
 
 Lorsque l'épargnant n'a pas reçu le document d'information préalablement à la conclusion du contrat, ou lorsque les clauses
 de ce contrat ne sont pas conformes au contenu du document d'information, le juge peut lui accorder des dommages-intérêts ou
-prononcer la résolution du contrat.
+prononcer la résolution du contrat. 
 
-Les projets de documents d'information et les projets de contrat type sont déposés auprès de la Commission des opérations de
-bourse qui exerce, dans les conditions fixées par le présent code, son contrôle auprès de l'ensemble des entreprises qui
-participent à l'opération et détermine si celle-ci présente le minimum de garanties exigé d'un placement destiné au public.
+Les projets de documents d'information et les projets de contrat type sont déposés auprès de l'Autorité des marchés
+financiers qui exerce, dans les conditions fixées par le présent code, son contrôle auprès de l'ensemble des entreprises qui
+participent à l'opération et détermine si celle-ci présente le minimum de garanties exigé d'un placement destiné au public. 
 
-La commission peut limiter ou préciser les conditions de la publicité pour tenir compte de la nature des produits et des
-garanties offertes.
+L'Autorité peut limiter ou préciser les conditions de la publicité pour tenir compte de la nature des produits et des
+garanties offertes. 
 
 Elle dispose d'un délai de trente jours, qu'elle peut porter à soixante jours par décision motivée, à compter du dépôt, pour
-formuler ses observations. La publicité ou le démarchage ne peuvent être entrepris que si les observations de la commission
-ont été respectées ou, à défaut d'observation, lorsque le délai ci-dessus est écoulé. Une copie des documents diffusés est
-remise à la Commission des opérations de bourse.
+formuler ses observations. La publicité ou le démarchage ne peuvent être entrepris que si les observations de l'Autorité ont
+été respectées ou, à défaut d'observation, lorsque le délai ci-dessus est écoulé. Une copie des documents diffusés est remise
+à l'Autorité des marchés financiers. 
 
 Toute personne qui propose de se substituer au gestionnaire des biens ou à la personne tenue à l'exécution des engagements
-mentionnés au 1 de l'article L. 550-1 doit déposer un projet de document d'information et un projet de contrat type à la
-Commission des opérations de bourse qui exerce son contrôle dans les conditions prévues au troisième alinéa ci-dessus.
+mentionnés au 1 de l'article L. 550-1 doit déposer un projet de document d'information et un projet de contrat type à
+l'Autorité des marchés financiers qui exerce son contrôle dans les conditions prévues au troisième alinéa ci-dessus. 
 
 En cas de modification des conditions dans lesquelles est assurée la gestion des biens ou l'exécution des engagements,
 l'accord des titulaires de droits sur ces modifications n'est valablement donné qu'après que ceux-ci ont été spécialement
-informés des changements proposés, de leur portée et de leur justification, dans un document déposé à la Commission des
-opérations de bourse. Celle-ci peut demander que ce document soit mis en conformité avec ses observations.
+informés des changements proposés, de leur portée et de leur justification, dans un document déposé à l'Autorité des marchés
+financiers. Celle-ci peut demander que ce document soit mis en conformité avec ses observations. 
 
-Lorsque la Commission des opérations de bourse constate que l'opération proposée au public n'est plus conforme au contenu du
+Lorsque l'Autorité des marchés financiers constate que l'opération proposée au public n'est plus conforme au contenu du
 document d'information et du contrat type ou ne présente plus les garanties prévues au présent article, elle peut ordonner,
 par une décision motivée, qu'il soit mis fin à tout démarchage ou publicité concernant l'opération.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -32916,6 +34015,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -32931,34 +34034,66 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L550-1 (M)
+  - Code monétaire et financier - art. L550-1 (V)
 
 _Nouveaux textes_:
 
   - Code monétaire et financier - art. L551-3 (V)
 
 
+###### Article L550-4
+
+A la clôture de chaque exercice annuel, le gestionnaire établit, outre ses propres comptes, l'inventaire des biens dont il
+assure la gestion, et dresse l'état des sommes perçues au cours de l'exercice pour le compte des titulaires de droits. Il
+établit un rapport sur son activité et sur la gestion des biens.
+
+Il dresse le bilan et le compte de résultat et l'annexe. Les comptes sont contrôlés par un commissaire aux comptes qui en
+certifie la sincérité et la régularité.
+
+Les documents mentionnés au deux premiers alinéas sont transmis aux détenteurs des droits et à l'Autorité des marchés
+financiers dans les trois mois suivant la clôture de l'exercice.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°83-1 du 3 janvier 1983 - art. 38 (M)
+  - Loi n°83-1 du 3 janvier 1983 - art. 38 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+**Liens**:
+
+  - TRANSFERE: Loi n°2019-486 du 22 mai 2019 - art. 85
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L550-1 (M)
+  - Code monétaire et financier - art. L573-8 (M)
+  - Code monétaire et financier - art. R550-2 (T)
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L551-4 (V)
+
+
 ###### Article L550-5
 
 Le commissaire aux comptes est désigné pour six exercices à la demande du gestionnaire par décision de justice prise après
-avis de la Commission des opérations de bourse. En cas de faute ou d'empêchement, le commissaire aux comptes peut être relevé
-de ses fonctions par décision de justice à la demande du gestionnaire ou de tout titulaire des droits. Les articles L.
-225-218 à L. 225-225 du code de commerce sont applicables.
+avis de l'Autorité des marchés financiers. En cas de faute ou d'empêchement, le commissaire aux comptes peut être relevé de
+ses fonctions par décision de justice à la demande du gestionnaire ou de tout titulaire des droits. Les articles L. 822-1, L.
+822-2, L. 822-3, L. 822-9, L. 822-10, L. 822-12 du code de commerce sont applicables.
 
 Le commissaire aux comptes révèle au procureur de la République les faits délictueux dont il a eu connaissance sans que sa
 responsabilité puisse être engagée par cette révélation.
 
 Les travaux accomplis dans l'exercice de sa mission sont rémunérés dans des conditions fixées par décret.
-
-**Nota:**
-
-Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
-
-1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
-la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
-
-2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
-financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -32969,6 +34104,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -32989,9 +34128,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L551-5 (V)
 
 
-### Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=370></a>
+### Titre VI : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=382></a>
 
-#### Chapitre Ier : Déclaration de certaines sommes ou opérations<a id=371></a>
+#### Chapitre Ier : Déclaration de certaines sommes ou opérations<a id=383></a>
 
 ###### Article L561-1
 
@@ -33028,7 +34167,7 @@ _Cite_:
   - Code monétaire et financier - art. L574-1 (M)
 
 
-#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite<a id=372></a>
+#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite<a id=384></a>
 
 ###### Article L562-1
 
@@ -33044,7 +34183,10 @@ réassurance ;
 4. Aux organismes entrant dans le champ de l'article L. 111-1 du code de la mutualité ;
 
 5. Aux entreprises d'investissement, aux membres des marchés réglementés d'instruments financiers et aux personnes morales
-mentionnées aux articles L. 421-8 et L. 442-2 ;
+mentionnées aux articles L. 421-8 et L. 442-2, ainsi qu'aux organismes de placement collectif en valeurs mobilières
+mentionnés au 1 du I de l'article L. 214-1, aux sociétés de gestion d'organismes de placements collectifs mentionnées au II
+de l'article L. 214-1, aux intermédiaires en biens divers mentionnés au titre V du présent livre, aux personnes habilitées à
+procéder au démarchage mentionnées aux articles L. 341-3 et L. 341-4 et aux conseillers en investissements financiers.
 
 6. Aux changeurs manuels ;
 
@@ -33055,6 +34197,8 @@ la location de biens immobiliers ;
 
 9. Aux personnes se livrant habituellement au commerce ou organisant la vente de pierres précieuses, de matériaux précieux,
 d'antiquités et d'oeuvres d'art.
+
+10. Aux entreprises bénéficiant de l'exemption prévue par le II de l'article L. 511-7.
 
 Pour l'application du présent titre, les personnes mentionnées aux 1 à 6 sont désignées sous le nom d'organismes financiers.
 
@@ -33072,7 +34216,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 33 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 43 I, art. 70 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 43 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -33124,6 +34269,17 @@ _Cité par_:
   - Code monétaire et financier - art. R564-1 (T)
   - Code monétaire et financier - art. R565-1 (Ab)
   - Livre des procédures fiscales - art. L135 T (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-1 (M)
+  - Code monétaire et financier - art. L341-3 (M)
+  - Code monétaire et financier - art. L341-4 (M)
+  - Code monétaire et financier - art. L421-8 (M)
+  - Code monétaire et financier - art. L442-2 (M)
+  - Code monétaire et financier - art. L511-7 (M)
+  - Code des assurances - art. L310-1 (M)
+  - Code de la mutualité - art. L111-1 (Ab)
 
 
 ###### Article L562-2
@@ -33554,7 +34710,7 @@ _Cite_:
   - Code monétaire et financier - art. L562-4 (M)
 
 
-#### Chapitre III : Autres obligations de vigilance des organismes financiers<a id=373></a>
+#### Chapitre III : Autres obligations de vigilance des organismes financiers<a id=385></a>
 
 ###### Article L563-1
 
@@ -33836,7 +34992,7 @@ _Cité par_:
   - Ordonnance n°2006-60 du 19 janvier 2006 - art. 6 (V)
 
 
-#### Chapitre IV : Dispositions diverses<a id=374></a>
+#### Chapitre IV : Dispositions diverses<a id=386></a>
 
 ###### Article L564-1
 
@@ -33937,19 +35093,30 @@ _Nouveaux textes_:
 Un décret en Conseil d'Etat fixe les conditions d'application du présent titre, sans préjudice des règlements professionnels
 ou administratifs prévus par les législations applicables aux organismes financiers mentionnés à l'article L. 562-1.
 
-Pour l'application du présent titre, la commission bancaire exerce le contrôle et le pouvoir disciplinaire sur les
-entreprises mentionnées au 5 de l'article L. 562-1. Elle peut prononcer les sanctions prévues à l'article L. 613-21.
+Pour l'application du présent titre :
 
-L'inspection générale des finances exerce le contrôle sur la caisse des dépôts et consignations et les services financiers de
-La Poste. Le résultat des investigations de l'inspection générale des finances est porté à la connaissance, selon le cas, de
-la commission de surveillance de la caisse des dépôts et consignations ou de la commission supérieure prévue à l'article 35
-de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications.
+1° La Commission bancaire exerce le contrôle et le pouvoir disciplinaire sur les entreprises mentionnées au 5 de l'article L.
+562-1. Elle peut prononcer les sanctions prévues à l'article L. 613-21.
+
+2° L'inspection générale des finances exerce le contrôle sur la caisse des dépôts et consignations et les services financiers
+de La Poste. Le résultat des investigations de l'inspection générale des finances est porté à la connaissance, selon le cas,
+de la commission de surveillance de la caisse des dépôts et consignations ou de la commission supérieure prévue à l'article
+35 de la loi n° 90-568 du 2 juillet 1990 relative à l'organisation du service public de la poste et des télécommunications.
+
+3° L'Autorité des marchés financiers exerce le contrôle et le pouvoir de sanction sur les organismes de placement collectif
+en valeurs mobilières mentionnés au 1 du I de l'article L. 214-1, sur les sociétés de gestion d'organismes de placements
+collectifs mentionnées au II de l'article L. 214-1, sur les intermédiaires en biens divers mentionnés au titre V du présent
+livre, sur les personnes habilitées à procéder au démarchage mentionnées aux articles L. 341-3 et L. 341-4 et sur les
+conseillers en investissements financiers.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°90-568 1990-07-02 art. 35
+  - Code monétaire et financier - art. L214-1 (M)
+  - Code monétaire et financier - art. L341-3 (M)
+  - Code monétaire et financier - art. L341-4 (M)
   - Code monétaire et financier - art. L562-1 (M)
   - Code monétaire et financier - art. L613-21 (M)
 
@@ -33963,6 +35130,11 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 43 II, III, IV JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 43 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 12 (VD)
@@ -33974,11 +35146,11 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L565-3 (V)
 
 
-### Titre VII : Dispositions pénales<a id=375></a>
+### Titre VII : Dispositions pénales<a id=387></a>
 
-#### Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire<a id=376></a>
+#### Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire<a id=388></a>
 
-##### Section 1 : Dispositions générales<a id=377></a>
+##### Section 1 : Dispositions générales<a id=389></a>
 
 ###### Article L571-1
 
@@ -34271,9 +35443,9 @@ _Cité par_:
   - Code monétaire et financier - art. L571-14 (V)
 
 
-##### Section 2 : Banques mutualistes ou coopératives<a id=378></a>
+##### Section 2 : Banques mutualistes ou coopératives<a id=390></a>
 
-##### Sous-section 1 : Les banques populaires<a id=379></a>
+##### Sous-section 1 : Les banques populaires<a id=391></a>
 
 ###### Article L571-10
 
@@ -34297,7 +35469,7 @@ _Anciens textes_:
   - Loi n°1920-08-07 du 7 août 1920 - art. 3 (Ab)
 
 
-##### Sous-section 2 : Le réseau des caisses d'épargne<a id=380></a>
+##### Sous-section 2 : Le réseau des caisses d'épargne<a id=392></a>
 
 ###### Article L571-11
 
@@ -34322,7 +35494,7 @@ _Cite_:
   - Code monétaire et financier - art. L512-102 (V)
 
 
-##### Section 3 : Caisses de crédit municipal<a id=381></a>
+##### Section 3 : Caisses de crédit municipal<a id=393></a>
 
 ###### Article L571-12
 
@@ -34351,7 +35523,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Sociétés de crédit-bail<a id=382></a>
+##### Section 4 : Sociétés de crédit-bail<a id=394></a>
 
 ###### Article L571-13
 
@@ -34382,7 +35554,7 @@ _Cité par_:
   - Code monétaire et financier - art. L765-3 (V)
 
 
-##### Section 5 : Compagnies financières<a id=383></a>
+##### Section 5 : Compagnies financières<a id=395></a>
 
 ###### Article L571-14
 
@@ -34418,7 +35590,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 6 : Intermédiaires en opérations de banque<a id=384></a>
+##### Section 6 : Intermédiaires en opérations de banque<a id=396></a>
 
 ###### Article L571-15
 
@@ -34486,7 +35658,7 @@ _Cite_:
   - Code monétaire et financier - art. L519-4 (V)
 
 
-#### Chapitre II : Changeurs manuels.<a id=385></a>
+#### Chapitre II : Changeurs manuels.<a id=397></a>
 
 ###### Article L572-1
 
@@ -34542,7 +35714,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 1 : Changeurs manuels<a id=386></a>
+##### Section 1 : Changeurs manuels<a id=398></a>
 
 ###### Article L572-2
 
@@ -34587,11 +35759,13 @@ _Cite_:
   - Code monétaire et financier - art. L571-2 (V)
 
 
-#### Chapitre III : Dispositions relatives aux prestataires de services d'investissement<a id=387></a>
+#### Chapitre III : Dispositions relatives aux prestataires de services d'investissement et aux conseillers en investissements financiers<a id=399></a>
+
+##### Section 1 : Dispositions relatives aux prestataires de services d'investissement<a id=400></a>
 
 ###### Article L573-1
 
-I. - Est puni de trois ans d'emprisonnement et de 375000 euros d'amende le fait, pour toute personne physique ;
+I. - Est puni de trois ans d'emprisonnement et de 375 000 euros d'amende le fait, pour toute personne physique :
 
 1. De fournir des services d'investissement à des tiers à titre de profession habituelle sans y avoir été autorisée dans les
 conditions prévues à l'article L. 532-1 ou sans figurer au nombre des personnes mentionnées à l'article L. 531-2 ;
@@ -34625,13 +35799,14 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 82 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -34646,7 +35821,7 @@ _Cité par_:
 ###### Article L573-2
 
 Le fait, pour toute personne physique, de méconnaître l'une des interdictions prescrites par l'article L. 531-11 est puni de
-trois ans d'emprisonnement et de 375000 euros d'amende.
+trois ans d'emprisonnement et de 375 000 euros d'amende. 
 
 Le tribunal peut également ordonner l'affichage ou la diffusion de la décision prononcée dans les conditions prévues à
 l'article 131-39 du code pénal.
@@ -34657,20 +35832,26 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 83 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code pénal - art. 131-39 (V)
+  - Code monétaire et financier - art. L531-11 (V)
 
 
 ###### Article L573-3
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, de ne pas, pour chaque exercice, dresser l'inventaire et
-établir les comptes annuels et un rapport de gestion dans les conditions prévues à l'article L. 533-2 est puni de 15000 euros
-d'amende.
+établir les comptes annuels et un rapport de gestion dans les conditions prévues à l'article L. 533-2 est puni de 15 000
+euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -34678,13 +35859,14 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 84 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -34694,13 +35876,13 @@ _Cité par_:
 ###### Article L573-4
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, de ne pas provoquer la désignation des commissaires aux
-comptes de l'entreprise ou de ne pas les convoquer à l'assemblée générale est puni de deux ans d'emprisonnement et de 30000
+comptes de l'entreprise ou de ne pas les convoquer à l'assemblée générale est puni de deux ans d'emprisonnement et de 30 000
 euros d'amende.
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, ou pour toute personne au service de cette entreprise, de
 mettre obstacle aux vérifications ou aux contrôles des commissaires aux comptes ou de refuser la communication sur place de
 toutes les pièces utiles à l'exercice de leur mission et notamment tous contrats, livres, documents comptables et registres
-de procès-verbaux est puni de cinq ans d'emprisonnement et de 75000 euros d'amende.
+de procès-verbaux est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -34708,19 +35890,20 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 85 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
 
 
 ###### Article L573-5
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, de ne pas publier les comptes annuels de l'entreprise dans
-les conditions prévues à l'article L. 533-2 est puni d'une amende de 15000 euros.
+les conditions prévues à l'article L. 533-2 est puni d'une amende de 15 000 euros.
 
 **Liens relatifs à cet article**
 
@@ -34728,19 +35911,20 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 86 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
 
 
 ###### Article L573-6
 
 Le fait, pour les dirigeants d'une entreprise d'investissement, de ne pas établir, conformément à l'article L. 533-2, les
-comptes de l'entreprise sous une forme consolidée est puni de 15000 euros d'amende.
+comptes de l'entreprise sous une forme consolidée est puni de 15 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -34748,13 +35932,14 @@ _Anciens textes_:
 
   - Loi n°96-597 du 2 juillet 1996 - art. 87 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
 
 
 ###### Article L573-7
@@ -34781,12 +35966,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal - art. 121-2 (M)
-  - Code pénal - art. 131-38 (M)
-  - Code pénal - art. 131-39 (MMN)
-  - Code monétaire et financier L573-1 à L573-6
+  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -34796,16 +35979,16 @@ _Cité par_:
 
 ###### Article L573-8
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 18000 euros, le fait, pour toute personne de méconnaître les
-obligations prescrites aux articles L. 550-3 et L. 550-4.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros, le fait, pour toute personne de méconnaître les
+obligations prescrites aux articles L. 550-3 et L. 550-4. 
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 9000 euros le fait, pour le gestionnaire, de ne pas se conformer
-aux dispositions de l'article L. 550-5.
+Est puni d'un emprisonnement de deux ans et d'une amende de 9 000 euros le fait, pour le gestionnaire, de ne pas se conformer
+aux dispositions de l'article L. 550-5. 
 
-Est puni d'un emprisonnement de cinq ans et d'une amende de 18000 euros le fait, pour le commissaire aux comptes, soit en son
-nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou confirmer des informations
-mensongères sur les documents mentionnés à l'article L. 550-4 ou de ne pas révéler au procureur de la République les faits
-délictueux dont il a eu connaissance.
+Est puni d'un emprisonnement de cinq ans et d'une amende de 18 000 euros le fait, pour le commissaire aux comptes, soit en
+son nom personnel, soit au titre d'associé dans une société de commissaires aux comptes, de donner ou confirmer des
+informations mensongères sur les documents mentionnés à l'article L. 550-4 ou de ne pas révéler au procureur de la République
+les faits délictueux dont il a eu connaissance.
 
 **Liens relatifs à cet article**
 
@@ -34814,13 +35997,14 @@ _Anciens textes_:
   - Loi n°83-1 du 3 janvier 1983 - art. 40 (M)
   - Loi n°83-1 du 3 janvier 1983 - art. 40 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 57 I 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -34832,8 +36016,120 @@ _Cité par_:
   - Code monétaire et financier - art. L755-12 (M)
   - Code monétaire et financier - art. L765-12 (V)
 
+_Cite_:
 
-#### Chapitre IV : Dispositions relatives au blanchiment de capitaux<a id=388></a>
+  - Code monétaire et financier - art. L550-3 (V)
+  - Code monétaire et financier - art. L550-4 (V)
+  - Code monétaire et financier - art. L550-5 (V)
+
+
+##### Section 2 : Dispositions relatives aux conseillers en investissements financiers<a id=401></a>
+
+###### Article L573-9
+
+Est puni des peines prévues à l'article 313-1 du code pénal :
+
+1° Le fait, pour toute personne, d'exercer l'activité de conseil en investissements financiers définie à l'article L. 541-1
+sans remplir les conditions prévues par les articles L. 541-2 à L. 541-5 ;
+
+2° Le fait, pour toute personne, d'exercer ou de tenter d'exercer une activité de conseiller en investissements financiers en
+violation de l'interdiction prévue à l'article L. 541-7 ;
+
+3° Le fait, pour toute personne se livrant à l'activité de conseil en investissements financiers, de recevoir de ses clients
+des fonds en violation de l'interdiction prévue à l'article L. 541-6.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code pénal - art. 313-1 (M)
+  - Code monétaire et financier - art. L541-1 (M)
+  - Code monétaire et financier - art. L541-6 (M)
+  - Code monétaire et financier - art. L541-7 (M)
+  - Code monétaire et financier L541-1, L541-2 à L541-5, L541-7, L541-6
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L573-10 (V)
+  - Code monétaire et financier - art. L573-11 (V)
+  - Code monétaire et financier - art. L745-11-1 (V)
+  - Code monétaire et financier - art. L755-11-1 (V)
+  - Code monétaire et financier - art. L765-11-1 (V)
+
+
+###### Article L573-10
+
+Les personnes physiques coupables de l'un des délits mentionnés à l'article L. 573-9 encourent également les peines
+complémentaires suivantes : 
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 du code
+pénal ; 
+
+2° L'interdiction, suivant les modalités prévues par l'article 131-27 du même code, d'exercer une fonction publique ou
+d'exercer une activité professionnelle ou sociale dans l'exercice ou à l'occasion de laquelle l'infraction a été commise,
+pour une durée de cinq ans au plus ; 
+
+3° L'affichage ou la diffusion de la décision prononcée dans les conditions prévues par l'article 131-35 du même code.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code pénal - art. 131-26 (V)
+  - Code pénal - art. 131-27 (V)
+  - Code pénal - art. 131-35 (V)
+  - Code monétaire et financier - art. L573-9 (V)
+
+
+###### Article L573-11
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, des infractions définies à l'article L. 573-9.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de ce même article porte sur l'activité dans l'exercice ou à l'occasion de l'exercice de
+laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 57 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code pénal - art. 131-39 (MMN)
+  - Code monétaire et financier - art. L573-9 (M)
+
+
+#### Chapitre IV : Dispositions relatives au blanchiment de capitaux<a id=402></a>
 
 ###### Article L574-1
 
@@ -34922,20 +36218,42 @@ _Cité par_:
   - Code monétaire et financier - art. L765-13 (M)
 
 
-## Livre VI : Les institutions en matière bancaire et financière<a id=389></a>
+## Livre VI : Les institutions en matière bancaire et financière<a id=403></a>
 
-### Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=390></a>
+### Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=404></a>
 
-#### Chapitre Ier : Comité de la réglementation bancaire et financière<a id=391></a>
-
-##### Section 1 : Missions<a id=392></a>
+#### Chapitre Ier : Réglementation<a id=405></a>
 
 ###### Article L611-1
 
-Dans le cadre des orientations définies par le Gouvernement et sous réserve des attributions du Comité de la réglementation
-comptable, le Comité de la réglementation bancaire et financière fixe les prescriptions d'ordre général applicables aux
-établissements de crédit et aux entreprises d'investissement dans les conditions prévues aux articles L. 611-2, L. 611-3, L.
-611-5 et L. 611-6.
+Le ministre chargé de l'économie arrête les règles concernant notamment :
+
+1. Le montant du capital des établissements de crédit et les conditions dans lesquelles des participations directes ou
+indirectes peuvent être prises, étendues ou cédées dans ces établissements ainsi que dans les établissements financiers,
+définis à l'article L. 511-21, détenant directement ou indirectement un pouvoir de contrôle effectif sur un ou plusieurs
+établissements de crédit ;
+
+2. Les conditions d'implantation des réseaux ;
+
+3. Les conditions dans lesquelles ces établissements peuvent prendre des participations ;
+
+4. Les conditions des opérations que peuvent effectuer les établissements de crédit, en particulier dans leurs relations avec
+la clientèle, ainsi que les conditions de la concurrence ;
+
+5. L'organisation des services communs ;
+
+6. Les normes de gestion que les établissements de crédit doivent respecter en vue notamment de garantir leur liquidité, leur
+solvabilité et l'équilibre de leur structure financière ;
+
+7. La publicité des informations destinées aux autorités compétentes ;
+
+8. Les instruments et les règles du crédit, sous réserve des missions confiées au Système européen de banques centrales par
+l'article 106, paragraphe 2, du traité instituant la Communauté européenne ;
+
+9. Les règles relatives à la protection des déposants mentionnées à l'article L. 312-4 ;
+
+10. Les règles applicables à l'organisation comptable, aux mécanismes de contrôle et de sécurité dans le domaine informatique
+ainsi que les procédures de contrôle interne.
 
 **Liens relatifs à cet article**
 
@@ -34948,6 +36266,12 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 28 II 1°, 2°, art. 48 II 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -34986,47 +36310,19 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L611-5 (M)
-  - Code monétaire et financier - art. L611-6 (M)
+  - Code monétaire et financier - art. L312-4 (M)
+  - Code monétaire et financier - art. L511-21 (V)
+  - Code monétaire et financier L511-21, 106, L312-4
 
 
 ###### Article L611-2
 
-Le Comité de la réglementation bancaire et financière établit la réglementation concernant notamment :
-
-1. Le montant du capital des établissements de crédit et les conditions dans lesquelles des participations directes ou
-indirectes peuvent être prises, étendues ou cédées dans ces établissements ainsi que dans les établissements financiers,
-définis à l'article L. 511-21, détenant directement ou indirectement un pouvoir de contrôle effectif sur un ou plusieurs
-établissements de crédit ;
-
-2. Les conditions d'implantation des réseaux ;
-
-3. Les conditions dans lesquelles ces établissements peuvent prendre des participations ;
-
-4. Les conditions des opérations que peuvent effectuer les établissements de crédit, en particulier dans leurs relations avec
-la clientèle, ainsi que les conditions de la concurrence ;
-
-5. L'organisation des services communs ;
-
-6. Les normes de gestion que les établissements de crédit doivent respecter en vue notamment de garantir leur liquidité, leur
-solvabilité et l'équilibre de leur structure financière ;
-
-7. La publicité des informations destinées aux autorités compétentes ;
-
-8. Les instruments et les règles du crédit, sous réserve des missions confiées au Système européen de banques centrales par
-l'article 106, paragraphe 2, du traité instituant la Communauté européenne ;
-
-9. Les règles relatives à la protection des déposants mentionnées à l'article L. 312-4 ;
-
-10. Les règles applicables à l'organisation comptable, aux mécanismes de contrôle et de sécurité dans le domaine informatique
-ainsi que les procédures de contrôle interne.
-
-En cas de manquement aux prescriptions édictées par le Comité de la réglementation bancaire et financière pour l'application
-des dispositions du 1 du présent article et sans préjudice des dispositions de l'article L. 233-14 du code de commerce, le
-procureur de la République, la commission bancaire ou le Comité des établissements de crédit et des entreprises
-d'investissement ou tout actionnaire peut demander au juge de suspendre, jusqu'à régularisation de la situation, l'exercice
-des droits de vote attachés aux actions ou parts sociales d'établissements de crédit ou d'établissements financiers détenues
-irrégulièrement, directement ou indirectement.
+En cas de manquement aux prescriptions édictées par le ministre pour l'application des dispositions du 1 de l'article L.
+611-1 et sans préjudice des dispositions de l'article L. 233-14 du code de commerce, le procureur de la République, la
+commission bancaire ou le Comité des établissements de crédit et des entreprises d'investissement ou tout actionnaire peut
+demander au juge de suspendre, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux actions ou
+parts sociales d'établissements de crédit ou d'établissements financiers détenues irrégulièrement, directement ou
+indirectement.
 
 **Liens relatifs à cet article**
 
@@ -35039,11 +36335,16 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 28 II 1°, 2°, 3°, art. 48 II 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2010-76 du 21 janvier 2010 - art. 19 (V)
   - Code monétaire et financier - art. L511-12 (M)
-  - Code monétaire et financier - art. L611-1 (M)
   - Code monétaire et financier - art. L611-3 (M)
   - Code monétaire et financier - art. L613-52-2 (V)
   - Code monétaire et financier - art. R612-34-1 (V)
@@ -35051,9 +36352,7 @@ _Cité par_:
 _Cite_:
 
   - Code de commerce. - art. L233-14 (M)
-  - Code monétaire et financier - art. L312-4 (M)
-  - Code monétaire et financier - art. L511-21 (V)
-  - Code monétaire et financier L511-21, 106, L312-4
+  - Code monétaire et financier - art. L611-1 (M)
 
 _Nouveaux textes_:
 
@@ -35062,11 +36361,13 @@ _Nouveaux textes_:
 
 ###### Article L611-3
 
-Le Comité de la réglementation bancaire et financière définit également, concernant les prestataires de services
-d'investissement, après avis du conseil des marchés financiers et sous réserve des attributions de la commission des
-opérations de bourse relatives aux sociétés de gestion de portefeuille et, en tant que de besoin, concernant les membres des
-marchés réglementés non prestataires de services d'investissement ainsi que les personnes morales ayant pour activité
-principale ou unique la compensation d'instruments financiers, la réglementation concernant :
+Le ministre chargé de l'économie arrête, après avis de l'Autorité des marchés financiers et du Comité consultatif de la
+législation et de la réglementation financières, et sous réserve des attributions exercées par l'Autorité des marchés
+financiers à l'égard des sociétés de gestion de portefeuille définies à l'article L. 532-9, la réglementation applicable aux
+prestataires de services d'investissement définis à l'article L. 531-1 et, en tant que de besoin, aux membres des marchés
+réglementés non prestataires de services d'investissement, aux personnes morales ayant pour activité principale ou unique la
+compensation d'instruments financiers et aux personnes morales ayant pour activité principale ou unique la conservation et
+l'administration d'instruments financiers et concernant :
 
 1. Le montant du capital exigé en fonction des services qu'entend exercer le prestataire de services d'investissement ;
 
@@ -35081,6 +36382,12 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 28 II 1°, 4°, art. 48 II 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -35102,12 +36409,14 @@ _Cité par_:
 
 _Cite_:
 
+  - Code monétaire et financier - art. L531-1 (V)
+  - Code monétaire et financier - art. L532-9 (M)
   - Code monétaire et financier - art. L611-2 (M)
 
 
 ###### Article L611-4
 
-Le Comité de la réglementation bancaire et financière précise également :
+Le ministre chargé de l'économie précise également :
 
 1. Les conditions dans lesquelles les entreprises d'investissement peuvent effectuer les opérations mentionnées au 2 de
 l'article L. 321-2 ;
@@ -35130,6 +36439,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
@@ -35147,9 +36462,9 @@ _Cite_:
 
 ###### Article L611-5
 
-Les règlements du Comité de la réglementation bancaire et financière ainsi que ceux du Comité de la réglementation comptable
-peuvent être différents selon le statut juridique des établissements de crédit ou des entreprises d'investissement, l'étendue
-de leurs réseaux ou les caractéristiques de leur activité.
+Les arrêtés du ministre chargé de l'économie ainsi que les règlements du Comité de la réglementation comptable peuvent être
+différents selon le statut juridique des établissements de crédit ou des entreprises d'investissement, l'étendue de leurs
+réseaux ou les caractéristiques de leur activité.
 
 Ils peuvent, en tant que de besoin, prévoir les conditions d'octroi de dérogations individuelles à titre exceptionnel et
 temporaire.
@@ -35165,6 +36480,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 28 II 1°, 5°, art. 48 II 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V)
@@ -35173,7 +36494,8 @@ _Cité par_:
 
 ###### Article L611-6
 
-Sont exclus du domaine de compétence du Comité de la réglementation bancaire et financière :
+Ne sont pas soumis à l'avis du Comité consultatif de la législation et de la réglementation financières les arrêtés pris dans
+les matières suivantes :
 
 1. En ce qui concerne les banques mutualistes ou coopératives, la définition des conditions d'accès au sociétariat ainsi que
 les limitations du champ d'activité qui en résultent pour ces établissements ;
@@ -35197,105 +36519,21 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 28 II 1°, 6°, art. 48 II 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 28 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 2 (V)
   - Code monétaire et financier - art. L611-1 (M)
 
 
-##### Section 2 : Composition<a id=393></a>
+#### Chapitre II : Comité des établissements de crédit et des entreprises d'investissement<a id=406></a>
 
-###### Article L611-7
-
-Le Comité de la réglementation bancaire et financière comprend le ministre chargé de l'économie ou son représentant,
-président, le gouverneur de la Banque de France, président de la commission bancaire, ou son représentant à cette commission
-et cinq autres membres ou leurs suppléants nommés par arrêté du ministre chargé de l'économie pour une durée de trois ans, à
-savoir : un conseiller d'Etat, un représentant de l'Association française des établissements de crédit et des entreprises
-d'investissement, un représentant des organisations syndicales représentatives du personnel des établissements de crédit et
-des entreprises d'investissement, autres que celles mentionnées à l'article L. 532-9, et deux personnalités choisies en
-raison de leur compétence. Les membres titulaires sont membres de droit du Conseil national du crédit et du titre.
-
-Lorsqu'il examine des prescriptions d'ordre général touchant à l'activité des prestataires de services d'investissement, le
-Comité de la réglementation bancaire et financière comprend également le président de la commission des opérations de bourse
-ou son représentant, le président du conseil des marchés financiers ou son représentant et un représentant des entreprises
-d'investissement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°84-46 du 24 janvier 1984 - art. 29 (Ab)
-  - Loi n°84-46 du 24 janvier 1984 - art. 30 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 20
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Arrêté du 3 novembre 2014 (V)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L532-9 (M)
-
-
-##### Section 3 : Règles de fonctionnement<a id=394></a>
-
-###### Article L611-8
-
-Les décisions du Comité de la réglementation bancaire et financière se prennent à la majorité des membres présents. En cas de
-partage égal des voix, la voix du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°84-46 1984-01-24 art. 30 al. 4
-  - Loi n°84-46 du 24 janvier 1984 - art. 30 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-###### Article L611-9
-
-Les règlements du Comité de la réglementation bancaire et financière sont homologués par le ministre chargé de l'économie et
-publiés au Journal officiel de la République française.
-
-Les conditions d'application de ces règlements sont précisées par le président du comité.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°84-46 1984-01-24 art. 32 al. 2
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-#### Chapitre II : Comité des établissements de crédit et des entreprises d'investissement<a id=395></a>
-
-##### Section 1 : Missions.<a id=396></a>
+##### Section 1 : Missions.<a id=407></a>
 
 ###### Article L612-1
 
@@ -35390,8 +36628,8 @@ autorités compétentes des autres Etats membres sur des prestataires de service
 d'investissement en France en libre établissement ou en libre prestation de services conformément aux dispositions du présent
 code.
 
-Le comité des établissement de crédit et des entreprises d'investissement communique, sans délai, l'ensemble de ces listes au
-conseil des marchés financiers et à la commission des opérations de bourse.
+Le comité des établissement de crédit et des entreprises d'investissement communique, sans délai, l'ensemble de ces listes à
+l'Autorité des marchés financiers.
 
 **Liens relatifs à cet article**
 
@@ -35489,27 +36727,32 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 
-##### Section 2 : Composition.<a id=397></a>
+##### Section 2 : Composition.<a id=408></a>
 
 ###### Article L612-3
 
 Le comité des établissements de crédit et des entreprises d'investissement est présidé par le gouverneur de la Banque de
 France, président de la commission bancaire, ou son représentant à cette commission. Il comprend, en outre, le directeur du
-Trésor ou son représentant, le ou les présidents des autorités qui ont approuvé le programme d'activité de la personne dont
-le comité examine la demande d'agrément ou leur représentant, le président du directoire du fonds de garantie mentionné aux
-articles L. 312-4 à L. 312-18, ou un membre du directoire le représentant, ainsi que six membres ou leurs suppléants, nommés
-par arrêté du ministre chargé de l'économie pour une durée de trois ans, à savoir : un conseiller d'Etat, un dirigeant
-d'établissement de crédit et un dirigeant d'entreprise d'investissement, représentant l'Association française des
-établissements de crédit et des entreprises d'investissement, un représentant des organisations syndicales représentatives du
-personnel des entreprises ou établissements soumis à l'agrément du comité et deux personnalités choisies en raison de leur
-compétence.
+Trésor ou son représentant, le président de l'Autorité des marchés financiers ou son représentant, le président du directoire
+du fonds de garantie mentionné aux articles L. 312-4 à L. 312-18, ou un membre du directoire le représentant, ainsi que huit
+membres ou leurs suppléants nommés par arrêté du ministre chargé de l'économie pour une durée de trois ans, à savoir : un
+conseiller d'Etat, un conseiller à la Cour de cassation, deux représentants de l'Association française des établissements de
+crédit et des entreprises d'investissement exerçant ou ayant exercé des fonctions de direction, dont un au titre des
+établissements de crédit et un au titre des entreprises d'investissement, deux représentants des organisations syndicales
+représentatives du personnel des entreprises ou établissements soumis à l'agrément du comité et deux personnalités choisies
+en raison de leur compétence.
 
-Les membres titulaires sont choisis au sein du conseil national du crédit et du titre.
+Les représentants des organisations syndicales et leurs suppléants disposent du temps nécessaire pour assurer la préparation
+des réunions, et pour s'y rendre et y participer. Ce temps est assimilé à du travail effectif pour la détermination des
+droits aux prestations d'assurances sociales. Les salariés concernés doivent informer leur employeur lors de leur désignation
+et, pour chaque réunion, dès réception de la convocation.
 
 **Liens relatifs à cet article**
 
@@ -35525,7 +36768,9 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 20
+  - Loi n°2003-706 2003-08-01 art. 23, art. 46 III 27°, V 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 23 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -35539,7 +36784,7 @@ _Cite_:
   - Code monétaire et financier L312-4 à L312-18
 
 
-##### Section 3 : Règles de fonctionnement.<a id=398></a>
+##### Section 3 : Règles de fonctionnement.<a id=409></a>
 
 ###### Article L612-4
 
@@ -35626,11 +36871,12 @@ Ce secret n'est pas opposable aux juridictions administratives saisies d'un cont
 Par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication des documents et
 renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales, le
 comité des établissements de crédit et des entreprises d'investissement peut transmettre des informations aux autorités
-chargées, dans d'autres Etats, de l'agrément ou de la surveillance des établissements de crédit et des établissements
-financiers sous réserve de réciprocité et à condition que ces autorités soient elles-mêmes soumises au secret professionnel
-avec les mêmes garanties qu'en France. La Commission des communautés européennes peut également être destinataire de ces
-informations, dans la limite de ce qui est nécessaire à l'exercice des missions qui lui sont confiées, et sous réserve que
-les personnes destinataires soient soumises au secret professionnel avec les mêmes garanties qu'en France.
+chargées, dans d'autres Etats, de l'agrément ou de la surveillance des établissements de crédit, des entreprises
+d'investissement et des établissements financiers sous réserve de réciprocité et à condition que ces autorités soient elles-
+mêmes soumises au secret professionnel avec les mêmes garanties qu'en France. La Commission des communautés européennes peut
+également être destinataire de ces informations, dans la limite de ce qui est nécessaire à l'exercice des missions qui lui
+sont confiées, et sous réserve que les personnes destinataires soient soumises au secret professionnel avec les mêmes
+garanties qu'en France.
 
 Par dérogation aux dispositions législatives et réglementaires régissant le secret professionnel, le Comité des
 établissements de crédit et des entreprises d'investissement peut, avec l'accord préalable de la personne physique ou morale
@@ -35653,7 +36899,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 21 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 73 3° JORF 2 août 2003
 
 _Cité par_:
 
@@ -35686,9 +36932,9 @@ _Cité par_:
   - Code monétaire et financier - art. L766-2 (VD)
 
 
-#### Chapitre III : Commission bancaire<a id=399></a>
+#### Chapitre III : Commission bancaire<a id=410></a>
 
-##### Section 1 : Missions<a id=400></a>
+##### Section 1 : Missions<a id=411></a>
 
 ###### Article L613-1
 
@@ -35739,13 +36985,14 @@ _Cite_:
 
 La commission bancaire veille également au respect des dispositions législatives et réglementaires prévues par le présent
 code ou qui prévoient expressément son contrôle par les prestataires de services d'investissement autres que les sociétés de
-gestion de portefeuille, par les membres des marchés réglementés ainsi que par les adhérents aux chambres de compensation.
-Elle sanctionne les manquements constatés dans les conditions prévues à l'article L. 613-21.
+gestion de portefeuille, par les membres des marchés réglementés ainsi que par les adhérents aux chambres de compensation et
+par les personnes habilitées à exercer les activités de conservation ou d'administration d'instruments financiers. Elle
+sanctionne les manquements constatés dans les conditions prévues à l'article L. 613-21.
 
 Elle examine les conditions de leur exploitation et veille à la qualité de leur situation financière.
 
-Ce contrôle s'exerce sous réserve de la compétence du conseil des marchés financiers et de la commission des opérations de
-bourse en matière de contrôle des règles de bonne conduite.
+Ce contrôle s'exerce sous réserve de la compétence de l'Autorité des marchés financiers en matière de contrôle des règles de
+bonne conduite.
 
 **Liens relatifs à cet article**
 
@@ -35757,6 +37004,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 41 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -35775,19 +37027,23 @@ _Cité par_:
   - Code monétaire et financier - art. L613-9 (Ab)
 
 
-##### Section 2 : Composition.<a id=401></a>
+##### Section 2 : Composition.<a id=412></a>
 
 ###### Article L613-3
 
 La commission bancaire comprend le gouverneur de la Banque de France ou son représentant, président, le directeur du Trésor
+ou son représentant le président de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
 ou son représentant et quatre membres ou leurs suppléants nommés par arrêté du ministre chargé de l'économie pour une durée
-de six ans :
+de cinq ans dont le mandat est renouvelable une fois :
 
 1. Un conseiller d'Etat proposé par le vice-président du Conseil d'Etat ;
 
 2. Un conseiller à la Cour de cassation proposé par le premier président de la Cour de cassation ;
 
 3. Deux membres choisis en raison de leur compétence en matière bancaire et financière.
+
+La Commission bancaire et la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance se
+réunissent conjointement au moins deux fois par an et en tant que de besoin sur des sujets d'intérêt commun.
 
 **Liens relatifs à cet article**
 
@@ -35800,8 +37056,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
 
-##### Section 3 : Règles de fonctionnement.<a id=402></a>
+  - Loi n°2003-706 du 1 août 2003 - art. 34 () JORF 2 août 2003
+
+
+##### Section 3 : Règles de fonctionnement.<a id=413></a>
 
 ###### Article L613-4
 
@@ -35855,7 +37115,7 @@ _Abrogé par_:
   - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
 
 
-##### Section 4 : Exercice du contrôle.<a id=403></a>
+##### Section 4 : Exercice du contrôle.<a id=414></a>
 
 ###### Article L613-6
 
@@ -36135,45 +37395,6 @@ _Cité par_:
   - Code monétaire et financier - art. L613-14 (Ab)
 
 
-###### Article L613-14
-
-Les contrôles effectués dans le cadre des articles L. 613-12 et L. 613-13 par les représentants d'une autorité étrangère
-compétente pour la surveillance des établissements de crédit ne peuvent porter que sur le respect des normes prudentielles de
-gestion de l'Etat concerné afin de permettre un contrôle de la situation financière des groupes bancaires ou financiers. Ils
-doivent faire l'objet d'un compte rendu à la commission bancaire. Seule celle-ci peut prononcer des sanctions à l'égard de la
-filiale ou de la succursale contrôlée en France.
-
-Pour permettre l'exercice des contrôles prévus par les articles L. 613-12 et L. 613-13 et par dérogation aux dispositions de
-la loi n° 68-678 du 26 juillet 1968 précitée, les personnes qui participent à la direction ou à la gestion des établissements
-de crédit mentionnés à l'alinéa précédent ou qui sont employées par celui-ci devront donner suite aux demandes des
-représentants des autorités de contrôle bancaire étrangères, sans pouvoir opposer le secret professionnel.
-
-L'assistance demandée par une autorité étrangère à la commission bancaire est refusée par celle-ci lorsque l'exécution de la
-demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre
-public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en France sur la base des mêmes faits et contre
-les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les mêmes faits.
-
-Sous réserve des attributions du Conseil des marchés financiers et de la Commission des opérations de bourse, les
-dispositions du présent article et des articles L. 613-12 et L. 613-13 s'appliquent aux entreprises d'investissement et aux
-activités de services d'investissement des établissements de crédit.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°68-678 1968-07-26
-  - Code monétaire et financier - art. L613-12 (M)
-  - Code monétaire et financier - art. L613-13 (Ab)
-
-_Anciens textes_:
-
-  - Loi n°84-46 du 24 janvier 1984 - art. 41-3 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-
 ###### Article L613-15
 
 Lorsqu'un établissement de crédit a manqué aux règles de bonne conduite de la profession, la commission bancaire, après avoir
@@ -36260,6 +37481,13 @@ leurs fonctions, soit à l'initiative de la commission lorsque la gestion de l'�
 être assurée dans des conditions normales, ou lorsque a été prise l'une des sanctions mentionnées aux 4 et 5 du I de
 l'article L. 613-21.
 
+Lorsque la situation laisse craindre à terme une incapacité de l'établissement ou de l'entreprise à assurer la rémunération
+de l'administrateur provisoire, le fonds de garantie des dépôts peut, sur proposition de la Commission bancaire, décider d'en
+garantir le paiement. La charge correspondante est imputée au mécanisme de garantie des titres pour les personnes mentionnées
+au premier alinéa de l'article L. 613-2 autres que les établissements de crédit. Elle est imputée au fonds de garantie des
+cautions pour les établissements pour lesquels ce mécanisme est mis en oeuvre. En cas de mise en oeuvre conjointe, la charge
+est imputée à parts égales sur les différents mécanismes de garanties mis en oeuvre.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -36269,6 +37497,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 75 1° JORF 2 août 2003
 
 _Cité par_:
 
@@ -36365,7 +37597,7 @@ _Cité par_:
   - Code monétaire et financier - art. L641-2 (Ab)
 
 
-##### Sous-section 1 : Dispositions générales.<a id=404></a>
+##### Sous-section 1 : Dispositions générales.<a id=415></a>
 
 ###### Article L613-13
 
@@ -36418,7 +37650,55 @@ _Modifié par_:
   - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
 
 
-##### Section 5 : Exercice du pouvoir disciplinaire.<a id=405></a>
+###### Article L613-14
+
+Les contrôles effectués dans le cadre des articles L. 613-12 et L. 613-13 par les représentants d'une autorité étrangère
+compétente pour la surveillance des établissements de crédit ne peuvent porter que sur le respect des normes prudentielles de
+gestion de l'Etat concerné afin de permettre un contrôle de la situation financière des groupes bancaires ou financiers. Ils
+doivent faire l'objet d'un compte rendu à la commission bancaire. Seule celle-ci peut prononcer des sanctions à l'égard de la
+filiale ou de la succursale contrôlée en France.
+
+Pour permettre l'exercice des contrôles prévus par les articles L. 613-12 et L. 613-13 et par dérogation aux dispositions de
+la loi n° 68-678 du 26 juillet 1968 précitée, les personnes qui participent à la direction ou à la gestion des établissements
+de crédit mentionnés à l'alinéa précédent ou qui sont employées par celui-ci devront donner suite aux demandes des
+représentants des autorités de contrôle bancaire étrangères, sans pouvoir opposer le secret professionnel.
+
+L'assistance demandée par une autorité étrangère à la commission bancaire est refusée par celle-ci lorsque l'exécution de la
+demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre
+public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en France sur la base des mêmes faits et contre
+les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les mêmes faits.
+
+Sous réserve des attributions de l'Autorité des marchés financiers, les dispositions du présent article et des articles L.
+613-12 et L. 613-13 s'appliquent aux entreprises d'investissement et aux activités de services d'investissement des
+établissements de crédit.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°68-678 1968-07-26
+  - Code monétaire et financier - art. L613-12 (M)
+  - Code monétaire et financier - art. L613-13 (Ab)
+
+_Anciens textes_:
+
+  - Loi n°84-46 du 24 janvier 1984 - art. 41-3 (Ab)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Ordonnance n°2007-571 du 19 avril 2007 - art. 5 () JORF 20 avril 2007
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+
+##### Section 5 : Exercice du pouvoir disciplinaire.<a id=416></a>
 
 ###### Article L613-21
 
@@ -36427,7 +37707,7 @@ disposition législative ou réglementaire afférente à son activité, n'a pas 
 compte d'une mise en garde ou encore n'a pas respecté les conditions particulières posées ou les engagements pris à
 l'occasion d'une demande d'agrément ou d'une autorisation ou dérogation prévue par les dispositions législatives ou
 réglementaires applicables aux établissements de crédit et aux entreprises d'investissement, la commission bancaire, sous
-réserve des compétences du conseil des marchés financiers, peut prononcer l'une des sanctions disciplinaires suivantes :
+réserve des compétences de l'Autorité des marchés financiers, peut prononcer l'une des sanctions disciplinaires suivantes :
 
 1. L'avertissement ;
 
@@ -36455,7 +37735,7 @@ la distribution d'un dividende aux actionnaires ou d'une rémunération des part
 mentionnées au I.
 
 Lorsqu'elle prononce une des sanctions disciplinaires ci-dessus énumérées à l'encontre d'un prestataire de services
-d'investissement, la commission bancaire en informe le conseil des marchés financiers.
+d'investissement, la commission bancaire en informe l'Autorité des marchés financiers.
 
 III. - La commission bancaire peut décider que les sanctions prises dans le cadre du présent article feront l'objet d'une
 publication aux frais de la personne morale sanctionnée dans les journaux ou publications que la commission désigne.
@@ -36531,7 +37811,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 7 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cite_:
 
@@ -36545,7 +37825,11 @@ _Cite_:
 Lorsqu'un établissement de crédit ou une des personnes mentionnées au premier alinéa de l'article L. 613-2 a fait l'objet
 d'une mesure de radiation ou lorsqu'une entreprise exerce irrégulièrement l'activité définie aux articles L. 311-1 et L.
 511-1 ou enfreint l'une des interdictions définies à l'article L. 511-5, la commission bancaire peut nommer un liquidateur,
-auquel sont transférés tous les pouvoirs d'administration, de direction et de représentation de la personne morale.
+auquel sont transférés tous les pouvoirs d'administration, de direction et de représentation de la personne morale. 
+
+Lorsque la situation laisse craindre à terme une incapacité de l'établissement ou de l'entreprise à assurer la rémunération
+du liquidateur, le fonds de garantie des dépôts peut, dans les conditions et selon les modalités prévues à l'article L.
+613-18, décider d'en garantir le paiement.
 
 **Liens relatifs à cet article**
 
@@ -36556,6 +37840,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 75 2° JORF 2 août 2003
 
 _Cité par_:
 
@@ -36571,10 +37859,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L311-1 (V)
+  - Code monétaire et financier - art. L311-1 (VD)
   - Code monétaire et financier - art. L511-1 (V)
   - Code monétaire et financier - art. L511-5 (V)
-  - Code monétaire et financier - art. L613-2 (M)
+  - Code monétaire et financier - art. L613-18 (VD)
+  - Code monétaire et financier - art. L613-2 (V)
 
 
 ###### Article L613-23
@@ -36646,7 +37935,7 @@ _Cite_:
   - Code monétaire et financier L571-3 à L571-11, L571-14 à L571-16
 
 
-##### Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires.<a id=406></a>
+##### Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires.<a id=417></a>
 
 ###### Article L613-25
 
@@ -36864,7 +38153,7 @@ _Cite_:
   - Code monétaire et financier L613-25 à L613-30, L431-6
 
 
-##### Section 7 : Régime de contrôle spécifique.<a id=407></a>
+##### Section 7 : Régime de contrôle spécifique.<a id=418></a>
 
 ###### Article L613-32
 
@@ -37012,7 +38301,7 @@ _Cite_:
   - Code monétaire et financier - art. L613-21 (M)
 
 
-##### Section 8 : Mise en oeuvre du fonds de garantie des dépôts.<a id=408></a>
+##### Section 8 : Mise en oeuvre du fonds de garantie des dépôts.<a id=419></a>
 
 ###### Article L613-34
 
@@ -37098,23 +38387,27 @@ _Cité par_:
   - Code monétaire et financier - art. R613-73 (V)
 
 
-#### Chapitre IV : Institutions consultatives<a id=409></a>
+#### Chapitre IV : Institutions consultatives<a id=420></a>
 
-##### Section 1 : Conseil national du crédit et du titre et comité consultatif<a id=410></a>
-
-##### Sous-section 1 : Conseil national du crédit et du titre<a id=411></a>
+##### Section 1 : Comité consultatif du secteur financier et Comité consultatif de la législation et de la réglementation financières<a id=421></a>
 
 ###### Article L614-1
 
-Le Conseil national du crédit et du titre étudie les conditions de fonctionnement du système bancaire et financier, notamment
-dans ses relations avec la clientèle et dans la gestion des moyens de paiement. Dans ces domaines, il peut émettre des avis
-et, dans les conditions définies à l'article L. 614-5, faire procéder aux études qu'il estime nécessaires.
+Le Comité consultatif du secteur financier est chargé d'étudier les questions liées aux relations entre, d'une part, les
+établissements de crédit, les entreprises d'investissement et les entreprises d'assurance et, d'autre part, leurs clientèles
+respectives, et de proposer toutes mesures appropriées dans ce domaine, notamment sous forme d'avis ou de recommandations
+d'ordre général.
 
-Il peut être saisi pour avis par le ministre chargé de l'économie des projets de loi ou de décret entrant dans son champ de
-compétence, et consulté dans le cadre de l'élaboration du plan de la nation.
+Le comité peut être saisi par le ministre chargé de l'économie, par les organisations représentant les clientèles et par les
+organisations professionnelles dont ses membres sont issus. Il peut également se saisir de sa propre initiative à la demande
+de la majorité de ses membres.
 
-Le Conseil national du crédit et du titre adresse chaque année au Président de la République et au Parlement un rapport
-relatif au fonctionnement du système bancaire et financier. Ce rapport est publié au Journal officiel.
+Le comité est composé en majorité, et en nombre égal, de représentants des établissements de crédit, des entreprises
+d'investissement, des entreprises d'assurance, des agents généraux et courtiers d'assurance, d'une part, et de représentants
+des clientèles, d'autre part.
+
+La composition du comité, les conditions de désignation de ses membres et de son président ainsi que ses règles
+d'organisation et de fonctionnement sont fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -37126,6 +38419,12 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 22 I, II, art. 48 II 3° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 22 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -37145,41 +38444,22 @@ _Cité par_:
 
   - PILOTE_SUIVEUR: Code des assurances - art. L411-1 (V)
 
-_Cite_:
-
-  - Code monétaire et financier - art. L614-5 (Ab)
-
 
 ###### Article L614-2
 
-Le Conseil national du crédit et du titre est présidé par le ministre chargé de l'économie. Le gouverneur de la Banque de
-France en est le vice-président.
+Le Comité consultatif de la législation et de la réglementation financières est saisi pour avis par le ministre chargé de
+l'économie de tout projet de loi ou d'ordonnance et de toute proposition de règlement ou de directive communautaires avant
+son examen par le Conseil des Communautés européennes, traitant de questions relatives au secteur de l'assurance, au secteur
+bancaire et aux entreprises d'investissement, à l'exception des textes portant sur l'Autorité des marchés financiers ou
+entrant dans les compétences de celle-ci.
 
-Les autres membres sont nommés par arrêté du ministre chargé de l'économie, selon la répartition suivante :
+Les projets de décret ou d'arrêté, autres que les mesures individuelles, intervenant dans les mêmes domaines ne peuvent être
+adoptés qu'après l'avis du Comité consultatif de la législation et de la réglementation financières. Il ne peut être passé
+outre à un avis défavorable du comité sur ces projets qu'après que le ministre chargé de l'économie a demandé une deuxième
+délibération de ce comité.
 
-1. Quatre représentants de l'Etat dont le directeur du Trésor ;
-
-2. Deux députés et deux sénateurs ;
-
-3. Un membre du Conseil économique et social ;
-
-4. Trois élus représentant les régions et les départements et territoires d'outre-mer ;
-
-5. Dix représentants des activités économiques ;
-
-6. Dix représentants des organisations syndicales de salariés représentatives au plan national, parmi lesquels des
-représentants des organisations syndicales représentatives du personnel des établissements de crédit et des entreprises
-d'investissement ;
-
-7. Treize représentants des établissements de crédit et des entreprises d'investissement, dont un représentant de
-l'Association française des établissements de crédit et des entreprises d'investissement et un représentant des entreprises
-d'investissement ;
-
-8. Six personnalités désignées en raison de leur compétence économique et financière.
-
-Les membres du Conseil national du crédit et du titre ne peuvent se faire représenter.
-
-Les conditions de désignation des membres du conseil national du crédit et du titre sont précisées par décret.
+La composition du comité, les conditions de désignation de ses membres et de son président ainsi que ses règles
+d'organisation et de fonctionnement sont fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -37205,6 +38485,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 22 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 26 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code des assurances - art. L411-2 (V)
@@ -37212,14 +38498,11 @@ _Codifié par_:
 
 ###### Article L614-3
 
-Le Conseil national du crédit et du titre se réunit à l'initiative de son président.
-
-Il se réunit, en outre, chaque fois que la majorité de ses membres l'estime nécessaire.
-
-Il ne peut valablement délibérer que si la majorité de ses membres est présente.
-
-La publication des avis mentionnés aux premier et deuxième alinéas de l'article L. 614-1 ainsi que des études visées au
-premier alinéa du même article est décidée à la majorité des membres du Conseil national du crédit et du titre.
+Les salariés membres du Comité consultatif du secteur financier ou du Comité consultatif de la législation et de la
+réglementation financières disposent du temps nécessaire pour assurer la préparation des réunions, et pour s'y rendre et y
+participer. Ce temps est assimilé à du travail effectif pour la détermination des droits aux prestations d'assurances
+sociales. Les salariés concernés doivent informer leur employeur lors de leur désignation et, pour chaque réunion, dès
+réception de la convocation.
 
 **Liens relatifs à cet article**
 
@@ -37231,103 +38514,18 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 22 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 27 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 **Liens**:
 
   - PILOTE_SUIVEUR: Code des assurances - art. L411-3 (V)
 
-_Cite_:
 
-  - Code monétaire et financier - art. L614-1 (M)
-
-
-###### Article L614-4
-
-Le Conseil national du crédit et du titre dispose, pour son fonctionnement, de ressources financières propres.
-
-Le secrétaire général du Conseil national du crédit et du titre est nommé par le ministre chargé de l'économie sur une liste
-de trois noms au moins arrêtée par le conseil.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°84-46 du 24 janvier 1984 - art. 27 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-###### Article L614-5
-
-Le Conseil national du crédit et du titre peut charger certains de ses membres de missions particulières et constituer en son
-sein des groupes de travail ou d'étude.
-
-Il peut demander à la Banque de France comme aux administrations compétentes de lui fournir, sous réserve du respect du
-secret professionnel, les informations utiles à l'accomplissement de sa mission.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°84-46 du 24 janvier 1984 - art. 28 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L614-1 (M)
-
-
-##### Sous-section 2 : Comité consultatif<a id=412></a>
-
-###### Article L614-6
-
-Le comité consultatif est chargé d'étudier les problèmes liés aux relations entre les établissements de crédit et leur
-clientèle et de proposer toutes mesures appropriées dans ce domaine, notamment sous forme d'avis ou de recommandations
-d'ordre général.
-
-Le comité fait annuellement rapport au conseil national du crédit et du titre. Ce rapport est publié.
-
-Le comité est présidé par une personnalité choisie en raison de sa compétence en matière bancaire et financière et est
-composé en majorité, et en nombre égal, de représentants des établissements de crédit et de représentants de la clientèle.
-
-Les conditions de désignation des membres du comité ainsi que ses règles d'organisation et de fonctionnement sont fixées par
-décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°84-46 du 24 janvier 1984 - art. 59 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Code de la consommation - art. L421-1 (VT)
-  - Code monétaire et financier - art. L312-1-1 (M)
-  - Code monétaire et financier - art. L312-1-2 (M)
-  - Code monétaire et financier - art. L312-1-3 (M)
-
-
-##### Section 2 : Haut conseil du secteur financier public et semi-public<a id=413></a>
+##### Section 2 : Haut conseil du secteur financier public et semi-public<a id=422></a>
 
 ###### Article L614-7
 
@@ -37359,23 +38557,18 @@ _Abrogé par_:
   - Décret n°2008-1029 du 9 octobre 2008 - art. 1
 
 
-### Titre II : Les autorités des marchés financiers<a id=414></a>
+### Titre II : L'Autorité des marchés financiers<a id=423></a>
 
-#### Chapitre Ier : Commission des opérations de bourse<a id=415></a>
+#### Chapitre unique : L'Autorité des marchés financiers<a id=424></a>
 
-##### Section 1 : Missions<a id=416></a>
+##### Section 1 : Missions<a id=425></a>
 
 ###### Article L621-1
 
-La commission des opérations de bourse, autorité administrative indépendante, veille à la protection de l'épargne investie
-dans les instruments financiers et tous autres placements donnant lieu à appel public à l'épargne, à l'information des
-investisseurs et au bon fonctionnement des marchés d'instruments financiers.
-
-Dans l'accomplissement des missions qui sont confiées à la commission par le présent chapitre, le président de celle-ci a
-qualité pour agir au nom de l'Etat devant toute juridiction à l'exclusion des juridictions pénales.
-
-Ne sont soumis au contrôle de la commission ni les marchés d'instruments créés en représentation des opérations de banque ni
-les marchés de titres de créances négociables.
+L'Autorité des marchés financiers, autorité publique indépendante dotée de la personnalité morale, veille à la protection de
+l'épargne investie dans les instruments financiers et tous autres placements donnant lieu à appel public à l'épargne, à
+l'information des investisseurs et au bon fonctionnement des marchés d'instruments financiers. Elle apporte son concours à la
+régulation de ces marchés aux échelons européen et international.
 
 **Liens relatifs à cet article**
 
@@ -37399,38 +38592,116 @@ _Cité par_:
   - Code monétaire et financier - art. L756-5 (VT)
   - Code monétaire et financier - art. L766-5 (VT)
 
+_Modifié par_:
 
-##### Section 2 : Composition<a id=417></a>
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 2 () JORF 2 août 2003
+
+
+##### Section 2 : Composition<a id=426></a>
 
 ###### Article L621-2
 
-La commission est composée d'un président et de neuf membres.
+I. - L'Autorité des marchés financiers comprend un collège, une commission des sanctions et, le cas échéant, des commissions
+spécialisées et des commissions consultatives.
 
-Le président de la commission est nommé par décret en conseil des ministres pour six ans. Son mandat n'est pas renouvelable.
+Sauf disposition contraire, les attributions confiées à l'Autorité des marchés financiers sont exercées par le collège.
 
-Les membres sont les suivants :
+II. - Le collège est composé de seize membres :
 
-- un conseiller d'Etat désigné par le vice-président du Conseil d'Etat, 
+1° Un président, nommé par décret ;
 
-- un conseiller à la Cour de cassation, désigné par le premier président de la cour, 
+2° Un conseiller d'Etat désigné par le vice-président du Conseil d'Etat ;
 
-- un conseiller-maître à la Cour des comptes, désigné par le premier président de la cour, 
+3° Un conseiller à la Cour de cassation désigné par le premier président de la Cour de cassation ;
 
-- un représentant de la Banque de France, désigné par le gouverneur, 
+4° Un conseiller maître à la Cour des comptes désigné par le premier président de la Cour des comptes ;
 
-- le président du Conseil des marchés financiers ou, en cas d'empêchement, son représentant, membre du Conseil des marchés
-financiers ;
+5° Un représentant de la Banque de France désigné par le gouverneur ;
 
-- le président du Conseil national de la comptabilité ;
+6° Le président du Conseil national de la comptabilité ;
 
-- trois personnalités qualifiées nommées respectivement, par le président du Sénat, le président de l'Assemblée nationale et
-le président du Conseil économique et social, et choisies à raison de leur compétence financière et juridique ainsi que de
-leur expérience en matière d'appel public à l'épargne.
+7° Trois membres désignés, à raison de leur compétence financière et juridique ainsi que de leur expérience en matière
+d'appel public à l'épargne et d'investissement de l'épargne dans des instruments financiers, respectivement par le Président
+du Sénat, le Président de l'Assemblée nationale et le président du Conseil économique et social ;
 
-Le président est soumis aux règles d'incompatibilité prévues par les emplois publics.
+8° Six membres désignés, à raison de leur compétence financière et juridique ainsi que de leur expérience en matière d'appel
+public à l'épargne et d'investissement de l'épargne dans des instruments financiers, par le ministre chargé de l'économie
+après consultation des organisations représentatives des sociétés industrielles et commerciales dont les titres font l'objet
+d'appel public à l'épargne, des sociétés de gestion d'organismes de placements collectifs et des autres investisseurs, des
+prestataires de services d'investissement, des entreprises de marché, des chambres de compensation, des gestionnaires de
+systèmes de règlement livraison et des dépositaires centraux ;
 
-Le mandat des membres est de quatre ans. Il est renouvelable une fois. Le mandat du président et des membres n'est pas
-interrompu par les règles concernant la limite d'âge éventuellement applicable aux intéressés.
+9° Un représentant des salariés actionnaires désigné par le ministre chargé de l'économie après consultation des
+organisations syndicales et des associations représentatives.
+
+Le président de l'Autorité des marchés financiers a qualité pour agir au nom de celle-ci devant toute juridiction.
+
+Le président de l'Autorité des marchés financiers est soumis aux règles d'incompatibilité prévues pour les emplois publics.
+
+La durée du mandat du président est de cinq ans à compter de sa nomination. Ce mandat n'est pas renouvelable.
+
+La durée du mandat des autres membres, à l'exception de ceux mentionnés aux 5° et 6°, est de cinq ans. Ce mandat est
+renouvelable une fois. Après l'expiration de la période de cinq ans, les membres restent en fonction jusqu'à la première
+réunion du collège dans sa nouvelle composition.
+
+En cas de vacance d'un siège de membre du collège autre que le président pour quelque cause que ce soit, il est procédé à son
+remplacement pour la durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte
+pour l'application de la règle de renouvellement fixée à l'alinéa précédent.
+
+Selon des modalités définies par décret en Conseil d'Etat, le collège est renouvelé par moitié tous les trente mois. La durée
+du mandat est décomptée à partir de la date de la première réunion du collège.
+
+III. - Dans des conditions fixées par décret en Conseil d'Etat, le collège peut donner délégation à des commissions
+spécialisées constituées en son sein et présidées par le président de l'Autorité des marchés financiers pour prendre des
+décisions de portée individuelle.
+
+Le collège peut également constituer des commissions consultatives, dans lesquelles il nomme, le cas échéant, des experts
+pour préparer ses décisions.
+
+IV. - L'Autorité des marchés financiers comprend une commission des sanctions chargée de prononcer les sanctions mentionnées
+aux articles L. 621-15 et L. 621-17.
+
+Cette commission des sanctions comprend douze membres :
+
+1° Deux conseillers d'Etat désignés par le vice-président du Conseil d'Etat ;
+
+2° Deux conseillers à la Cour de cassation désignés par le premier président de la Cour de cassation ;
+
+3° Six membres désignés, à raison de leur compétence financière et juridique ainsi que de leur expérience en matière d'appel
+public à l'épargne et d'investissement de l'épargne dans des instruments financiers, par le ministre chargé de l'économie
+après consultation des organisations représentatives des sociétés industrielles et commerciales dont les titres font l'objet
+d'appel public à l'épargne, des sociétés de gestion d'organismes de placements collectifs et des autres investisseurs, des
+prestataires de services d'investissement, des entreprises de marché, des chambres de compensation, des gestionnaires de
+systèmes de règlement livraison et des dépositaires centraux ;
+
+4° Deux représentants des salariés des entreprises ou établissements prestataires de services d'investissement, des sociétés
+de gestion d'organismes de placements collectifs, des entreprises de marché, des chambres de compensation, des gestionnaires
+de systèmes de règlement livraison et des dépositaires centraux, désignés par le ministre chargé de l'économie après
+consultation des organisations syndicales représentatives.
+
+Le président est élu par les membres de la commission des sanctions parmi les personnes mentionnées aux 1° et 2°.
+
+La commission des sanctions peut constituer des sections de six membres, présidées par l'une des personnes mentionnées aux 1°
+et 2°.
+
+Les fonctions de membre de la commission des sanctions sont incompatibles avec celles de membre du collège.
+
+La durée du mandat des membres de la commission des sanctions est de cinq ans. Ce mandat est renouvelable une fois. Après
+l'expiration de la période de cinq ans, les membres restent en fonction jusqu'à la première réunion de la commission des
+sanctions dans sa nouvelle composition.
+
+En cas de vacance d'un siège de membre de la commission des sanctions pour quelque cause que ce soit, il est procédé à son
+remplacement pour la durée du mandat restant à courir. Un mandat exercé pendant moins de deux ans n'est pas pris en compte
+pour l'application de la règle de renouvellement fixée à l'alinéa précédent.
+
+Selon des modalités définies par décret en Conseil d'Etat, la commission des sanctions est renouvelée par moitié tous les
+trente mois. La durée du mandat est décomptée à partir de la date de la première réunion de la commission.
+
+V. - Les salariés désignés comme membres de l'Autorité des marchés financiers disposent du temps nécessaire pour assurer la
+préparation des réunions, et pour s'y rendre et y participer. Ce temps est assimilé à du travail effectif pour la
+détermination des droits aux prestations d'assurances sociales. Le salarié concerné doit informer son employeur lors de sa
+désignation et, pour chaque réunion, dès réception de la convocation.
 
 **Liens relatifs à cet article**
 
@@ -37445,7 +38716,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 24 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 3 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -37462,25 +38734,31 @@ _Cité par_:
   - Code monétaire et financier - art. R621-6 (V)
   - Code monétaire et financier - art. R621-7 (V)
 
+_Cite_:
 
-##### Section 3 : Règles de fonctionnement<a id=418></a>
+  - Code monétaire et financier - art. L621-15 (M)
+  - Code monétaire et financier - art. L621-17 (M)
+
+
+##### Section 3 : Règles de fonctionnement<a id=427></a>
 
 ###### Article L621-3
 
-I. - La commission établit un règlement intérieur. Ce règlement précise les règles relatives aux délibérations de la
-commission, notamment aux conditions dans lesquelles les affaires sont rapportées. Il est publié au Journal officiel de la
-République française.
+I. - Le commissaire du Gouvernement auprès de l'Autorité des marchés financiers est désigné par le ministre chargé de
+l'économie. Il siège auprès de toutes les formations sans voix délibérative. Les décisions de la commission des sanctions
+sont prises hors de sa présence. Il peut, sauf en matière de sanctions, demander une deuxième délibération dans des
+conditions fixées par décret en Conseil d'Etat.
 
-Les décisions de la commission prises en application des articles L. 621-14 et L. 621-15 sont rapportées par le président ou
-par un membre de la commission désigné par lui à cet effet.
+II. - Les décisions de chaque formation de l'Autorité des marchés financiers sont prises à la majorité des voix. En cas de
+partage égal des voix, sauf en matière de sanctions, la voix du président est prépondérante.
 
-Un représentant du ministre chargé de l'économie est entendu par la commission sauf en matière de décisions individuelles. Il
-peut soumettre toute proposition à la délibération de la commission sauf dans les mêmes cas.
+En cas d'urgence constatée par son président, le collège peut, sauf en matière de sanctions, statuer par voie de consultation
+écrite.
 
-Les décisions sont prises à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
+Un décret en Conseil d'Etat fixe les règles applicables à la procédure et aux délibérations des formations de l'Autorité des
+marchés financiers.
 
-II. - Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas
-applicables à la commission.
+L'Autorité des marchés financiers détermine dans son règlement général les modalités de mise en oeuvre de ces règles.
 
 **Liens relatifs à cet article**
 
@@ -37495,6 +38773,11 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 4 () JORF 2 août 2003
+
 _Cité par_:
 
   - Décret n°2003-1109 du 21 novembre 2003 - art. 3 (Ab)
@@ -37502,26 +38785,52 @@ _Cité par_:
   - Code monétaire et financier - art. L632-16 (V)
   - Code monétaire et financier - art. R621-2 (V)
 
-_Cite_:
-
-  - Code monétaire et financier - art. L621-14 (M)
-  - Code monétaire et financier - art. L621-15 (M)
-  - Loi n°1922-08-10
-
 
 ###### Article L621-4
 
-Le président et les membres de la commission doivent informer celle-ci des intérêts qu'ils détiennent ou viennent à détenir
-et des fonctions qu'ils exercent ou viennent à exercer dans une activité économique et financière ainsi que de tout mandat
-qu'ils détiennent ou viennent à détenir au sein d'une personne morale.
+I. - Tout membre de l'Autorité des marchés financiers doit informer le président :
 
-Ni le président ni aucun membre de la commission ne peut délibérer dans une affaire dans laquelle lui-même ou, le cas
-échéant, une personne morale au sein de laquelle il exerce des fonctions ou détient un mandat a un intérêt ; il ne peut
-davantage participer à une délibération concernant une affaire dans laquelle lui-même ou, le cas échéant, une personne morale
-au sein de laquelle il exerce des fonctions ou détient un mandat a représenté une des parties intéressées au cours des
-trente-six mois précédant la délibération.
+1° Des intérêts qu'il a détenus au cours des deux ans précédant sa nomination, qu'il détient ou vient à détenir ;
+
+2° Des fonctions dans une activité économique ou financière qu'il a exercées au cours des deux années précédant sa
+nomination, qu'il exerce ou vient à exercer ;
+
+3° De tout mandat au sein d'une personne morale qu'il a détenu au cours des deux années précédant sa nomination, qu'il
+détient ou vient à détenir ;
+
+Ces informations, ainsi que celles concernant le président, sont tenues à la disposition des membres de l'Autorité des
+marchés financiers.
+
+Aucun membre de l'Autorité des marchés financiers ne peut délibérer dans une affaire dans laquelle lui-même ou, le cas
+échéant, une personne morale au sein de laquelle il a, au cours des deux années précédant la délibération, exercé des
+fonctions ou détenu un mandat, a ou a eu un intérêt au cours de la même période. Il ne peut davantage participer à une
+délibération concernant une affaire dans laquelle lui-même ou, le cas échéant, une personne morale au sein de laquelle il a,
+au cours des deux années précédant la délibération, exercé des fonctions ou détenu un mandat, a représenté une des parties
+intéressées au cours de la même période.
+
+Le président de l'Autorité des marchés financiers prend les mesures appropriées pour assurer le respect des obligations et
+interdictions résultant du présent I.
+
+L'Autorité des marchés financiers détermine dans son règlement général les modalités de prévention des conflits d'intérêt.
+
+II. - Les membres, les personnels et préposés de l'Autorité des marchés financiers ainsi que les experts nommés dans les
+commissions consultatives mentionnées au III de l'article L. 621-2 sont tenus au secret professionnel dans les conditions et
+sous les peines prévues à l'article L. 642-1.
+
+Ce secret n'est pas opposable à l'autorité judiciaire agissant dans le cadre soit d'une procédure pénale, soit d'une
+procédure de liquidation judiciaire ouverte à l'égard d'une personne mentionnée au II de l'article L. 621-9.
+
+III. - Les dispositions de la loi n° 47-1635 du 30 août 1947 relative à l'assainissement des professions commerciales et
+industrielles sont applicables aux membres de l'Autorité des marchés financiers. Nul ne peut être membre de l'Autorité des
+marchés financiers s'il a été sanctionné au cours des cinq années passées au titre des dispositions du présent code.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°47-1635 1947-08-30
+  - Code monétaire et financier - art. L621-2 (M)
+  - Code monétaire et financier - art. L621-9 (M)
 
 _Anciens textes_:
 
@@ -37530,6 +38839,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 5 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -37552,20 +38866,15 @@ _Cité par_:
 
 ###### Article L621-5
 
-Un décret en Conseil d'Etat fixe les conditions dans lesquelles :
+Un décret en Conseil d'Etat fixe les conditions et limites dans lesquelles : 
 
-1° Le président peut donner délégation pour l'exercice des attributions qui lui sont confiées par le deuxième alinéa de
-l'article L. 621-1 ;
+1° Le collège peut donner délégation au président ou, en cas d'absence ou d'empêchement de celui-ci, à un autre de ses
+membres, pour prendre les décisions à caractère individuel relevant de sa compétence ; 
 
-2° La commission peut donner délégation au président et, en cas d'absence ou d'empêchement de celui-ci, à l'un de ses membres
-pour signer les décisions à caractère individuel relevant de sa compétence, à l'exception de celles visées aux articles L.
-621-14 et L. 621-15 ;
+2° Le collège peut donner délégation à une commission spécialisée conformément au III de l'article L. 621-2 ; 
 
-3° Dans les matières où il tient du présent code ou d'autres dispositions législatives ou réglementaires une compétence
-propre, le président de la commission peut déléguer sa signature ;
-
-4° En cas d'urgence constatée par le président, la commission peut, sauf en matière de sanctions, statuer par voie de
-consultation écrite.
+3° Le président de l'Autorité des marchés financiers peut déléguer sa signature dans les matières où il tient de dispositions
+législatives ou réglementaires une compétence propre.
 
 **Liens relatifs à cet article**
 
@@ -37577,10 +38886,6 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 26 () JORF 16 mai 2001
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°2002-371 du 14 mars 2002
@@ -37591,48 +38896,323 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°2002-371 du 14 mars 2002 - art. 5 (Ab)
   - TXT_SOURCE: Décret n°2002-371 du 14 mars 2002 - art. 6 ()
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 6 () JORF 2 août 2003
+
 _Cité par_:
 
   - Décret n°2003-1109 du 21 novembre 2003 - art. 78 (Ab)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L621-1 (M)
-  - Code monétaire et financier - art. L621-14 (M)
-  - Code monétaire et financier - art. L621-15 (M)
+  - Code monétaire et financier - art. L621-2 (V)
 
 
-##### Section 4 : Pouvoirs<a id=419></a>
+###### Article L621-5-1
 
-##### Sous-section 1 : Réglementation<a id=420></a>
+L'Autorité des marchés financiers dispose de services dirigés par un secrétaire général. Pour la désignation de ce dernier,
+le président de l'autorité soumet une proposition au collège qui en délibère et formule un avis dans le délai d'un mois. A
+l'issue de ce délai, le secrétaire général est nommé par le président. Cette nomination est soumise à l'agrément du ministre
+chargé de l'économie. Jusqu'à la nomination du secrétaire général, les attributions de celui-ci peuvent être exercées par une
+personne désignée par le président de l'Autorité des marchés financiers.
+
+Le personnel des services de l'Autorité des marchés financiers est composé d'agents contractuels de droit public et de
+salariés de droit privé. Dans des conditions fixées par décret en Conseil d'Etat, des agents publics peuvent être placés
+auprès de l'Autorité des marchés financiers dans une position prévue par le statut qui les régit.
+
+Les dispositions des articles L. 412-1, L. 421-1, L. 431-1 et L. 236-1 du code du travail sont applicables au personnel des
+services de l'Autorité des marchés financiers. Toutefois, ces dispositions peuvent faire l'objet d'adaptations résultant de
+décrets en Conseil d'Etat.
+
+Sur proposition du secrétaire général, le collège fixe le règlement intérieur et les règles de déontologie applicables au
+personnel des services de l'Autorité des marchés financiers et établit le cadre général des rémunérations. Le secrétaire
+général rend compte de la gestion des services au collège dans des conditions fixées par celui-ci.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 7 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 48 (Ab)
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 72 (Ab)
+
+_Cite_:
+
+  - Code du travail - art. L236-1 (M)
+  - Code du travail - art. L412-1 (M)
+  - Code du travail - art. L421-1 (M)
+  - Code du travail - art. L431-1 (M)
+
+
+###### Article L621-5-2
+
+L'Autorité des marchés financiers dispose de l'autonomie financière. Son budget est arrêté par le collège sur proposition du
+secrétaire général. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne
+lui sont pas applicables.
+
+Elle perçoit le produit des taxes établies à l'article L. 621-5-3.
+
+Un décret en Conseil d'Etat fixe le régime indemnitaire de ses membres, son régime comptable et les modalités d'application
+du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°1922-08-10
+  - Code monétaire et financier - art. L621-5-3 (M)
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 7 (V) JORF 2 août 2003
+
+
+###### Article L621-5-3
+
+I. - Il est institué un droit fixe dû par les personnes soumises au contrôle de l'Autorité des marchés financiers, lorsque la
+législation ou la réglementation le prévoit, dans les cas suivants :
+
+1° A l'occasion de la publication par l'Autorité des marchés financiers d'une déclaration faite par une personne agissant
+seule ou de concert en application des articles L. 233-7 ou L. 233-11 du code de commerce, le droit dû, fixé par décret, est
+supérieur à 500 euros et inférieur ou égal à 1 000 euros. Il est exigible le jour du dépôt du document ;
+
+2° A l'occasion de l'examen de l'obligation de dépôt d'une offre publique, le droit dû, fixé par décret, est supérieur à 2
+000 euros et inférieur ou égal à 4 000 euros. Il est exigible le jour de la décision de l'Autorité des marchés financiers ;
+
+3° A l'occasion du contrôle d'un document de référence annuel ou du document de base soumis par une société dont les actions
+sont admises aux négociations sur un marché réglementé en application de l'article L. 621-18, le droit dû, fixé par décret,
+est supérieur à 500 euros et inférieur ou égal à 1 000 euros. Il est exigible le jour du dépôt du document ;
+
+4° A l'occasion d'une autorisation de commercialisation en France d'un organisme de placements collectifs soumis à la
+législation d'un Etat étranger ou d'un compartiment d'un tel organisme, le droit dû, fixé par décret, est supérieur à 1 000
+euros et inférieur ou égal à 2 000 euros. Il est exigible le jour du dépôt de la demande d'autorisation la première année et
+le 30 avril les années suivantes ;
+
+5° A l'occasion de la soumission par un émetteur d'un document d'information sur un programme d'émission de titres de
+créances à l'enregistrement préalable de l'Autorité des marchés financiers en application de l'article L. 621-8 ou portant
+sur des contrats financiers à terme mentionnés au 1 du II de l'article L. 211-1, le droit dû, fixé par décret, est supérieur
+à 1 000 euros et inférieur ou égal à 2 000 euros. Il est exigible le jour du dépôt du document ;
+
+6° A l'occasion de l'émission de chaque tranche de warrants sur le fondement d'un document d'information soumis au visa
+préalable de l'Autorité des marchés financiers en application de l'article L. 621-8, le droit dû est fixé à 150 euros par
+tranche. Il est exigible le jour de l'émission ;
+
+7° A l'occasion du dépôt auprès de l'Autorité des marchés financiers d'un document d'information ou d'un projet de contrat
+type relatif à un projet de placement en biens divers régi par les articles L. 550-1 à L. 550-5, le droit dû, fixé par
+décret, est supérieur à 6 000 euros et inférieur ou égal à 8 000 euros. Il est exigible le jour dudit dépôt.
+
+II. - Il est institué une contribution due par les personnes soumises au contrôle de l'Autorité des marchés financiers,
+lorsque la législation ou la réglementation le prévoit, dans les cas suivants :
+
+1° A l'occasion d'une procédure d'offre publique d'acquisition, d'offre publique de retrait ou de garantie de cours, la
+contribution est la somme, d'une part, d'un droit fixé à 10 000 euros et, d'autre part, d'un montant égal à la valeur des
+instruments financiers achetés, échangés, présentés ou indemnisés, multipliée par un taux, fixé par décret, qui ne peut être
+supérieur à 0,30 pour mille lorsque l'opération est réalisée sur des titres donnant ou pouvant donner accès directement ou
+indirectement au capital ou aux droits de vote, et à 0,15 pour mille dans les autres cas.
+
+Cette contribution est exigible de tout initiateur d'une offre, quel qu'en soit le résultat, le jour de la publication des
+résultats de l'opération ;
+
+2° A l'occasion de la soumission par un émetteur d'un document d'information sur une émission, une cession dans le public,
+une admission aux négociations sur un marché réglementé ou un rachat de titres au visa préalable de l'Autorité des marchés
+financiers en application de l'article L. 621-8, cette contribution est assise sur la valeur des instruments financiers lors
+de l'opération. Son taux, fixé par décret, ne peut être supérieur à 0,20 pour mille lorsque l'opération porte sur des titres
+donnant accès ou pouvant donner accès au capital et à 0,05 pour mille lorsque l'opération est réalisée sur des titres de
+créance.
+
+Cette contribution est exigible le jour de la clôture de l'opération ou, dans le cas d'un rachat de titres, le jour de la
+publication du résultat de l'opération. Son montant ne peut être inférieur à 1 000 euros lorsque l'opération porte sur des
+titres donnant accès ou pouvant donner accès au capital, et ne peut être supérieur à 5 000 euros dans les autres cas ;
+
+3° Dans le cadre du contrôle des personnes mentionnées aux 1° à 8° du II de l'article L. 621-9, cette contribution est
+calculée comme suit :
+
+a) Pour les personnes mentionnées aux 1° et 2° du II de l'article L. 621-9, la contribution est fixée à un montant par
+service d'investissement pour lequel elles sont agréées autre que le service d'investissement mentionné au 4 de l'article L.
+321-1, et par service connexe pour lequel elles sont habilitées fixé par décret et supérieur à 2 000 euros et inférieur ou
+égal à 3 000 euros. Ce montant est multiplié par deux si les fonds propres de la personne concernée sont supérieurs à 45
+millions d'euros et inférieurs ou égaux à 75 millions d'euros, par trois s'ils sont supérieurs à 75 millions d'euros et
+inférieurs ou égaux à 150 millions d'euros, par quatre s'ils sont supérieurs à 150 millions d'euros et inférieurs ou égaux à
+750 millions d'euros, par six s'ils sont supérieurs à 750 millions d'euros et inférieurs ou égaux à 1,5 milliard d'euros et
+par huit s'ils sont supérieurs à 1,5 milliard d'euros ; la contribution due par l'ensemble des personnes relevant d'un même
+groupe ou par l'ensemble constitué par les personnes affiliées à un organe central au sens de l'article L. 511-30 et par cet
+organe ne peut excéder 250 000 euros ;
+
+b) Pour les personnes mentionnées au 4° du II de l'article L. 621-9, la contribution est égale à un montant fixé par décret
+et supérieur à 500 euros et inférieur ou égal à 1 000 euros ;
+
+c) Pour les personnes mentionnées aux 3°, 5° et 6° du II de l'article L. 621-9, la contribution est fixée à un montant égal à
+leur produit d'exploitation réalisé au cours de l'exercice précédent et déclaré au plus tard dans les trois mois suivant sa
+clôture, multiplié par un taux fixé par décret qui ne peut dépasser 0,3 % ;
+
+d) Pour les prestataires de services d'investissement habilités à exercer le service d'investissement mentionné au 4 de
+l'article L. 321-1 ainsi que pour les personnes mentionnées aux 7° et 8° du II de l'article L. 621-9, la contribution est
+fixée à un montant égal à l'encours des parts ou actions des organismes de placements collectifs et des entités
+d'investissement de droit étranger, et des actifs gérés sous mandat, quel que soit le pays où les actifs sont conservés ou
+inscrits en compte, multiplié par un taux fixé par décret qui ne peut excéder 0,015 pour mille sans pouvoir être inférieur à
+1 500 euros. Les encours sont calculés au 31 décembre de l'année précédente et déclarés au plus tard le 30 avril ;
+
+4° Dans le cadre du contrôle des personnes mentionnées au 10° du II de l'article L. 621-9, cette contribution est égale à un
+montant fixé par décret et supérieur à 500 euros et inférieur ou égal à 1 000 euros.
+
+III. - Les décrets prévus par le présent article sont pris après avis du collège de l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 7 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 49 (VD)
+  - Loi n°2003-706 du 1 août 2003 - art. 7 (V)
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 35 (Ab)
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 36 (Ab)
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 38 (Ab)
+  - Décret n°2003-1290 du 26 décembre 2003 - art. 1 (Ab)
+  - Décret n°2003-1290 du 26 décembre 2003 - art. 2 (Ab)
+  - Décret n°2003-1290 du 26 décembre 2003 - art. 3 (Ab)
+  - Décret n°2003-1290 du 26 décembre 2003 - art. 5 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 411-135 (V)
+  - Arrêté du 12 novembre 2004 - art. 421-27 (V)
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD)
+  - Loi n°2010-1657 du 29 décembre 2010 - art. 128 (V)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Ordonnance n°2014-559 du 30 mai 2014 - art. 35 (VD)
+  - Décret n°2017-1875 du 30 décembre 2017 (V)
+  - Décret n°2018-1327 du 28 décembre 2018 (V)
+  - Arrêté du 6 février 2019 (V)
+  - Arrêté du 6 février 2019 - art. 1
+  - Arrêté du 6 février 2019 - art. 2
+  - Code forestier (nouveau) - art. L331-4-1 (V)
+  - Code monétaire et financier - art. D621-27 (V)
+  - Code monétaire et financier - art. D621-28 (V)
+  - Code monétaire et financier - art. D621-29 (V)
+  - Code monétaire et financier - art. D621-29-1 (V)
+  - Code monétaire et financier - art. D621-30 (V)
+  - Code monétaire et financier - art. L546-1 (V)
+  - Code monétaire et financier - art. L621-5-2 (V)
+  - Code monétaire et financier - art. L621-5-4 (M)
+  - Code monétaire et financier - art. R621-14 (V)
+  - Code monétaire et financier - art. R621-16 (V)
+  - Code monétaire et financier - art. R621-17 (V)
+  - Code monétaire et financier - art. R621-19 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L233-11 (M)
+  - Code de commerce. - art. L233-7 (M)
+  - Code monétaire et financier - art. L211-1 (M)
+  - Code monétaire et financier - art. L321-1 (M)
+  - Code monétaire et financier - art. L511-30 (M)
+  - Code monétaire et financier - art. L621-18 (M)
+  - Code monétaire et financier - art. L621-8 (M)
+  - Code monétaire et financier - art. L621-9 (M)
+  - Code monétaire et financier L621-18, L621-8, L211-1, L550-1 à L550-5, L621-9, L321-1, L511-30
+
+
+###### Article L621-5-4
+
+Les droits et contributions mentionnés à l'article L. 621-5-3 sont liquidés, ordonnancés et recouvrés selon les modalités
+prévues pour les recettes des établissements publics administratifs de l'Etat. Les contestations relatives à ces droits et
+contributions sont portées devant le tribunal administratif. 
+
+Ils sont acquittés dans des conditions et à une date fixées par décret. 
+
+Le délai de paiement est de trente jours à compter de la date de réception de l'avis de paiement. Le montant est majoré du
+taux d'intérêt légal mensualisé par mois de retard à compter du trente et unième jour suivant la date de réception de l'avis
+de paiement, tout mois entamé étant compté en entier. 
+
+Lorsqu'un redevable ne donne pas les renseignements demandés nécessaires à la détermination de l'assiette de la contribution
+et de sa mise en recouvrement, le montant de la contribution est majoré de 10 %. 
+
+La majoration peut être portée à 40 % lorsque le document contenant les renseignements n'a pas été déposé dans les trente
+jours suivant la réception d'une mise en demeure notifiée par pli recommandé d'avoir à le produire dans ce délai, et à 80 %
+lorsque ce document n'a pas été déposé dans les trente jours suivant la réception d'une deuxième mise en demeure notifiée
+dans les mêmes formes que la première. 
+
+Les majorations prévues aux deux alinéas précédents ne peuvent être prononcées avant l'expiration d'un délai de trente jours
+à compter de la notification du document indiquant au redevable la majoration qu'il est envisagé de lui appliquer, les motifs
+de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations. 
+
+Les enquêteurs de l'Autorité des marchés financiers habilités dans les conditions prévues à l'article L. 621-9-1 contrôlent
+les déclarations. A cette fin, ils peuvent demander aux redevables tous renseignements, justifications ou éclaircissements
+relatifs aux déclarations souscrites.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 7 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 38 (Ab)
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Code monétaire et financier - art. R621-19 (V)
+  - Code monétaire et financier - art. R621-56 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L621-5-3 (V)
+  - Code monétaire et financier - art. L621-9-1 (V)
+
+
+##### Section 4 : Pouvoirs<a id=428></a>
+
+##### Sous-section 1 : Réglementation et décisions<a id=429></a>
 
 ###### Article L621-6
 
-Pour l'exécution de sa mission, la commission peut prendre des règlements concernant le fonctionnement des marchés placés
-sous son contrôle ou prescrivant des règles de pratique professionnelle qui s'imposent aux personnes faisant publiquement
-appel à l'épargne, ainsi qu'aux personnes qui, à raison de leur activité professionnelle, interviennent dans des opérations
-sur des titres placés par appel public à l'épargne ou assurent la gestion individuelle ou collective de portefeuilles de
-titres.
+Pour l'exécution de ses missions, l'Autorité des marchés financiers prend un règlement général qui est publié au Journal
+officiel de la République française, après homologation par arrêté du ministre chargé de l'économie.
 
-Les instructions et recommandations adoptées par la commission aux fins de préciser l'interprétation et les modalités
-d'application de ses règlements sont publiées par la commission à l'expiration d'un délai de quinze jours suivant la date de
-leur transmission au ministre chargé de l'économie.
-
-Lorsqu'ils concernent un marché déterminé, les règlements de la commission sont pris après avis de la ou des autorités du
-marché considéré.
-
-Ces règlements sont publiés au Journal officiel de la République française, après homologation par arrêté du ministre chargé
-de l'économie.
+L'Autorité des marchés financiers peut, pour l'application de son règlement général et l'exercice de ses autres compétences,
+prendre des décisions de portée individuelle. Elle peut également publier des instructions et des recommandations aux fins de
+préciser l'interprétation du règlement général.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
+  - Ordonnance n°67-833 du 28 septembre 1967 - art. 4-1 (M)
   - Ordonnance n°67-833 du 28 septembre 1967 - art. 4-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 1, art. 8 I, II JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 8 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -37643,8 +39223,91 @@ _Cité par_:
 
 ###### Article L621-7
 
-Seule la commission des opérations de bourse établit les règles de bonne conduite relatives au service d'investissement
-mentionné au 4 de l'article L. 321-1.
+Le règlement général de l'Autorité des marchés financiers détermine notamment :
+
+I. - Les règles de pratique professionnelle qui s'imposent aux émetteurs faisant appel public à l'épargne, ainsi que les
+règles qui doivent être respectées dans les opérations sur des instruments financiers placés par appel public à l'épargne.
+
+II. - Les règles relatives aux offres publiques d'acquisition portant sur des instruments financiers émis par appel public à
+l'épargne.
+
+III. - Les règles de bonne conduite et les autres obligations professionnelles que doivent respecter à tout moment les
+personnes mentionnées au II de l'article L. 621-9, et qui doivent tenir compte de la compétence financière de la personne à
+laquelle le service est rendu.
+
+IV. - Concernant les prestataires de services d'investissement, les entreprises de marché et les membres des marchés
+réglementés, les chambres de compensation et leurs adhérents :
+
+1° Les conditions d'exercice, par les prestataires de services d'investissement, des services définis à l'article L. 321-2 ;
+
+2° Les conditions d'exercice des activités des adhérents des chambres de compensation mentionnées à l'article L. 442-2 ;
+
+3° Les conditions dans lesquelles peut être délivrée ou retirée une carte professionnelle aux personnes physiques placées
+sous l'autorité ou agissant pour le compte des prestataires de services d'investissement, des entreprises de marché, des
+membres des marchés réglementés, des chambres de compensation et de leurs adhérents ;
+
+4° Les règles applicables aux personnes mentionnées à l'article L. 532-18 ;
+
+5° Les conditions dans lesquelles certains prestataires de services d'investissement peuvent intervenir en qualité de non-
+ducroire ;
+
+6° Les conditions dans lesquelles certaines personnes physiques ou morales peuvent être habilitées à fournir des services
+mentionnés aux 2 et 3 de l'article L. 321-1 sur un marché réglementé sans avoir la qualité de prestataire de services
+d'investissement ;
+
+7° Les conditions dans lesquelles, en application de l'article L. 442-1, l'Autorité des marchés financiers approuve les
+règles des chambres de compensation, sans préjudice des compétences conférées à la Banque de France par l'article L. 141-4.
+
+V. - Concernant les activités de gestion pour le compte de tiers et les placements collectifs :
+
+1° Les conditions d'exercice de l'activité des prestataires de services d'investissement qui fournissent, à titre exclusif ou
+principal, le service de gestion de portefeuille pour le compte de tiers et les conditions d'agrément des sociétés de gestion
+de portefeuille ;
+
+2° Les conditions d'agrément et d'exercice de l'activité des sociétés de gestion d'organismes de placements collectifs ;
+
+3° Les conditions d'agrément des organismes de placements collectifs ;
+
+4° Les conditions d'exercice de l'activité de dépositaire d'organismes de placements collectifs.
+
+VI. - Concernant la conservation et l'administration d'instruments financiers, les dépositaires centraux et les systèmes de
+règlement et de livraison d'instruments financiers :
+
+1° Les conditions d'exercice des activités de conservation ou d'administration d'instruments financiers par les personnes
+morales qui effectuent des opérations par appel public à l'épargne et les intermédiaires habilités à ce titre dans les
+conditions fixées à l'article L. 542-1 ;
+
+2° Les conditions d'habilitation, par l'autorité des marchés financiers, des dépositaires centraux ainsi que les conditions
+dans lesquelles l'Autorité approuve leurs règles de fonctionnement ;
+
+3° Les principes généraux d'organisation et de fonctionnement des systèmes de règlement et de livraison d'instruments
+financiers et les conditions dans lesquelles l'Autorité des marchés financiers approuve les règles de fonctionnement de ces
+systèmes, sans préjudice des compétences conférées à la Banque de France par l'article L. 141-4.
+
+VII. - Concernant les marchés réglementés d'instruments financiers :
+
+1° Les principes généraux d'organisation et de fonctionnement que doivent respecter les marchés réglementés, ainsi que les
+règles relatives à l'exécution des transactions sur instruments financiers admis sur ces marchés ;
+
+2° Les conditions dans lesquelles l'Autorité des marchés financiers, en application des articles L. 421-1 et L. 421-3,
+propose la reconnaissance ou le retrait de la qualité de marché réglementé d'instruments financiers ;
+
+3° Les conditions de dérogation à l'obligation prévue à l'article L. 421-12 ;
+
+4° Les règles relatives à l'information de l'Autorité des marchés financiers et du public concernant les ordres et les
+transactions sur instruments financiers admis sur un marché réglementé.
+
+Le règlement général peut également fixer des règles de fonctionnement applicables aux marchés d'instruments financiers
+autres que les marchés réglementés.
+
+VIII. - Concernant les personnes, autres que celles mentionnées aux 1° et 7° du II de l'article L. 621-9, qui produisent et
+diffusent des analyses financières :
+
+1° Les conditions d'exercice de l'activité des personnes visées à l'article L. 544-1 ;
+
+2° Les règles de bonne conduite s'appliquant aux personnes physiques placées sous l'autorité ou agissant pour le compte des
+personnes qui produisent et diffusent des analyses financières, à titre de profession habituelle, et les dispositions propres
+à assurer leur indépendance d'appréciation et la prévention des conflits d'intérêts.
 
 **Liens relatifs à cet article**
 
@@ -37656,6 +39319,12 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 1, art. 8 I, III JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 8 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -37687,24 +39356,64 @@ _Cité par_:
 
 _Cite_:
 
+  - Code monétaire et financier - art. L141-4 (M)
   - Code monétaire et financier - art. L321-1 (M)
+  - Code monétaire et financier - art. L321-2 (M)
+  - Code monétaire et financier - art. L421-1 (M)
+  - Code monétaire et financier - art. L421-12 (M)
+  - Code monétaire et financier - art. L421-3 (M)
+  - Code monétaire et financier - art. L442-1 (M)
+  - Code monétaire et financier - art. L442-2 (M)
+  - Code monétaire et financier - art. L532-18 (M)
+  - Code monétaire et financier - art. L542-1 (M)
+  - Code monétaire et financier - art. L544-1 (M)
+  - Code monétaire et financier - art. L621-9 (M)
 
 
-##### Sous-section 2 : Autorisation des opérations d'appel public à l'épargne<a id=421></a>
+###### Article L621-7-1
+
+En cas de carence de l'Autorité des marchés financiers malgré une mise en demeure adressée par le ministre chargé de
+l'économie, les mesures urgentes nécessitées par les circonstances sont prises par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 8 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 10 (VD)
+
+_Transféré par_:
+
+  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+_Nouveaux textes_:
+
+  - Code monétaire et financier - art. L621-7-2 (V)
+
+
+##### Sous-section 2 : Autorisation des opérations d'appel public à l'épargne<a id=430></a>
 
 ###### Article L621-8
 
-Le projet de document mentionné à l'article L. 412-1 est soumis au visa préalable de la commission des opérations de bourse,
-qui indique les énonciations à modifier ou les informations complémentaires à insérer.
+Le projet de document mentionné à l'article L. 412-1 est soumis au visa préalable de l'Autorité des marchés financiers, qui
+indique les énonciations à modifier ou les informations complémentaires à insérer.
 
-La commission peut également demander toutes explications ou justifications, notamment au sujet de la situation, de
-l'activité et des résultats de l'émetteur. Si l'émetteur ne satisfait pas aux demandes de la commission, celle-ci peut
-refuser son visa.
+L'Autorité peut également demander toutes explications ou justifications, notamment au sujet de la situation, de l'activité
+et des résultats de l'émetteur. Si l'émetteur ne satisfait pas aux demandes de l'Autorité, celle-ci peut refuser son visa.
 
-Dans des conditions et selon des modalités fixées par un règlement de la commission des opérations de bourse, la commission
+Dans des conditions et selon des modalités fixées par un règlement général de l'Autorité des marchés financiers, l'Autorité
 appose également un visa préalable quand une personne physique ou morale fait une offre publique d'acquisition de titres de
 capital ou de titres de créance d'un émetteur faisant appel public à l'épargne ou lorsqu'une société faisant appel public à
-l'épargne procède à l'achat de ses propres titres de capital. La note sur laquelle la commission appose un visa préalable
+l'épargne procède à l'achat de ses propres titres de capital. La note sur laquelle l'Autorité appose un visa préalable
 contient les orientations en matière d'emploi de la personne physique ou morale qui effectue l'offre publique.
 
 **Liens relatifs à cet article**
@@ -37719,7 +39428,9 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 4 () JORF 16 mai 2001
+  - Loi n°2003-706 2003-08-01 art. 1, art. 46 V 1°, 2° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -37762,13 +39473,52 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Sous-section 3 : Enquête<a id=422></a>
+##### Sous-section 3 : Contrôles et enquêtes<a id=431></a>
 
 ###### Article L621-9
 
-La commission peut demander aux commissaires aux comptes des sociétés faisant appel public à l'épargne ou à un expert inscrit
-sur une liste d'experts judiciaires de procéder auprès des personnes mentionnées à l'article L. 621-6 à toute analyse
-complémentaire ou vérification qui lui paraît nécessaire. Les frais et honoraires sont à la charge de la commission.
+I. - Afin d'assurer l'exécution de sa mission, l'Autorité des marchés financiers effectue des contrôles et des enquêtes.
+
+Elle veille à la régularité des opérations effectuées sur des titres faisant l'objet d'appel public à l'épargne. Ne sont pas
+soumis au contrôle de l'Autorité des marchés financiers les marchés d'instruments créés en représentation des opérations de
+banque qui, en application de l'article L. 214-4, ne peuvent pas être détenus par des organismes de placement collectif en
+valeurs mobilières.
+
+II. - L'Autorité des marchés financiers veille également au respect des obligations professionnelles auxquelles sont
+astreintes, en vertu des dispositions législatives et réglementaires, les entités ou personnes suivantes ainsi que les
+personnes physiques placées sous leur autorité ou agissant pour leur compte :
+
+1° Les prestataires de services d'investissement agréés ou exerçant leur activité en libre établissement en France ;
+
+2° Les personnes autorisées à exercer l'activité de conservation ou d'administration d'instruments financiers mentionnées à
+l'article L. 542-1, y compris les dépositaires d'organismes de placement collectif en valeurs mobilières ;
+
+3° Les dépositaires centraux et les gestionnaires de système de règlement et de livraison d'instruments financiers ;
+
+4° Les membres des marchés réglementés mentionnés à l'article L. 421-8 ;
+
+5° Les entreprises de marché ;
+
+6° Les chambres de compensation d'instruments financiers ;
+
+7° Les organismes de placements collectifs et leurs sociétés de gestion ;
+
+8° Les intermédiaires en biens divers ;
+
+9° Les personnes habilitées à procéder au démarchage mentionnées aux articles L. 341-3 et L. 341-4 ;
+
+10° Les conseillers en investissements financiers ;
+
+11° Les personnes, autres que celles mentionnées aux 1° et 7°, produisant et diffusant des analyses financières.
+
+Pour les personnes ou entités autres que celles fournissant des services mentionnés au 4 de l'article L. 321-1 ou que les
+personnes ou entités mentionnées aux 7°, 8°, 10° et 11° ci-dessus, pour lesquelles l'Autorité des marchés financiers est
+seule compétente, le contrôle s'exerce sous réserve des compétences de la Commission bancaire et, pour celles mentionnées aux
+3° et 6°, sans préjudice des compétences conférées à la Banque de France par l'article L. 141-4.
+
+L'Autorité des marchés financiers est également chargée d'assurer le respect, par les prestataires de services
+d'investissement mentionnés à l'article L. 532-18, des dispositions législatives et réglementaires qui leur sont applicables,
+dans les conditions prévues aux articles L. 532-19 à L. 532-21.
 
 **Liens relatifs à cet article**
 
@@ -37780,6 +39530,12 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 10 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 9 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -37835,13 +39591,126 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L621-6 (M)
+  - Code monétaire et financier - art. L141-4 (M)
+  - Code monétaire et financier - art. L214-4 (M)
+  - Code monétaire et financier - art. L321-1 (M)
+  - Code monétaire et financier - art. L341-3 (M)
+  - Code monétaire et financier - art. L341-4 (M)
+  - Code monétaire et financier - art. L421-8 (M)
+  - Code monétaire et financier - art. L532-18 (M)
+  - Code monétaire et financier - art. L542-1 (M)
+  - Code monétaire et financier L214-4, L542-1, L421-8, L341-3, L341-4, L321-1, L141-4, L532-18, L532-19 à L532-21
+
+
+###### Article L621-9-1
+
+Lorsque le secrétaire général de l'Autorité des marchés financiers décide de procéder à des enquêtes, il habilite les
+enquêteurs selon des modalités fixées par le règlement général.
+
+Les personnes susceptibles d'être habilitées répondent à des conditions d'exercice définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 11 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 77 (Ab)
+  - Arrêté du 12 octobre 2004 - art. 144-1 (V)
+  - Code monétaire et financier - art. L621-5-4 (V)
+  - Code monétaire et financier - art. L736-5 (VT)
+  - Code monétaire et financier - art. L746-5 (VT)
+  - Code monétaire et financier - art. L756-5 (VT)
+  - Code monétaire et financier - art. L766-5 (VT)
+  - Livre des procédures fiscales - art. L135 F (V)
+
+
+###### Article L621-9-2
+
+Dans les conditions fixées par un décret en Conseil d'Etat, l'Autorité des marchés financiers peut :
+
+1° Déléguer aux entreprises de marché et, le cas échéant, aux chambres de compensation le contrôle de l'activité et des
+opérations effectuées par les membres d'un marché réglementé ainsi que par les prestataires de services d'investissement
+ayant transmis des ordres sur ce marché. Cette délégation fait l'objet d'un protocole d'accord. Elle peut être retirée à tout
+moment ;
+
+2° Recourir, pour ses contrôles et enquêtes, à des corps de contrôle extérieurs, à des commissaires aux comptes, à des
+experts inscrits sur une liste d'experts judiciaires ou à des personnes ou autorités compétentes. Ces personnes peuvent
+recevoir une rémunération de l'Autorité des marchés financiers à ce titre.
+
+Le collège ou le secrétaire général de l'Autorité des marchés financiers peuvent demander aux commissaires aux comptes des
+sociétés faisant appel public à l'épargne ou à un expert inscrit sur une liste d'experts judiciaires de procéder auprès des
+personnes ou entités faisant appel public à l'épargne et des personnes mentionnées au II de l'article L. 621-9 à toute
+analyse complémentaire ou vérification qui leur paraît nécessaire. Les frais et honoraires sont à la charge de l'Autorité des
+marchés financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 11 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Décret n°2003-1109 du 21 novembre 2003 - art. 11 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 325-36 (V)
+  - Arrêté du 12 novembre 2004 - art. 325-54 (VD)
+  - Arrêté du 12 novembre 2004 - art. 325-70 (V)
+  - Ordonnance n°2014-559 du 30 mai 2014 - art. 35 (VD)
+  - Code de commerce - art. L821-8 (VT)
+  - Code monétaire et financier - art. L621-17-6 (V)
+  - Code monétaire et financier - art. L621-9-3 (V)
+  - Code monétaire et financier - art. R621-31 (VD)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L621-9 (M)
+
+
+###### Article L621-9-3
+
+Dans le cadre des contrôles et enquêtes mentionnés aux articles L. 621-9 et L. 621-9-1, le secret professionnel ne peut être
+opposé à l'Autorité des marchés financiers ni, le cas échéant, aux entreprises de marché ou aux chambres de compensation,
+corps de contrôle, personnes ou autorités mentionnés à l'article L. 621-9-2, lorsqu'ils assistent l'Autorité des marchés
+financiers, sauf par les auxiliaires de justice. 
+
+Pour l'application de la présente sous-section, les commissaires aux comptes sont déliés du secret professionnel à l'égard de
+l'Autorité des marchés financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 11 () JORF 2 août 2003
+
+_Cite_:
+
+  - Code monétaire et financier - art. L621-9 (V)
+  - Code monétaire et financier - art. L621-9-2 (V)
+
+_Cité par_:
+
+  - Livre des procédures fiscales - art. L135 F (V)
 
 
 ###### Article L621-10
-
-Afin d'assurer l'exécution de sa mission, la Commission des opérations de bourse dispose d'enquêteurs habilités par le
-président selon des modalités fixées par décret en Conseil d'Etat.
 
 Les enquêteurs peuvent, pour les nécessités de l'enquête, se faire communiquer tous documents, quel qu'en soit le support, y
 compris les données conservées et traitées par les opérateurs de télécommunications dans le cadre de l'article L. 32-3-1 du
@@ -37867,7 +39736,9 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 62 () JORF 29 décembre 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 11 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 9 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -37881,12 +39752,7 @@ _Cité par_:
 ###### Article L621-11
 
 Toute personne convoquée a le droit de se faire assister d'un conseil de son choix. Les modalités de cette convocation et les
-conditions dans lesquelles est assuré l'exercice de ce droit sont déterminées par décret.
-
-Le secret professionnel ne peut être opposé aux agents de la commission, sauf par les auxiliaires de justice.
-
-Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes et renseignements
-dont ils ont pu avoir connaissance en raison de leurs fonctions.
+conditions dans lesquelles est assuré l'exercice de ce droit sont déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -37898,6 +39764,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 11 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 9 () JORF 2 août 2003
+
 _Cité par_:
 
   - Code monétaire et financier - art. L621-21 (M)
@@ -37908,13 +39780,13 @@ _Cité par_:
 ###### Article L621-12
 
 Pour la recherche des infractions définies aux articles L. 465-1 et L. 465-2, le président du tribunal de grande instance
-dans le ressort duquel sont situés les locaux à visiter peut, sur demande motivée du président de la Commission des
-opérations de bourse, autoriser les enquêteurs de la commission à effectuer des visites en tous lieux ainsi qu'à procéder à
-la saisie de documents. L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de
+dans le ressort duquel sont situés les locaux à visiter peut, sur demande motivée du secrétaire général de l'Autorité des
+marchés financiers, autoriser les enquêteurs de l'Autorité à effectuer des visites en tous lieux ainsi qu'à procéder à la
+saisie de documents. L'ordonnance n'est susceptible que d'un pourvoi en cassation selon les règles prévues par le code de
 procédure pénale ; ce pourvoi n'est pas suspensif.
 
 Le juge doit vérifier que la demande d'autorisation qui lui est soumise est fondée ; cette demande doit comporter tous les
-éléments d'information en possession de la commission de nature à justifier la visite. Il désigne l'officier de police
+éléments d'information en possession de l'Autorité de nature à justifier la visite. Il désigne l'officier de police
 judiciaire chargé d'assister à ces opérations et de le tenir informé de leur déroulement.
 
 La visite s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée. Il peut se rendre dans les locaux pendant
@@ -37923,21 +39795,21 @@ l'intervention. A tout moment, il peut décider la suspension ou l'arrêt de la 
 La visite ne peut être commencée avant six heures ou après vingt et une heures ; dans les lieux ouverts au public, elle peut
 également être commencée pendant les heures d'ouverture de l'établissement. Elle est effectuée en présence de l'occupant des
 lieux ou de son représentant ; en cas d'impossibilité, l'officier de police judiciaire requiert deux témoins choisis en
-dehors des personnes relevant de son autorité ou de celle de la commission.
+dehors des personnes relevant de son autorité ou de celle de l'Autorité.
 
-Les enquêteurs de la commission, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent seuls
+Les enquêteurs de l'Autorité, l'occupant des lieux ou son représentant et l'officier de police judiciaire peuvent seuls
 prendre connaissance des pièces avant leur saisie.
 
 L'officier de police judiciaire veille au respect du secret professionnel et des droits de la défense conformément aux
 dispositions du troisième alinéa de l'article 56 du code de procédure pénale. L'article 58 de ce code est applicable.
 
 Le procès-verbal de visite relatant les modalités et le déroulement de l'opération est dressé sur-le-champ par les enquêteurs
-de la commission. Un inventaire des pièces et documents saisis lui est annexé. Le procès-verbal et l'inventaire sont signés
-par les enquêteurs de la commission et par l'officier de police judiciaire ainsi que les personnes mentionnées au cinquième
-alinéa du présent article ; en cas de refus de signer, mention en est faite au procès-verbal. Si l'inventaire sur place
-présente des difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des lieux ou son représentant
-est avisé qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de police judiciaire ;
-l'inventaire est alors établi.
+de l'Autorité. Un inventaire des pièces et documents saisis lui est annexé. Le procès-verbal et l'inventaire sont signés par
+les enquêteurs de l'Autorité et par l'officier de police judiciaire ainsi que les personnes mentionnées au cinquième alinéa
+du présent article ; en cas de refus de signer, mention en est faite au procès-verbal. Si l'inventaire sur place présente des
+difficultés, les pièces et documents saisis sont placés sous scellés. L'occupant des lieux ou son représentant est avisé
+qu'il peut assister à l'ouverture des scellés qui a lieu en présence de l'officier de police judiciaire ; l'inventaire est
+alors établi.
 
 Les originaux du procès-verbal de visite et de l'inventaire sont, dès qu'ils ont été établis, adressés au juge qui a délivré
 l'ordonnance ; une copie de ces mêmes documents est remise à l'occupant des lieux ou à son représentant.
@@ -37954,6 +39826,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 11 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 9 () JORF 2 août 2003
+
 _Cité par_:
 
   - Loi n°2014-1662 du 30 décembre 2014 - art. 23 (V)
@@ -37967,17 +39845,20 @@ _Cite_:
   - Code monétaire et financier - art. L465-2 (M)
 
 
+##### Sous-section 4 : Injonctions et mesures d'urgence<a id=432></a>
+
 ###### Article L621-13
 
-Le président du tribunal de grande instance peut, sur demande motivée de la commission des opérations de bourse, prononcer la
-mise sous séquestre, en quelque main qu'ils se trouvent, des fonds, valeurs, titres ou droits appartenant aux personnes mises
-en cause par elle. Il statue par ordonnance sur requête, à charge pour tout intéressé de lui en référer. Il peut prononcer
-dans les mêmes conditions l'interdiction temporaire de l'activité professionnelle.
+Le président du tribunal de grande instance peut, sur demande motivée du président ou du secrétaire général de l'Autorité des
+marchés financiers, prononcer la mise sous séquestre, en quelque main qu'ils se trouvent, des fonds, valeurs, titres ou
+droits appartenant aux personnes mises en cause par elle. Il statue par ordonnance sur requête, à charge pour tout intéressé
+de lui en référer. Il peut prononcer dans les mêmes conditions l'interdiction temporaire de l'activité professionnelle. 
 
-Le président du tribunal de grande instance, sur demande motivée de la commission des opérations de bourse, peut ordonner, en
-la forme des référés, qu'une personne mise en cause soit astreinte à consigner une somme d'argent.
+Le président du tribunal de grande instance, sur demande motivée du président ou du secrétaire général de l'Autorité des
+marchés financiers, peut ordonner, en la forme des référés, qu'une personne mise en cause soit astreinte à consigner une
+somme d'argent. 
 
-Il fixe le montant de la somme à consigner, le délai pour consigner et son affectation.
+Il fixe le montant de la somme à consigner, le délai pour consigner et son affectation. 
 
 En cas de mise en examen de la personne consignataire, le juge d'instruction saisi statue pour donner mainlevée, totale ou
 partielle, de la consignation ou pour la maintenir ou l'augmenter par décision rendue en application du 11° de l'article 138
@@ -37993,30 +39874,40 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 1, art. 12 I, II JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 12 () JORF 2 août 2003
+
 _Cite_:
 
-  - CODE DE PROCEDURE PENALE - art. 138 (M)
+  - Code de procédure pénale - art. 138 (VT)
 
 _Cité par_:
 
   - Code monétaire et financier - art. L642-3 (V)
 
 
-##### Sous-section 4 : Injonctions et sanctions administratives<a id=423></a>
-
 ###### Article L621-14
 
-La Commission des opérations de bourse peut ordonner qu'il soit mis fin aux pratiques contraires à ses règlements, lorsque
-ces pratiques ont pour effet de :
+I. - Le collège peut, après avoir mis la personne concernée en mesure de présenter ses explications, ordonner qu'il soit mis
+fin aux pratiques contraires aux dispositions législatives ou réglementaires, lorsque ces pratiques sont de nature à porter
+atteinte aux droits des épargnants ou ont pour effet de fausser le fonctionnement du marché, de procurer aux intéressés un
+avantage injustifié qu'ils n'auraient pas obtenu dans le cadre normal du marché, de porter atteinte à l'égalité d'information
+ou de traitement des investisseurs ou à leurs intérêts ou de faire bénéficier les émetteurs ou les investisseurs des
+agissements d'intermédiaires contraires à leurs obligations professionnelles. Ces décisions peuvent être rendues publiques.
 
-1. Fausser le fonctionnement du marché ;
+II. - Le président de l'Autorité des marchés financiers peut demander en justice qu'il soit ordonné à la personne qui est
+responsable de la pratique relevée de se conformer aux dispositions législatives ou réglementaires, de mettre fin à
+l'irrégularité ou d'en supprimer les effets.
 
-2. Procurer aux intéressés un avantage injustifié qu'ils n'auraient pas obtenu dans le cadre normal du marché ;
+La demande est portée devant le président du tribunal de grande instance de Paris qui statue en la forme des référés et dont
+la décision est exécutoire par provision. Il peut prendre, même d'office, toute mesure conservatoire et prononcer pour
+l'exécution de son ordonnance une astreinte versée au Trésor public.
 
-3. Porter atteinte à l'égalité d'information et de traitement des investisseurs ou à leurs intérêts ;
-
-4. Faire bénéficier les émetteurs et les investisseurs des agissements d'intermédiaires contraires à leurs obligations
-professionnelles.
+En cas de poursuites pénales, l'astreinte, si elle a été prononcée, n'est liquidée qu'après que la décision sur l'action
+publique est devenue définitive.
 
 **Liens relatifs à cet article**
 
@@ -38047,26 +39938,74 @@ _Cité par_:
   - Code monétaire et financier - art. R621-43 (Ab)
   - Code monétaire et financier - art. R632-3 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 12 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 13 () JORF 2 août 2003
+
+
+##### Sous-section 4 bis : Sanctions<a id=433></a>
 
 ###### Article L621-15
 
-A l'encontre des auteurs des pratiques mentionnées à L. 621-14, la Commission des opérations de bourse peut, après une
-procédure contradictoire, prononcer les sanctions suivantes :
+I. - Le collège examine le rapport d'enquête ou de contrôle établi par les services de l'Autorité des marchés financiers, ou
+la demande formulée par le gouverneur de la Banque de France, président de la Commission bancaire, ou par le président de la
+Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
 
-1. Une sanction pécuniaire qui ne peut excéder 1500000 euros ;
+S'il décide l'ouverture d'une procédure de sanction, il notifie les griefs aux personnes concernées. Il transmet la
+notification des griefs à la commission des sanctions, qui désigne un rapporteur parmi ses membres. La commission des
+sanctions ne peut être saisie de faits remontant à plus de trois ans s'il n'a été fait pendant ce délai aucun acte tendant à
+leur recherche, à leur constatation ou à leur sanction.
 
-2. Ou, lorsque des profits ont été réalisés, une sanction pécuniaire qui ne peut excéder le décuple de leur montant.
+En cas d'urgence, le collège peut suspendre d'activité les personnes mentionnées aux a et b du II contre lesquelles des
+procédures de sanction sont engagées.
 
-Le montant de la sanction pécuniaire doit être fonction de la gravité des manquements commis et en relation avec les
-avantages ou les profits tirés de ces manquements.
+Si le collège transmet au procureur de la République le rapport mentionné au premier alinéa, le collège peut décider de
+rendre publique la transmission.
 
-Les intéressés peuvent se faire représenter ou assister.
+II. - La commission des sanctions peut, après une procédure contradictoire, prononcer une sanction à l'encontre des personnes
+suivantes :
 
-La Commission des opérations de bourse peut également ordonner la publication de sa décision dans les journaux ou
-publications qu'elle désigne. En cas de sanction pécuniaire, les frais sont supportés par les intéressés.
+a) Les personnes mentionnées aux l° à 8° et 11° du II de l'article L. 621-9, au titre de tout manquement à leurs obligations
+professionnelles définies par les lois, règlements et règles professionnelles approuvées par l'Autorité des marchés
+financiers en vigueur, sous réserve des dispositions de l'article L. 613-21 ;
 
-Les décisions de la Commission des opérations de bourse sont motivées. En cas de sanction pécuniaire, les sommes sont versées
-au Trésor public.
+b) Les personnes physiques placées sous l'autorité ou agissant pour le compte de l'une des personnes mentionnées aux 1° à 8°
+et 11° du II de l'article L. 621-9 au titre de tout manquement à leurs obligations professionnelles définies par les lois,
+règlements et règles professionnelles approuvées par l'Autorité des marchés financiers en vigueur, sous réserve des
+dispositions de l'article L. 613-21 ;
+
+c) Toute personne autre que l'une des personnes mentionnées au II de l'article L. 621-9, auteur des pratiques mentionnées au
+I de l'article L. 621-14.
+
+III. - Les sanctions applicables sont :
+
+a) Pour les personnes mentionnées au a du II, l'avertissement, le blâme, l'interdiction à titre temporaire ou définitif de
+l'exercice de tout ou partie des services fournis ; la commission des sanctions peut prononcer soit à la place, soit en sus
+de ces sanctions une sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million d'euros ou au décuple du
+montant des profits éventuellement réalisés ; les sommes sont versées au fonds de garantie auquel est affiliée la personne
+sanctionnée ou, à défaut, au Trésor public ;
+
+b) Pour les personnes mentionnées au b du II, l'avertissement, le blâme, le retrait temporaire ou définitif de la carte
+professionnelle, l'interdiction à titre temporaire ou définitif de l'exercice de tout ou partie des activités ; la commission
+des sanctions peut prononcer soit à la place, soit en sus de ces sanctions une sanction pécuniaire dont le montant ne peut
+être supérieur à 1,5 million d'euros ou au décuple du montant des profits éventuellement réalisés en cas de pratiques
+mentionnées au I de l'article L. 621-14 ou à 300 000 euros ou au quintuple des profits éventuellement réalisés dans les
+autres cas ; les sommes sont versées au fonds de garantie auquel est affiliée la personne morale sous l'autorité ou pour le
+compte de qui agit la personne sanctionnée ou, à défaut, au Trésor public ;
+
+c) Pour les personnes mentionnées au c du II, une sanction pécuniaire dont le montant ne peut être supérieur à 1,5 million
+d'euros ou au décuple du montant des profits éventuellement réalisés ; les sommes sont versées au Trésor public.
+
+Le montant de la sanction doit être fixé en fonction de la gravité des manquements commis et en relation avec les avantages
+ou les profits éventuellement tirés de ces manquements.
+
+IV. - La commission des sanctions statue par décision motivée, hors la présence du rapporteur. Aucune sanction ne peut être
+prononcée sans que la personne concernée ou son représentant ait été entendu ou, à défaut, dûment appelé.
+
+V. - La commission des sanctions peut rendre publique sa décision dans les publications, journaux ou supports qu'elle
+désigne. Les frais sont supportés par les personnes sanctionnées.
 
 **Liens relatifs à cet article**
 
@@ -38147,24 +40086,75 @@ _Cité par_:
   - Code monétaire et financier - art. R621-41-6 (V)
   - Code monétaire et financier - art. R621-9 (V)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 1, art. 14 I, II JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 14 () JORF 2 août 2003
 
 _Anciens textes_:
 
   - Ordonnance n°2017-1107 du 22 juin 2017 - art. 12
 
+_Cite_:
+
+  - Code monétaire et financier - art. L613-21 (M)
+  - Code monétaire et financier - art. L621-9 (M)
+
+
+###### Article L621-15-1
+
+Si l'un des griefs notifiés conformément au deuxième alinéa du I de l'article L. 621-15 est susceptible de constituer un des
+délits mentionnés aux articles L. 465-1 et L. 465-2, le collège transmet immédiatement le rapport d'enquête ou de contrôle au
+procureur de la République près le tribunal de grande instance de Paris. 
+
+Lorsque le procureur de la République près le tribunal de grande instance de Paris décide de mettre en mouvement l'action
+publique sur les faits, objets de la transmission, il en informe sans délai l'Autorité des marchés financiers. 
+
+Le procureur de la République près le tribunal de grande instance de Paris peut transmettre à l'Autorité des marchés
+financiers, d'office ou à la demande de cette dernière, la copie de toute pièce d'une procédure relative aux faits objets de
+la transmission.
+
+**Nota:**
+
+Dans sa décision n° 2014-453/454 QPC et 2015-462 QPC du 18 mars 2015 (NOR : CSCX1507201S), le Conseil constitutionnel a
+déclaré contraires à la Constitution les mots " L. 465-1 et ", aux articles L. 621-15-1 et L. 621-16-1 dans leur rédaction
+issue de la loi n° 2003-706 du 1er août 2003 de sécurité financière. La déclaration d'inconstitutionnalité prend effet dans
+les conditions fixées aux considérants 35 et 36.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 14 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
+  - Loi n°2014-1662 du 30 décembre 2014 - art. 23 (V)
+  - Code monétaire et financier - art. L621-17-3 (VD)
+  - Code monétaire et financier - art. L621-17-6 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L465-1 (VT)
+  - Code monétaire et financier - art. L621-15 (VT)
+
 
 ###### Article L621-16
 
-Lorsque la Commission des opérations de bourse a prononcé une sanction pécuniaire devenue définitive avant que le juge pénal
-ait statué définitivement sur les mêmes faits ou des faits connexes, celui-ci peut ordonner que la sanction pécuniaire
-s'impute sur l'amende qu'il prononce.
+Lorsque la Commission des sanctions de l'Autorité des marchés financiers a prononcé une sanction pécuniaire devenue
+définitive avant que le juge pénal ait statué définitivement sur les mêmes faits ou des faits connexes, celui-ci peut
+ordonner que la sanction pécuniaire s'impute sur l'amende qu'il prononce.
 
 **Liens relatifs à cet article**
 
@@ -38176,27 +40166,60 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 14 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
 
 
+###### Article L621-16-1
+
+Lorsque des poursuites sont engagées en application des articles L. 465-1 et L. 465-2, l'Autorité des marchés financiers peut
+exercer les droits de la partie civile. Toutefois, elle ne peut à l'égard d'une même personne et s'agissant des mêmes faits
+concurremment exercer les pouvoirs de sanction qu'elle tient du présent code et les droits de la partie civile.
+
+**Nota:**
+
+Dans sa décision n° 2014-453/454 QPC et 2015-462 QPC du 18 mars 2015 (NOR : CSCX1507201S), le Conseil constitutionnel a
+déclaré contraires à la Constitution les mots " L. 465-1 et ", aux articles L. 621-15-1 et L. 621-16-1 dans leur rédaction
+issue de la loi n° 2003-706 du 1er août 2003 de sécurité financière. La déclaration d'inconstitutionnalité prend effet dans
+les conditions fixées aux considérants 35 et 36.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 16 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
+  - Loi n°2014-1662 du 30 décembre 2014 - art. 23 (M)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L465-1 (M)
+  - Code monétaire et financier - art. L465-2 (M)
+
+
 ###### Article L621-17
 
-Lorsqu'une pratique contraire aux dispositions législatives ou réglementaires est de nature à porter atteinte aux droits des
-épargnants, le président de la commission peut demander en justice qu'il soit ordonné à la personne qui en est responsable de
-se conformer à ces dispositions, de mettre fin à l'irrégularité ou d'en supprimer les effets.
+Tout manquement par les conseillers en investissements financiers définis à l'article L. 541-1 aux lois, règlements et
+obligations professionnelles les concernant est passible des sanctions prononcées par la commission des sanctions selon les
+modalités prévues aux I, a et b du III, IV et V de l'article L. 621-15.
 
-La demande est portée devant le président du tribunal de grande instance de Paris qui statue en la forme des référés et dont
-la décision est exécutoire par provision. Le président du tribunal est compétent pour connaître des exceptions d'illégalité.
-Il peut prendre, même d'office, toute mesure conservatoire et prononcer pour l'exécution de son ordonnance une astreinte
-versée au Trésor public.
-
-Lorsque la pratique relevée est passible de sanctions pénales, la commission informe le procureur de la République de la mise
-en oeuvre de la procédure devant le président du tribunal de grande instance de Paris.
-
-En cas de poursuites pénales, l'astreinte, si elle a été prononcée, n'est liquidée qu'après que la décision sur l'action
-publique est devenue définitive.
+Le montant de la sanction doit être fixé en fonction de la gravité des manquements commis et en relation avec les avantages
+ou les profits éventuellement tirés de ces manquements.
 
 **Liens relatifs à cet article**
 
@@ -38208,6 +40231,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 14 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 56 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2014-559 du 30 mai 2014 - art. 35 (VD)
@@ -38215,21 +40244,26 @@ _Cité par_:
   - Code monétaire et financier - art. L621-14-1 (M)
   - Code monétaire et financier - art. L621-2 (V)
 
+_Cite_:
 
-##### Sous-section 5 : Autres compétences<a id=424></a>
+  - Code monétaire et financier - art. L541-1 (M)
+  - Code monétaire et financier - art. L621-15 (M)
+
+
+##### Sous-section 5 : Autres compétences<a id=434></a>
 
 ###### Article L621-18
 
-La commission s'assure que les publications prévues par les dispositions législatives ou réglementaires sont régulièrement
+L'Autorité s'assure que les publications prévues par les dispositions législatives ou réglementaires sont régulièrement
 effectuées par les sociétés dont les actions sont admises aux négociations sur un marché réglementé.
 
 Elle vérifie les informations que ces sociétés fournissent aux actionnaires ou publient.
 
 Elle peut ordonner à ces sociétés de procéder à des publications rectificatives dans le cas où des inexactitudes ou des
 omissions auraient été relevées dans les documents publiés. Faute pour les sociétés intéressées de déférer à cette
-injonction, la Commission des opérations de bourse peut procéder elle-même à ces publications rectificatives.
+injonction, l'Autorité des marchés financiers peut procéder elle-même à ces publications rectificatives.
 
-La commission peut porter à la connaissance du public les observations qu'elle a été amenée à faire à une société ou les
+L'Autorité peut porter à la connaissance du public les observations qu'elle a été amenée à faire à une société ou les
 informations qu'elle estime nécessaires.
 
 Les frais occasionnés par les publications mentionnées aux deux alinéas précédents sont à la charge des sociétés intéressées.
@@ -38246,7 +40280,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 3 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -38256,10 +40291,112 @@ _Cité par_:
   - Code monétaire et financier - art. L621-5-3 (V)
 
 
+###### Article L621-18-1
+
+A la demande d'un ou plusieurs prestataires de services d'investissement ou d'une association professionnelle de prestataires
+de services d'investissement, l'Autorité des marchés financiers peut, après avis de la Banque de France, certifier des
+contrats types d'opérations sur instruments financiers.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
+  - Arrêté du 12 octobre 2004 - art. 131-1 (V)
+  - Décret n°2015-1454 du 10 novembre 2015 - art. (V)
+  - Code monétaire et financier - art. L532-18 (VD)
+  - Code monétaire et financier - art. L532-18-1 (V)
+
+_Anciens textes_:
+
+  - Code monétaire et financier - art. L622-21 (T)
+
+
+###### Article L621-18-2
+
+Toute personne faisant appel public à l'épargne communique à l'Autorité des marchés financiers et rend publics dans un délai
+déterminé par le règlement de l'Autorité des marchés financiers les acquisitions, cessions, souscriptions ou échanges de
+leurs titres ainsi que les transactions opérées sur ces titres au moyen d'instruments financiers à terme, réalisés par :
+
+a) Les membres du conseil d'administration, du directoire, du conseil de surveillance, le directeur général, le directeur
+général unique, le directeur général délégué ou le gérant de cette personne ;
+
+b) Des personnes ayant, dans des conditions définies par décret en Conseil d'Etat, des liens personnels étroits avec l'un de
+ceux qui sont mentionnés ci-dessus.
+
+Les modalités et conditions de la communication et de la publication prévues ci-dessus sont fixées par le règlement général
+de l'Autorité des marchés financiers.
+
+Un décret en Conseil d'Etat détermine les conditions dans lesquelles l'assemblée générale est informée de ces opérations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 122 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V)
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 8 (V)
+  - Arrêté du 12 novembre 2004 - art. 223-22 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 223-22 A (V)
+  - Arrêté du 12 novembre 2004 - art. 223-23 (V)
+  - Arrêté du 12 novembre 2004 - art. 223-24 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 223-25 (Ab)
+  - Arrêté du 12 novembre 2004 - art. 223-26 (V)
+  - Arrêté du 14 septembre 2016 - art.
+  - Code monétaire et financier - art. R621-43-1 (V)
+
+
+###### Article L621-18-3
+
+Les personnes morales faisant appel public à l'épargne rendent publiques les informations relevant des matières mentionnées
+au dernier alinéa des articles L. 225-37 et L. 225-68 du code de commerce dans des conditions fixées par le règlement général
+de l'Autorité des marchés financiers. Celle-ci établit chaque année un rapport sur la base de ces informations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 122 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V)
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 8 (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 136 (V)
+
+_Cite_:
+
+  - Code de commerce. - art. L225-37 (M)
+  - Code de commerce. - art. L225-68 (M)
+
+
 ###### Article L621-19
 
-La commission est habilitée à recevoir de tout intéressé les réclamations, pétitions, plaintes qui entrent par leur objet
-dans sa compétence et à leur donner la suite qu'elles appellent.
+L'Autorité est habilitée à recevoir de tout intéressé les réclamations qui entrent par leur objet dans sa compétence et à
+leur donner la suite qu'elles appellent. Elle propose, en tant que de besoin, la résolution amiable des différends portés à
+sa connaissance par voie de conciliation ou de médiation.
 
 Elle peut formuler des propositions de modifications des lois et règlements concernant l'information des porteurs
 d'instruments financiers et du public, les marchés d'instruments financiers et le statut des prestataires de services
@@ -38268,8 +40405,8 @@ d'investissement.
 Elle établit chaque année un rapport au Président de la République et au Parlement, qui est publié au Journal officiel de la
 République française.
 
-Le président de la Commission des opérations de bourse est entendu, sur leur demande, par les commissions des finances des
-deux assemblées et peut demander à être entendu par elles.
+Le président de l'Autorité des marchés financiers est entendu, sur leur demande, par les commissions des finances des deux
+assemblées et peut demander à être entendu par elles.
 
 **Liens relatifs à cet article**
 
@@ -38282,6 +40419,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 17 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
@@ -38292,10 +40435,9 @@ _Cité par_:
 
 ###### Article L621-20
 
-Pour l'application des dispositions du présent chapitre, ainsi que des articles L. 411-1, L. 411-2, L. 412-1, L. 465-1 à L.
-465-3, L. 642-1 et L. 642-3 les juridictions civiles, pénales ou administratives peuvent appeler le président de la
-Commission des opérations de bourse ou son représentant à déposer des conclusions et à les développer oralement à l'audience,
-sans préjudice des dispositions de l'article L. 465-1.
+Pour l'application des dispositions entrant dans le champ de compétence de l'Autorité des marchés financiers, les
+juridictions civiles, pénales ou administratives peuvent appeler le président de celle-ci ou son représentant à déposer des
+conclusions et à les développer oralement à l'audience sans préjudice des dispositions de l'article L. 466-1.
 
 **Liens relatifs à cet article**
 
@@ -38307,6 +40449,11 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
@@ -38314,40 +40461,74 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L411-1 (V)
-  - Code monétaire et financier - art. L411-2 (M)
-  - Code monétaire et financier - art. L412-1 (M)
-  - Code monétaire et financier - art. L465-1 (M)
-  - Code monétaire et financier - art. L642-1 (M)
-  - Code monétaire et financier - art. L642-3 (M)
-  - Code monétaire et financier L411-1, L411-2, L412-1, L465-1 à L465-3, L642-1, L642-3, L465-1
+  - Code monétaire et financier - art. L466-1 (M)
+
+
+###### Article L621-20-1
+
+Si, dans le cadre de ses attributions, l'Autorité des marchés financiers acquiert la connaissance d'un crime ou d'un délit,
+elle est tenue d'en donner avis sans délai au procureur de la République et de transmettre à ce magistrat tous les
+renseignements, procès-verbaux et actes qui y sont relatifs. 
+
+Sous réserve des dispositions du quatrième alinéa de l'article L. 621-21, le procureur de la République peut obtenir de
+l'Autorité des marchés financiers la communication de tous les renseignements détenus par celle-ci dans le cadre de
+l'exercice de ses missions, sans que puisse lui être opposée l'obligation au secret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 18 () JORF 2 août 2003
+
+_Cité par_:
+
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
+  - Code monétaire et financier - art. L621-17-3 (VD)
+  - Code monétaire et financier - art. L621-17-6 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L621-21 (V)
 
 
 ###### Article L621-21
 
-La commission peut, dans les mêmes conditions, selon les mêmes procédures et sous les mêmes sanctions que celles prévues par
-le présent code pour l'exécution de sa mission, conduire des enquêtes à la demande d'autorités étrangères exerçant des
+L'Autorité peut, dans les mêmes conditions, selon les mêmes procédures et sous les mêmes sanctions que celles prévues par le
+présent code pour l'exécution de sa mission, conduire des enquêtes à la demande d'autorités étrangères exerçant des
 compétences analogues, sous réserve de réciprocité, sauf s'il s'agit d'une demande émanant d'une autorité d'un autre Etat
 membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen.
 
-L'obligation de secret professionnel prévue à l'article L. 621-11 ne fait pas obstacle à la communication par la Commission
-des opérations de bourse des informations qu'elle détient ou qu'elle recueille à leur demande aux autorités des autres Etats
+L'obligation de secret professionnel prévue à l'article L. 621-11 ne fait pas obstacle à la communication par l'Autorité des
+marchés financiers, par dérogation aux dispositions de la loi n° 68-678 du 26 juillet 1968 relative à la communication de
+documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou
+morales étrangères des informations qu'elle détient ou qu'elle recueille à leur demande aux autorités des autres Etats
 membres de la communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen exerçant des
 compétences analogues et astreintes aux mêmes obligations de secret professionnel.
 
-La Commission des opérations de bourse peut également communiquer les informations qu'elle détient ou qu'elle recueille à
-leur demande aux autorités des autres Etats exerçant des compétences analogues, sous réserve de réciprocité et à condition
-que l'autorité étrangère compétente soit soumise au secret professionnel avec les mêmes garanties qu'en France.
+L'Autorité des marchés financiers peut également communiquer, par dérogation aux dispositions de la loi n° 68-678 du 26
+juillet 1968 relative à la communication de documents et renseignements d'ordre économique, commercial, industriel, financier
+ou technique à des personnes physiques ou morales étrangères les informations qu'elle détient ou qu'elle recueille à leur
+demande aux autorités des autres Etats exerçant des compétences analogues, sous réserve de réciprocité et à condition que
+l'autorité étrangère compétente soit soumise au secret professionnel avec les mêmes garanties qu'en France.
+
+Les informations recueillies par l'Autorité des marchés financiers ne peuvent être divulguées qu'avec l'accord explicite des
+autorités compétentes qui les ont transmises et, le cas échéant, exclusivement aux fins pour lesquelles ces autorités ont
+donné leur accord.
 
 L'assistance demandée par une autorité étrangère exerçant des compétences analogues pour la conduite d'enquêtes ou la
-transmission d'informations détenues ou recueillies par la commission est refusée par celle-ci lorsque l'exécution de la
-demande est de nature à porter atteinte à la souveraineté, à la sécurité, aux intérêts économiques essentiels ou à l'ordre
-public français ou lorsqu'une procédure pénale quelconque a déjà été engagée en France sur la base des mêmes faits et contre
-les mêmes personnes, ou bien lorsque celles-ci ont déjà été sanctionnées par une décision définitive pour les mêmes faits.
+transmission d'informations détenues ou recueillies par l'Autorité est refusée par celle-ci lorsque l'exécution de la demande
+est de nature à porter atteinte à la souveraineté, à la sécurité, ou à l'ordre public français ou lorsqu'une procédure pénale
+quelconque a déjà été engagée en France sur la base des mêmes faits et contre les mêmes personnes, ou bien lorsque celles-ci
+ont déjà été sanctionnées par une décision définitive pour les mêmes faits.
 
-La commission peut, pour la mise en oeuvre des alinéas précédents, conclure des conventions organisant ses relations avec les
-autorités étrangères exerçant des compétences analogues aux siennes. Ces conventions sont approuvées par la commission dans
-les conditions prévues à l'article L. 621-3. Elles sont publiées au Journal officiel de la République française.
+L'Autorité peut, pour la mise en oeuvre des alinéas précédents, conclure des conventions organisant ses relations avec les
+autorités étrangères exerçant des compétences analogues aux siennes. Ces conventions sont approuvées par l'Autorité dans les
+conditions prévues à l'article L. 621-3. Elles sont publiées au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
@@ -38355,9 +40536,21 @@ _Anciens textes_:
 
   - Ordonnance n°67-833 du 28 septembre 1967 - art. 5 bis (Ab)
 
+_Cite_:
+
+  - Loi n°68-678 1968-07-26
+  - Code monétaire et financier - art. L621-11 (M)
+  - Code monétaire et financier - art. L621-3 (M)
+
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 19 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -38376,23 +40569,33 @@ _Cité par_:
   - Code monétaire et financier - art. L766-5 (AbD)
   - Code monétaire et financier - art. R621-43 (Ab)
 
-_Cite_:
 
-  - Code monétaire et financier - art. L621-11 (M)
-  - Code monétaire et financier - art. L621-3 (M)
-
-
-##### Section 5 : Contrôle des gestionnaires de portefeuille<a id=425></a>
+##### Section 5 : Relations avec les commissaires aux comptes<a id=435></a>
 
 ###### Article L621-22
 
-I. - Seule la Commission des opérations de bourse est compétente pour contrôler les prestataires de services d'investissement
-agréés pour exercer le service mentionné au 4 de l'article L. 321-1 ainsi que les sociétés de gestion de portefeuille.
+I. - L'Autorité des marchés financiers est informée des propositions de nomination ou de renouvellement des commissaires aux
+comptes de personnes faisant appel public à l'épargne et peut faire toute observation qu'elle juge nécessaire sur ces
+propositions. Ces observations sont portées à la connaissance de l'assemblée générale ou de l'organe chargé de la désignation
+ainsi que du professionnel intéressé.
 
-II. - Toute personne qui participe ou a participé au contrôle des sociétés ayant une activité de gestion de portefeuille pour
-le compte de tiers est tenue au secret professionnel. Ce secret n'est pas opposable à l'autorité judiciaire agissant dans le
-cadre soit d'une procédure de liquidation judiciaire ouverte à l'égard d'une société ayant une activité de gestion de
-portefeuille pour le compte de tiers, soit d'une procédure pénale.
+II. - Elle peut demander aux commissaires aux comptes de personnes faisant appel public à l'épargne tous renseignements sur
+les personnes qu'ils contrôlent.
+
+Les commissaires aux comptes des personnes mentionnées à l'alinéa précédent informent l'autorité de tout fait ou décision
+justifiant leur intention de refuser la certification des comptes.
+
+III. - Les commissaires aux comptes de personnes faisant appel public à l'épargne peuvent interroger l'Autorité des marchés
+financiers sur toute question rencontrée dans l'exercice de leur mission et susceptible d'avoir un effet sur l'information
+financière de la personne.
+
+IV. - Les commissaires aux comptes de sociétés faisant appel public à l'épargne communiquent à l'Autorité des marchés
+financiers copie de l'écrit transmis au président du conseil d'administration ou au directoire en application du deuxième
+alinéa de l'article L. 234-1 du code de commerce. Ils transmettent également à l'autorité les conclusions du rapport qu'ils
+envisagent de présenter à l'assemblée générale en application de l'article L. 823-12 et L. 822-15 du même code.
+
+V. - Les commissaires aux comptes sont déliés du secret professionnel et leur responsabilité ne peut de ce seul fait être
+engagée pour les informations données en exécution des obligations prévues au présent article.
 
 **Liens relatifs à cet article**
 
@@ -38404,6 +40607,12 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 113
+  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
 
 _Cité par_:
 
@@ -38419,17 +40628,18 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L321-1 (M)
+  - Code de commerce. - art. L234-1 (M)
+  - Code de commerce. - art. L823-12 (V)
 
 
 ###### Article L621-23
 
-Les commissaires aux comptes des sociétés de gestion de portefeuille sont déliés du secret professionnel à l'égard de la
-Commission des opérations de bourse.
+Les commissaires aux comptes des sociétés de gestion de portefeuille sont déliés du secret professionnel à l'égard de
+l'Autorité des marchés financiers.
 
-Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à la Commission des opérations de bourse tout
-fait ou décision concernant une société de gestion de portefeuille, dont ils ont eu connaissance dans l'exercice de leur
-mission, de nature :
+Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à l'Autorité des marchés financiers tout fait
+ou décision concernant une société de gestion de portefeuille, dont ils ont eu connaissance dans l'exercice de leur mission,
+de nature :
 
 1. A constituer une violation des dispositions législatives ou réglementaires applicables à cette société et susceptible
 d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
@@ -38444,7 +40654,7 @@ mission auprès d'une entreprise mère ou filiale d'une société ci-dessus ment
 La responsabilité des commissaires aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 ils procèdent en exécution de leur mission ou des obligations imposées par le présent article.
 
-La Commission des opérations de bourse peut également transmettre aux commissaires aux comptes des sociétés de gestion de
+l'Autorité des marchés financiers peut également transmettre aux commissaires aux comptes des sociétés de gestion de
 portefeuille les informations nécessaires à l'accomplissement de leur mission. Les informations transmises sont couvertes par
 la règle du secret professionnel.
 
@@ -38458,6 +40668,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 1, art. 46 V 1°, art. 113 1° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2016-315 du 17 mars 2016 - art. 36
@@ -38468,10 +40684,14 @@ _Cité par_:
 
 ###### Article L621-24
 
-Lorsqu'un prestataire de services d'investissement agréé pour exercer le service mentionné au 4 de l'article L. 321-1 ou une
-société de gestion de portefeuille a manqué à ses obligations professionnelles définies par les lois et règlements en
-vigueur, la Commission des opérations de bourse, après avoir mis leurs dirigeants en mesure de présenter leurs explications,
-peut leur adresser une mise en garde.
+Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais à l'Autorité tout fait ou décision concernant
+un prestataire de services d'investissement ou un intermédiaire habilité en vue de la conservation ou de l'administration
+d'instruments financiers, dont ils ont eu connaissance dans l'exercice de leur mission et de nature à constituer une
+violation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux règles de bonne conduite
+ou aux conditions d'exercice des activités de conservation ou d'administration d'instruments financiers. L'Autorité des
+marchés financiers peut également transmettre aux commissaires aux comptes des prestataires de services d'investissement les
+informations nécessaires à l'accomplissement de leur mission. Les informations ainsi transmises sont couvertes par la règle
+du secret professionnel.
 
 **Liens relatifs à cet article**
 
@@ -38479,13 +40699,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 113
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 11 (V)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L321-1 (M)
 
 _Anciens textes_:
 
@@ -38494,39 +40715,23 @@ _Anciens textes_:
 
 ###### Article L621-25
 
-Sans préjudice des compétences du conseil de discipline de la gestion financière mentionné à l'article L. 623-1, les
-prestataires de services d'investissement agréés pour exercer le service mentionné au 4 de l'article L. 321-1 ainsi que les
-sociétés de gestion de portefeuille sont passibles des sanctions prononcées par la Commission des opérations de bourse à
-raison des manquements à leurs obligations professionnelles, définies par les lois et règlements en vigueur.
-
-La Commission des opérations de bourse agit soit d'office, soit à la demande du Gouverneur de la Banque de France, président
-de la commission bancaire, soit à la demande du président du conseil des marchés financiers. Elle statue, en cette matière,
-par décision motivée. Aucune sanction ne peut être prononcée sans que le représentant légal du prestataire de services
-d'investissement ou de la société de gestion de portefeuille ait été entendu ou, à défaut, dûment appelé.
-
-Les sanctions applicables sont l'avertissement, le blâme, l'interdiction à titre temporaire ou définitif de l'exercice de
-tout ou partie des services fournis.
-
-Ces interdictions emportent, selon le cas, suspension ou retrait de l'autorisation délivrée par la commission en application
-de l'article L. 532-1.
-
-En outre, la Commission des opérations de bourse peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire dont le montant ne peut être supérieur à 750000 euros ou au décuple du montant des profits éventuellement
-réalisés. Les sommes sont versées au Trésor public. La Commission des opérations de bourse peut également prononcer la
-radiation d'une société de gestion de portefeuille, ainsi qu'il est prévu à l'article L. 532-12.
-
-La commission bancaire et le comité des établissements de crédit et des entreprises d'investissement sont informés de toute
-mesure d'interdiction à titre temporaire ou définitif de tout ou partie des activités.
+L'Autorité des marchés financiers peut demander aux commissaires aux comptes d'un prestataire de services d'investissement ou
+d'un intermédiaire habilité en vue de la conservation ou de l'administration d'instruments financiers tout renseignement
+concernant l'application par ce prestataire ou cet intermédiaire des dispositions du titre III du livre V du présent code ou
+du règlement général de l'Autorité des marchés financiers relatives aux règles de bonne conduite ou aux conditions d'exercice
+des activités de conservation ou d'administration d'instruments financiers.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 113
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -38534,191 +40739,22 @@ _Cité par_:
   - Code monétaire et financier - art. L533-1 (M)
   - Code monétaire et financier - art. L621-26-1 (Ab)
 
-_Cite_:
-
-  - Code monétaire et financier - art. L321-1 (M)
-  - Code monétaire et financier - art. L532-1 (M)
-  - Code monétaire et financier - art. L532-12 (M)
-  - Code monétaire et financier - art. L623-1 (Ab)
-
 _Anciens textes_:
 
   - Code monétaire et financier - art. L622-12 (T)
 
 
-###### Article L621-26
-
-Les personnes placées sous l'autorité ou agissant pour le compte des prestataires de services d'investissement agréés pour
-exercer le service mentionné au 4 de l'article L. 321-1 ou des sociétés de gestion de portefeuille sont passibles des
-sanctions prononcées par la Commission des opérations de bourse à raison des manquements à leurs obligations
-professionnelles, définies par les lois et règlements en vigueur.
-
-La Commission des opérations de bourse agit soit d'office, soit à la demande du Gouverneur de la Banque de France, président
-de la commission bancaire, soit à la demande du président du conseil des marchés financiers. Elle statue par décision
-motivée. Aucune sanction ne peut être prononcée sans que les personnes en cause aient été entendues ou, à défaut, dûment
-appelées.
-
-Les sanctions applicables sont l'avertissement, le blâme et le retrait temporaire ou définitif de la carte professionnelle.
-En outre, la Commission des opérations de bourse peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire dont le montant ne peut être supérieur à 60000 euros ou au triple du montant des profits éventuellement réalisés.
-Les sommes sont versées au Trésor public.
-
-En cas d'urgence, les personnes mentionnées au présent article contre lesquelles des procédures sont engagées peuvent être
-suspendues d'activité par la Commission des opérations de bourse.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L321-1 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L621-26-1 (Ab)
-
-
-###### Article L621-26-1
-
-Les articles L. 621-25 et L. 621-26 sont applicables aux sociétés de gestion des sociétés civiles de placement immobilier et
-des sociétés d'épargne forestière ainsi qu'aux personnes agissant sous leur autorité ou pour leur compte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Créé par_:
-
-  - Loi n°2001-602 2001-07-09 art. 9 V 8° JORF 11 juillet 2001
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L621-25 (M)
-  - Code monétaire et financier - art. L621-26 (M)
-
-
-###### Article L621-27
-
-La Commission des opérations de bourse informe, le cas échéant, la Commission européenne et les autorités compétentes des
-autres États membres de la Communauté européenne des décisions qu'elle prend en application de la présente section.
-
-Elle peut également rendre publiques ces décisions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 71 IV
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-##### Section 6 : Comité consultatif de la gestion financière<a id=426></a>
-
-###### Article L621-28
-
-Le comité consultatif de la gestion financière comprend sept membres nommés pour quatre ans, par arrêté du ministre chargé de
-l'économie.
-
-Ce comité est composé de la façon suivante :
-
-1. Un membre de la Commission des opérations de bourse, président, désigné sur proposition de cette commission ;
-
-2. Deux membres du Conseil des marchés financiers désignés sur proposition de ce conseil ;
-
-3. Quatre dirigeants de sociétés de gestion nommés après consultation de la profession.
-
-Des membres suppléants sont nommés dans les mêmes conditions.
-
-Toute personne qui participe aux travaux de ce comité est tenue au secret professionnel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 16 I
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L642-2 (M)
-
-
-###### Article L621-29
-
-Le comité consultatif de la gestion financière émet un avis sur l'agrément délivré par la Commission des opérations de
-bourse, concernant les sociétés de gestion de portefeuille.
-
-Il émet également un avis sur l'approbation des programmes d'activité délivrée par la Commission des opérations de bourse en
-application de l'article L. 532-1.
-
-Le comité est consulté par la Commission des opérations de bourse pour l'établissement du règlement visé au dernier alinéa de
-l'article L. 532-9 ainsi que pour toute disposition de caractère réglementaire touchant aux activités de gestion de
-portefeuille.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 16 II
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L532-1 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L532-9 (M)
-
-
-##### Section 7 : Voies de recours<a id=427></a>
+##### Section 6 : Voies de recours<a id=436></a>
 
 ###### Article L621-30
 
-Relève de la compétence du juge judiciaire l'examen des recours contre les décisions de la Commission des opérations de
-bourse, autres que les sanctions prononcées en application des articles L. 621-24 à L. 621-27, les décisions ayant un
-caractère réglementaire et celles relatives à l'agrément des organismes de placement collectif en valeurs mobilières, des
-gérants de portefeuille ou des sociétés de gestion de sociétés civiles de placement immobilier. Le recours n'est pas
-suspensif ; toutefois, le premier président de la cour d'appel de Paris peut ordonner qu'il soit sursis à l'exécution de la
-décision si celle-ci est susceptible d'entraîner des conséquences manifestement excessives.
+L'examen des recours formés contre les décisions individuelles de l'Autorité des marchés financiers autres que celles, y
+compris les sanctions prononcées à leur encontre, relatives aux personnes et entités mentionnées au II de l'article L. 621-9
+est de la compétence du juge judiciaire. Ces recours n'ont pas d'effet suspensif sauf si la juridiction en décide autrement.
+Dans ce cas, la juridiction saisie peut ordonner qu'il soit sursis à l'exécution de la décision contestée si celle-ci est
+susceptible d'entraîner des conséquences manifestement excessives.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -38730,6 +40766,12 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 20 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 _Cité par_:
 
   - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (M)
@@ -38739,1203 +40781,24 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier L621-24 à L621-27
+  - Code monétaire et financier - art. L621-9 (M)
 
 
-###### Article L621-31
+### Titre III : Échanges d'informations<a id=437></a>
 
-Les personnes sanctionnées en application des articles L. 621-24 à L. 621-27 peuvent former un recours de pleine juridiction
-devant le Conseil d'Etat.
+#### Chapitre Ier : Echanges d'informations sur le territoire national<a id=438></a>
 
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 71 V
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 2003-08-01 art. 47 I 1° JORF 2 août 2003
-
-_Cité par_:
-
-  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
-  - Arrêté du 12 novembre 2004 - art. 329-1 (Ab)
-  - Arrêté du 12 novembre 2004 - art. 339-1 (V)
-  - Arrêté du 14 décembre 2016 - art.
-  - Code monétaire et financier - art. L621-32 (M)
-
-_Cite_:
-
-  - Code monétaire et financier L621-24 à L621-27
-
-
-#### Chapitre II : Conseil des marchés financiers<a id=428></a>
-
-##### Section 1 : Organisation<a id=429></a>
-
-##### Sous-section 1 : Composition et mode de décision<a id=430></a>
-
-###### Article L622-1
-
-Le Conseil des marchés financiers est une autorité professionnelle dotée de la personnalité morale.
-
-Le conseil comprend seize membres nommés par arrêté du ministre chargé de l'économie, pour une durée de quatre ans. Leur
-mandat est renouvelable une fois.
-
-Quatorze membres sont nommés après consultation des organisations professionnelles ou syndicales représentatives :
-
-1. Six représentent les intermédiaires de marché, dont deux au moins les entreprises d'investissement ;
-
-2. Un membre représente les marchés de marchandises ;
-
-3. Trois représentent les sociétés industrielles et commerciales dont les titres sont admis aux négociations sur un marché
-réglementé ;
-
-4. Trois représentent les investisseurs, dont un les gestionnaires pour compte de tiers ;
-
-5. Un représente les salariés des entreprises ou établissements prestataires de services d'investissement, les salariés des
-entreprises de marché et ceux des chambres de compensation.
-
-Deux membres sont choisis parmi des personnalités qualifiées en matière financière.
-
-Le président du Conseil des marchés financiers est élu, en son sein, par les membres du conseil. Mention est faite de cette
-élection au Journal officiel de la République française.
-
-Selon des modalités définies par décret en Conseil d'Etat, le conseil est renouvelé par moitié tous les deux ans.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 27 al. 1 à al. 5
-  - Loi n°96-597 du 2 juillet 1996 - art. 27 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
-
-
-###### Article L622-2
-
-Les décisions du Conseil des marchés financiers sont prises à la majorité. En cas de partage égal des voix, le président a
-voix prépondérante.
-
-Un représentant de la Banque de France peut assister aux délibérations du conseil sans voix délibérative. Il peut également
-siéger, dans les mêmes conditions, dans les formations spécialisées.
-
-Un commissaire du Gouvernement est désigné par le ministre chargé de l'économie. Il participe également aux formations
-disciplinaires prévues à l'article L. 622-4. En tant que de besoin, le ministre peut nommer un commissaire du Gouvernement
-auprès de chacune des formations spécialisées du conseil, mentionnées à l'article L. 622-3. Le commissaire du Gouvernement
-n'a pas voix délibérative. Il peut, en toute matière, demander une deuxième délibération dans des conditions fixées par
-décret en Conseil d'Etat.
-
-Préalablement à ses délibérations, le conseil peut entendre des personnalités qualifiées.
-
-En cas d'urgence constatée par son président, le conseil peut, sauf en matière disciplinaire, statuer par voie de
-consultation écrite.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article et, notamment, les règles de majorité, de
-quorum et de représentation d'un membre absent, ainsi que les modalités de déroulement des consultations écrites.
-
-Le conseil peut, dans des conditions et limites fixées par son règlement général, déléguer au président ou à son
-représentant, membre du conseil, le pouvoir de prendre, à l'égard des organismes soumis à son contrôle et sous réserve de
-l'information préalable du commissaire du Gouvernement, des décisions de portée individuelle, sauf en matière disciplinaire.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 27 al. 6 à al. 10, art. 27-1, art. 35 al. 2
-  - Loi n°96-597 du 2 juillet 1996 - art. 27-1 (Ab)
-  - Loi n°96-597 du 2 juillet 1996 - art. 27 (Ab)
-  - Loi n°96-597 du 2 juillet 1996 - art. 35 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L622-3 (Ab)
-  - Code monétaire et financier - art. L622-4 (Ab)
-
-
-##### Sous-section 2 : Formations spécialisées<a id=431></a>
-
-###### Article L622-3
-
-Pour l'exercice de ses attributions, autres que celles correspondant à l'application des articles L. 433-1 à L. 433-4, le
-Conseil des marchés financiers peut, en statuant à la majorité des deux tiers des membres le composant, constituer en son
-sein des formations spécialisées.
-
-Ces formations préparent et instruisent les décisions du conseil. Elles sont présidées par le président du Conseil des
-marchés financiers, membre de droit, ou par un membre délégué par lui à cet effet, avec voix prépondérante en cas de partage
-des voix.
-
-Les modalités de fonctionnement et les attributions de ces formations spécialisées sont fixées par le règlement général du
-Conseil des marchés financiers.
-
-En tant que de besoin, le conseil peut proposer au ministre chargé de l'économie de nommer par arrêté des experts qui
-participent, avec voix délibérative et pour une durée déterminée, aux réunions des formations spécialisées.
-
-Outre la présence des experts, le président d'une formation spécialisée peut inviter des personnalités qualifiées à
-participer, à titre consultatif, aux travaux de cette formation.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 28 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L622-2 (Ab)
-
-_Cite_:
-
-  - Code monétaire et financier L433-1 à L433-4
-
-
-##### Sous-section 3 : Formations disciplinaires<a id=432></a>
-
-###### Article L622-4
-
-Le Conseil des marchés financiers constitue, parmi ses membres, des formations disciplinaires.
-
-Elles sont présidées par le président du Conseil des marchés financiers, membre de droit, ou par un membre délégué par lui à
-cet effet, avec voix prépondérante en cas de partage des voix. Les formations disciplinaires comprennent six membres dont le
-représentant des salariés.
-
-Ces formations exercent les attributions disciplinaires dévolues au Conseil des marchés financiers en application des
-dispositions du présent chapitre.
-
-Un décret en Conseil d'Etat précise les règles de fonctionnement des formations disciplinaires.
-
-Il est fait rapport au conseil des décisions prises par les formations disciplinaires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 29 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L613-29 (M)
-  - Code monétaire et financier - art. L622-2 (Ab)
-
-
-##### Sous-section 4 : Obligations déontologiques et professionnelles<a id=433></a>
-
-###### Article L622-5
-
-Tout membre du conseil doit informer le président des intérêts qu'il détient ou vient à détenir et des fonctions qu'il exerce
-ou vient à exercer dans une activité économique ou financière ainsi que de tout mandat qu'il détient ou vient à détenir au
-sein d'une personne morale. Ces informations, ainsi que celles concernant le président, sont tenues à la disposition des
-membres du conseil.
-
-Aucun membre du conseil ne peut délibérer dans une affaire dans laquelle lui-même ou, le cas échéant, une personne morale au
-sein de laquelle il exerce des fonctions ou détient un mandat a un intérêt. Il ne peut davantage participer à une
-délibération concernant une affaire dans laquelle lui-même ou, le cas échéant, une personne morale au sein de laquelle il
-exerce des fonctions ou détient un mandat a représenté une des parties intéressées au cours des dix-huit mois précédant la
-délibération.
-
-Le président du Conseil des marchés financiers prend les mesures appropriées pour assurer le respect des obligations et
-interdictions résultant des deux alinéas précédents.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 30 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-###### Article L622-6
-
-Les membres ainsi que les salariés et préposés du Conseil des marchés financiers sont tenus au secret professionnel dans les
-conditions et sous les peines prévues à l'article L. 642-4.
-
-Les experts et les personnes consultées sont tenus au secret professionnel dans les mêmes conditions et sous les mêmes
-peines.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 31 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L642-4 (Ab)
-
-
-##### Section 2 : Attributions<a id=434></a>
-
-##### Sous-section 1 : Attributions réglementaires<a id=435></a>
-
-###### Article L622-7
-
-I. - Le règlement général du Conseil des marchés financiers est homologué par arrêté du ministre chargé de l'économie, après
-avis de la Commission des opérations de bourse et de la Banque de France. Cet arrêté, auquel le règlement général du conseil
-est annexé, est publié au Journal officiel de la République française.
-
-II. - Concernant les prestataires de services d'investissement, les entreprises de marché et les chambres de compensation, le
-règlement général détermine :
-
-1. Les règles de bonne conduite que ces personnes sont tenues de respecter à tout moment, à l'exception de celles relatives
-au service défini au 4 de l'article L. 321-1 ; ces règles doivent tenir compte de la compétence professionnelle de la
-personne à laquelle le service d'investissement est rendu ;
-
-2. Les conditions d'exercice, par les prestataires de services d'investissement, des services définis à l'article L. 321-2
-ainsi que les fonctions de compensateur et de teneur de compte ;
-
-3. Les conditions dans lesquelles peut être délivrée ou retirée une carte professionnelle aux personnes physiques placées
-sous l'autorité ou agissant pour le compte de ces prestataires et entreprises ainsi que du Conseil des marchés financiers ;
-
-4. Les conditions dans lesquelles le Conseil des marchés financiers, en application de l'article L. 442-1, approuve les
-règles des chambres de compensation ;
-
-5. Les conditions dans lesquelles sont effectués les contrôles que le Conseil des marchés financiers exerce en application
-des dispositions du chapitre 3 du titre 2 du livre V du présent code ainsi que des dispositions du présent chapitre ;
-
-6. Les règles applicables aux personnes mentionnées à l'article L. 532-18 ;
-
-7. Les conditions dans lesquelles certains prestataires de services d'investissement peuvent intervenir en qualité de non-
-ducroire ;
-
-8. Les conditions dans lesquelles certaines personnes physiques ou morales peuvent être habilitées à fournir des services
-mentionnés aux 2 et 3 de l'article L. 321-1 sur un marché réglementé sans avoir la qualité de prestataire de services
-d'investissement ;
-
-III. - Concernant spécifiquement les marchés réglementés, le règlement général détermine :
-
-1. Les principes généraux d'organisation et de fonctionnement que doivent respecter les marchés réglementés, ainsi que les
-règles relatives à l'exécution, au compte rendu et à la publicité des transactions sur instruments financiers admis sur ces
-marchés ;
-
-2. Les conditions dans lesquelles le Conseil des marchés financiers, en application des articles L. 421-1 et L. 421-3,
-propose la reconnaissance ou le retrait de la qualité de marché réglementé d'instruments financiers ;
-
-3. Les conditions de dérogation à l'obligation prévue à l'article L. 421-12.
-
-IV. - Le règlement général détermine également :
-
-1. Les modalités du fonctionnement administratif et financier du Conseil des marchés financiers ;
-
-2. Les conditions d'exercice des activités de conservation et d'administration d'instruments financiers par les personnes
-morales qui effectuent des opérations par appel public à l'épargne et les intermédiaires habilités à ce titre par le Conseil
-des marchés financiers ;
-
-3. Les conditions d'habilitation, par le Conseil des marchés financiers, des dépositaires centraux ainsi que les conditions
-dans lesquelles le conseil approuve leurs règles de fonctionnement ;
-
-4. Les principes généraux d'organisation et de fonctionnement des systèmes de règlement et de livraison d'instruments
-financiers et les conditions dans lesquelles le Conseil des marchés financiers approuve les règles de fonctionnement de ces
-systèmes, sans préjudice des compétences conférées à la Banque de France par l'article L. 141-4.
-
-Les règlements généraux du conseil des bourses de valeurs et du conseil du marché à terme demeurent applicables. Ils peuvent
-être modifiés ou abrogés par le Conseil des marchés financiers dans les conditions prévues au présent article ou, le cas
-échéant, par le comité de la réglementation bancaire et financière dans les conditions prévues aux articles L. 611-1 et L.
-611-7.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code monétaire et financier annexe, L321-1, L321-2, L442-1, L532-18, L421-1, L421-3, L421-12, L141-4, L611-1, L611-7
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 32 et art. 106
-  - Loi n°96-597 du 2 juillet 1996 - art. 106 (Ab)
-  - Loi n°96-597 du 2 juillet 1996 - art. 32 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L330-1 (V)
-  - Code monétaire et financier - art. L441-2 (Ab)
-
-
-##### Sous-section 2 : Pouvoirs de décision, de contrôle et de sanction<a id=436></a>
-
-###### Article L622-8
-
-Le Conseil des marchés financiers peut, pour l'application de son règlement général et l'exercice de ses autres compétences
-définies par le présent chapitre, prendre des décisions de portée générale ou individuelle.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 36 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-###### Article L622-9
-
-I. - Le Conseil des marchés financiers veille, par des contrôles sur pièces et sur place, au respect par les prestataires de
-services d'investissement exerçant leur activité en France, les intermédiaires habilités en vue de la conservation ou de
-l'administration d'instruments financiers, les dépositaires centraux, les membres des marchés réglementés mentionnés à
-l'article L. 421-8, les entreprises de marché et les chambres de compensation des obligations professionnelles auxquelles ils
-sont astreints en vertu du présente code et du règlement général du Conseil des marchés financiers. Ce contrôle s'exerce sous
-réserve des compétences de la commission bancaire et, en matière de contrôle des personnes fournissant le service mentionné
-au 4 de l'article L. 321-1, de la Commission des opérations de bourse.
-
-Le Conseil des marchés financiers veille également à la régularité des opérations effectuées sur un marché réglementé.
-
-II. - Le conseil peut déléguer le contrôle de l'activité et des opérations effectuées par les membres d'un marché réglementé
-ainsi que par les prestataires de services d'investissement ayant transmis des ordres sur ce marché, aux entreprises de
-marché et, le cas échéant, aux chambres de compensation. Cette délégation doit faire l'objet d'un protocole d'accord. Elle
-peut être retirée à tout moment.
-
-Le Conseil des marchés financiers peut recourir, pour le contrôle des prestataires de services d'investissement, et dans la
-limite de leurs activités de services d'investissement ou de services connexes, à des corps de contrôle extérieurs, aux
-commissaires aux comptes desdits prestataires, à des experts inscrits sur une liste d'experts judiciaires ou à des personnes
-ou autorités compétentes dans le domaine des services d'investissement ou des services connexes. Les commissaires aux comptes
-sont autorisés à percevoir une rémunération du conseil au titre des contrôles. Un décret en Conseil d'Etat précise les
-conditions d'application du présent alinéa.
-
-Le Conseil des marchés financiers et les organismes mentionnés à l'article L. 441-1 et à l'article L. 442-1 communiquent à la
-Commission des opérations de bourse tout fait susceptible d'être contraire à ses règlements, ainsi que les éléments
-nécessaires à son appréciation, qu'ils ont relevé dans l'accomplissement de leurs missions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 67 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Modifié par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 16 () JORF 16 mai 2001
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L321-1 (M)
-  - Code monétaire et financier - art. L421-8 (M)
-  - Code monétaire et financier - art. L441-1 (M)
-  - Code monétaire et financier - art. L442-1 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L622-10 (Ab)
-  - Code monétaire et financier - art. L622-14 (Ab)
-  - Code monétaire et financier - art. L642-5 (Ab)
-
-
-###### Article L622-10
-
-Dans le cadre des contrôles mentionnés à l'article L. 622-9, le secret professionnel ne peut être opposé au Conseil des
-marchés financiers ni, le cas échéant, aux corps de contrôle, personnes ou autorités mentionnés au troisième alinéa du II de
-l'article L. 622-9 aux entreprises de marché ou aux chambres de compensation lorsque celles-ci assistent, par délégation, le
-conseil.
-
-Pour l'application du présent article, les commissaires aux comptes sont déliés du secret professionnel à l'égard du Conseil
-des marchés financiers.
-
-Toute personne qui participe ou a participé aux contrôles mentionnés au premier alinéa du I de l'article L. 622-9 est tenue
-au secret professionnel. Toutefois, ce secret n'est pas opposable à l'autorité judiciaire agissant dans le cadre d'une
-procédure pénale.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 67 III
-  - Loi n°96-597 du 2 juillet 1996 - art. 67 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L622-9 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L642-5 (Ab)
-
-
-###### Article L622-11
-
-Les commissaires aux comptes sont tenus de signaler dans les meilleurs délais au conseil tout fait ou décision concernant un
-prestataire de services d'investissement ou un intermédiaire habilité en vue de la conservation ou de l'administration
-d'instruments financiers, dont ils ont eu connaissance dans l'exercice de leur mission et de nature à constituer une
-violation des dispositions du règlement général du Conseil des marchés financiers relatives aux règles de bonne conduite ou
-aux conditions d'exercice des activités de conservation ou d'administration d'instruments financiers. Le Conseil des marchés
-financiers peut également transmettre aux commissaires aux comptes des prestataires de services d'investissement les
-informations nécessaires à l'accomplissement de leur mission. Les informations ainsi transmises sont couvertes par la règle
-du secret professionnel.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 67 IV
-  - Loi n°96-597 du 2 juillet 1996 - art. 67 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Transféré par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 113
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L621-24 (M)
-
-
-###### Article L622-12
-
-Le Conseil des marchés financiers peut demander aux commissaires aux comptes d'un prestataire de services d'investissement ou
-d'un intermédiaire habilité en vue de la conservation ou de l'administration d'instruments financiers tout renseignement
-concernant l'application par ce prestataire ou cet intermédiaire des dispositions du titre III du livre V du présent code ou
-du règlement général du Conseil des marchés financiers relatives aux règles de bonne conduite ou aux conditions d'exercice
-des activités de conservation ou d'administration d'instruments financiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 67 V
-  - Loi n°96-597 du 2 juillet 1996 - art. 67 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Transféré par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 113
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L621-25 (M)
-
-
-###### Article L622-13
-
-Le Conseil des marchés financiers est chargé d'assurer le respect, par les prestataires de services d'investissement
-mentionnés à l'article L. 532-18, des dispositions législatives et réglementaires qui leur sont applicables, à l'exception
-des normes de gestion mentionnées à l'article L. 611-3.
-
-Le conseil examine les conditions d'exercice de leurs activités et les résultats de celles-ci en tenant compte de la
-surveillance exercée par les autorités compétentes de l'Etat d'origine.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 79 II
-  - Loi n°96-597 du 2 juillet 1996 - art. 79 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L532-18 (M)
-  - Code monétaire et financier - art. L611-3 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L622-14 (Ab)
-  - Code monétaire et financier - art. L726-4 (Ab)
-  - Code monétaire et financier - art. L736-6 (Ab)
-  - Code monétaire et financier - art. L746-6 (Ab)
-  - Code monétaire et financier - art. L756-6 (Ab)
-  - Code monétaire et financier - art. L766-6 (Ab)
-
-
-###### Article L622-14
-
-Un décret en Conseil d'Etat détermine les procédures que suit le Conseil des marchés financiers dans l'exercice des
-compétences qui lui sont dévolues par les articles L. 532-19 et L. 622-13 ainsi que les conditions dans lesquelles il peut
-recourir à des personnes ou services de contrôle extérieurs en application de l'article L. 622-9.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 79 IV
-  - Loi n°96-597 du 2 juillet 1996 - art. 79 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L532-19 (M)
-  - Code monétaire et financier - art. L622-13 (Ab)
-  - Code monétaire et financier - art. L622-9 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L726-4 (Ab)
-
-
-###### Article L622-15
-
-Lorsqu'un prestataire de services d'investissement, ou un membre d'un marché réglementé mentionné à l'article L. 421-8, une
-entreprise de marché ou une chambre de compensation a manqué à ses obligations professionnelles définies par les lois et
-règlements en vigueur, le Conseil des marchés financiers, après avoir mis leurs dirigeants en mesure de présenter leurs
-explications, peut leur adresser une mise en garde.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 69 I
-  - Loi n°96-597 du 2 juillet 1996 - art. 69 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L421-8 (M)
-
-
-###### Article L622-16
-
-I. - Sans préjudice des dispositions de l'article L. 613-21, les prestataires de services d'investissement, les membres d'un
-marché réglementé, les entreprises de marché et les chambres de compensation sont passibles des sanctions prononcées par le
-Conseil des marchés financiers à raison des manquements à leurs obligations professionnelles, définies par les lois et
-règlements en vigueur.
-
-II. - En matière disciplinaire, le conseil agit soit d'office, soit à la demande du commissaire du Gouvernement, soit à la
-demande du président de la Commission des opérations de bourse, soit à la demande du gouverneur de la Banque de France,
-président de la commission bancaire, soit à la demande d'une entreprise de marché ou d'une chambre de compensation. Il
-statue, en cette matière, par décision motivée. Aucune sanction ne peut être prononcée sans que la personne physique
-concernée ou que le représentant légal du prestataire de services d'investissement, du membre d'un marché réglementé, de
-l'entreprise de marché ou de la chambre de compensation ait été entendu ou, à défaut, dûment appelé.
-
-III. - Les sanctions applicables sont l'avertissement, le blâme, l'interdiction à titre temporaire ou définitif de l'exercice
-de tout ou partie des services fournis. Ces interdictions emportent, selon le cas, suspension ou retrait de l'autorisation
-prévue à l'article L. 532-1 pour le service concerné.
-
-En outre, le Conseil des marchés financiers peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire dont le montant ne peut être supérieur à 750000 euros ou au décuple du montant des profits éventuellement
-réalisés. Les sommes sont versées au fonds de garantie auquel est affiliée la personne sanctionnée ou, à défaut, au Trésor
-public.
-
-IV. - La commission bancaire et le comité des établissements de crédit et des entreprises d'investissement sont informés de
-toute mesure d'interdiction à titre temporaire ou définitif de tout ou partie des activités.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 69 (Ab)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L532-1 (M)
-  - Code monétaire et financier - art. L613-21 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L622-17 (Ab)
-
-
-###### Article L622-17
-
-Les personnes placées sous l'autorité ou agissant pour le compte des personnes mentionnées au I de l'article L. 622-16 sont
-passibles des sanctions prononcées par le Conseil des marchés financiers à raison des manquements à leurs obligations
-professionnelles, définies par les lois et règlements en vigueur.
-
-Le conseil agit soit d'office, soit à la demande du commissaire du Gouvernement, soit à la demande du président de la
-Commission des opérations de bourse, soit à la demande du gouverneur de la Banque de France, président de la commission
-bancaire, soit à la demande d'une entreprise de marché ou d'une chambre de compensation. Il statue par décision motivée.
-Aucune sanction ne peut être prononcée sans que les personnes en cause aient été entendues ou, à défaut, dûment appelées.
-
-Les sanctions applicables sont l'avertissement, le blâme et le retrait temporaire ou définitif de la carte professionnelle.
-En outre, le Conseil des marchés financiers peut prononcer, soit à la place, soit en sus de ces sanctions, une sanction
-pécuniaire dont le montant ne peut être supérieur à 60000 euros ou au triple du montant des profits éventuellement réalisés.
-Les sommes sont versées au fonds de garantie auquel est affiliée la personne morale sous l'autorité ou pour le compte de qui
-agit la personne sanctionnée ou, à défaut, au Trésor public.
-
-En cas d'urgence, les personnes mentionnées au présent article contre lesquelles des procédures sont engagées peuvent être
-suspendues d'activité par le Conseil des marchés financiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 69 (Ab)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L622-16 (M)
-
-
-###### Article L622-18
-
-Le Conseil des marchés financiers informe, le cas échéant, la Commission européenne et les autorités compétentes des autres
-Etats membres de la Communauté européenne des décisions qu'il prend en application des articles L. 622-15 à L. 622-17.
-
-Il peut également rendre publiques ces décisions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 69 IV
-  - Loi n°96-597 du 2 juillet 1996 - art. 69 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier L622-15 à L622-17
-
-
-###### Article L622-19
-
-Les activités de conservation ou d'administration d'instruments financiers ainsi que celle de dépositaire central sont
-soumises aux dispositions des articles L. 622-9 à L. 622-12, L. 622-15 à L. 622-18 et L. 631-1.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 69-1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L631-1 (M)
-  - Code monétaire et financier L622-9 à L622-12, L622-15 à L622-18, L631-1
-
-
-###### Article L622-20
-
-Toute infraction aux lois et règlements concernant le démarchage ainsi que tout manquement à leurs obligations
-professionnelles, donne lieu, à l'encontre des personnes mentionnées à l'article L. 343-3, à des sanctions disciplinaires
-prononcées par le Conseil des marchés financiers.
-
-Le conseil statue par décision motivée. Aucune sanction ne peut être prononcée sans que l'intéressé ait été entendu ou, à
-défaut, dûment appelé.
-
-Les sanctions sont l'avertissement, le blâme, le retrait de la carte d'emploi délivrée en application de l'article L. 343-3.
-
-Le Conseil des marchés financiers peut également infliger des sanctions pécuniaires dont le montant ne peut être supérieur à
-30000 euros. Le produit en est versé aux fonds de garantie mentionnés à l'article L. 533-13 ou, à défaut, au Trésor public.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°1885-03-28 du 28 mars 1885 - art. 15 (Ab)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L343-3 (Ab)
-  - Code monétaire et financier - art. L533-13 (M)
-
-
-###### Article L622-20-1
-
-Lorsqu'il constate une pratique contraire aux dispositions prises en application du chapitre III du titre III du livre IV du
-présent code, le président du Conseil des marchés financiers peut, sans préjudice d'autres instances qu'il pourrait engager,
-demander en justice qu'il soit ordonné à la personne qui en est responsable de se conformer à ces dispositions, de mettre fin
-à l'irrégularité ou d'en supprimer les effets.
-
-La demande est portée devant le président du tribunal de grande instance de Paris qui statue en la forme des référés et dont
-la décision est exécutoire par provision. Le président du tribunal est compétent pour connaître des exceptions d'illégalité.
-Il peut prendre, même d'office, toute mesure conservatoire et prononcer pour l'exécution de son ordonnance une astreinte
-versée au Trésor public.
-
-Lorsque la pratique relevée est passible de sanctions pénales, le conseil informe le procureur de la République de la mise en
-oeuvre de la procédure devant le président du tribunal de grande instance de Paris.
-
-En cas de poursuite pénale, l'astreinte, si elle a été prononcée, n'est liquidée qu'après que la décision sur l'action
-publique est devenue définitive.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Créé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 15 () JORF 16 mai 2001
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-##### Sous-section 3 : Autres attributions<a id=437></a>
-
-###### Article L622-21
-
-A la demande d'un ou plusieurs prestataires de services d'investissement ou d'une association professionnelle de prestataires
-de services d'investissement, le Conseil des marchés financiers peut, après avis de la Banque de France et de la Commission
-des opérations de bourse, certifier des contrats types d'opérations sur instruments financiers.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 37 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Transféré par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L532-18 (M)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. L621-18-1 (M)
-
-
-###### Article L622-22
-
-Le ministre chargé de l'économie, le président de la Commission des opérations de bourse et le gouverneur de la Banque de
-France, président de la commission bancaire, peuvent saisir le Conseil des marchés financiers de toute question relevant de
-ses attributions.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 35 al. 1
-  - Loi n°96-597 du 2 juillet 1996 - art. 35 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-###### Article L622-23
-
-En cas de carence du Conseil des marchés financiers, les mesures nécessitées par les circonstances sont prises d'urgence par
-décret.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 35 al. 3
-  - Loi n°96-597 du 2 juillet 1996 - art. 35 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-###### Article L622-24
-
-Le Conseil des marchés financiers publie chaque année un rapport d'activité auquel sont annexés ses comptes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 38 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-##### Section 3 : Voies de recours<a id=438></a>
-
-###### Article L622-25
-
-L'examen des recours formés contre les décisions individuelles du Conseil des marchés financiers autres que celles prises en
-matière disciplinaire, ou pour l'approbation du programme d'activité prévue au deuxième alinéa de l'article L. 532-1 est de
-la compétence du juge judiciaire.
-
-Les recours mentionnés à l'alinéa précédent n'ont pas d'effet suspensif. Toutefois, la juridiction saisie peut ordonner qu'il
-soit sursis à l'exécution de la décision contestée.
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 39 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L532-1 (M)
-
-
-#### Chapitre III : Conseil de discipline de la gestion financière<a id=439></a>
-
-##### Section 1 : Composition<a id=440></a>
-
-###### Article L623-1
-
-Le conseil de discipline de la gestion financière comprend neuf membres nommés pour quatre ans :
-
-1. Un président désigné par le vice-président du Conseil d'Etat ;
-
-2. Le président d'une association représentant les organismes de placement collectif en valeurs mobilières, désignée par
-arrêté du ministre chargé de l'économie ;
-
-3. Deux membres nommés par arrêté du ministre chargé de l'économie, sur proposition de l'association susvisée ;
-
-4. Un membre nommé par arrêté du ministre chargé de l'économie, sur proposition du Conseil des marchés financiers ;
-
-5. Deux membres nommés par arrêté du ministre chargé de l'économie après consultation, respectivement, de l'organisme
-représentatif des établissements de crédit et des entreprises d'investissement et d'une association représentant les sociétés
-d'assurance désignée par arrêté du ministre chargé de l'économie ;
-
-6. Un représentant des salariés des prestataires de services d'investissement agréés pour fournir le service d'investissement
-mentionné au 4 de l'article L. 321-1 nommé par arrêté du ministre chargé de l'économie après consultation des organisations
-syndicales représentatives ;
-
-7. Un membre désigné par le président de la Commission des opérations de bourse.
-
-Des membres suppléants sont désignés dans les mêmes conditions.
-
-En cas de partage des voix, le président a voix prépondérante.
-
-Le remplacement d'un membre dont le mandat est interrompu est effectué pour la durée du mandat restant à courir.
-
-Un commissaire du Gouvernement est nommé par le ministre chargé de l'économie.
-
-Les membres du conseil sont tenus au secret professionnel dans les conditions et sous les peines prévues à l'article L.
-642-6.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1201 du 23 décembre 1988 - art. 33-1 (M)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L321-1 (M)
-  - Code monétaire et financier - art. L642-6 (Ab)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L621-25 (M)
-
-
-##### Section 2 : Exercice du pouvoir disciplinaire<a id=441></a>
-
-###### Article L623-2
-
-Toute infraction aux lois et règlements applicables aux organismes de placement collectif en valeurs mobilières et au service
-d'investissement mentionné au 4 de l'article L321-1, tout manquement aux règles de pratique professionnelle de nature à nuire
-à l'intérêt des actionnaires ou des porteurs de parts ou des mandants, donne lieu à des sanctions disciplinaires prononcées
-par le conseil de discipline de la gestion financière.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1201 du 23 décembre 1988 - art. 33-1 (M)
-  - Loi n°88-1201 du 23 décembre 1988 - art. 33-1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Créé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code monétaire et financier - art. L321-1 (M)
-
-
-###### Article L623-3
-
-Le conseil agit soit d'office, soit à la demande de la Commission des opérations de bourse ou du commissaire du Gouvernement.
-
-Il statue par décision motivée. Aucune sanction ne peut être prononcée sans que les personnes concernées aient été entendues
-ou, à défaut, dûment appelées. Les intéressés peuvent se faire assister d'un conseil.
-
-Les décisions du conseil de discipline sont communiquées aux intéressés et à la Commission des opérations de bourse qui
-peuvent former un recours de pleine juridiction devant le Conseil d'Etat dans un délai de deux mois à compter de cette
-communication.
-
-Dans le délai de trois jours suivant une délibération du conseil de discipline, la Commission des opérations de bourse peut
-demander une deuxième délibération.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1201 du 23 décembre 1988 - art. 33-3 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cité par_:
-
-  - Code de justice administrative - art. L311-4 (V)
-
-
-###### Article L623-4
-
-Les sanctions sont l'avertissement, le blâme et l'interdiction à titre temporaire ou définitif de tout ou partie des
-activités. Le conseil peut également prononcer des sanctions pécuniaires dont le montant ne peut être supérieur à 750000
-euros ni au décuple du montant des profits éventuellement réalisés.
-
-Les sommes sont versées au Trésor public.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1201 du 23 décembre 1988 - art. 33-4 (Ab)
-
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-
-### Titre III : Échanges d'informations<a id=442></a>
-
-#### Chapitre Ier : Echanges d'informations sur le territoire national<a id=443></a>
-
-##### Section 1 : Echange d'informations entre les autorités<a id=444></a>
+##### Section 1 : Echange d'informations entre les autorités<a id=439></a>
 
 ###### Article L631-1
 
 Les échanges d'informations entre autorités de surveillance sont régis par les dispositions ci-après :
 
 Sont autorisés à se communiquer les renseignements nécessaires à l'accomplissement de leurs missions respectives la Banque de
-France, le comité des établissements de crédit et des entreprises d'investissement, la commission bancaire, la commission de
-contrôle des assurances, la commission de contrôle instituée par l'article L. 951-1 du code de la sécurité sociale, la
-Commission des opérations de bourse, le fonds de garantie des dépôts institué par l'article L. 312-4, le fonds de garantie
-institué par l'article L. 423-1 du code des assurances, le Conseil des marchés financiers, le conseil de discipline de la
-gestion financière, les entreprises de marché et les chambres de compensation.
+France, le comité des établissements de crédit et des entreprises d'investissement, la commission bancaire, la Commission de
+contrôle des assurances, des mutuelles et des institutions de prévoyance, le Comité des entreprises d'assurance, l'Autorité
+des marchés financiers, le fonds de garantie des dépôts institué par l'article L. 312-4, le fonds de garantie institué par
+l'article L. 423-1 du code des assurances, les entreprises de marché et les chambres de compensation.
 
 Les renseignements ainsi recueillis sont couverts par le secret professionnel en vigueur dans les conditions applicables à
 l'organisme qui les a communiqués et à l'organisme destinataire.
@@ -39979,30 +40842,33 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 29 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
 _Cite_:
 
   - Code monétaire et financier - art. L312-4 (M)
-  - Code de la sécurité sociale. - art. L951-1 (M)
   - Code des assurances - art. L423-1 (V)
 
 
-##### Section 2 : Le collège des autorités de contrôle des entreprises du secteur financier<a id=445></a>
+##### Section 2 : Le collège des autorités de contrôle des entreprises du secteur financier<a id=440></a>
 
 ###### Article L631-2
 
 Il est institué un collège des autorités de contrôle des entreprises du secteur financier. Ce collège est composé du
 gouverneur de la Banque de France, président de la commission bancaire, du président de la commission de contrôle des
-assurances, du président de la Commission des opérations de bourse et du président du Conseil des marchés financiers ou de
-leurs représentants. Il est présidé par le ministre chargé de l'économie ou son représentant.
+assurances, du président de l'Autorité des marchés financiers ou de leurs représentants. Il est présidé par le ministre
+chargé de l'économie ou son représentant.
 
 Le collège des autorités de contrôle a pour mission de faciliter les échanges d'information entre les autorités de contrôle
 des groupes financiers ayant à la fois des activités de crédit, d'investissement ou d'assurance ainsi que d'évoquer toute
 question d'intérêt commun relative à la coordination du contrôle desdits groupes.
 
 Le collège se réunit au minimum trois fois par an. Il peut également être consulté pour avis par le ministre chargé de
-l'économie, le gouverneur de la Banque de France, président de la commission bancaire, le président de la Commission des
-opérations de bourse, le président de la commission de contrôle des assurances et le président du Conseil des marchés
-financiers sur toute question relevant de sa compétence.
+l'économie, le gouverneur de la Banque de France, président de la commission bancaire, le président de la commission de
+contrôle des assurances et le président de l'Autorité des marchés financiers sur toute question relevant de sa compétence.
 
 **Liens relatifs à cet article**
 
@@ -40017,7 +40883,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 6 () JORF 16 mai 2001
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -40036,15 +40902,15 @@ _Cité par_:
   - Code monétaire et financier - art. R631-3 (V)
 
 
-#### Chapitre II : Echanges d'informations avec l'étranger<a id=446></a>
+#### Chapitre II : Echanges d'informations avec l'étranger<a id=441></a>
 
 ###### Article L632-1
 
-Le Conseil des marchés financiers, les entreprises de marché et les chambres de compensation des marchés réglementés peuvent
-communiquer à leurs homologues étrangers les informations nécessaires à l'accomplissement de leurs missions respectives
-relatives à l'accès, à l'organisation et à la sécurité des marchés, à condition que ces organismes homologues soient eux-
-mêmes soumis au secret professionnel dans un cadre législatif offrant des garanties équivalentes à celles applicables en
-France et sous réserve de réciprocité.
+Les entreprises de marché et les chambres de compensation des marchés réglementés peuvent communiquer à leurs homologues
+étrangers ainsi qu'aux autorités homologues de l'Autorité des marchés financiers les informations nécessaires à
+l'accomplissement de leurs missions respectives relatives à l'accès, à l'organisation et à la sécurité des marchés, à
+condition que ces organismes homologues soient eux-mêmes soumis au secret professionnel dans un cadre législatif offrant des
+garanties équivalentes à celles applicables en France et sous réserve de réciprocité.
 
 Pour les entreprises de marché qui organisent des transactions et les chambres de compensation des marchés réglementés, dans
 le cadre de la surveillance des risques encourus par les membres, ces informations recouvrent les positions prises sur le
@@ -40062,6 +40928,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 19 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -40081,11 +40951,11 @@ _Cité par_:
   - Code monétaire et financier - art. L766-8 (AbD)
 
 
-### Titre IV : Dispositions pénales<a id=447></a>
+### Titre IV : Dispositions pénales<a id=442></a>
 
-#### Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=448></a>
+#### Chapitre Ier : Dispositions relatives aux institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=443></a>
 
-##### Section 1 : Comité des établissements de crédit et des entreprises d'investissement<a id=449></a>
+##### Section 1 : Comité des établissements de crédit et des entreprises d'investissement<a id=444></a>
 
 ###### Article L641-1
 
@@ -40121,7 +40991,7 @@ _Cité par_:
   - Code monétaire et financier - art. L766-2 (VD)
 
 
-##### Section 2 : Commission bancaire<a id=450></a>
+##### Section 2 : Commission bancaire<a id=445></a>
 
 ###### Article L641-2
 
@@ -40157,14 +41027,13 @@ _Cité par_:
   - Code monétaire et financier - art. L766-3 (VD)
 
 
-#### Chapitre II : Dispositions relatives aux autorités des marchés financiers<a id=451></a>
-
-##### Section 1 : Commission des opérations de bourse<a id=452></a>
+#### Chapitre II : Dispositions relatives à l'Autorité des marchés financiers<a id=446></a>
 
 ###### Article L642-1
 
-Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour les membres et les agents de la Commission des
-opérations de bourse, de violer le secret professionnel institué à l'article L. 621-11, sous réserve des dispositions de
+Est puni des peines prévues à l'article 226-13 du code pénal le fait, pour tout membre, tout membre du personnel ou préposé
+de l'Autorité des marchés financiers, ainsi que pour tout expert nommé dans une commission consultative mentionnée au III de
+l'article L. 621-2, de violer le secret professionnel institué par l'article L. 621-4, sous réserve des dispositions de
 l'article 226-14 du code pénal.
 
 **Liens relatifs à cet article**
@@ -40178,11 +41047,17 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 21 I, II, art. 48 II 7° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 21 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-  - Code monétaire et financier - art. L621-11 (M)
+  - Code pénal - art. 226-13 (V)
+  - Code pénal - art. 226-14 (V)
+  - Code monétaire et financier - art. L621-2 (V)
 
 _Cité par_:
 
@@ -40197,9 +41072,9 @@ _Cité par_:
 
 ###### Article L642-2
 
-Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour toute personne qui participe aux travaux du
-comité consultatif de la gestion financière, de violer le secret professionnel institué à l'article L. 621-28, sous réserve
-des dispositions de l'article 226-14 du code pénal.
+Est puni d'un emprisonnement de deux ans et d'une amende de 300 000 euros le fait, pour toute personne, de mettre obstacle à
+une mission de contrôle ou d'enquête de l'Autorité des marchés financiers effectuée dans les conditions prévues aux articles
+L. 621-9 à L. 621-9-2 ou de lui communiquer des renseignements inexacts.
 
 **Liens relatifs à cet article**
 
@@ -40211,23 +41086,24 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 21 I, III, art. 48 II 7° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 21 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-  - Code monétaire et financier - art. L621-28 (Ab)
+  - Code monétaire et financier - art. L621-9 (V)
 
 
 ###### Article L642-3
 
-Est puni d'un emprisonnement de deux ans et d'une amende de 300000 euros le fait, pour toute personne, de mettre obstacle à
-une mission des enquêteurs de la Commission des opérations de bourse effectuée dans les conditions prévues à l'article L.
-621-10.
+Est puni d'un emprisonnement de deux ans et d'une amende de 300 000 euros le fait, pour toute personne, de mettre obstacle
+aux mesures de séquestre ou de ne pas respecter l'interdiction temporaire d'activité professionnelle prononcées en
+application de l'article L. 621-13. 
 
-Est également puni des mêmes peines le fait, pour toute personne, de mettre obstacle aux mesures de séquestre ou de ne pas
-respecter l'interdiction temporaire d'activité professionnelle prononcées en application de l'article L. 621-13.
-
-Est puni d'un emprisonnement de deux ans et d'une amende de 75000 euros le fait, pour toute personne, de ne pas consigner la
+Est puni d'un emprisonnement de deux ans et d'une amende de 75 000 euros le fait, pour toute personne, de ne pas consigner la
 somme fixée par le juge, en application de l'article L. 621-13, dans le délai de quarante-huit heures suivant la date à
 laquelle la décision est devenue exécutoire.
 
@@ -40237,13 +41113,15 @@ _Anciens textes_:
 
   - Ordonnance n°67-833 du 28 septembre 1967 - art. 10 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-706 2003-08-01 art. 21 I, IV, art. 48 II 7° JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 21 () JORF 2 août 2003
+  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -40257,160 +41135,16 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L621-10 (M)
-  - Code monétaire et financier - art. L621-13 (M)
+  - Code monétaire et financier - art. L621-13 (V)
 
 
-##### Section 2 : Conseil des marchés financiers<a id=453></a>
+## Livre VII : Régime de l'outre-mer<a id=447></a>
 
-###### Article L642-4
+### Titre Ier : Dispositions communes à plusieurs collectivités territoriales<a id=448></a>
 
-Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour tout membre ainsi que tout salarié et préposé du
-Conseil des marchés financiers, de violer le secret professionnel institué par l'article L. 622-6, sous réserve des
-dispositions de l'article 226-14 du code pénal.
+#### Chapitre Ier : Dispositions applicables dans les départements d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=449></a>
 
-Les experts et les personnes consultées sont tenus au secret professionnel dans les mêmes conditions et sous les mêmes
-peines.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 31 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L622-6 (Ab)
-  - Code monétaire et financier - art. L736-6 (Ab)
-  - Code monétaire et financier - art. L746-6 (Ab)
-  - Code monétaire et financier - art. L756-6 (Ab)
-  - Code monétaire et financier - art. L766-6 (Ab)
-
-
-###### Article L642-5
-
-Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour toute personne participant ou ayant participé au
-contrôle des personnes mentionnées au premier alinéa de l'article L. 622-9, de violer le secret professionnel institué à
-l'article L. 622-10, sous réserve des dispositions de l'article 226-14 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 67 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-  - Code monétaire et financier - art. L622-10 (Ab)
-  - Code monétaire et financier - art. L622-9 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L736-6 (Ab)
-  - Code monétaire et financier - art. L746-6 (Ab)
-  - Code monétaire et financier - art. L756-6 (Ab)
-  - Code monétaire et financier - art. L766-6 (Ab)
-
-
-##### Section 3 : Conseil de discipline de la gestion financière<a id=454></a>
-
-###### Article L642-6
-
-Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour les membres du conseil de discipline de la
-gestion financière, de violer le secret professionnel institué à l'article L. 623-1, sous réserve des dispositions de
-l'article 226-14 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°88-1201 du 23 décembre 1988 - art. 33-2 (M)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L623-1 (Ab)
-  - Code monétaire et financier - art. L736-7 (Ab)
-  - Code monétaire et financier - art. L746-7 (Ab)
-  - Code monétaire et financier - art. L756-7 (Ab)
-  - Code monétaire et financier - art. L766-7 (Ab)
-
-
-###### Article L642-7
-
-Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour toute personne qui participe ou a participé au
-contrôle des sociétés ayant une activité de gestion de portefeuille pour le compte de tiers, de violer le secret
-professionnel institué au II de l'article L. 621-22, sous réserve des dispositions de l'article 226-14 du code pénal.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 du 2 juillet 1996 - art. 70-1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Abrogé par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
-
-_Cite_:
-
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-  - Code monétaire et financier - art. L621-22 (M)
-
-_Cité par_:
-
-  - Code monétaire et financier - art. L736-7 (Ab)
-  - Code monétaire et financier - art. L746-7 (Ab)
-  - Code monétaire et financier - art. L766-7 (Ab)
-
-
-## Livre VII : Régime de l'outre-mer<a id=455></a>
-
-### Titre Ier : Dispositions communes à plusieurs collectivités territoriales<a id=456></a>
-
-#### Chapitre Ier : Dispositions applicables dans les départements d'outre-mer, à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=457></a>
-
-##### Section 1 : Les signes monétaires<a id=458></a>
+##### Section 1 : Les signes monétaires<a id=450></a>
 
 ###### Article L711-1
 
@@ -40448,7 +41182,7 @@ _Cite_:
   - Code monétaire et financier - art. L141-5 (M)
 
 
-##### Section 2 : L'institut d'émission des départements d'outre-mer<a id=459></a>
+##### Section 2 : L'institut d'émission des départements d'outre-mer<a id=451></a>
 
 ###### Article L711-2
 
@@ -40715,11 +41449,11 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-#### Chapitre Ier bis : Dispositions relatives à l'introduction de l'euro à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=460></a>
+#### Chapitre Ier bis : Dispositions relatives à l'introduction de l'euro à Mayotte et dans la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=452></a>
 
-##### Section 1 : L'euro<a id=461></a>
+##### Section 1 : L'euro<a id=453></a>
 
-##### Sous-section 1 : L'unité monétaire<a id=462></a>
+##### Sous-section 1 : L'unité monétaire<a id=454></a>
 
 ###### Article L711-13
 
@@ -40753,7 +41487,7 @@ _Abrogé par_:
   - Ordonnance n°2005-429 du 6 mai 2005 - art. 88 () JORF 7 mai 2005
 
 
-##### Sous-section 2 : Conversion à l'euro et règles d'arrondissement<a id=463></a>
+##### Sous-section 2 : Conversion à l'euro et règles d'arrondissement<a id=455></a>
 
 ###### Article L711-14
 
@@ -40846,7 +41580,7 @@ _Cite_:
   - Code monétaire et financier - art. L711-15 (Ab)
 
 
-##### Sous-section 3 : Continuité des obligations<a id=464></a>
+##### Sous-section 3 : Continuité des obligations<a id=456></a>
 
 ###### Article L711-17
 
@@ -40936,7 +41670,7 @@ _Cite_:
   - Code monétaire et financier - art. L711-15 (Ab)
 
 
-##### Section 2 : Dispositions d'application<a id=465></a>
+##### Section 2 : Dispositions d'application<a id=457></a>
 
 ###### Article L711-20
 
@@ -40992,9 +41726,9 @@ _Cite_:
   - Code monétaire et financier - art. L711-20 (Ab)
 
 
-#### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna<a id=466></a>
+#### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et au territoire des îles Wallis-et-Futuna<a id=458></a>
 
-##### Section 1 : Les signes monétaires<a id=467></a>
+##### Section 1 : Les signes monétaires<a id=459></a>
 
 ###### Article L712-1
 
@@ -41057,7 +41791,7 @@ _Cite_:
   - Code monétaire et financier - art. L712-4 (M)
 
 
-##### Section 2 : L'institut d'émission d'outre-mer<a id=468></a>
+##### Section 2 : L'institut d'émission d'outre-mer<a id=460></a>
 
 ###### Article L712-4
 
@@ -41083,7 +41817,7 @@ _Cité par_:
   - Code monétaire et financier - art. L712-3 (V)
 
 
-##### Section 3 : Les instruments de la monnaie scripturale<a id=469></a>
+##### Section 3 : Les instruments de la monnaie scripturale<a id=461></a>
 
 ###### Article L712-5
 
@@ -41142,11 +41876,11 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 74-3
 
 
-### Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=470></a>
+### Titre II : Dispositions spécifiques à la collectivité territoriale de Saint-Pierre-et-Miquelon<a id=462></a>
 
-#### Chapitre Ier : La monnaie<a id=471></a>
+#### Chapitre Ier : La monnaie<a id=463></a>
 
-##### Section 1 : Règles d'usage de la monnaie<a id=472></a>
+##### Section 1 : Règles d'usage de la monnaie<a id=464></a>
 
 ###### Article L721-1
 
@@ -41169,9 +41903,9 @@ _Cite_:
   - Code monétaire et financier - art. L131-71 (M)
 
 
-##### Section 2 : Les relations financières avec l'étranger<a id=473></a>
+##### Section 2 : Les relations financières avec l'étranger<a id=465></a>
 
-##### Sous-section 1 : Obligations de déclaration<a id=474></a>
+##### Sous-section 1 : Obligations de déclaration<a id=466></a>
 
 ###### Article L721-2
 
@@ -41224,7 +41958,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Sous-section 2 : Constatation et poursuite des infractions<a id=475></a>
+##### Sous-section 2 : Constatation et poursuite des infractions<a id=467></a>
 
 ###### Article L721-3
 
@@ -41278,9 +42012,9 @@ _Cite_:
   - Code monétaire et financier - art. L721-3 (M)
 
 
-#### Chapitre II : Les produits<a id=476></a>
+#### Chapitre II : Les produits<a id=468></a>
 
-##### Section 1 : Les organismes de placements collectifs<a id=477></a>
+##### Section 1 : Les organismes de placements collectifs<a id=469></a>
 
 ###### Article L722-1
 
@@ -41297,7 +42031,7 @@ _Cite_:
   - Code monétaire et financier - art. L214-41 (M)
 
 
-##### Section 2 : Les produits à régime fiscal spécifique<a id=478></a>
+##### Section 2 : Les produits à régime fiscal spécifique<a id=470></a>
 
 ###### Article L722-2
 
@@ -41329,7 +42063,7 @@ _Cite_:
   - Code monétaire et financier - art. L222-1 (V)
 
 
-#### Chapitre III : Les services<a id=479></a>
+#### Chapitre III : Les services<a id=471></a>
 
 ###### Article L723-1
 
@@ -41348,7 +42082,7 @@ _Cite_:
   - Code monétaire et financier - art. L312-3 (M)
 
 
-#### Chapitre IV : Les marchés<a id=480></a>
+#### Chapitre IV : Les marchés<a id=472></a>
 
 ###### Article L724-1
 
@@ -41365,9 +42099,9 @@ _Cite_:
   - Code monétaire et financier L432-6 à L432-19
 
 
-#### Chapitre V : Les prestataires de services<a id=481></a>
+#### Chapitre V : Les prestataires de services<a id=473></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=482></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=474></a>
 
 ###### Article L725-1
 
@@ -41391,7 +42125,7 @@ _Cite_:
   - Code monétaire et financier L511-12, L511-21 à L511-28, L613-33
 
 
-##### Section 2 : Les prestataires de services d'investissement<a id=483></a>
+##### Section 2 : Les prestataires de services d'investissement<a id=475></a>
 
 ###### Article L725-2
 
@@ -41419,7 +42153,7 @@ _Cite_:
   - Code monétaire et financier L531-3, L532-16 à L532-27, L532-5, L422-1, L532-23 à L532-26
 
 
-##### Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=484></a>
+##### Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=476></a>
 
 ###### Article L725-3
 
@@ -41446,9 +42180,9 @@ _Cite_:
   - Code monétaire et financier - art. L563-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=485></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=477></a>
 
-##### Section 1 : Le comité des établissements de crédit et des entreprises d'investissement<a id=486></a>
+##### Section 1 : Le comité des établissements de crédit et des entreprises d'investissement<a id=478></a>
 
 ###### Article L726-1
 
@@ -41472,7 +42206,7 @@ _Cite_:
   - Code monétaire et financier - art. L612-6 (M)
 
 
-##### Section 2 : La commission bancaire<a id=487></a>
+##### Section 2 : La commission bancaire<a id=479></a>
 
 ###### Article L726-2
 
@@ -41496,7 +42230,35 @@ _Cite_:
   - Code monétaire et financier L613-12 à L613-14, L613-33
 
 
-##### Section 4 : Le Conseil des marchés financiers<a id=488></a>
+##### Section 3 : L'Autorité des marchés financiers<a id=480></a>
+
+###### Article L726-3
+
+Le deuxième alinéa de l'article L. 621-21 n'est pas applicable dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
+Au premier alinéa du même article, les mots "sauf s'il s'agit d'une demande émanant d'une autorité d'un autre Etat membre de
+la communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen" sont supprimés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 40 () JORF 2 août 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-429 du 6 mai 2005 - art. 94 () JORF 7 mai 2005
+
+_Cite_:
+
+  - Code monétaire et financier - art. L621-21 (M)
+
+
+##### Section 4 : L'Autorité des marchés financiers<a id=481></a>
 
 ###### Article L726-4
 
@@ -41513,17 +42275,25 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+
+_Abrogé par_:
+
+  - Ordonnance n°2005-429 du 6 mai 2005 - art. 94 () JORF 7 mai 2005
+
 _Cite_:
 
   - Code monétaire et financier - art. L622-13 (Ab)
   - Code monétaire et financier - art. L622-14 (Ab)
 
 
-### Titre III : Dispositions applicables à mayotte<a id=489></a>
+### Titre III : Dispositions applicables à mayotte<a id=482></a>
 
-#### Chapitre Ier : La monnaie<a id=490></a>
+#### Chapitre Ier : La monnaie<a id=483></a>
 
-##### Section 1 : Les instruments de la monnaie scripturale<a id=491></a>
+##### Section 1 : Les instruments de la monnaie scripturale<a id=484></a>
 
 ###### Article L731-1
 
@@ -41557,9 +42327,9 @@ _Cite_:
   - Code monétaire et financier L131-1 à L131-87, L131-71, L132-1 à L132-6, L163-1 à L163-12, L131-72, L163-6
 
 
-##### Section 2 : Les relations financières avec l'étranger<a id=492></a>
+##### Section 2 : Les relations financières avec l'étranger<a id=485></a>
 
-##### Sous-section 1 : Dispositions générales<a id=493></a>
+##### Sous-section 1 : Dispositions générales<a id=486></a>
 
 ###### Article L731-2
 
@@ -41589,7 +42359,7 @@ _Cite_:
   - Code monétaire et financier L151-1 à L151-4, L165-1, L151-2
 
 
-##### Sous-section 2 : Obligations de déclaration<a id=494></a>
+##### Sous-section 2 : Obligations de déclaration<a id=487></a>
 
 ###### Article L731-3
 
@@ -41635,7 +42405,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Sous-section 3 : Constatation et poursuite des infractions<a id=495></a>
+##### Sous-section 3 : Constatation et poursuite des infractions<a id=488></a>
 
 ###### Article L731-4
 
@@ -41686,11 +42456,11 @@ _Cite_:
   - Code monétaire et financier - art. L731-4 (M)
 
 
-#### Chapitre II : Les produits<a id=496></a>
+#### Chapitre II : Les produits<a id=489></a>
 
-##### Section 1 : Les instruments financiers<a id=497></a>
+##### Section 1 : Les instruments financiers<a id=490></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=498></a>
+##### Sous-section 1 : Définition et règles générales<a id=491></a>
 
 ###### Article L732-1
 
@@ -41717,7 +42487,7 @@ _Cite_:
   - Code monétaire et financier L211-1 à L211-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=499></a>
+##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=492></a>
 
 ###### Article L732-2
 
@@ -41736,9 +42506,9 @@ _Cite_:
   - Code monétaire et financier L212-1, L212-2, L212-4 à L212-12
 
 
-##### Sous-section 3 : Les titres de créance<a id=500></a>
+##### Sous-section 3 : Les titres de créance<a id=493></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=501></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=494></a>
 
 ###### Article L732-3
 
@@ -41760,7 +42530,7 @@ _Cite_:
   - Code monétaire et financier L213-1 à L213-4, L213-3
 
 
-##### Paragraphe 2 : Les obligations<a id=502></a>
+##### Paragraphe 2 : Les obligations<a id=495></a>
 
 ###### Article L732-4
 
@@ -41802,7 +42572,7 @@ _Cite_:
   - Code monétaire et financier - art. L213-7 (V)
 
 
-##### Paragraphe 3 : Les titres participatifs<a id=503></a>
+##### Paragraphe 3 : Les titres participatifs<a id=496></a>
 
 ###### Article L732-6
 
@@ -41821,7 +42591,7 @@ _Cite_:
   - Code de commerce. - art. L228-37 (V)
 
 
-##### Sous-section 4 : Les placements collectifs<a id=504></a>
+##### Sous-section 4 : Les placements collectifs<a id=497></a>
 
 ###### Article L732-7
 
@@ -41862,7 +42632,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les produits d'épargne<a id=505></a>
+##### Section 2 : Les produits d'épargne<a id=498></a>
 
 ###### Article L732-8
 
@@ -41886,11 +42656,11 @@ _Cite_:
   - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
 
 
-#### Chapitre III : Les services<a id=506></a>
+#### Chapitre III : Les services<a id=499></a>
 
-##### Section 1 : Les opérations de banque<a id=507></a>
+##### Section 1 : Les opérations de banque<a id=500></a>
 
-##### Sous-section 1 : Dispositions générales<a id=508></a>
+##### Sous-section 1 : Dispositions générales<a id=501></a>
 
 ###### Article L733-1
 
@@ -41911,7 +42681,7 @@ _Cite_:
   - Code monétaire et financier L311-1 à L311-3
 
 
-##### Sous-section 2 : Comptes et dépôts<a id=509></a>
+##### Sous-section 2 : Comptes et dépôts<a id=502></a>
 
 ###### Article L733-2
 
@@ -41941,9 +42711,9 @@ _Cite_:
   - Code monétaire et financier - art. L352-1
 
 
-##### Sous-section 3 : Crédits<a id=510></a>
+##### Sous-section 3 : Crédits<a id=503></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=511></a>
+##### Paragraphe 1 : Dispositions générales<a id=504></a>
 
 ###### Article L733-3
 
@@ -41967,9 +42737,9 @@ _Cite_:
   - Code monétaire et financier L313-1 à L313-5
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=512></a>
+##### Paragraphe 2 : Catégories de crédits<a id=505></a>
 
-##### Sous-paragraphe 1 : Crédit-bail<a id=513></a>
+##### Sous-paragraphe 1 : Crédit-bail<a id=506></a>
 
 ###### Article L733-4
 
@@ -41994,7 +42764,7 @@ _Cite_:
   - Code monétaire et financier L313-7 à L313-11
 
 
-##### Sous-paragraphe 2 : Crédits aux entreprises<a id=514></a>
+##### Sous-paragraphe 2 : Crédits aux entreprises<a id=507></a>
 
 ###### Article L733-5
 
@@ -42021,7 +42791,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-22 (M)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=515></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=508></a>
 
 ###### Article L733-6
 
@@ -42046,7 +42816,7 @@ _Cite_:
   - Code monétaire et financier L313-23 à L313-41
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=516></a>
+##### Paragraphe 4 : Garantie des cautions<a id=509></a>
 
 ###### Article L733-7
 
@@ -42072,7 +42842,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-51
 
 
-##### Section 2 : Les services d'investissement et leurs services connexes<a id=517></a>
+##### Section 2 : Les services d'investissement et leurs services connexes<a id=510></a>
 
 ###### Article L733-8
 
@@ -42096,7 +42866,7 @@ _Cite_:
   - Code monétaire et financier L322-22, L312-17, L312-18
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=518></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=511></a>
 
 ###### Article L733-9
 
@@ -42119,9 +42889,9 @@ _Cite_:
   - Code monétaire et financier - art. L330-2 (M)
 
 
-##### Section 4 : Démarchage<a id=519></a>
+##### Section 4 : Démarchage<a id=512></a>
 
-##### Sous-section 1 : Démarchage concernant les opérations de banque.<a id=520></a>
+##### Sous-section 1 : Démarchage concernant les opérations de banque.<a id=513></a>
 
 ###### Article L733-10
 
@@ -42143,7 +42913,7 @@ _Cite_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=521></a>
+##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=514></a>
 
 ###### Article L733-11
 
@@ -42168,11 +42938,11 @@ _Cite_:
   - Code monétaire et financier - art. L353-6 (M)
 
 
-#### Chapitre IV : Les marchés<a id=522></a>
+#### Chapitre IV : Les marchés<a id=515></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=523></a>
+##### Section 1 : L'appel public à l'épargne<a id=516></a>
 
-##### Sous-section 1 : Définition<a id=524></a>
+##### Sous-section 1 : Définition<a id=517></a>
 
 ###### Article L734-1
 
@@ -42194,7 +42964,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne<a id=525></a>
+##### Sous-section 2 : Conditions de l'appel public à l'épargne<a id=518></a>
 
 ###### Article L734-2
 
@@ -42216,7 +42986,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Section 2 : Les catégories de marché<a id=526></a>
+##### Section 2 : Les catégories de marché<a id=519></a>
 
 ###### Article L734-3
 
@@ -42269,11 +43039,11 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=527></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=520></a>
 
-##### Sous-section 1 : Dispositions générales<a id=528></a>
+##### Sous-section 1 : Dispositions générales<a id=521></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=529></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=522></a>
 
 ###### Article L734-5
 
@@ -42314,7 +43084,7 @@ _Cite_:
   - Code monétaire et financier L431-3 à L431-6
 
 
-##### Paragraphe 2 : Compensation<a id=530></a>
+##### Paragraphe 2 : Compensation<a id=523></a>
 
 ###### Article L734-7
 
@@ -42335,9 +43105,9 @@ _Cite_:
   - Code monétaire et financier - art. L431-7 (M)
 
 
-##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=531></a>
+##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=524></a>
 
-##### Paragraphe 1 : Adjudication<a id=532></a>
+##### Paragraphe 1 : Adjudication<a id=525></a>
 
 ###### Article L734-8
 
@@ -42358,7 +43128,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-5 (V)
 
 
-##### Paragraphe 2 : Les opérations à terme<a id=533></a>
+##### Paragraphe 2 : Les opérations à terme<a id=526></a>
 
 ###### Article L734-9
 
@@ -42380,7 +43150,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-21 (Ab)
 
 
-##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=534></a>
+##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=527></a>
 
 ###### Article L734-10
 
@@ -42397,7 +43167,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=535></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=528></a>
 
 ###### Article L734-11
 
@@ -42425,9 +43195,9 @@ _Cite_:
   - Code monétaire et financier - art. L464-2 (M)
 
 
-##### Section 5 : La protection des investisseurs<a id=536></a>
+##### Section 5 : La protection des investisseurs<a id=529></a>
 
-##### Sous-section 1 : Obligations d'information relatives aux comptes<a id=537></a>
+##### Sous-section 1 : Obligations d'information relatives aux comptes<a id=530></a>
 
 ###### Article L734-12
 
@@ -42448,7 +43218,7 @@ _Cite_:
   - Code monétaire et financier L465-1 à L465-3
 
 
-##### Sous-section 2 : Obligations d'information sur les prises de participation<a id=538></a>
+##### Sous-section 2 : Obligations d'information sur les prises de participation<a id=531></a>
 
 ###### Article L734-13
 
@@ -42474,9 +43244,9 @@ _Cite_:
   - Code monétaire et financier - art. L466-1 (M)
 
 
-#### Chapitre V : Les prestataires de services<a id=539></a>
+#### Chapitre V : Les prestataires de services<a id=532></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=540></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=533></a>
 
 ###### Article L735-1
 
@@ -42502,9 +43272,9 @@ _Cite_:
   - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9
 
 
-##### Sous-section 1 : Les sociétés financières<a id=541></a>
+##### Sous-section 1 : Les sociétés financières<a id=534></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=542></a>
+##### Paragraphe 1 : Dispositions communes<a id=535></a>
 
 ###### Article L735-2
 
@@ -42525,7 +43295,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-1 (M)
 
 
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=543></a>
+##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=536></a>
 
 ###### Article L735-3
 
@@ -42548,7 +43318,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-13 (V)
 
 
-##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=544></a>
+##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=537></a>
 
 ###### Article L735-4
 
@@ -42565,7 +43335,7 @@ _Cite_:
   - Code monétaire et financier L515-4 à L515-12
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=545></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=538></a>
 
 ###### Article L735-5
 
@@ -42591,7 +43361,7 @@ _Cite_:
   - Code monétaire et financier - art. L516-2 (M)
 
 
-##### Sous-section 3 : Les compagnies financières<a id=546></a>
+##### Sous-section 3 : Les compagnies financières<a id=539></a>
 
 ###### Article L735-6
 
@@ -42617,7 +43387,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-14 (M)
 
 
-##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=547></a>
+##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=540></a>
 
 ###### Article L735-7
 
@@ -42644,7 +43414,7 @@ _Cite_:
   - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
 
 
-##### Section 2 : Les changeurs manuels<a id=548></a>
+##### Section 2 : Les changeurs manuels<a id=541></a>
 
 ###### Article L735-8
 
@@ -42671,9 +43441,9 @@ _Cite_:
   - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=549></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=542></a>
 
-##### Sous-section 1 : Définitions<a id=550></a>
+##### Sous-section 1 : Définitions<a id=543></a>
 
 ###### Article L735-9
 
@@ -42703,7 +43473,7 @@ _Cite_:
   - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
 
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=551></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=544></a>
 
 ###### Article L735-10
 
@@ -42735,7 +43505,7 @@ _Cite_:
   - Code monétaire et financier L532-16 à L532-27, L532-5, L422-1, L532-23 à L532-26
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=552></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=545></a>
 
 ###### Article L735-11
 
@@ -42762,7 +43532,7 @@ _Cite_:
   - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Les intermédiaires en biens divers<a id=553></a>
+##### Section 4 : Les intermédiaires en biens divers<a id=546></a>
 
 ###### Article L735-12
 
@@ -42785,7 +43555,7 @@ _Cite_:
   - Code monétaire et financier - art. L573-8 (V)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=554></a>
+##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=547></a>
 
 ###### Article L735-13
 
@@ -42813,7 +43583,7 @@ _Cite_:
   - Code monétaire et financier - art. L574-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=555></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=548></a>
 
 ###### Article L736-5
 
@@ -42859,9 +43629,9 @@ _Cite_:
   - Code monétaire et financier - art. L632-1 (M)
 
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=556></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=549></a>
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=557></a>
+##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=550></a>
 
 ###### Article L736-1
 
@@ -42879,7 +43649,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=558></a>
+##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=551></a>
 
 ###### Article L736-2
 
@@ -42908,7 +43678,7 @@ _Cite_:
   - Code monétaire et financier L612-1, L612-2, L612-3 à L612-6, L612-7, L641-1
 
 
-##### Sous-section 3 : La commission bancaire<a id=559></a>
+##### Sous-section 3 : La commission bancaire<a id=552></a>
 
 ###### Article L736-3
 
@@ -42935,7 +43705,7 @@ _Cite_:
   - Code monétaire et financier L613-12 à L613-14, L613-33, L641-2
 
 
-##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=560></a>
+##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=553></a>
 
 ###### Article L736-4
 
@@ -42953,9 +43723,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les autorités des marchés financiers<a id=561></a>
+##### Section 2 : Les autorités des marchés financiers<a id=554></a>
 
-##### Sous-section 2 : Le Conseil des marchés financiers<a id=562></a>
+##### Sous-section 2 : Le Conseil des marchés financiers<a id=555></a>
 
 ###### Article L736-6
 
@@ -42983,7 +43753,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-5 (Ab)
 
 
-##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=563></a>
+##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=556></a>
 
 ###### Article L736-7
 
@@ -43009,11 +43779,11 @@ _Cite_:
   - Code monétaire et financier - art. L642-7 (Ab)
 
 
-### Titre IV : Dispositions applicables en Nouvelle-Calédonie<a id=564></a>
+### Titre IV : Dispositions applicables en Nouvelle-Calédonie<a id=557></a>
 
-#### Chapitre Ier : La monnaie<a id=565></a>
+#### Chapitre Ier : La monnaie<a id=558></a>
 
-##### Section 1 : Règles d'usage de la monnaie<a id=566></a>
+##### Section 1 : Règles d'usage de la monnaie<a id=559></a>
 
 ###### Article L741-1
 
@@ -43041,7 +43811,7 @@ _Cite_:
   - Code monétaire et financier - art. L112-6 (M)
 
 
-##### Section 2 : Les instruments de la monnaie scripturale<a id=567></a>
+##### Section 2 : Les instruments de la monnaie scripturale<a id=560></a>
 
 ###### Article L741-2
 
@@ -43073,9 +43843,9 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 74-3
 
 
-##### Section 3 : Les relations financières avec l'étranger<a id=568></a>
+##### Section 3 : Les relations financières avec l'étranger<a id=561></a>
 
-##### Sous-section 1 : Dispositions générales<a id=569></a>
+##### Sous-section 1 : Dispositions générales<a id=562></a>
 
 ###### Article L741-3
 
@@ -43106,7 +43876,7 @@ _Cite_:
   - Code monétaire et financier - art. L165-1 (V)
 
 
-##### Sous-section 2 : Obligations de déclaration<a id=570></a>
+##### Sous-section 2 : Obligations de déclaration<a id=563></a>
 
 ###### Article L741-4
 
@@ -43156,7 +43926,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Sous-section 3 : Constatation et poursuite des infractions<a id=571></a>
+##### Sous-section 3 : Constatation et poursuite des infractions<a id=564></a>
 
 ###### Article L741-5
 
@@ -43210,11 +43980,11 @@ _Cite_:
   - Code monétaire et financier - art. L741-5 (M)
 
 
-#### Chapitre II : Les produits<a id=572></a>
+#### Chapitre II : Les produits<a id=565></a>
 
-##### Section unique : Les instruments financiers<a id=573></a>
+##### Section unique : Les instruments financiers<a id=566></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=574></a>
+##### Sous-section 1 : Définition et règles générales<a id=567></a>
 
 ###### Article L742-1
 
@@ -43241,7 +44011,7 @@ _Cite_:
   - Code monétaire et financier L211-1 à L212-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=575></a>
+##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=568></a>
 
 ###### Article L742-2
 
@@ -43268,9 +44038,9 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (V)
 
 
-##### Sous-section 3 : Les titres de créance<a id=576></a>
+##### Sous-section 3 : Les titres de créance<a id=569></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=577></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=570></a>
 
 ###### Article L742-3
 
@@ -43296,7 +44066,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (VD)
 
 
-##### Paragraphe 2 : Les obligations<a id=578></a>
+##### Paragraphe 2 : Les obligations<a id=571></a>
 
 ###### Article L742-4
 
@@ -43342,7 +44112,7 @@ _Cite_:
   - Code monétaire et financier - art. L213-7
 
 
-##### Sous-section 4 : Les placements collectifs<a id=579></a>
+##### Sous-section 4 : Les placements collectifs<a id=572></a>
 
 ###### Article L742-6
 
@@ -43405,11 +44175,11 @@ _Cite_:
   - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
 
 
-#### Chapitre III : Les services<a id=580></a>
+#### Chapitre III : Les services<a id=573></a>
 
-##### Section 1 : Les opérations de banque<a id=581></a>
+##### Section 1 : Les opérations de banque<a id=574></a>
 
-##### Sous-section 1 : Dispositions générales<a id=582></a>
+##### Sous-section 1 : Dispositions générales<a id=575></a>
 
 ###### Article L743-1
 
@@ -43430,7 +44200,7 @@ _Cite_:
   - Code monétaire et financier L311-1 à L311-3
 
 
-##### Sous-section 2 : Comptes et dépôts<a id=583></a>
+##### Sous-section 2 : Comptes et dépôts<a id=576></a>
 
 ###### Article L743-2
 
@@ -43459,9 +44229,9 @@ _Cite_:
   - Code monétaire et financier - art. L352-1 (V)
 
 
-##### Sous-section 3 : Crédits<a id=584></a>
+##### Sous-section 3 : Crédits<a id=577></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=585></a>
+##### Paragraphe 1 : Dispositions générales<a id=578></a>
 
 ###### Article L743-3
 
@@ -43484,9 +44254,9 @@ _Cite_:
   - Code monétaire et financier L313-1 à L313-5
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=586></a>
+##### Paragraphe 2 : Catégories de crédits<a id=579></a>
 
-##### Sous-paragraphe 1 : Crédit-bail<a id=587></a>
+##### Sous-paragraphe 1 : Crédit-bail<a id=580></a>
 
 ###### Article L743-4
 
@@ -43507,7 +44277,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-7 (V)
 
 
-##### Sous-paragraphe 2 : Crédits aux entreprises<a id=588></a>
+##### Sous-paragraphe 2 : Crédits aux entreprises<a id=581></a>
 
 ###### Article L743-5
 
@@ -43531,7 +44301,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-22 (M)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=589></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=582></a>
 
 ###### Article L743-6
 
@@ -43552,7 +44322,7 @@ _Cite_:
   - Code monétaire et financier L313-23 à L313-41
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=590></a>
+##### Paragraphe 4 : Garantie des cautions<a id=583></a>
 
 ###### Article L743-7
 
@@ -43573,7 +44343,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-50 (V)
 
 
-##### Section 2 : Les services d'investissement et leurs services connexes<a id=591></a>
+##### Section 2 : Les services d'investissement et leurs services connexes<a id=584></a>
 
 ###### Article L743-8
 
@@ -43601,7 +44371,7 @@ _Cite_:
   - Code monétaire et financier - art. L322-2 (V)
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=592></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=585></a>
 
 ###### Article L743-9
 
@@ -43625,9 +44395,9 @@ _Cite_:
   - Code monétaire et financier - art. L330-2 (M)
 
 
-##### Section 4 : Démarchage<a id=593></a>
+##### Section 4 : Démarchage<a id=586></a>
 
-##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=594></a>
+##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=587></a>
 
 ###### Article L743-10
 
@@ -43649,7 +44419,7 @@ _Cite_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=595></a>
+##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=588></a>
 
 ###### Article L743-11
 
@@ -43674,11 +44444,11 @@ _Cite_:
   - Code monétaire et financier - art. L353-6
 
 
-#### Chapitre IV : Les marchés<a id=596></a>
+#### Chapitre IV : Les marchés<a id=589></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=597></a>
+##### Section 1 : L'appel public à l'épargne<a id=590></a>
 
-##### Sous-section 1 : Définition.<a id=598></a>
+##### Sous-section 1 : Définition.<a id=591></a>
 
 ###### Article L744-1
 
@@ -43700,7 +44470,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne.<a id=599></a>
+##### Sous-section 2 : Conditions de l'appel public à l'épargne.<a id=592></a>
 
 ###### Article L744-2
 
@@ -43722,7 +44492,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Section 2 : Les catégories de marché<a id=600></a>
+##### Section 2 : Les catégories de marché<a id=593></a>
 
 ###### Article L744-3
 
@@ -43777,11 +44547,11 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=601></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=594></a>
 
-##### Sous-section 1 : Dispositions générales<a id=602></a>
+##### Sous-section 1 : Dispositions générales<a id=595></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=603></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=596></a>
 
 ###### Article L744-5
 
@@ -43821,7 +44591,7 @@ _Cite_:
   - Code monétaire et financier L431-4 à L431-6
 
 
-##### Paragraphe 2 : Compensation.<a id=604></a>
+##### Paragraphe 2 : Compensation.<a id=597></a>
 
 ###### Article L744-7
 
@@ -43842,9 +44612,9 @@ _Cite_:
   - Code monétaire et financier - art. L431-7 (M)
 
 
-##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=605></a>
+##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=598></a>
 
-##### Paragraphe 1 : Adjudication<a id=606></a>
+##### Paragraphe 1 : Adjudication<a id=599></a>
 
 ###### Article L744-8
 
@@ -43866,7 +44636,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-5 (V)
 
 
-##### Paragraphe 2 : Les opérations à terme<a id=607></a>
+##### Paragraphe 2 : Les opérations à terme<a id=600></a>
 
 ###### Article L744-9
 
@@ -43888,7 +44658,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-21 (Ab)
 
 
-##### Sous-section 3 : Modalités spécifiques aux marchés réglementés<a id=608></a>
+##### Sous-section 3 : Modalités spécifiques aux marchés réglementés<a id=601></a>
 
 ###### Article L744-10
 
@@ -43905,7 +44675,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=609></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=602></a>
 
 ###### Article L744-11
 
@@ -43941,9 +44711,9 @@ _Cite_:
   - Code monétaire et financier - art. L464-2 (M)
 
 
-##### Section 5 : La protection des investisseurs<a id=610></a>
+##### Section 5 : La protection des investisseurs<a id=603></a>
 
-##### Sous-section 1 : Obligations d'information relative aux comptes<a id=611></a>
+##### Sous-section 1 : Obligations d'information relative aux comptes<a id=604></a>
 
 ###### Article L744-12
 
@@ -43966,7 +44736,7 @@ _Cite_:
   - Code monétaire et financier L465-1 à L465-3
 
 
-##### Sous-section 2 : Obligation d'information sur les prises de participation<a id=612></a>
+##### Sous-section 2 : Obligation d'information sur les prises de participation<a id=605></a>
 
 ###### Article L744-13
 
@@ -43989,11 +44759,11 @@ _Cite_:
   - Code monétaire et financier - art. L466-1 (V)
 
 
-#### Chapitre V : Les prestataires de services<a id=613></a>
+#### Chapitre V : Les prestataires de services<a id=606></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=614></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=607></a>
 
-##### Sous-section 1 : Définitions et activités<a id=615></a>
+##### Sous-section 1 : Définitions et activités<a id=608></a>
 
 ###### Article L745-1
 
@@ -44025,9 +44795,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L745-1-1 (V)
 
 
-##### Sous-section 3 : Les sociétés financières<a id=616></a>
+##### Sous-section 3 : Les sociétés financières<a id=609></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=617></a>
+##### Paragraphe 1 : Dispositions communes<a id=610></a>
 
 ###### Article L745-2
 
@@ -44048,7 +44818,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-1 (V)
 
 
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=618></a>
+##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=611></a>
 
 ###### Article L745-3
 
@@ -44070,7 +44840,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-13 (V)
 
 
-##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=619></a>
+##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=612></a>
 
 ###### Article L745-4
 
@@ -44087,7 +44857,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-4 (V)
 
 
-##### Sous-section 4 : Les institutions financières spécialisées<a id=620></a>
+##### Sous-section 4 : Les institutions financières spécialisées<a id=613></a>
 
 ###### Article L745-5
 
@@ -44112,7 +44882,7 @@ _Cite_:
   - Code monétaire et financier - art. L516-1
 
 
-##### Sous-section 5 : Les compagnies financières<a id=621></a>
+##### Sous-section 5 : Les compagnies financières<a id=614></a>
 
 ###### Article L745-6
 
@@ -44134,7 +44904,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-14 (V)
 
 
-##### Sous-section 6 : Les intermédiaires en opérations de banque<a id=622></a>
+##### Sous-section 6 : Les intermédiaires en opérations de banque<a id=615></a>
 
 ###### Article L745-7
 
@@ -44157,7 +44927,7 @@ _Cite_:
   - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
 
 
-##### Section 2 : Les changeurs manuels<a id=623></a>
+##### Section 2 : Les changeurs manuels<a id=616></a>
 
 ###### Article L745-8
 
@@ -44180,9 +44950,9 @@ _Cite_:
   - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=624></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=617></a>
 
-##### Sous-section 1 : Définitions<a id=625></a>
+##### Sous-section 1 : Définitions<a id=618></a>
 
 ###### Article L745-9
 
@@ -44212,7 +44982,7 @@ _Cite_:
   - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
 
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=626></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=619></a>
 
 ###### Article L745-10
 
@@ -44245,7 +45015,7 @@ _Cité par_:
   - Code monétaire et financier - art. L745-7-2 (V)
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=627></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=620></a>
 
 ###### Article L745-11
 
@@ -44269,7 +45039,7 @@ _Cite_:
   - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Intermédiaires en biens divers<a id=628></a>
+##### Section 4 : Intermédiaires en biens divers<a id=621></a>
 
 ###### Article L745-12
 
@@ -44292,7 +45062,7 @@ _Cite_:
   - Code monétaire et financier - art. L573-8 (M)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=629></a>
+##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=622></a>
 
 ###### Article L745-13
 
@@ -44324,11 +45094,11 @@ _Cite_:
   - Code monétaire et financier - art. L574-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=630></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=623></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=631></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=624></a>
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=632></a>
+##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=625></a>
 
 ###### Article L746-1
 
@@ -44346,7 +45116,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=633></a>
+##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=626></a>
 
 ###### Article L746-2
 
@@ -44375,7 +45145,7 @@ _Cite_:
   - Code monétaire et financier L612-1, L612-2, L612-3 à L612-6, L612-7, L641-1
 
 
-##### Sous-section 3 : La commission bancaire.<a id=634></a>
+##### Sous-section 3 : La commission bancaire.<a id=627></a>
 
 ###### Article L746-3
 
@@ -44401,7 +45171,7 @@ _Cite_:
   - Code monétaire et financier L614-33, L641-2
 
 
-##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=635></a>
+##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=628></a>
 
 ###### Article L746-4
 
@@ -44419,9 +45189,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les autorités des marchés financiers<a id=636></a>
+##### Section 2 : Les autorités des marchés financiers<a id=629></a>
 
-##### Sous-section 1 : La Commission des opérations de bourse<a id=637></a>
+##### Sous-section 1 : La Commission des opérations de bourse<a id=630></a>
 
 ###### Article L746-5
 
@@ -44455,7 +45225,7 @@ _Cite_:
   - Code monétaire et financier L621-21, L642-1 à L642-3
 
 
-##### Sous-section 2 : Le Conseil des marchés financiers<a id=638></a>
+##### Sous-section 2 : Le Conseil des marchés financiers<a id=631></a>
 
 ###### Article L746-6
 
@@ -44483,7 +45253,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-5 (Ab)
 
 
-##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=639></a>
+##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=632></a>
 
 ###### Article L746-7
 
@@ -44509,7 +45279,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-7 (Ab)
 
 
-##### Section 3 : Echanges d'informations<a id=640></a>
+##### Section 3 : Echanges d'informations<a id=633></a>
 
 ###### Article L746-8
 
@@ -44532,11 +45302,11 @@ _Cite_:
   - Code monétaire et financier - art. L632-1 (M)
 
 
-### Titre V : Dispositions applicables en Polynésie française<a id=641></a>
+### Titre V : Dispositions applicables en Polynésie française<a id=634></a>
 
-#### Chapitre Ier : La monnaie<a id=642></a>
+#### Chapitre Ier : La monnaie<a id=635></a>
 
-##### Section 1 : Règles d'usage de la monnaie<a id=643></a>
+##### Section 1 : Règles d'usage de la monnaie<a id=636></a>
 
 ###### Article L751-1
 
@@ -44565,7 +45335,7 @@ _Cite_:
   - Code monétaire et financier - art. L112-6 (M)
 
 
-##### Section 2 : Les instruments de la monnaie scripturale<a id=644></a>
+##### Section 2 : Les instruments de la monnaie scripturale<a id=637></a>
 
 ###### Article L751-2
 
@@ -44593,9 +45363,9 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 74-3
 
 
-##### Section 3 : Les relations financières avec l'étranger<a id=645></a>
+##### Section 3 : Les relations financières avec l'étranger<a id=638></a>
 
-##### Sous-section 1 : Dispositions générales<a id=646></a>
+##### Sous-section 1 : Dispositions générales<a id=639></a>
 
 ###### Article L751-3
 
@@ -44624,7 +45394,7 @@ _Cite_:
   - Code monétaire et financier - art. L151-2 (V)
 
 
-##### Sous-section 2 : Obligations de déclaration<a id=647></a>
+##### Sous-section 2 : Obligations de déclaration<a id=640></a>
 
 ###### Article L751-4
 
@@ -44666,7 +45436,7 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (M)
 
 
-##### Sous-section 3 : Constatation et poursuite des infractions<a id=648></a>
+##### Sous-section 3 : Constatation et poursuite des infractions<a id=641></a>
 
 ###### Article L751-5
 
@@ -44720,11 +45490,11 @@ _Cite_:
   - Code monétaire et financier - art. L751-5 (M)
 
 
-#### Chapitre II : Les produits<a id=649></a>
+#### Chapitre II : Les produits<a id=642></a>
 
-##### Section 1 : Les instruments financiers<a id=650></a>
+##### Section 1 : Les instruments financiers<a id=643></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=651></a>
+##### Sous-section 1 : Définition et règles générales<a id=644></a>
 
 ###### Article L752-1
 
@@ -44755,7 +45525,7 @@ _Cite_:
   - Code monétaire et financier L211-1 à L211-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=652></a>
+##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=645></a>
 
 ###### Article L752-2
 
@@ -44783,9 +45553,9 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (V)
 
 
-##### Sous-section 3 : Les titres de créance<a id=653></a>
+##### Sous-section 3 : Les titres de créance<a id=646></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=654></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=647></a>
 
 ###### Article L752-3
 
@@ -44811,7 +45581,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (VD)
 
 
-##### Paragraphe 2 : Les obligations<a id=655></a>
+##### Paragraphe 2 : Les obligations<a id=648></a>
 
 ###### Article L752-4
 
@@ -44856,7 +45626,7 @@ _Cite_:
   - Code monétaire et financier - art. L213-7
 
 
-##### Sous-section 4 : Les placements collectifs<a id=656></a>
+##### Sous-section 4 : Les placements collectifs<a id=649></a>
 
 ###### Article L752-6
 
@@ -44893,7 +45663,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les produits d'épargne<a id=657></a>
+##### Section 2 : Les produits d'épargne<a id=650></a>
 
 ###### Article L752-7
 
@@ -44917,11 +45687,11 @@ _Cite_:
   - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
 
 
-#### Chapitre III : Les services<a id=658></a>
+#### Chapitre III : Les services<a id=651></a>
 
-##### Section 1 : Les opérations de banque<a id=659></a>
+##### Section 1 : Les opérations de banque<a id=652></a>
 
-##### Sous-section 1 : Dispositions générales<a id=660></a>
+##### Sous-section 1 : Dispositions générales<a id=653></a>
 
 ###### Article L753-1
 
@@ -44942,7 +45712,7 @@ _Cite_:
   - Code monétaire et financier L311-1 à L311-3
 
 
-##### Sous-section 2 : Comptes et dépôts<a id=661></a>
+##### Sous-section 2 : Comptes et dépôts<a id=654></a>
 
 ###### Article L753-2
 
@@ -44971,9 +45741,9 @@ _Cite_:
   - Code monétaire et financier - art. L352-1 (V)
 
 
-##### Sous-section 3 : Crédits<a id=662></a>
+##### Sous-section 3 : Crédits<a id=655></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=663></a>
+##### Paragraphe 1 : Dispositions générales<a id=656></a>
 
 ###### Article L753-3
 
@@ -44996,9 +45766,9 @@ _Cite_:
   - Code monétaire et financier L313-1 à L313-5
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=664></a>
+##### Paragraphe 2 : Catégories de crédits<a id=657></a>
 
-##### Sous-paragraphe 1 : Crédit-bail<a id=665></a>
+##### Sous-paragraphe 1 : Crédit-bail<a id=658></a>
 
 ###### Article L753-4
 
@@ -45019,7 +45789,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-7 (V)
 
 
-##### Sous-paragraphe 2 : Crédits aux entreprises<a id=666></a>
+##### Sous-paragraphe 2 : Crédits aux entreprises<a id=659></a>
 
 ###### Article L753-5
 
@@ -45043,7 +45813,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-22 (M)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=667></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=660></a>
 
 ###### Article L753-6
 
@@ -45064,7 +45834,7 @@ _Cite_:
   - Code monétaire et financier L313-23 à L313-41
 
 
-##### Paragraphe 4 : Garanties des cautions<a id=668></a>
+##### Paragraphe 4 : Garanties des cautions<a id=661></a>
 
 ###### Article L753-7
 
@@ -45085,7 +45855,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-50 (V)
 
 
-##### Section 2 : Les services d'investissement et leurs services connexes<a id=669></a>
+##### Section 2 : Les services d'investissement et leurs services connexes<a id=662></a>
 
 ###### Article L753-8
 
@@ -45114,7 +45884,7 @@ _Cite_:
   - Code monétaire et financier - art. L322-2 (V)
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=670></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=663></a>
 
 ###### Article L753-9
 
@@ -45137,9 +45907,9 @@ _Cite_:
   - Code monétaire et financier - art. L330-2 (M)
 
 
-##### Section 4 : Démarchage<a id=671></a>
+##### Section 4 : Démarchage<a id=664></a>
 
-##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=672></a>
+##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=665></a>
 
 ###### Article L753-10
 
@@ -45161,7 +45931,7 @@ _Cite_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=673></a>
+##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=666></a>
 
 ###### Article L753-11
 
@@ -45186,11 +45956,11 @@ _Cite_:
   - Code monétaire et financier - art. L353-6
 
 
-#### Chapitre IV : Les marchés<a id=674></a>
+#### Chapitre IV : Les marchés<a id=667></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=675></a>
+##### Section 1 : L'appel public à l'épargne<a id=668></a>
 
-##### Sous-section 1 : Définition.<a id=676></a>
+##### Sous-section 1 : Définition.<a id=669></a>
 
 ###### Article L754-1
 
@@ -45212,7 +45982,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne.<a id=677></a>
+##### Sous-section 2 : Conditions de l'appel public à l'épargne.<a id=670></a>
 
 ###### Article L754-2
 
@@ -45234,7 +46004,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Section 2 : Les catégories de marché<a id=678></a>
+##### Section 2 : Les catégories de marché<a id=671></a>
 
 ###### Article L754-3
 
@@ -45289,11 +46059,11 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=679></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=672></a>
 
-##### Sous-section 1 : Dispositions générales<a id=680></a>
+##### Sous-section 1 : Dispositions générales<a id=673></a>
 
-##### Paragraphe 1 : Transfert de propriété des titres et mise en gage<a id=681></a>
+##### Paragraphe 1 : Transfert de propriété des titres et mise en gage<a id=674></a>
 
 ###### Article L754-5
 
@@ -45333,7 +46103,7 @@ _Cite_:
   - Code monétaire et financier L431-4 à L431-6
 
 
-##### Paragraphe 2 : Compensation<a id=682></a>
+##### Paragraphe 2 : Compensation<a id=675></a>
 
 ###### Article L754-7
 
@@ -45354,9 +46124,9 @@ _Cite_:
   - Code monétaire et financier - art. L431-7 (M)
 
 
-##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=683></a>
+##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=676></a>
 
-##### Paragraphe 1 : Adjudication<a id=684></a>
+##### Paragraphe 1 : Adjudication<a id=677></a>
 
 ###### Article L754-8
 
@@ -45378,7 +46148,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-5 (V)
 
 
-##### Paragraphe 2 : Les opérations à terme<a id=685></a>
+##### Paragraphe 2 : Les opérations à terme<a id=678></a>
 
 ###### Article L754-9
 
@@ -45400,7 +46170,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-21 (Ab)
 
 
-##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=686></a>
+##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=679></a>
 
 ###### Article L754-10
 
@@ -45417,7 +46187,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=687></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=680></a>
 
 ###### Article L754-11
 
@@ -45453,9 +46223,9 @@ _Cite_:
   - Code monétaire et financier - art. L464-2 (M)
 
 
-##### Section 5 : La protection des investisseurs<a id=688></a>
+##### Section 5 : La protection des investisseurs<a id=681></a>
 
-##### Sous-section 1 : Obligations d'information relative aux comptes<a id=689></a>
+##### Sous-section 1 : Obligations d'information relative aux comptes<a id=682></a>
 
 ###### Article L754-12
 
@@ -45476,7 +46246,7 @@ _Cite_:
   - Code monétaire et financier L465-1 à L465-3
 
 
-##### Sous-section 2 : Obligations d'information sur les prises de participation<a id=690></a>
+##### Sous-section 2 : Obligations d'information sur les prises de participation<a id=683></a>
 
 ###### Article L754-13
 
@@ -45498,9 +46268,9 @@ _Cite_:
   - Code monétaire et financier - art. L466-1 (V)
 
 
-#### Chapitre V : Les prestataires de services<a id=691></a>
+#### Chapitre V : Les prestataires de services<a id=684></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=692></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=685></a>
 
 ###### Article L755-1
 
@@ -45532,9 +46302,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L755-1-1 (M)
 
 
-##### Sous-section 1 : Les sociétés financières<a id=693></a>
+##### Sous-section 1 : Les sociétés financières<a id=686></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=694></a>
+##### Paragraphe 1 : Dispositions communes<a id=687></a>
 
 ###### Article L755-2
 
@@ -45555,7 +46325,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-1 (V)
 
 
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=695></a>
+##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=688></a>
 
 ###### Article L755-3
 
@@ -45577,7 +46347,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-13 (V)
 
 
-##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=696></a>
+##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=689></a>
 
 ###### Article L755-4
 
@@ -45595,7 +46365,7 @@ _Cite_:
   - Code monétaire et financier L515-4 à L515-12
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=697></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=690></a>
 
 ###### Article L755-5
 
@@ -45621,7 +46391,7 @@ _Cite_:
   - Code monétaire et financier - art. L516-2
 
 
-##### Sous-section 3 : Les compagnies financières<a id=698></a>
+##### Sous-section 3 : Les compagnies financières<a id=691></a>
 
 ###### Article L755-6
 
@@ -45643,7 +46413,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-14 (V)
 
 
-##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=699></a>
+##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=692></a>
 
 ###### Article L755-7
 
@@ -45666,7 +46436,7 @@ _Cite_:
   - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
 
 
-##### Section 2 : Les changeurs manuels<a id=700></a>
+##### Section 2 : Les changeurs manuels<a id=693></a>
 
 ###### Article L755-8
 
@@ -45687,9 +46457,9 @@ _Cite_:
   - Code monétaire et financier L520-1 à L520-4, L572-1 à L572-4
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=701></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=694></a>
 
-##### Sous-section 1 : Définitions<a id=702></a>
+##### Sous-section 1 : Définitions<a id=695></a>
 
 ###### Article L755-9
 
@@ -45719,7 +46489,7 @@ _Cite_:
   - Code monétaire et financier L531-3, L531-2, L422-1, L532-16 à L532-27, L612-2
 
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=703></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=696></a>
 
 ###### Article L755-10
 
@@ -45752,7 +46522,7 @@ _Cité par_:
   - Code monétaire et financier - art. L755-7-2 (V)
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=704></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=697></a>
 
 ###### Article L755-11
 
@@ -45776,7 +46546,7 @@ _Cite_:
   - Code monétaire et financier L563-1 à L563-6, L573-1 à L573-7
 
 
-##### Section 4 : Les intermédiaires en biens divers<a id=705></a>
+##### Section 4 : Les intermédiaires en biens divers<a id=698></a>
 
 ###### Article L755-12
 
@@ -45799,7 +46569,7 @@ _Cite_:
   - Code monétaire et financier - art. L573-8 (M)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=706></a>
+##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=699></a>
 
 ###### Article L755-13
 
@@ -45831,11 +46601,11 @@ _Cite_:
   - Code monétaire et financier - art. L574-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=707></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=700></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=708></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=701></a>
 
-##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=709></a>
+##### Sous-section 1 : Le Comité de la réglementation bancaire et financière<a id=702></a>
 
 ###### Article L756-1
 
@@ -45853,7 +46623,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=710></a>
+##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=703></a>
 
 ###### Article L756-2
 
@@ -45882,7 +46652,7 @@ _Cite_:
   - Code monétaire et financier L612-1, L612-2, L612-3 à L612-6, L612-7, L641-1
 
 
-##### Sous-section 3 : La commission bancaire.<a id=711></a>
+##### Sous-section 3 : La commission bancaire.<a id=704></a>
 
 ###### Article L756-3
 
@@ -45909,7 +46679,7 @@ _Cite_:
   - Code monétaire et financier L613-12 à L613-14, L613-33, L641-2
 
 
-##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=712></a>
+##### Sous-section 4 : Le Conseil national du crédit et du titre<a id=705></a>
 
 ###### Article L756-4
 
@@ -45927,9 +46697,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les autorités des marchés financiers<a id=713></a>
+##### Section 2 : Les autorités des marchés financiers<a id=706></a>
 
-##### Sous-section 1 : La Commission des opérations de bourse<a id=714></a>
+##### Sous-section 1 : La Commission des opérations de bourse<a id=707></a>
 
 ###### Article L756-5
 
@@ -45963,7 +46733,7 @@ _Cite_:
   - Code monétaire et financier L621-21, L642-1 à L642-3
 
 
-##### Sous-section 2 : Le Conseil des marchés financiers<a id=715></a>
+##### Sous-section 2 : Le Conseil des marchés financiers<a id=708></a>
 
 ###### Article L756-6
 
@@ -45991,7 +46761,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-5 (Ab)
 
 
-##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=716></a>
+##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=709></a>
 
 ###### Article L756-7
 
@@ -46016,7 +46786,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-6 (Ab)
 
 
-##### Section 3 : Echanges d'informations<a id=717></a>
+##### Section 3 : Echanges d'informations<a id=710></a>
 
 ###### Article L756-8
 
@@ -46039,11 +46809,11 @@ _Cite_:
   - Code monétaire et financier - art. L632-1 (M)
 
 
-### Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna<a id=718></a>
+### Titre VI : Dispositions applicables dans les îles Wallis-et-Futuna<a id=711></a>
 
-#### Chapitre IV : Les marchés<a id=719></a>
+#### Chapitre IV : Les marchés<a id=712></a>
 
-##### Section 2 : Les plates-formes de négociation<a id=720></a>
+##### Section 2 : Les plates-formes de négociation<a id=713></a>
 
 ###### Article L764-4
 
@@ -46064,11 +46834,11 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-### Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna<a id=721></a>
+### Titre VI : Dispositions applicables au territoire des îles Wallis-et-Futuna<a id=714></a>
 
-#### Chapitre Ier : La monnaie<a id=722></a>
+#### Chapitre Ier : La monnaie<a id=715></a>
 
-##### Section 1 : Les instruments de la monnaie scripturale<a id=723></a>
+##### Section 1 : Les instruments de la monnaie scripturale<a id=716></a>
 
 ###### Article L761-1
 
@@ -46100,9 +46870,9 @@ _Modifié par_:
   - Loi n°2001-1062 2001-11-15 art. 71 VI JORF 16 novembre 2001
 
 
-##### Section 2 : Les relations financières avec l'étranger<a id=724></a>
+##### Section 2 : Les relations financières avec l'étranger<a id=717></a>
 
-##### Sous-section 1 : Dispositions générales<a id=725></a>
+##### Sous-section 1 : Dispositions générales<a id=718></a>
 
 ###### Article L761-2
 
@@ -46135,7 +46905,7 @@ _Cite_:
   - Code monétaire et financier L151-1 à L151-4, L165-1, L152-1, L151-2
 
 
-##### Sous-section 2 : Obligations de déclaration<a id=726></a>
+##### Sous-section 2 : Obligations de déclaration<a id=719></a>
 
 ###### Article L761-3
 
@@ -46230,11 +47000,11 @@ _Cite_:
   - Code monétaire et financier - art. L761-4 (M)
 
 
-#### Chapitre II : Les produits<a id=727></a>
+#### Chapitre II : Les produits<a id=720></a>
 
-##### Section 1 : Les instruments financiers<a id=728></a>
+##### Section 1 : Les instruments financiers<a id=721></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=729></a>
+##### Sous-section 1 : Définition et règles générales<a id=722></a>
 
 ###### Article L762-1
 
@@ -46264,7 +47034,7 @@ _Cite_:
   - Code monétaire et financier L211-1 à L211-5, L211-4
 
 
-##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=730></a>
+##### Sous-section 2 : Les actions et titres donnant accès au capital<a id=723></a>
 
 ###### Article L762-2
 
@@ -46292,9 +47062,9 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (V)
 
 
-##### Sous-section 3 : Les titres de créance<a id=731></a>
+##### Sous-section 3 : Les titres de créance<a id=724></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=732></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=725></a>
 
 ###### Article L762-3
 
@@ -46321,7 +47091,7 @@ _Cité par_:
   - Code monétaire et financier - art. L762-1 (V)
 
 
-##### Paragraphe 2 : Les obligations<a id=733></a>
+##### Paragraphe 2 : Les obligations<a id=726></a>
 
 ###### Article L762-4
 
@@ -46364,7 +47134,7 @@ _Cite_:
   - Code monétaire et financier - art. L213-7 (V)
 
 
-##### Sous-section 4 : Les placements collectifs<a id=734></a>
+##### Sous-section 4 : Les placements collectifs<a id=727></a>
 
 ###### Article L762-6
 
@@ -46402,7 +47172,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les produits d'épargne<a id=735></a>
+##### Section 2 : Les produits d'épargne<a id=728></a>
 
 ###### Article L762-7
 
@@ -46427,11 +47197,11 @@ _Cite_:
   - Code monétaire et financier L223-1 à L223-4, L232-1, L232-2
 
 
-#### Chapitre III : Les services<a id=736></a>
+#### Chapitre III : Les services<a id=729></a>
 
-##### Section 1 : Les opérations de banque<a id=737></a>
+##### Section 1 : Les opérations de banque<a id=730></a>
 
-##### Sous-section 1 : Dispositions générales<a id=738></a>
+##### Sous-section 1 : Dispositions générales<a id=731></a>
 
 ###### Article L763-1
 
@@ -46452,7 +47222,7 @@ _Cite_:
   - Code monétaire et financier L311-1 à L311-3
 
 
-##### Sous-section 2 : Comptes et dépôts<a id=739></a>
+##### Sous-section 2 : Comptes et dépôts<a id=732></a>
 
 ###### Article L763-2
 
@@ -46482,9 +47252,9 @@ _Cite_:
   - Code monétaire et financier - art. L352-1 (V)
 
 
-##### Sous-section 3 : Crédits<a id=740></a>
+##### Sous-section 3 : Crédits<a id=733></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=741></a>
+##### Paragraphe 1 : Dispositions générales<a id=734></a>
 
 ###### Article L763-3
 
@@ -46507,9 +47277,9 @@ _Cite_:
   - Code monétaire et financier L313-1 à L313-5
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=742></a>
+##### Paragraphe 2 : Catégories de crédits<a id=735></a>
 
-##### Sous-paragraphe 1 : Crédit-bail<a id=743></a>
+##### Sous-paragraphe 1 : Crédit-bail<a id=736></a>
 
 ###### Article L763-4
 
@@ -46530,7 +47300,7 @@ _Cite_:
   - Code monétaire et financier L313-7 à L313-11
 
 
-##### Sous-paragraphe 2 : Crédits aux entreprises<a id=744></a>
+##### Sous-paragraphe 2 : Crédits aux entreprises<a id=737></a>
 
 ###### Article L763-5
 
@@ -46555,7 +47325,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-22 (M)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances<a id=745></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances<a id=738></a>
 
 ###### Article L763-6
 
@@ -46577,7 +47347,7 @@ _Cite_:
   - Code monétaire et financier L313-23 à L313-41
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=746></a>
+##### Paragraphe 4 : Garantie des cautions<a id=739></a>
 
 ###### Article L763-7
 
@@ -46599,7 +47369,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-51 (M)
 
 
-##### Section 2 : Les services d'investissement et leurs services connexes<a id=747></a>
+##### Section 2 : Les services d'investissement et leurs services connexes<a id=740></a>
 
 ###### Article L763-8
 
@@ -46624,7 +47394,7 @@ _Cite_:
   - Code monétaire et financier - art. L322-2 (V)
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=748></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=741></a>
 
 ###### Article L763-9
 
@@ -46647,9 +47417,9 @@ _Cite_:
   - Code monétaire et financier - art. L330-2 (M)
 
 
-##### Section 4 : Démarchage<a id=749></a>
+##### Section 4 : Démarchage<a id=742></a>
 
-##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=750></a>
+##### Sous-section 1 : Démarchage concernant les opérations de banque<a id=743></a>
 
 ###### Article L763-10
 
@@ -46673,7 +47443,7 @@ _Cite_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=751></a>
+##### Sous-section 2 : Démarchage concernant les opérations sur le marché à terme<a id=744></a>
 
 ###### Article L763-11
 
@@ -46696,11 +47466,11 @@ _Cite_:
   - Code monétaire et financier - art. L353-6 (M)
 
 
-#### Chapitre IV : Les marchés<a id=752></a>
+#### Chapitre IV : Les marchés<a id=745></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=753></a>
+##### Section 1 : L'appel public à l'épargne<a id=746></a>
 
-##### Sous-section 1 : Définition<a id=754></a>
+##### Sous-section 1 : Définition<a id=747></a>
 
 ###### Article L764-1
 
@@ -46722,7 +47492,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Sous-section 2 : Conditions de l'appel public à l'épargne<a id=755></a>
+##### Sous-section 2 : Conditions de l'appel public à l'épargne<a id=748></a>
 
 ###### Article L764-2
 
@@ -46745,7 +47515,7 @@ _Cite_:
   - Code monétaire et financier - art. L412-1 (M)
 
 
-##### Section 2 : Les catégories de marché<a id=756></a>
+##### Section 2 : Les catégories de marché<a id=749></a>
 
 ###### Article L764-3
 
@@ -46768,11 +47538,11 @@ _Cite_:
   - Code monétaire et financier - art. L462-2 (V)
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=757></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=750></a>
 
-##### Sous-section 1 : Dispositions générales<a id=758></a>
+##### Sous-section 1 : Dispositions générales<a id=751></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=759></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=752></a>
 
 ###### Article L764-5
 
@@ -46808,7 +47578,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Compensation<a id=760></a>
+##### Paragraphe 2 : Compensation<a id=753></a>
 
 ###### Article L764-7
 
@@ -46825,9 +47595,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=761></a>
+##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=754></a>
 
-##### Paragraphe 1 : Adjudication<a id=762></a>
+##### Paragraphe 1 : Adjudication<a id=755></a>
 
 ###### Article L764-8
 
@@ -46848,7 +47618,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-5 (V)
 
 
-##### Paragraphe 2 : Les opérations à terme<a id=763></a>
+##### Paragraphe 2 : Les opérations à terme<a id=756></a>
 
 ###### Article L764-9
 
@@ -46870,7 +47640,7 @@ _Cite_:
   - Code monétaire et financier - art. L432-21 (Ab)
 
 
-##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=764></a>
+##### Sous-section 3 : Opérations spécifiques aux marchés réglementés<a id=757></a>
 
 ###### Article L764-10
 
@@ -46887,7 +47657,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=765></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensation<a id=758></a>
 
 ###### Article L764-11
 
@@ -46919,9 +47689,9 @@ _Cite_:
   - Code monétaire et financier - art. L464-2 (M)
 
 
-##### Section 5 : La protection des investisseurs<a id=766></a>
+##### Section 5 : La protection des investisseurs<a id=759></a>
 
-##### Sous-section 1 : Obligations d'information relative aux comptes<a id=767></a>
+##### Sous-section 1 : Obligations d'information relative aux comptes<a id=760></a>
 
 ###### Article L764-12
 
@@ -46942,7 +47712,7 @@ _Cite_:
   - Code monétaire et financier L465-1 à L465-3
 
 
-##### Sous-section 2 : Obligations d'information relative aux prises de participation<a id=768></a>
+##### Sous-section 2 : Obligations d'information relative aux prises de participation<a id=761></a>
 
 ###### Article L764-13
 
@@ -46968,9 +47738,9 @@ _Cite_:
   - Code monétaire et financier - art. L466-1 (M)
 
 
-#### Chapitre V : Les prestataires de services<a id=769></a>
+#### Chapitre V : Les prestataires de services<a id=762></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=770></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=763></a>
 
 ###### Article L765-1
 
@@ -47000,9 +47770,9 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. L765-1-1 (V)
 
 
-##### Sous-section 1 : Les sociétés financières<a id=771></a>
+##### Sous-section 1 : Les sociétés financières<a id=764></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=772></a>
+##### Paragraphe 1 : Dispositions communes<a id=765></a>
 
 ###### Article L765-2
 
@@ -47023,7 +47793,7 @@ _Cite_:
   - Code monétaire et financier - art. L515-1 (M)
 
 
-##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=773></a>
+##### Paragraphe 2 : Les sociétés de crédit-bail mobilier et immobilier<a id=766></a>
 
 ###### Article L765-3
 
@@ -47047,7 +47817,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-13 (V)
 
 
-##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=774></a>
+##### Paragraphe 3 : Les sociétés de caution mutuelle<a id=767></a>
 
 ###### Article L765-4
 
@@ -47060,7 +47830,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=775></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=768></a>
 
 ###### Article L765-5
 
@@ -47082,7 +47852,7 @@ _Cite_:
   - Code monétaire et financier - art. L516-2 (M)
 
 
-##### Sous-section 3 : Les compagnies financières<a id=776></a>
+##### Sous-section 3 : Les compagnies financières<a id=769></a>
 
 ###### Article L765-6
 
@@ -47104,7 +47874,7 @@ _Cite_:
   - Code monétaire et financier - art. L571-14 (M)
 
 
-##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=777></a>
+##### Sous-section 4 : Les intermédiaires en opérations de banque<a id=770></a>
 
 ###### Article L765-7
 
@@ -47132,7 +47902,7 @@ _Cite_:
   - Code monétaire et financier L519-1 à L519-5, L571-15, L571-16
 
 
-##### Section 2 : Les changeurs manuels<a id=778></a>
+##### Section 2 : Les changeurs manuels<a id=771></a>
 
 ###### Article L765-8
 
@@ -47151,9 +47921,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=779></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=772></a>
 
-##### Sous-section 1 : Définitions<a id=780></a>
+##### Sous-section 1 : Définitions<a id=773></a>
 
 ###### Article L765-9
 
@@ -47181,7 +47951,7 @@ _Cite_:
   - Code monétaire et financier - art. L612-2 (M)
 
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=781></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=774></a>
 
 ###### Article L765-10
 
@@ -47205,7 +47975,7 @@ _Cite_:
   - Code monétaire et financier L532-16 à L532-27, L532-5, L422-2, L532-23 à L532-27
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=782></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=775></a>
 
 ###### Article L765-11
 
@@ -47225,7 +47995,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=783></a>
+##### Section 5 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=776></a>
 
 ###### Article L765-13
 
@@ -47258,11 +48028,11 @@ _Cite_:
   - Code monétaire et financier - art. L574-2 (M)
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=784></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=777></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=785></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=778></a>
 
-##### Sous-section 1 : Le comité de la réglementation bancaire et financière<a id=786></a>
+##### Sous-section 1 : Le comité de la réglementation bancaire et financière<a id=779></a>
 
 ###### Article L766-1
 
@@ -47280,7 +48050,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=787></a>
+##### Sous-section 2 : Le comité des établissements de crédit et des entreprises d'investissement<a id=780></a>
 
 ###### Article L766-2
 
@@ -47309,7 +48079,7 @@ _Cite_:
   - Code monétaire et financier - art. L641-1 (V)
 
 
-##### Sous-section 3 : La commission bancaire<a id=788></a>
+##### Sous-section 3 : La commission bancaire<a id=781></a>
 
 ###### Article L766-3
 
@@ -47335,7 +48105,7 @@ _Cite_:
   - Code monétaire et financier - art. L641-2 (V)
 
 
-##### Sous-section 4 : Le conseil national du crédit et du titre<a id=789></a>
+##### Sous-section 4 : Le conseil national du crédit et du titre<a id=782></a>
 
 ###### Article L766-4
 
@@ -47353,9 +48123,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Les autorités des marchés financiers<a id=790></a>
+##### Section 2 : Les autorités des marchés financiers<a id=783></a>
 
-##### Sous-section 1 : La commission des opérations de bourse<a id=791></a>
+##### Sous-section 1 : La commission des opérations de bourse<a id=784></a>
 
 ###### Article L766-5
 
@@ -47390,7 +48160,7 @@ _Cite_:
   - Code monétaire et financier - art. L621-20 (M)
 
 
-##### Sous-section 2 : Le conseil des marchés financiers<a id=792></a>
+##### Sous-section 2 : Le conseil des marchés financiers<a id=785></a>
 
 ###### Article L766-6
 
@@ -47418,7 +48188,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-5 (Ab)
 
 
-##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=793></a>
+##### Sous-section 3 : Le conseil de discipline de la gestion financière<a id=786></a>
 
 ###### Article L766-7
 
@@ -47445,7 +48215,7 @@ _Cite_:
   - Code monétaire et financier - art. L642-7 (Ab)
 
 
-##### Section 3 : Echanges d'informations<a id=794></a>
+##### Section 3 : Echanges d'informations<a id=787></a>
 
 ###### Article L766-8
 
