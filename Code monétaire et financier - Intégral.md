@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2002-10-30
+Version Consolidée au 2002-12-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -154,8 +154,8 @@ Version Consolidée au 2002-10-30
           - [Section 3 : Définition des moyens de paiement. (art. L311-3)](#151)
           - [Section 4 : Compensation. (art. L311-4)](#152)
         - [Chapitre II : Comptes et dépôts (art. L312-1 à L312-18)](#153)
-          - [Section 1 : Droit au compte et relations avec le client (art. L312-1)](#154)
-            - [Sous-section 2 : Relations des établissements de crédit avec le client (art. L312-1)](#155)
+          - [Section 1 : Droit au compte et relations avec le client (art. L312-1 à L312-1-4)](#154)
+            - [Sous-section 2 : Relations des établissements de crédit avec le client (art. L312-1 à L312-1-4)](#155)
           - [Section 2 : Fonds reçus du public (art. L312-2 à L312-3)](#156)
             - [Sous-section 1 : Définition. (art. L312-2)](#157)
             - [Sous-section 2 : Rémunération. (art. L312-3)](#158)
@@ -195,7 +195,7 @@ Version Consolidée au 2002-10-30
           - [Section 1 : Opérations sur matières précieuses. (art. L344-1 à L344-2)](#192)
           - [Section 2 : Opérations sur les billets de banque étrangers. (art. L344-3)](#193)
       - [Titre V : Dispositions pénales (art. L351-1 à L353-7)](#194)
-        - [Chapitre Ier : Infractions relatives aux opérations de banque et aux opérations connexes. (art. L351-1)](#195)
+        - [Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client (art. L351-1)](#195)
         - [Chapitre II : Infractions relatives au fonds de garantie des déposants (art. L352-1)](#196)
         - [Chapitre III : Infractions relatives au démarchage (art. L353-1 à L353-7)](#197)
           - [Section 1 : Opérations de banque. (art. L353-1 à L353-2)](#198)
@@ -14058,6 +14058,268 @@ _Modifié par_:
   - Loi n°2001-1168 2001-12-11 art. 13 I 1° JORF 12 décembre 2001
 
 
+###### Article L312-1-1
+
+I. - La gestion d'un compte de dépôt est réglée par une convention écrite passée entre le client et son établissement de
+crédit. Les principales stipulations de cette convention de compte de dépôt, notamment les conditions générales et tarifaires
+d'ouverture, de fonctionnement et de clôture, sont précisées par un arrêté du ministre chargé de l'économie et des finances
+après avis du comité consultatif institué à l'article L. 614-6.
+
+Tout projet de modification du tarif des produits et services faisant l'objet de la convention doit être communiqué par écrit
+au client trois mois avant la date d'application envisagée. L'absence de contestation par le client dans un délai de deux
+mois après cette communication vaut acceptation du nouveau tarif.
+
+Aucun frais ne peut être prévu par la convention mentionnée au premier alinéa ni mise à la charge du client au titre de la
+clôture ou du transfert d'un compte opéré à la demande d'un client qui conteste une proposition de modification substantielle
+de cette convention.
+
+II. - Sauf si la convention de compte en dispose autrement, toutes les opérations en crédit et en débit d'un compte de dépôt
+doivent être portées à la connaissance du client à intervalle régulier n'excédant pas un mois.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 13 III 1°
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
+
+_Créé par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
+
+_Cité par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 77 (V)
+  - Arrêté du 8 mars 2005 - art. 2 (VT)
+  - Ordonnance n°2008-1233 du 28 novembre 2008 - art. 2 (V)
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 20 (V)
+  - Arrêté du 29 juillet 2009 (VT)
+  - Arrêté du 29 juillet 2009 - art. 1 (V)
+  - Arrêté du 29 juillet 2009 - art. 2 (VD)
+  - Arrêté du 29 juillet 2009 - art. 5 (V)
+  - Loi n°2010-737 du 1er juillet 2010 - art. 16
+  - Loi n°2014-1662 du 30 décembre 2014 - art. 23 (V)
+  - Arrêté du 27 octobre 2015 - art. 10 (V)
+  - Arrêté du 31 août 2017 - art. 1
+  - Code de commerce - art. L441-1 (V)
+  - Code de la consommation - art. L112-2 (V)
+  - Code de la consommation - art. L113-3 (VT)
+  - Code de la consommation - art. L121-13 (V)
+  - Code de la consommation - art. L122-4 (VT)
+  - Code de la consommation - art. L311-46 (VT)
+  - Code de la consommation - art. L312-92 (VD)
+  - Code monétaire et financier - art. D312-4-1 (VT)
+  - Code monétaire et financier - art. L312-1-2 (V)
+  - Code monétaire et financier - art. L312-1-3 (VT)
+  - Code monétaire et financier - art. L312-1-4 (VT)
+  - Code monétaire et financier - art. L314-10 (VD)
+  - Code monétaire et financier - art. L314-12 (VD)
+  - Code monétaire et financier - art. L314-14 (VD)
+  - Code monétaire et financier - art. L314-2 (VD)
+  - Code monétaire et financier - art. L314-3 (VD)
+  - Code monétaire et financier - art. L314-9 (VD)
+  - Code monétaire et financier - art. L315-1 (VD)
+  - Code monétaire et financier - art. L316-1 (VD)
+  - Code monétaire et financier - art. L316-3 (T)
+  - Code monétaire et financier - art. L317-1 (VD)
+  - Code monétaire et financier - art. L317-3 (VD)
+  - Code monétaire et financier - art. L351-1 (V)
+  - Code monétaire et financier - art. L743-2 (V)
+  - Code monétaire et financier - art. L743-7-3 (V)
+  - Code monétaire et financier - art. L743-7-4 (V)
+  - Code monétaire et financier - art. L753-2 (V)
+  - Code monétaire et financier - art. L753-7-3 (V)
+  - Code monétaire et financier - art. L753-7-4 (V)
+  - Code monétaire et financier - art. L763-7-3 (V)
+  - Code monétaire et financier - art. L763-7-4 (V)
+  - Code monétaire et financier - art. R312-1-2 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L614-6 (Ab)
+
+
+###### Article L312-1-2
+
+I. - 1. Est interdite la vente ou offre de vente de produits ou de prestations de services groupés sauf lorsque les produits
+ou prestations de services inclus dans l'offre groupée peuvent être achetés individuellement ou lorsqu'ils sont
+indissociables.
+
+2. Est interdite toute vente ou offre de vente de produits ou de prestations de services faite au client et donnant droit à
+titre gratuit, immédiatement ou à terme, à une prime financière ou en nature de produits, biens ou services dont la valeur
+serait supérieure à un seuil fixé, en fonction du type de produit ou de service offert à la clientèle, par un règlement pris
+par arrêté du ministre chargé de l'économie, pris après avis du comité consultatif institué à l'article L. 614-6.
+
+II. - Des agents de la Banque de France commissionnés par le ministre chargé de l'économie et des fonctionnaires habilités à
+relever les infractions aux dispositions des articles L. 113-3, L. 121-35 et L. 122-1 du code de la consommation sont
+qualifiés pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation par procès-verbal des
+infractions aux dispositions du I de l'article L. 312-1-1 et du I du présent article.
+
+Ces agents peuvent accéder à tous les locaux à usage professionnel et demander la communication des livres et tous autres
+documents professionnels et en prendre copie, recueillir sur convocation ou sur place les renseignements et justifications.
+Ils ne peuvent accéder à ces locaux qu'entre huit heures et vingt heures. Le secret professionnel ne peut être opposé aux
+agents agissant dans le cadre des pouvoirs qui leur sont conférés par le présent article.
+
+Les procès-verbaux sont tranmis au procureur de la République dans les cinq jours suivant leur établissement. Une copie en
+est également remise à l'intéressé.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 13 I 1° et 2° JORF 12 décembre 2001 en vigueur le 12 décembre 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 13 III 2° : champ d'application
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
+  - TXT_SOURCE: Arrêté du 11 août 2003
+  - TXT_SOURCE: Arrêté du 11 août 2003 - art. 1 (V)
+
+_Cité par_:
+
+  - Arrêté du 11 août 2003 - art. 1 (V)
+  - Loi n°2016-1691 du 9 décembre 2016 - art. 67 (V)
+  - Code de la consommation - art. L121-11 (VD)
+  - Code de la consommation - art. L121-19 (V)
+  - Code de la consommation - art. L121-35 (VT)
+  - Code de la consommation - art. L122-1 (VT)
+  - Code monétaire et financier - art. L312-1-3 (V)
+  - Code monétaire et financier - art. L316-3 (T)
+  - Code monétaire et financier - art. L317-3 (VD)
+  - Code monétaire et financier - art. L351-1 (V)
+  - Code monétaire et financier - art. L743-2 (V)
+  - Code monétaire et financier - art. L753-2 (V)
+
+_Cite_:
+
+  - Code de la consommation - art. L113-3 (M)
+  - Code monétaire et financier - art. L312-1-1 (M)
+  - Code monétaire et financier - art. L614-6 (Ab)
+
+
+###### Article L312-1-3
+
+I. - Tout établissement de crédit désigne un ou plusieurs médiateurs chargés de recommander des solutions aux litiges
+relatifs à l'application par les établissements de crédit des obligations figurant aux I des articles L. 312-1-1 et L.
+312-1-2. Les médiateurs sont choisis en raison de leur compétence et de leur impartialité.
+
+Le médiateur est tenu de statuer dans un délai de deux mois à compter de sa saisine. Celle-ci suspend la prescription pendant
+ce délai. Les constatations et les déclarations que le médiateur recueille ne peuvent être ni produites ni invoquées dans la
+suite de la procédure sans l'accord des parties. Cette procédure de médiation est gratuite. L'existence de la médiation et
+ses modalités d'accès doivent faire l'objet d'une mention portée sur la convention visée à l'article L. 312-1-1, ainsi que
+sur les relevés de compte.
+
+Le compte rendu annuel d'activité établi par chaque médiateur est transmis au gouverneur de la Banque de France et au
+président du comité consultatif institué à l'article L. 614-6.
+
+II. - Il est institué un comité de la médiation bancaire chargé d'examiner les rapports des médiateurs et d'établir chaque
+année un bilan de la médiation bancaire qu'il transmet au Conseil national du crédit et du titre. Ce comité est également
+chargé de préciser les modalités d'exercice de l'activité des médiateurs, en veillant notamment à garantir leur indépendance.
+Il est informé des modalités et du montant des indemnités et dédommagements versés aux médiateurs par les établissements de
+crédit. Ce comité peut adresser des recommandations aux établissements de crédit et aux médiateurs.
+
+Le comité de la médiation bancaire est présidé par le gouverneur de la Banque de France ou son représentant. Les autres
+membres sont nommés par arrêté du ministre chargé de l'économie, selon la répartition suivante : une personnalité proposée
+par le collège de consommateurs et usagers du Conseil national de la consommation, une personnalité proposée par
+l'Association française des établissements de crédit et des entreprises d'investissement et deux personnalités choisies en
+raison de leur compétence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 13 I 1° et 2° JORF 12 décembre 2001 en vigueur le 12 décembre 2002
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 13 III : champ d'application
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
+
+_Cité par_:
+
+  - Décret n°2014-738 du 30 juin 2014 (V)
+  - Arrêté du 5 novembre 2014 - art. (V)
+  - Code monétaire et financier - art. L312-1 (VD)
+  - Code monétaire et financier - art. L312-1-1 A (V)
+  - Code monétaire et financier - art. L351-1 (V)
+  - Code monétaire et financier - art. L743-2 (MMN)
+  - Code monétaire et financier - art. L753-2 (V)
+  - Code monétaire et financier - art. R312-1-2 (V)
+  - Code monétaire et financier - art. R312-4-1 (VD)
+  - Code monétaire et financier - art. R312-4-2 (V)
+  - Code monétaire et financier - art. R312-4-3 (V)
+  - Code monétaire et financier - art. R312-7 (T)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L312-1-1 (M)
+  - Code monétaire et financier - art. L312-1-2 (M)
+  - Code monétaire et financier - art. L614-6 (Ab)
+
+
+###### Article L312-1-4
+
+Les dispositions des articles L. 312-1-1 à L. 312-1-3 sont d'ordre public. Elles s'appliquent aux établissements de crédit
+mentionnés à l'article L. 511-1 ainsi qu'aux organismes mentionnés à l'article L. 518-1.
+
+Leurs conditions d'application sont précisées par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 13 I 1° et 2° JORF 12 décembre 2001 en vigueur le 12 décembre 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
+
+_Cité par_:
+
+  - Arrêté du 25 octobre 2013 - art. 1 (Ab)
+  - Arrêté du 7 mai 2015 (V)
+  - Arrêté du 7 mai 2015 - art. 1 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L511-1 (V)
+  - Code monétaire et financier - art. L518-1 (M)
+  - Code monétaire et financier L312-1-1 à L312-1-3, L511-1, L518-1
+
+
 ##### Section 2 : Fonds reçus du public<a id=156></a>
 
 ##### Sous-section 1 : Définition.<a id=157></a>
@@ -18449,12 +18711,29 @@ _Nouveaux textes_:
 
 ### Titre V : Dispositions pénales<a id=194></a>
 
-#### Chapitre Ier : Infractions relatives aux opérations de banque et aux opérations connexes.<a id=195></a>
+#### Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client<a id=195></a>
 
 ###### Article L351-1
 
-Les sanctions des infractions relatives aux opérations de banque et aux opérations connexes sont définies au titre VII du
-livre V du présent code.
+Est puni de 15000 Euros d'amende le fait de méconnaître l'une des obligations mentionnées au I de l'article L. 312-1-1 ou
+l'une des interdictions édictées au I de l'article L. 312-1-2.
+
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions définies à l'alinéa précédent. Les peines encourues par les personnes morales sont l'amende, suivant
+les modalités prévues par l'article 131-38 du code pénal.
+
+Avant d'engager l'action publique tendant à l'application de la sanction pénale prévue au présent article, le parquet peut
+saisir pour avis le comité de la médiation bancaire s'il l'estime nécessaire, mentionné au II de l'article L. 312-1-3. En cas
+de dépôt d'une plainte avec constitution de partie civile portant sur des infractions aux dispositions mentionnées au premier
+alinéa, le procureur de la République peut, avant de prendre ses réquisitions, saisir pour avis le comité de la médiation
+bancaire. Les réquisitions sont transmises au juge d'instruction après avis du comité.
+
+En cas de citation directe à l'audience du tribunal correctionnel par la victime pour les infractions visées à l'alinéa
+précédent, le président peut, avant tout examen au fond, saisir le comité de la médiation bancaire pour avis. Cet avis est
+transmis aux parties et au tribunal par le comité et versé au dossier.
+
+Le comité de la médiation bancaire se prononce dans un délai de six semaines au plus tard après la réception de la demande
+d'avis. Dans son avis, il apprécie notamment la gravité des faits ainsi que leur éventuel caractère répétitif.
 
 **Liens relatifs à cet article**
 
@@ -18465,15 +18744,19 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 13 III : champ d'application
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
 
 _Cité par_:
 
@@ -18491,6 +18774,14 @@ _Cité par_:
   - Code monétaire et financier - art. L763-3 (M)
   - Code monétaire et financier - art. R312-8 (T)
   - Code monétaire et financier - art. R615-10 (Ab)
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-38 (M)
+  - Code monétaire et financier - art. L312-1-1 (M)
+  - Code monétaire et financier - art. L312-1-2 (M)
+  - Code monétaire et financier - art. L312-1-3 (M)
 
 
 #### Chapitre II : Infractions relatives au fonds de garantie des déposants<a id=196></a>
