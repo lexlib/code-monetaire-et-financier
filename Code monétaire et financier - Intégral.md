@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2004-12-10
+Version Consolidée au 2004-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -9852,9 +9852,11 @@ _Cité par_:
 ###### Article L214-36
 
 1. L'actif d'un fonds commun de placement à risques doit être constitué, pour 50 % au moins, de titres participatifs ou de
-titres donnant accès directement ou indirectement au capital de sociétés qui ne sont pas admises aux négociations sur un
-marché réglementé français ou étranger, ou, par dérogation à l'article L. 214-20, de parts de sociétés à responsabilité
-limitée ou de sociétés dotées d'un statut équivalent dans leur Etat de résidence.
+titres de capital, ou donnant accès au capital, émis par des sociétés qui ne sont pas admises aux négociations sur un marché
+d'instruments financiers français ou étranger, dont le fonctionnement est assuré par une entreprise de marché ou un
+prestataire de services d'investissement ou tout autre organisme similaire étranger, ou, par dérogation à l'article L.
+214-20, de parts de sociétés à responsabilité limitée ou de sociétés dotées d'un statut équivalent dans leur Etat de
+résidence.
 
 2. L'actif peut également comprendre :
 
@@ -9864,18 +9866,23 @@ prévu au 1, lorsqu'elles sont consenties à des sociétés remplissant les cond
 
 b) Des droits représentatifs d'un placement financier dans une entité constituée dans un Etat membre de l'Organisation de
 coopération et de développement économiques dont l'objet principal est d'investir dans des sociétés dont les titres de
-capital ne sont pas admis aux négociations sur un marché réglementé. Ces droits ne sont retenus dans le quota
+capital ne sont pas admis aux négociations sur un marché mentionné au 1. Ces droits ne sont retenus dans le quota
 d'investissement de 50 % du fonds qu'à concurrence du pourcentage d'investissement direct de l'actif de l'entité concernée
 dans les sociétés éligibles à ce même quota.
 
-3. Sont également pris en compte pour le calcul du quota d'investissement de 50 % les titres, détenus depuis cinq ans au
-plus, des sociétés admises aux négociations sur l'un des marchés réglementés de valeurs de croissance de l'Espace économique
-européen ou un compartiment de valeurs de croissance de ces marchés dont la liste est fixée par arrêté du ministre chargé de
-l'économie.
+3. Sont également éligibles au quota d'investissement prévu au 1, dans la limite de 20 % de l'actif du fonds, les titres de
+capital, ou donnant accès au capital, admis aux négociations sur un marché mentionné au 1 d'un Etat partie à l'accord sur
+l'Espace économique européen, émis par des sociétés dont la capitalisation boursière est inférieure à 150 millions d'euros.
+La capitalisation boursière est évaluée selon la moyenne des cours d'ouverture des soixante jours de bourse précédant celui
+de l'investissement. Un décret en Conseil d'Etat détermine les modalités d'application de cette évaluation notamment en cas
+de première cotation ou d'opération de restructuration d'entreprises.
 
 4. Lorsque les titres d'une société détenus par un fonds commun de placement à risques sont admis aux négociations sur un
-marché réglementé, ils continuent à être pris en compte dans le quota d'investissement de 50 % pendant une durée de cinq ans
-à compter de leur admission.
+marché d'instruments financiers français ou étrangers, dont le fonctionnement est assuré par une entreprise de marché ou un
+prestataire de services d'investissement ou tout autre organisme similaire étranger, ils continuent à être pris en compte
+dans le quota d'investissement de 50 % pendant une durée de cinq ans à compter de leur admission. Le délai de cinq ans n'est
+toutefois pas applicable si les titres de la société admis à la cotation répondent aux conditions du 3 à la date de cette
+cotation et si le fonds respecte, compte tenu de ces titres, la limite de 20 % mentionnée audit 3.
 
 5. Le quota d'investissement de 50 % doit être respecté au plus tard lors de l'inventaire de clôture de l'exercice suivant
 l'exercice de la constitution du fonds commun de placement à risques et jusqu'à la clôture du cinquième exercice du fonds.
@@ -10049,8 +10056,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 78 (V) JORF 29 décembre 2001
-  - Loi n°2001-1275 2001-12-28 art. 78 I A, B Finances pour 2002 JORF 29 décembre 2001
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 _Cite_:
 
@@ -10538,11 +10544,12 @@ _Cite_:
 I. - Les fonds communs de placement dans l'innovation sont des fonds communs de placement à risques dont l'actif est
 constitué, pour 60 % au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant,
 telles que définies par le 1° et le a du 2° de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat
-membre de la Communauté européenne, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en
-seraient passibles dans les mêmes conditions si l'activité était exercée en France, qui comptent moins de cinq cents
-salariés, dont le capital n'est pas détenu majoritairement, directement ou indirectement, par une ou plusieurs personnes
-morales ayant des liens de dépendance avec une autre personne morale au sens du III et qui remplissent l'une des conditions
-suivantes ;
+membre de la Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu
+avec la France une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude
+ou l'évasion fiscale, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en seraient
+passibles dans les mêmes conditions si l'activité était exercée en France, qui comptent moins de deux mille salariés, dont le
+capital n'est pas détenu majoritairement, directement ou indirectement, par une ou plusieurs personnes morales ayant des
+liens de dépendance avec une autre personne morale au sens du III et qui remplissent l'une des conditions suivantes ;
 
 a) Avoir réalisé, au cours des trois exercices précédents, des dépenses cumulées de recherche visées aux a à f du II de
 l'article 244 quater B du code général des impôts, d'un montant au moins égal au tiers du chiffre d'affaires le plus élevé
@@ -10553,8 +10560,37 @@ développement économique sont reconnus, ainsi que le besoin de financement cor
 pour une période de trois ans par un établissement public compétent en matière de valorisation de recherche et désigné par
 décret.
 
-Les dispositions du 3°, du 4° et du 5° de l'article L. 214-36 s'appliquent dans les mêmes conditions aux fonds communs de
-placement dans l'innovation sous réserve du respect du quota d'investissement de 60 % qui leur est propre.
+Les dispositions du 4° et du 5° de l'article L. 214-36 s'appliquent dans les mêmes conditions aux fonds communs de placement
+dans l'innovation sous réserve du respect du I bis du présent article et du quota d'investissement de 60 % qui leur est
+propre.
+
+I bis. - Sont également éligibles au quota d'investissement de 60 % mentionné au I, dans la limite de 20 % de l'actif du
+fonds, les titres mentionnés au 3 de l'article L. 214-36, sous réserve que la société émettrice réponde aux conditions
+mentionnées au I, à l'exception de celle tenant à la non-cotation.
+
+I ter. - Sont pris en compte, pour le calcul du quota d'investissement mentionné au I, les titres de capital mentionnés au 3
+de l'article L. 214-36 émis par des sociétés qui ont pour objet principal la détention de participations financières et qui
+répondent aux conditions du premier alinéa du I, à l'exception de la non-cotation.
+
+Ces titres sont retenus dans le quota d'investissement de 60 % et pour le calcul de la limite de 20 % prévue au I bis à
+concurrence du pourcentage d'investissement direct de l'actif de la société émettrice dans des sociétés qui répondent aux
+conditions mentionnées au I et au I bis, selon des modalités fixées par décret en Conseil d'Etat. Toutefois, pour
+l'appréciation de la condition relative au capital de ces participations mentionnée au premier alinéa du I, il n'est pas tenu
+compte de la participation de la société mère mentionnée au premier alinéa.
+
+I quater. - Sont également pris en compte pour le calcul du quota d'investissement mentionné au I les parts ou les titres de
+capital ou donnant accès au capital émis par des sociétés répondant aux conditions du premier alinéa du I :
+
+- qui ont pour objet exclusif de détenir des participations dans des sociétés qui répondent aux conditions mentionnées au I.
+Toutefois, pour l'appréciation de la condition relative au capital de ces participations mentionnée au premier alinéa du I,
+il n'est pas tenu compte de la participation de la société mère mentionnée au premier alinéa, et la condition prévue au b du
+I peut également être appréciée par l'organisme mentionné à ce même b au niveau de la société mentionnée au premier alinéa
+dans des conditions fixées par décret ;
+
+- et dont les emprunts d'espèces sont inférieurs à 10 % de leur situation nette comptable.
+
+Un décret en Conseil d'Etat précise les modalités de calcul de la condition relative à l'exclusivité de l'objet mentionné au
+deuxième alinéa.
 
 II. - Les conditions relatives au nombre de salariés et à la reconnaissance, par un établissement public compétent en matière
 de valorisation de recherche ou à raison de leurs dépenses cumulées de recherche, du caractère innovant de sociétés dont les
@@ -10571,6 +10607,10 @@ même tierce société.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (Ab)
+
 _Cité par_:
 
   - Décret n°89-623 du 6 septembre 1989 - art. 10 (Ab)
@@ -10578,13 +10618,13 @@ _Cité par_:
   - Arrêté du 12 novembre 2004 - art. 412-118 (Ab)
   - Arrêté du 12 novembre 2004 - art. 412-127 (Ab)
   - Arrêté du 12 novembre 2004 - art. 414-1 (V)
-  - Arrêté du 26 février 2009 - art. 1 (V)
   - Loi n°2005-842 du 26 juillet 2005 - art. 21 (V)
   - Loi n°2005-1720 du 30 décembre 2005 - art. 32 (V)
   - Décret n°2007-243 du 23 février 2007 - art. 4 (V)
   - Loi n°2008-776 du 4 août 2008 - art. 26
   - Décret n°2009-193 du 18 février 2009 (V)
   - Décret n°2009-193 du 18 février 2009 - art. 3 (V)
+  - Arrêté du 26 février 2009 - art. 1 (V)
   - CODE GENERAL DES IMPOTS ANNEXE 3, CGIAN3. - art. 46 AI quater (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 125-0 A (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 242 quinquies (V)
@@ -10625,22 +10665,18 @@ _Cité par_:
   - Code monétaire et financier - art. R214-77 (V)
   - Code monétaire et financier - art. R214-80 (Ab)
 
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
 _Cite_:
 
   - CGI 244 quater B
   - Code monétaire et financier - art. L214-36 (M)
 
-_Anciens textes_:
-
-  - Loi n°88-1201 du 23 décembre 1988 - art. 22-1 (Ab)
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
 _Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 28 () JORF 5 août 2003
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 
 ##### Sous-section 9-1 : Fonds d'investissement de proximité.<a id=103></a>
@@ -10651,8 +10687,10 @@ _Modifié par_:
 % au moins, de valeurs mobilières, parts de société à responsabilité limitée et avances en compte courant, dont au moins 10 %
 dans des nouvelles entreprises exerçant leur activité ou juridiquement constituées depuis moins de cinq ans, telles que
 définies par le 1 et le a du 2 de l'article L. 214-36, émises par des sociétés ayant leur siège dans un Etat membre de la
-Communauté européenne qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en seraient
-passibles dans les mêmes conditions si l'activité était exercée en France, et qui remplissent les conditions suivantes :
+Communauté européenne, ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France
+une convention fiscale qui contient une clause d'assistance administrative en vue de lutter contre la fraude ou l'évasion
+fiscale, qui sont soumises à l'impôt sur les sociétés dans les conditions de droit commun ou en seraient passibles dans les
+mêmes conditions si l'activité était exercée en France, et qui remplissent les conditions suivantes :
 
 a) Exercer leurs activités principalement dans des établissements situés dans la zone géographique choisie par le fonds et
 limitée à une région ou deux ou trois régions limitrophes, ou, lorsque cette condition ne trouve pas à s'appliquer, y avoir
@@ -10681,11 +10719,15 @@ de placement à risques et des actions de sociétés de capital-risque.
 Sont également prises en compte dans le calcul du quota de 60 % les participations versées à des sociétés de caution mutuelle
 ou à des organismes de garantie intervenant dans la zone géographique choisie par le fonds.
 
-2. Les dispositions du 3, du 4 et du 5 de l'article L. 214-36 s'appliquent aux fonds d'investissement de proximité sous
-réserve du respect du quota de 60 % et des conditions d'éligibilité tels que définis au 1 du présent article. Toutefois, par
-dérogation aux dispositions du 5 du même article, les fonds d'investissement de proximité créés jusqu'au 31 décembre 2004
-doivent respecter leur quota d'investissement de 60 % au plus tard lors de l'inventaire de clôture du deuxième exercice
-suivant celui de leur constitution.
+Lorsque les titres d'une société détenus par un fonds d'investissement de proximité sont admis aux négociations sur un marché
+mentionné au 1 de l'article L. 214-36, ils continuent à être éligibles au quota d'investissement de 60 % pendant une durée de
+cinq ans à compter de leur admission.
+
+2. Les dispositions du 5 de l'article L. 214-36 s'appliquent aux fonds d'investissement de proximité sous réserve du respect
+du quota de 60 % et des conditions d'éligibilité tels que définis au 1 du présent article. Toutefois, par dérogation aux
+dispositions du 5 du même article, les fonds d'investissement de proximité créés jusqu'au 31 décembre 2004 doivent respecter
+leur quota d'investissement de 60 % au plus tard lors de l'inventaire de clôture du deuxième exercice suivant celui de leur
+constitution.
 
 3. Les parts d'un fonds d'investissement de proximité ne peuvent pas être détenues :
 
@@ -10750,9 +10792,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2003-721 du 1 août 2003 - art. 26 () JORF 5 août 2003
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 
 ##### Sous-section 10 : Fonds communs d'intervention sur les marchés à terme.<a id=104></a>
@@ -12943,10 +12985,9 @@ _Cité par_:
 ###### Article L221-15
 
 Le bénéfice de ce compte sur livret est réservé aux contribuables qui ont leur domicile fiscal en France et qui justifient
-chaque année que l'impôt établi à leur nom à raison de l'ensemble de leurs revenus n'excède pas, avant imputation de l'avoir
-fiscal, du crédit d'impôt et des prélèvements non libératoires, un plafond qui est révisé chaque année dans la même
-proportion que la première tranche du barème de l'impôt sur le revenu, le résultat obtenu étant arrondi à la dizaine de
-francs supérieure.
+chaque année que l'impôt établi à leur nom à raison de l'ensemble de leurs revenus n'excède pas, avant imputation des crédits
+d'impôt et des prélèvements non libératoires, un plafond qui est révisé chaque année dans la même proportion que la première
+tranche du barème de l'impôt sur le revenu, le résultat obtenu étant arrondi à la dizaine de francs supérieure.
 
 L'impôt mentionné à l'alinéa premier est celui qui est mis en recouvrement l'année qui précède celle pour laquelle une
 justification est demandée.
@@ -12955,6 +12996,11 @@ Toutefois, l'impôt mis en recouvrement l'année d'une demande d'ouverture sera 
 situation de famille ou de revenus a été modifiée l'année précédente. Les modalités selon lesquelles ces contribuables
 apportent alors la preuve qu'ils remplissent la condition relative au plafond d'imposition sont définies par le décret
 mentionné à l'article L. 221-14.
+
+**Nota:**
+
+NOTA : Loi 2004-1485 2004-12-30 art. 38 IX 4 : Ces dispositions s'appliquent à compter de l'imposition des revenus de l'année
+2005.
 
 **Liens relatifs à cet article**
 
@@ -12965,6 +13011,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 38 (V) JORF 31 décembre 2004
 
 _Cité par_:
 
@@ -14552,28 +14602,36 @@ _Modifié par_:
 
 ###### Article L312-1-1
 
-I. - La gestion d'un compte de dépôt est réglée par une convention écrite passée entre le client et son établissement de
-crédit. Les principales stipulations de cette convention de compte de dépôt, notamment les conditions générales et tarifaires
-d'ouverture, de fonctionnement et de clôture, sont précisées par un arrêté du ministre chargé de l'économie et des finances
-après avis du comité consultatif institué à l'article L. 614-6.
+I. - Les établissements de crédit sont tenus d'informer leur clientèle et le public sur les conditions générales et
+tarifaires applicables aux opérations relatives à la gestion d'un compte de dépôt, selon des modalités fixées par un arrêté
+du ministre chargé de l'économie et des finances.
 
-Tout projet de modification du tarif des produits et services faisant l'objet d'une convention de compte de dépôt doit être
-communiqué par écrit au client trois mois avant la date d'application envisagée. L'absence de contestation par le client dans
-un délai de deux mois après cette communication vaut acceptation du nouveau tarif.
+La gestion d'un compte de dépôt des personnes physiques n'agissant pas pour des besoins professionnels est réglée par une
+convention écrite passée entre le client et son établissement de crédit ou les services financiers de La Poste pour tout
+compte ouvert à compter du 28 février 2003. L'acceptation de ce contrat est formalisée par la signature du ou des titulaires
+du compte.
 
-Aucun frais ne peut être prévu par la convention mentionnée à l'alinéa précédent ni mise à la charge du client au titre de la
-clôture ou du transfert d'un compte opéré à la demande d'un client qui conteste une proposition de modification substantielle
-de cette convention.
+Pour les comptes ouverts avant cette date et n'ayant pas fait l'objet d'une convention signée ou tacitement approuvée, un
+projet de convention de compte de dépôt est fourni au client à sa demande. L'acceptation de ce contrat est formalisée par la
+signature du ou des titulaires du compte dans un délai maximal de trois mois après l'envoi.
+
+Jusqu'au 31 décembre 2009, les établissements de crédit et les services financiers de La Poste sont tenus d'informer au moins
+une fois par an les clients n'ayant pas de convention de compte de dépôt de la possibilité d'en signer une.
+
+Les principales stipulations que la convention de compte de dépôt doit comporter, notamment les conditions générales et
+tarifaires d'ouverture, de fonctionnement et de clôture, sont précisées par un arrêté du ministre chargé de l'économie et des
+finances.
+
+Tout projet de modification des conditions tarifaires applicables au compte de dépôt doit être communiqué par écrit au client
+trois mois avant la date d'application envisagée. L'absence de contestation par le client dans un délai de deux mois après
+cette communication vaut acceptation du nouveau tarif.
+
+Aucun frais ne peut être prévu par la convention de compte de dépôt ni mise à la charge du client au titre de la clôture ou
+du transfert d'un compte opéré à la demande d'un client qui conteste une proposition de modification substantielle des
+conditions et tarifs applicables à son compte de dépôt.
 
 II. - Sauf si la convention de compte en dispose autrement, toutes les opérations en crédit et en débit d'un compte de dépôt
 doivent être portées à la connaissance du client à intervalle régulier n'excédant pas un mois.
-
-**Nota:**
-
-NOTA : Loi n° 2003-706 du 1er août 2003 article 77 I :
-
-"L'application du premier alinéa du I de l'article L. 312-1-1 du code monétaire et financier est suspendue pour une période
-de dix-huit mois à compter de la promulgation de la présente loi" (JO du 2 août 2003).
 
 **Liens relatifs à cet article**
 
@@ -14588,10 +14646,6 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 77 (V) JORF 2 août 2003
 
 _Cité par_:
 
@@ -14640,6 +14694,10 @@ _Cité par_:
   - Code monétaire et financier - art. L763-7-4 (V)
   - Code monétaire et financier - art. R312-1-2 (VD)
 
+_Modifié par_:
+
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 106 () JORF 31 décembre 2004
+
 
 ###### Article L312-1-2
 
@@ -14662,8 +14720,8 @@ documents professionnels et en prendre copie, recueillir sur convocation ou sur 
 Ils ne peuvent accéder à ces locaux qu'entre huit heures et vingt heures. Le secret professionnel ne peut être opposé aux
 agents agissant dans le cadre des pouvoirs qui leur sont conférés par le présent article.
 
-Les procès-verbaux sont tranmis au procureur de la République dans les cinq jours suivant leur établissement. Une copie en
-est également remise à l'intéressé.
+Pour les infractions sanctionnées pénalement, les procès-verbaux sont transmis au procureur de la République dans les cinq
+jours suivant leur établissement. Dans tous les cas, une copie du procès-verbal est remise à l'intéressé.
 
 **Liens relatifs à cet article**
 
@@ -14671,13 +14729,8 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
-
-  - Loi n°2001-1168 2001-12-11 art. 13 I 1° et 2° JORF 12 décembre 2001 en vigueur le 12 décembre 2002
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 13 III 2° : champ d'application
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
@@ -14700,6 +14753,10 @@ _Cité par_:
   - Code monétaire et financier - art. L351-1 (V)
   - Code monétaire et financier - art. L743-2 (V)
   - Code monétaire et financier - art. L753-2 (V)
+
+_Modifié par_:
+
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 106 () JORF 31 décembre 2004
 
 _Cite_:
 
@@ -14779,15 +14836,12 @@ _Cite_:
 ###### Article L312-1-4
 
 Les dispositions des articles L. 312-1-1 à L. 312-1-3 sont d'ordre public. Elles s'appliquent aux établissements de crédit
-mentionnés à l'article L. 511-1 ainsi qu'aux organismes mentionnés à l'article L. 518-1.
+mentionnés à l'article L. 511-1 ainsi qu'aux organismes mentionnés à l'article L. 518-1. 
 
-Leurs conditions d'application sont précisées par un décret en Conseil d'Etat.
+Leurs conditions d'application sont précisées par un décret en Conseil d'Etat. 
 
-Pour les comptes ouverts au 28 février 2003, les établissements de crédit qui établissent une convention de compte de dépôt à
-la demande d'un de leurs clients l'informent des conditions dans lesquelles la convention peut être signée.
-
-Pour ces comptes, à défaut de signature, l'absence de contestation par le client dans un délai de trois mois après réception
-d'un projet de convention vaut acceptation de la convention de compte de dépôt.
+Les établissements de crédit et les services financiers de La Poste informent leurs clients des conditions dans lesquelles la
+convention de compte de dépôt peut être signée.
 
 **Liens relatifs à cet article**
 
@@ -14805,7 +14859,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 77 (V) JORF 2 août 2003
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 106 () JORF 31 décembre 2004
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 4
 
 _Cité par_:
 
@@ -14815,9 +14873,10 @@ _Cité par_:
 
 _Cite_:
 
+  - Code monétaire et financier
+  - Code monétaire et financier - art. L312-1-1 (VD)
   - Code monétaire et financier - art. L511-1 (V)
-  - Code monétaire et financier - art. L518-1 (M)
-  - Code monétaire et financier L312-1-1 à L312-1-3, L511-1, L518-1
+  - Code monétaire et financier - art. L518-1 (V)
 
 
 ##### Section 2 : Fonds reçus du public<a id=153></a>
@@ -19152,8 +19211,13 @@ _Cité par_:
 
 ###### Article L351-1
 
-Est puni de 15000 Euros d'amende le fait de méconnaître l'une des obligations mentionnées au I de l'article L. 312-1-1 ou
-l'une des interdictions édictées au I de l'article L. 312-1-2.
+Est puni d'une amende fiscale de 75 euros le fait de méconnaître l'une des obligations mentionnées aux deuxième, troisième,
+quatrième et cinquième alinéas du I de l'article L. 312-1-1. Cette amende est prononcée et recouvrée suivant les règles
+applicables à la taxe sur la valeur ajoutée. Le contentieux est suivi par l'administration qui a constaté l'infraction.
+
+Est puni de la peine d'amende prévue pour les contraventions de la cinquième classe le fait de méconnaître l'une des
+obligations mentionnées aux premier, sixième et septième alinéas du I de l'article L. 312-1-1 ou l'une des interdictions
+édictées au I de l'article L. 312-1-2.
 
 Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
 pénal des infractions définies à l'alinéa précédent. Les peines encourues par les personnes morales sont l'amende, suivant
@@ -19184,16 +19248,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 13 III : champ d'application
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 2 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 3 (Ab)
   - TXT_SOURCE: Décret n°2003-193 du 5 mars 2003 - art. 4 (Ab)
-
-_Modifié par_:
-
-  - Loi n°2001-1168 du 11 décembre 2001 - art. 13 (V)
 
 _Cité par_:
 
@@ -19210,6 +19269,10 @@ _Cité par_:
   - Code monétaire et financier - art. L763-3 (V)
   - Code monétaire et financier - art. R312-8 (T)
   - Code monétaire et financier - art. R615-10 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 106 () JORF 31 décembre 2004
 
 _Cite_:
 
