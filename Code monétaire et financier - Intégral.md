@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -145,87 +145,87 @@ Version Consolidée au 2005-01-19
           - [Section unique : Bons de caisse (art. L232-1 à L232-2)](#142)
     - [Livre III : Les services (art. L311-1 à L353-6)](#143)
       - [Titre Ier : Les opérations de banque (art. L311-1 à L313-51)](#144)
-        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-4)](#145)
+        - [Chapitre Ier : Dispositions générales (art. L311-1 à L311-3)](#145)
           - [Section 1 : Définition des opérations de banque (art. L311-1)](#146)
           - [Section 2 : Définition des opérations connexes aux opérations de banque (art. L311-2)](#147)
           - [Section 3 : Définition des moyens de paiement. (art. L311-3)](#148)
-          - [Section 4 : Compensation. (art. L311-4)](#149)
-        - [Chapitre II : Comptes et dépôts (art. L312-1 à L312-18)](#150)
-          - [Section 1 : Droit au compte et relations avec le client (art. L312-1 à L312-1-4)](#151)
-            - [Sous-section 2 : Relations des établissements de crédit avec le client (art. L312-1 à L312-1-4)](#152)
-          - [Section 2 : Fonds reçus du public (art. L312-2 à L312-3)](#153)
-            - [Sous-section 1 : Définition. (art. L312-2)](#154)
-            - [Sous-section 2 : Rémunération. (art. L312-3)](#155)
-          - [Section 3 : Garantie des déposants (art. L312-4 à L312-18)](#156)
-        - [Chapitre III : Crédits (art. L313-1 à L313-51)](#157)
-          - [Section 1 : Dispositions générales (art. L313-1 à L313-6)](#158)
-            - [Sous-section 1 : Définition (art. L313-1)](#159)
-            - [Sous-section 2 : Taux d'intérêt (art. L313-2 à L313-5-2)](#160)
-              - [Paragraphe 1 : Taux de l'intérêt légal (art. L313-2 à L313-3)](#161)
-              - [Paragraphe 2 : Taux effectif global (art. L313-4)](#162)
-              - [Paragraphe 3 : Taux de l'usure (art. L313-5 à L313-5-2)](#163)
-            - [Sous-section 3 : Fichier des incidents de paiement caractérisés (art. L313-6)](#164)
-          - [Section 2 : Catégories de crédits (art. L313-7 à L313-22)](#165)
-            - [Sous-section 1 : Crédit-bail. (art. L313-7 à L313-11)](#166)
-            - [Sous-section 2 : Crédits aux entreprises (art. L313-12 à L313-22)](#167)
-              - [Paragraphe 1 : Crédit d'exploitation. (art. L313-12)](#168)
-              - [Paragraphe 2 : Prêts participatifs. (art. L313-13 à L313-20)](#169)
-                - [Sous-paragraphe 1 : Régime général. (art. L313-14 à L313-17)](#170)
-                - [Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat. (art. L313-18 à L313-20)](#171)
-              - [Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels. (art. L313-21)](#172)
-              - [Paragraphe 4 : Information des cautions. (art. L313-22)](#173)
-          - [Section 3 : Procédures de mobilisation des créances professionnelles (art. L313-23 à L313-49)](#174)
-            - [Sous-section 1 : Cession et nantissement des créances professionnelles (art. L313-23 à L313-29-1)](#175)
-            - [Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti (art. L313-30 à L313-49)](#176)
-              - [Paragraphe 1 : Dispositions générales (art. L313-30 à L313-35)](#177)
-              - [Paragraphe 2 : Mobilisation des crédits à moyen terme (art. L313-36 à L313-41)](#178)
-              - [Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées (art. L313-42 à L313-49)](#179)
-          - [Section 4 : Garantie des cautions (art. L313-50 à L313-51)](#180)
-      - [Titre II : Les services d'investissement et leurs services connexes (art. L321-1 à L322-4)](#181)
-        - [Chapitre Ier : Dispositions générales (art. L321-1 à L321-3)](#182)
-        - [Chapitre II : Garantie des investisseurs (art. L322-1 à L322-4)](#183)
-      - [Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers. (art. L330-1 à L330-2)](#184)
-      - [Titre IV : Le démarchage et le colportage.(en vigueur jusqu'au 1er décembre 2005) (art. L341-1 à L342-3)](#185)
-        - [Chapitre Ier : Démarchage bancaire ou financier (art. L341-1 à L341-17)](#186)
-          - [Section 1 : Définition. (art. L341-1 à L341-2)](#187)
-          - [Section 2 : Personnes habilitées à procéder au démarchage. (art. L341-3 à L341-8)](#188)
-          - [Section 3 : Produits ne pouvant pas faire l'objet de démarchage. (art. L341-10)](#189)
-          - [Section 4 : Règles de bonne conduite. (art. L341-11 à L341-16)](#190)
-          - [Section 5 : Sanctions disciplinaires. (art. L341-17)](#191)
-        - [Chapitre II : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers (art. L342-1 à L342-3)](#192)
-          - [Section 1 : Opérations sur matières précieuses (art. L342-1 à L342-2)](#193)
-          - [Section 2 : Opérations sur les billets de banque étrangers (art. L342-3)](#194)
-      - [Titre IV : Le démarchage et le colportage (art. L341-4 à L341-9)](#195)
-        - [Chapitre Ier : Démarchage bancaire ou financier (art. L341-4 à L341-9)](#196)
-          - [Section 2 : Personnes habilitées à procéder au démarchage. (art. L341-4 à L341-9)](#197)
-      - [Titre V : Dispositions pénales (art. L351-1 à L353-6)](#198)
-        - [Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client (art. L351-1)](#199)
-        - [Chapitre II : Infractions relatives au fonds de garantie des déposants (art. L352-1)](#200)
-        - [Chapitre III : Infractions relatives au démarchage (art. L353-1 à L353-6)](#201)
-          - [Section 1 : Démarchage en matière bancaire ou financière (art. L353-1 à L353-5)](#202)
-          - [Section 2 : Opérations sur matières précieuses et billets de banque étrangers (art. L353-6)](#203)
-    - [Livre IV : Les marchés (art. L411-1 à L466-1)](#204)
-      - [Titre Ier : L'appel public à l'épargne (art. L411-1 à L412-4)](#205)
-        - [Chapitre Ier : Définition. (art. L411-1 à L411-2)](#206)
-        - [Chapitre II : Conditions de l'appel public à l'épargne (art. L412-1 à L412-4)](#207)
-          - [Section 1 : Obligations générales de publicité. (art. L412-1)](#208)
-          - [Section 2 : Interdictions et sanctions (art. L412-2 à L412-4)](#209)
-      - [Titre II : Les catégories de marchés (art. L421-1 à L424-1)](#210)
-        - [Chapitre Ier : Marchés réglementés français (art. L421-1 à L421-13)](#211)
-          - [Section 1 : Reconnaissance et retrait de la qualité de marché réglementé. (art. L421-1 à L421-2)](#212)
-          - [Section 2 : Conditions de fonctionnement des marchés réglementés. (art. L421-3 à L421-5)](#213)
-          - [Section 3 : Obligation d'intermédiation et monopole de négociation. (art. L421-6 à L421-7)](#214)
-          - [Section 4 : Régime des membres d'un marché réglementé. (art. L421-8 à L421-11)](#215)
-          - [Section 5 : Centralisation des ordres sur les marchés réglementés. (art. L421-12 à L421-13)](#216)
-        - [Chapitre II : Marchés réglementés européens. (art. L422-1)](#217)
-        - [Chapitre III : Marchés étrangers reconnus. (art. L423-1)](#218)
-        - [Chapitre IV : Marché de l'or. (art. L424-1)](#219)
-      - [Titre III : Les négociations sur instruments financiers (art. L431-1 à L433-4)](#220)
-        - [Chapitre Ier : Dispositions générales (art. L431-1 à L431-7)](#221)
-          - [Section 1 : Transfert de propriété des titres et mise en gage (art. L431-1 à L431-6)](#222)
-            - [Sous-section 1 : Transfert de propriété des titres. (art. L431-1 à L431-3)](#223)
-            - [Sous-section 2 : Mise en gage. (art. L431-4 à L431-6)](#224)
-          - [Section 2 : Compensation. (art. L431-7)](#225)
+        - [Chapitre II : Comptes et dépôts (art. L312-1 à L312-18)](#149)
+          - [Section 1 : Droit au compte et relations avec le client (art. L312-1 à L312-1-4)](#150)
+            - [Sous-section 2 : Relations des établissements de crédit avec le client (art. L312-1 à L312-1-4)](#151)
+          - [Section 2 : Fonds reçus du public (art. L312-2 à L312-3)](#152)
+            - [Sous-section 1 : Définition. (art. L312-2)](#153)
+            - [Sous-section 2 : Rémunération. (art. L312-3)](#154)
+          - [Section 3 : Garantie des déposants (art. L312-4 à L312-18)](#155)
+        - [Chapitre III : Crédits (art. L313-1 à L313-51)](#156)
+          - [Section 1 : Dispositions générales (art. L313-1 à L313-6)](#157)
+            - [Sous-section 1 : Définition (art. L313-1)](#158)
+            - [Sous-section 2 : Taux d'intérêt (art. L313-2 à L313-5-2)](#159)
+              - [Paragraphe 1 : Taux de l'intérêt légal (art. L313-2 à L313-3)](#160)
+              - [Paragraphe 2 : Taux effectif global (art. L313-4)](#161)
+              - [Paragraphe 3 : Taux de l'usure (art. L313-5 à L313-5-2)](#162)
+            - [Sous-section 3 : Fichier des incidents de paiement caractérisés (art. L313-6)](#163)
+          - [Section 2 : Catégories de crédits (art. L313-7 à L313-22)](#164)
+            - [Sous-section 1 : Crédit-bail. (art. L313-7 à L313-11)](#165)
+            - [Sous-section 2 : Crédits aux entreprises (art. L313-12 à L313-22)](#166)
+              - [Paragraphe 1 : Crédit d'exploitation. (art. L313-12)](#167)
+              - [Paragraphe 2 : Prêts participatifs. (art. L313-13 à L313-20)](#168)
+                - [Sous-paragraphe 1 : Régime général. (art. L313-14 à L313-17)](#169)
+                - [Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat. (art. L313-18 à L313-20)](#170)
+              - [Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels. (art. L313-21)](#171)
+              - [Paragraphe 4 : Information des cautions. (art. L313-22)](#172)
+          - [Section 3 : Procédures de mobilisation des créances professionnelles (art. L313-23 à L313-49)](#173)
+            - [Sous-section 1 : Cession et nantissement des créances professionnelles (art. L313-23 à L313-29-1)](#174)
+            - [Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti (art. L313-30 à L313-49)](#175)
+              - [Paragraphe 1 : Dispositions générales (art. L313-30 à L313-35)](#176)
+              - [Paragraphe 2 : Mobilisation des crédits à moyen terme (art. L313-36 à L313-41)](#177)
+              - [Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées (art. L313-42 à L313-49)](#178)
+          - [Section 4 : Garantie des cautions (art. L313-50 à L313-51)](#179)
+      - [Titre II : Les services d'investissement et leurs services connexes (art. L321-1 à L322-4)](#180)
+        - [Chapitre Ier : Dispositions générales (art. L321-1 à L321-3)](#181)
+        - [Chapitre II : Garantie des investisseurs (art. L322-1 à L322-4)](#182)
+      - [Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers. (art. L330-1 à L330-2)](#183)
+      - [Titre IV : Le démarchage et le colportage.(en vigueur jusqu'au 1er décembre 2005) (art. L341-1 à L342-3)](#184)
+        - [Chapitre Ier : Démarchage bancaire ou financier (art. L341-1 à L341-17)](#185)
+          - [Section 1 : Définition. (art. L341-1 à L341-2)](#186)
+          - [Section 2 : Personnes habilitées à procéder au démarchage. (art. L341-3 à L341-8)](#187)
+          - [Section 3 : Produits ne pouvant pas faire l'objet de démarchage. (art. L341-10)](#188)
+          - [Section 4 : Règles de bonne conduite. (art. L341-11 à L341-16)](#189)
+          - [Section 5 : Sanctions disciplinaires. (art. L341-17)](#190)
+        - [Chapitre II : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers (art. L342-1 à L342-3)](#191)
+          - [Section 1 : Opérations sur matières précieuses (art. L342-1 à L342-2)](#192)
+          - [Section 2 : Opérations sur les billets de banque étrangers (art. L342-3)](#193)
+      - [Titre IV : Le démarchage et le colportage (art. L341-4 à L341-9)](#194)
+        - [Chapitre Ier : Démarchage bancaire ou financier (art. L341-4 à L341-9)](#195)
+          - [Section 2 : Personnes habilitées à procéder au démarchage. (art. L341-4 à L341-9)](#196)
+      - [Titre V : Dispositions pénales (art. L351-1 à L353-6)](#197)
+        - [Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client (art. L351-1)](#198)
+        - [Chapitre II : Infractions relatives au fonds de garantie des déposants (art. L352-1)](#199)
+        - [Chapitre III : Infractions relatives au démarchage (art. L353-1 à L353-6)](#200)
+          - [Section 1 : Démarchage en matière bancaire ou financière (art. L353-1 à L353-5)](#201)
+          - [Section 2 : Opérations sur matières précieuses et billets de banque étrangers (art. L353-6)](#202)
+    - [Livre IV : Les marchés (art. L411-1 à L466-1)](#203)
+      - [Titre Ier : L'appel public à l'épargne (art. L411-1 à L412-4)](#204)
+        - [Chapitre Ier : Définition. (art. L411-1 à L411-2)](#205)
+        - [Chapitre II : Conditions de l'appel public à l'épargne (art. L412-1 à L412-4)](#206)
+          - [Section 1 : Obligations générales de publicité. (art. L412-1)](#207)
+          - [Section 2 : Interdictions et sanctions (art. L412-2 à L412-4)](#208)
+      - [Titre II : Les catégories de marchés (art. L421-1 à L424-1)](#209)
+        - [Chapitre Ier : Marchés réglementés français (art. L421-1 à L421-13)](#210)
+          - [Section 1 : Reconnaissance et retrait de la qualité de marché réglementé. (art. L421-1 à L421-2)](#211)
+          - [Section 2 : Conditions de fonctionnement des marchés réglementés. (art. L421-3 à L421-5)](#212)
+          - [Section 3 : Obligation d'intermédiation et monopole de négociation. (art. L421-6 à L421-7)](#213)
+          - [Section 4 : Régime des membres d'un marché réglementé. (art. L421-8 à L421-11)](#214)
+          - [Section 5 : Centralisation des ordres sur les marchés réglementés. (art. L421-12 à L421-13)](#215)
+        - [Chapitre II : Marchés réglementés européens. (art. L422-1)](#216)
+        - [Chapitre III : Marchés étrangers reconnus. (art. L423-1)](#217)
+        - [Chapitre IV : Marché de l'or. (art. L424-1)](#218)
+      - [Titre III : Les négociations sur instruments financiers (art. L431-1 à L433-4)](#219)
+        - [Chapitre Ier : Dispositions générales (art. L431-1 à L431-7-5)](#220)
+          - [Section 1 : Transfert de propriété des titres et mise en gage (art. L431-1 à L431-6)](#221)
+            - [Sous-section 1 : Transfert de propriété des titres. (art. L431-1 à L431-3)](#222)
+            - [Sous-section 2 : Mise en gage. (art. L431-4 à L431-6)](#223)
+          - [Section 2 : Compensation et cession de créances (art. L431-7 à L431-7-2)](#224)
+          - [Section 3 : Garanties (art. L431-7-3 à L431-7-5)](#225)
         - [Chapitre II : Formes particulières de cessions d'instruments financiers (art. L432-1 à L432-20)](#226)
           - [Section 1 : Vente à crédit. (art. L432-1 à L432-4)](#227)
           - [Section 2 : Adjudication. (art. L432-5)](#228)
@@ -533,7 +533,7 @@ Version Consolidée au 2005-01-19
           - [Section 3 : Les négociations sur instruments financiers (art. L734-5 à L734-10)](#530)
             - [Sous-section 1 : Dispositions générales (art. L734-5 à L734-7)](#531)
               - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L734-5 à L734-6)](#532)
-              - [Paragraphe 2 : Compensation (art. L734-7)](#533)
+              - [Paragraphe 2 : Compensation et cession de créances (art. L734-7)](#533)
             - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L734-8 à L734-9)](#534)
               - [Paragraphe 1 : Adjudication (art. L734-8)](#535)
               - [Paragraphe 2 : Les opérations à terme (art. L734-9)](#536)
@@ -605,7 +605,7 @@ Version Consolidée au 2005-01-19
           - [Section 3 : Les négociations sur instruments financiers (art. L744-5 à L744-10)](#602)
             - [Sous-section 1 : Dispositions générales (art. L744-5 à L744-7)](#603)
               - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L744-5 à L744-6)](#604)
-              - [Paragraphe 2 : Compensation. (art. L744-7)](#605)
+              - [Paragraphe 2 : Compensation et cession de créances (art. L744-7)](#605)
             - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L744-8 à L744-9)](#606)
               - [Paragraphe 1 : Adjudication (art. L744-8)](#607)
               - [Paragraphe 2 : Les opérations à terme (art. L744-9)](#608)
@@ -685,7 +685,7 @@ Version Consolidée au 2005-01-19
           - [Section 3 : Les négociations sur instruments financiers (art. L754-5 à L754-10)](#682)
             - [Sous-section 1 : Dispositions générales (art. L754-5 à L754-7)](#683)
               - [Paragraphe 1 : Transfert de propriété des titres et mise en gage (art. L754-5 à L754-6)](#684)
-              - [Paragraphe 2 : Compensation (art. L754-7)](#685)
+              - [Paragraphe 2 : Compensation et cession de créances (art. L754-7)](#685)
             - [Sous-section 2 : Formes particulières de cessions d'instruments financiers (art. L754-8 à L754-9)](#686)
               - [Paragraphe 1 : Adjudication (art. L754-8)](#687)
               - [Paragraphe 2 : Les opérations à terme (art. L754-9)](#688)
@@ -765,7 +765,7 @@ Version Consolidée au 2005-01-19
           - [Section 3 : Les négociations sur instruments financiers (art. L764-5 à L764-10)](#762)
             - [Sous-section 1 : Dispositions générales (art. L764-5 à L764-7)](#763)
               - [Paragraphe 1 : Transfert de propriété et mise en gage (art. L764-5 à L764-6)](#764)
-              - [Paragraphe 2 : Compensation (art. L764-7)](#765)
+              - [Paragraphe 2 : Compensation et cession de créances (art. L764-7)](#765)
             - [Sous-section 2 : Les formes particulières de cessions d'instruments financiers (art. L764-8 à L764-9)](#766)
               - [Paragraphe 1 : Adjudication (art. L764-8)](#767)
               - [Paragraphe 2 : Les opérations à terme (art. L764-9)](#768)
@@ -4279,7 +4279,9 @@ l'article 105, paragraphe 2 du traité instituant la Communauté européenne.
 L'opposabilité aux tiers et la mise en oeuvre des droits des banques centrales nationales membres du Système européen de
 banques centrales et de la Banque centrale européenne sur les instruments financiers, effets, créances ou sommes d'argent
 nantis, cédés en propriété ou autrement constitués en garantie à leur profit ne sont pas affectées par l'ouverture des
-procédures mentionnées au III de l'article L. 330-2.
+procédures prévues au livre VI du code de commerce ou toute procédure judiciaire ou amiable équivalente sur le fondement d'un
+droit étranger, ni par aucune procédure civile d'exécution prise sur le fondement du droit français ou d'un droit étranger,
+ni par l'exercice d'un droit d'opposition.
 
 La Banque de France s'assure de la sécurité des moyens de paiement tels que définis à l'article L. 311-3, autres que la
 monnaie fiduciaire, et de la pertinence des normes applicables en la matière. Si elle estime qu'un de ces moyens de paiement
@@ -4302,9 +4304,9 @@ ses membres. Un décret en Conseil d'Etat précise sa composition et ses compét
 L'observatoire établit chaque année un rapport d'activité remis au ministre chargé de l'économie, des finances et de
 l'industrie et transmis au Parlement.
 
-II. - Dans le cadre des missions du Système européen de banques centrales, et sans préjudice des compétences du Conseil des
-marchés financiers et de la commission bancaire, la Banque de France veille à la sécurité des systèmes de compensation, de
-règlement et de livraison des instruments financiers.
+II. - Dans le cadre des missions du Système européen de banques centrales, et sans préjudice des compétences de l'Autorité
+des marchés financiers et de la commission bancaire, la Banque de France veille à la sécurité des systèmes de compensation,
+de règlement et de livraison des instruments financiers.
 
 **Liens relatifs à cet article**
 
@@ -4317,13 +4319,8 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Modifié par_:
-
-  - Loi n°2001-1168 2001-12-11 art. 27 1° JORF 12 décembre 2001
-
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 2 (Ab)
@@ -4333,6 +4330,11 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 6 (Ab)
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 7 (Ab)
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 8 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 3 () JORF 25 février 2005
 
 _Cité par_:
 
@@ -4357,7 +4359,6 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. L311-3 (V)
-  - Code monétaire et financier - art. L330-2 (M)
   - Traité CEE 1957-03-25 art. 105
 
 
@@ -14486,53 +14487,11 @@ _Cité par_:
   - Code monétaire et financier - art. L712-5 (VD)
 
 
-##### Section 4 : Compensation.<a id=149></a>
+#### Chapitre II : Comptes et dépôts<a id=149></a>
 
-###### Article L311-4
+##### Section 1 : Droit au compte et relations avec le client<a id=150></a>
 
-Les dettes et créances afférentes aux crédits et dépôts de fonds, régies par une convention-cadre respectant les principes
-généraux d'une convention-cadre de place, nationale ou internationale, et organisant les relations entre établissements de
-crédit, entreprises d'investissement, institutions et services visés à l'article L. 518-1 ou établissements non résidents
-ayant un statut comparable, lorsqu'ils procèdent à des opérations de trésorerie dans des conditions précisées par décret,
-sont compensables selon les modalités prévues par la convention-cadre.
-
-Lorsqu'une des parties fait l'objet d'une des procédures prévues par le livre VI du code de commerce, ladite convention-cadre
-peut prévoir la résiliation de plein droit des opérations mentionnées à l'alinéa précédent. Les modalités de résiliation et
-de compensation prévues par la convention-cadre visée à l'alinéa précédent sont opposables aux créanciers saisissants. Toute
-opération de résiliation et de compensation effectuée en raison d'une procédure civile d'exécution est réputée être
-intervenue avant ladite procédure.
-
-Les dispositions du livre VI du code de commerce ne font pas obstacle à l'application du présent article.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
-
-_Créé par_:
-
-  - Loi n°2001-420 du 15 mai 2001 - art. 29 () JORF 16 mai 2001
-
-_Abrogé par_:
-
-  - Ordonnance 2004-171 2005-02-24 art. 5 JORF 25 février 2005
-
-_Cité par_:
-
-  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L518-1 (M)
-
-
-#### Chapitre II : Comptes et dépôts<a id=150></a>
-
-##### Section 1 : Droit au compte et relations avec le client<a id=151></a>
-
-##### Sous-section 2 : Relations des établissements de crédit avec le client<a id=152></a>
+##### Sous-section 2 : Relations des établissements de crédit avec le client<a id=151></a>
 
 ###### Article L312-1
 
@@ -14899,9 +14858,9 @@ _Cite_:
   - Code monétaire et financier - art. L518-1 (V)
 
 
-##### Section 2 : Fonds reçus du public<a id=153></a>
+##### Section 2 : Fonds reçus du public<a id=152></a>
 
-##### Sous-section 1 : Définition.<a id=154></a>
+##### Sous-section 1 : Définition.<a id=153></a>
 
 ###### Article L312-2
 
@@ -14947,7 +14906,7 @@ _Cité par_:
   - Code monétaire et financier - art. R312-7 (T)
 
 
-##### Sous-section 2 : Rémunération.<a id=155></a>
+##### Sous-section 2 : Rémunération.<a id=154></a>
 
 ###### Article L312-3
 
@@ -14998,7 +14957,7 @@ _Abrogé par_:
   - Loi n°2007-1774 du 17 décembre 2007 - art. 7
 
 
-##### Section 3 : Garantie des déposants<a id=156></a>
+##### Section 3 : Garantie des déposants<a id=155></a>
 
 ###### Article L312-4
 
@@ -15620,11 +15579,11 @@ _Cité par_:
   - Code monétaire et financier - art. L763-8 (MMN)
 
 
-#### Chapitre III : Crédits<a id=157></a>
+#### Chapitre III : Crédits<a id=156></a>
 
-##### Section 1 : Dispositions générales<a id=158></a>
+##### Section 1 : Dispositions générales<a id=157></a>
 
-##### Sous-section 1 : Définition<a id=159></a>
+##### Sous-section 1 : Définition<a id=158></a>
 
 ###### Article L313-1
 
@@ -15663,9 +15622,9 @@ _Cité par_:
   - Code monétaire et financier - art. R561-13 (V)
 
 
-##### Sous-section 2 : Taux d'intérêt<a id=160></a>
+##### Sous-section 2 : Taux d'intérêt<a id=159></a>
 
-##### Paragraphe 1 : Taux de l'intérêt légal<a id=161></a>
+##### Paragraphe 1 : Taux de l'intérêt légal<a id=160></a>
 
 ###### Article L313-2
 
@@ -15746,7 +15705,7 @@ _Cité par_:
   - Code monétaire et financier - art. D313-2 (M)
 
 
-##### Paragraphe 2 : Taux effectif global<a id=162></a>
+##### Paragraphe 2 : Taux effectif global<a id=161></a>
 
 ###### Article L313-4
 
@@ -15802,7 +15761,7 @@ _Cite_:
   - Code de la consommation L313-1, L313-2, L312-4 à L312-8
 
 
-##### Paragraphe 3 : Taux de l'usure<a id=163></a>
+##### Paragraphe 3 : Taux de l'usure<a id=162></a>
 
 ###### Article L313-5
 
@@ -15914,7 +15873,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-5-1 (V)
 
 
-##### Sous-section 3 : Fichier des incidents de paiement caractérisés<a id=164></a>
+##### Sous-section 3 : Fichier des incidents de paiement caractérisés<a id=163></a>
 
 ###### Article L313-6
 
@@ -15991,9 +15950,9 @@ _Anciens textes_:
   - Code de la consommation - art. L333-5 (M)
 
 
-##### Section 2 : Catégories de crédits<a id=165></a>
+##### Section 2 : Catégories de crédits<a id=164></a>
 
-##### Sous-section 1 : Crédit-bail.<a id=166></a>
+##### Sous-section 1 : Crédit-bail.<a id=165></a>
 
 ###### Article L313-7
 
@@ -16179,9 +16138,9 @@ _Cite_:
   - Code monétaire et financier - art. L313-10 (M)
 
 
-##### Sous-section 2 : Crédits aux entreprises<a id=167></a>
+##### Sous-section 2 : Crédits aux entreprises<a id=166></a>
 
-##### Paragraphe 1 : Crédit d'exploitation.<a id=168></a>
+##### Paragraphe 1 : Crédit d'exploitation.<a id=167></a>
 
 ###### Article L313-12
 
@@ -16223,7 +16182,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Paragraphe 2 : Prêts participatifs.<a id=169></a>
+##### Paragraphe 2 : Prêts participatifs.<a id=168></a>
 
 ###### Article L313-13
 
@@ -16261,7 +16220,7 @@ _Cite_:
   - Code monétaire et financier L313-18 à L313-20, L313-14 à L313-20
 
 
-##### Sous-paragraphe 1 : Régime général.<a id=170></a>
+##### Sous-paragraphe 1 : Régime général.<a id=169></a>
 
 ###### Article L313-14
 
@@ -16350,7 +16309,7 @@ _Cite_:
   - Code de la consommation L313-1 à L313-6
 
 
-##### Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat.<a id=171></a>
+##### Sous-paragraphe 2 : Prêts participatifs accordés par l'Etat.<a id=170></a>
 
 ###### Article L313-18
 
@@ -16415,7 +16374,7 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels.<a id=172></a>
+##### Paragraphe 3 : Garanties des crédits aux entrepreneurs individuels.<a id=171></a>
 
 ###### Article L313-21
 
@@ -16457,7 +16416,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Paragraphe 4 : Information des cautions.<a id=173></a>
+##### Paragraphe 4 : Information des cautions.<a id=172></a>
 
 ###### Article L313-22
 
@@ -16492,9 +16451,9 @@ _Cité par_:
   - Code monétaire et financier - art. L763-5 (VD)
 
 
-##### Section 3 : Procédures de mobilisation des créances professionnelles<a id=174></a>
+##### Section 3 : Procédures de mobilisation des créances professionnelles<a id=173></a>
 
-##### Sous-section 1 : Cession et nantissement des créances professionnelles<a id=175></a>
+##### Sous-section 1 : Cession et nantissement des créances professionnelles<a id=174></a>
 
 ###### Article L313-23
 
@@ -16805,9 +16764,9 @@ _Modifié par_:
   - Loi n°2004-806 du 9 août 2004 - art. 153 () JORF 11 août 2004
 
 
-##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti<a id=176></a>
+##### Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti<a id=175></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=177></a>
+##### Paragraphe 1 : Dispositions générales<a id=176></a>
 
 ###### Article L313-30
 
@@ -16953,7 +16912,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-23 (V)
 
 
-##### Paragraphe 2 : Mobilisation des crédits à moyen terme<a id=178></a>
+##### Paragraphe 2 : Mobilisation des crédits à moyen terme<a id=177></a>
 
 ###### Article L313-36
 
@@ -17103,7 +17062,7 @@ _Cite_:
   - Code monétaire et financier - art. L313-38 (V)
 
 
-##### Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées<a id=179></a>
+##### Paragraphe 3 : Mobilisation des créances hypothécaires et assimilées<a id=178></a>
 
 ###### Article L313-42
 
@@ -17391,7 +17350,7 @@ _Cite_:
   - Code monétaire et financier L313-42 à L313-48
 
 
-##### Section 4 : Garantie des cautions<a id=180></a>
+##### Section 4 : Garantie des cautions<a id=179></a>
 
 ###### Article L313-50
 
@@ -17516,9 +17475,9 @@ _Cite_:
   - Code monétaire et financier - art. L511-30 (M)
 
 
-### Titre II : Les services d'investissement et leurs services connexes<a id=181></a>
+### Titre II : Les services d'investissement et leurs services connexes<a id=180></a>
 
-#### Chapitre Ier : Dispositions générales<a id=182></a>
+#### Chapitre Ier : Dispositions générales<a id=181></a>
 
 ###### Article L321-1
 
@@ -17811,7 +17770,7 @@ _Cite_:
   - Code monétaire et financier - art. L321-2 (M)
 
 
-#### Chapitre II : Garantie des investisseurs<a id=183></a>
+#### Chapitre II : Garantie des investisseurs<a id=182></a>
 
 ###### Article L322-1
 
@@ -18019,7 +17978,7 @@ _Cité par_:
   - Code monétaire et financier - art. L532-3 (V)
 
 
-### Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers.<a id=184></a>
+### Titre III : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers.<a id=183></a>
 
 ###### Article L330-1
 
@@ -18122,20 +18081,22 @@ _Cite_:
 
 ###### Article L330-2
 
-I. - Les règlements, la convention-cadre ou la convention type régissant tout système de règlements interbancaires ou tout
-système de règlement et de livraison d'instruments financiers mentionnés à L. 330-1 peuvent, lorsqu'ils organisent les
-relations entre plus de deux parties, exiger des établissements participant, directement ou indirectement, auxdits systèmes,
-outre la constitution en gage de comptes d'instruments financiers mentionnés à l'article L. 431-4, des remises de valeurs,
-titres, effets, créances ou sommes d'argent ou la constitution de sûretés sur lesdites valeurs, titres, effets, créances ou
-sommes d'argent pour satisfaire aux obligations de paiement découlant de la participation à un tel système. Les remises
-susmentionnées sont effectuées en pleine propriété, à titre de garantie, et sont opposables aux tiers sans formalités.
+I. - Les règles de fonctionnement, la convention-cadre ou la convention type régissant tout système mentionné à l'article L.
+330-1 peuvent, lorsqu'ils organisent les relations entre plus de deux parties, exiger des établissements participant,
+directement ou indirectement, à un tel système des garanties constituées et susceptibles de réalisation conformément aux
+dispositions de l'article L. 431-7-3 ou l'affectation spéciale des valeurs, titres, effets, créances ou sommes d'argent pour
+satisfaire aux obligations de paiement découlant de la participation à un tel système.
 
-II. - Les règlements, la convention-cadre ou la convention type précisent les modalités, opposables aux créanciers
-saisissants, de constitution, d'affectation, de réalisation ou d'utilisation des comptes d'instruments financiers ou des
-remises.
+II. - Les règles de fonctionnement, la convention-cadre ou la convention type précisent les modalités de constitution,
+d'affectation, de réalisation ou d'utilisation des biens ou droits constitués en garantie.
 
-III. - Les dispositions du titre Ier et du titre II du livre VI du code de commerce ou celles équivalentes régissant toutes
-procédures judiciaires ou amiables ouvertes hors de France ne font pas obstacle à l'application du présent titre.
+III. - Les dispositions du livre VI du code de commerce ou celles équivalentes régissant toutes procédures judiciaires ou
+amiables ouvertes hors de France ainsi que toutes procédures civiles d'exécution ou tout exercice d'un droit d'opposition ne
+font pas obstacle à l'application du présent titre.
+
+Aucun créancier d'un établissement participant, directement ou indirectement, à un tel système, ou selon le cas, du système
+lui-même, ne peut se prévaloir d'un droit quelconque sur ces garanties, même sur le fondement des dispositions
+susmentionnées.
 
 IV. - Lorsque les instruments financiers, effets, créances, sommes d'argent ou tout instrument similaire émis sur le
 fondement d'un droit étranger sont inscrits dans un registre, un compte ou auprès d'un dépositaire central ou d'un système,
@@ -18156,7 +18117,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 30 () JORF 16 mai 2001
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 4 () JORF 25 février 2005
 
 _Cité par_:
 
@@ -18176,14 +18137,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L431-4 (M)
+  - Code monétaire et financier - art. L431-7-3 (V)
 
 
-### Titre IV : Le démarchage et le colportage.(en vigueur jusqu'au 1er décembre 2005)<a id=185></a>
+### Titre IV : Le démarchage et le colportage.(en vigueur jusqu'au 1er décembre 2005)<a id=184></a>
 
-#### Chapitre Ier : Démarchage bancaire ou financier<a id=186></a>
+#### Chapitre Ier : Démarchage bancaire ou financier<a id=185></a>
 
-##### Section 1 : Définition.<a id=187></a>
+##### Section 1 : Définition.<a id=186></a>
 
 ###### Article L341-1
 
@@ -18347,7 +18308,7 @@ _Cite_:
   - Code monétaire et financier - art. L411-2 (M)
 
 
-##### Section 2 : Personnes habilitées à procéder au démarchage.<a id=188></a>
+##### Section 2 : Personnes habilitées à procéder au démarchage.<a id=187></a>
 
 ###### Article L341-3
 
@@ -18604,7 +18565,7 @@ _Cité par_:
   - Code monétaire et financier - art. L353-1 (V)
 
 
-##### Section 3 : Produits ne pouvant pas faire l'objet de démarchage.<a id=189></a>
+##### Section 3 : Produits ne pouvant pas faire l'objet de démarchage.<a id=188></a>
 
 ###### Article L341-10
 
@@ -18665,7 +18626,7 @@ _Cité par_:
   - Code monétaire et financier - art. L763-10 (VD)
 
 
-##### Section 4 : Règles de bonne conduite.<a id=190></a>
+##### Section 4 : Règles de bonne conduite.<a id=189></a>
 
 ###### Article L341-11
 
@@ -18881,7 +18842,7 @@ _Cite_:
   - Code monétaire et financier - art. L341-4 (M)
 
 
-##### Section 5 : Sanctions disciplinaires.<a id=191></a>
+##### Section 5 : Sanctions disciplinaires.<a id=190></a>
 
 ###### Article L341-17
 
@@ -18918,9 +18879,9 @@ _Cite_:
   - Code des assurances - art. L310-18 (M)
 
 
-#### Chapitre II : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers<a id=192></a>
+#### Chapitre II : Démarchage et colportage concernant les opérations sur les matières précieuses et les billets de banque étrangers<a id=191></a>
 
-##### Section 1 : Opérations sur matières précieuses<a id=193></a>
+##### Section 1 : Opérations sur matières précieuses<a id=192></a>
 
 ###### Article L342-1
 
@@ -18997,7 +18958,7 @@ _Cité par_:
   - Code monétaire et financier - art. L342-8 (Ab)
 
 
-##### Section 2 : Opérations sur les billets de banque étrangers<a id=194></a>
+##### Section 2 : Opérations sur les billets de banque étrangers<a id=193></a>
 
 ###### Article L342-3
 
@@ -19041,11 +19002,11 @@ _Cité par_:
   - Code monétaire et financier - art. L353-4 (M)
 
 
-### Titre IV : Le démarchage et le colportage<a id=195></a>
+### Titre IV : Le démarchage et le colportage<a id=194></a>
 
-#### Chapitre Ier : Démarchage bancaire ou financier<a id=196></a>
+#### Chapitre Ier : Démarchage bancaire ou financier<a id=195></a>
 
-##### Section 2 : Personnes habilitées à procéder au démarchage.<a id=197></a>
+##### Section 2 : Personnes habilitées à procéder au démarchage.<a id=196></a>
 
 ###### Article L341-4
 
@@ -19232,9 +19193,9 @@ _Cité par_:
   - Code monétaire et financier - art. L353-2 (M)
 
 
-### Titre V : Dispositions pénales<a id=198></a>
+### Titre V : Dispositions pénales<a id=197></a>
 
-#### Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client<a id=199></a>
+#### Chapitre Ier : Infractions relatives au droit au compte et aux relations avec le client<a id=198></a>
 
 ###### Article L351-1
 
@@ -19311,7 +19272,7 @@ _Cite_:
   - Code monétaire et financier - art. L312-1-3 (M)
 
 
-#### Chapitre II : Infractions relatives au fonds de garantie des déposants<a id=200></a>
+#### Chapitre II : Infractions relatives au fonds de garantie des déposants<a id=199></a>
 
 ###### Article L352-1
 
@@ -19342,9 +19303,9 @@ _Cité par_:
   - Code monétaire et financier - art. L763-2 (VD)
 
 
-#### Chapitre III : Infractions relatives au démarchage<a id=201></a>
+#### Chapitre III : Infractions relatives au démarchage<a id=200></a>
 
-##### Section 1 : Démarchage en matière bancaire ou financière<a id=202></a>
+##### Section 1 : Démarchage en matière bancaire ou financière<a id=201></a>
 
 ###### Article L353-1
 
@@ -19585,7 +19546,7 @@ _Cité par_:
   - Code monétaire et financier - art. L519-6 (V)
 
 
-##### Section 2 : Opérations sur matières précieuses et billets de banque étrangers<a id=203></a>
+##### Section 2 : Opérations sur matières précieuses et billets de banque étrangers<a id=202></a>
 
 ###### Article L353-6
 
@@ -19626,11 +19587,11 @@ _Cité par_:
   - Code monétaire et financier - art. L763-11 (V)
 
 
-## Livre IV : Les marchés<a id=204></a>
+## Livre IV : Les marchés<a id=203></a>
 
-### Titre Ier : L'appel public à l'épargne<a id=205></a>
+### Titre Ier : L'appel public à l'épargne<a id=204></a>
 
-#### Chapitre Ier : Définition.<a id=206></a>
+#### Chapitre Ier : Définition.<a id=205></a>
 
 ###### Article L411-1
 
@@ -19763,9 +19724,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-#### Chapitre II : Conditions de l'appel public à l'épargne<a id=207></a>
+#### Chapitre II : Conditions de l'appel public à l'épargne<a id=206></a>
 
-##### Section 1 : Obligations générales de publicité.<a id=208></a>
+##### Section 1 : Obligations générales de publicité.<a id=207></a>
 
 ###### Article L412-1
 
@@ -19847,7 +19808,7 @@ _Cité par_:
   - Code monétaire et financier - art. R533-15 (VT)
 
 
-##### Section 2 : Interdictions et sanctions<a id=209></a>
+##### Section 2 : Interdictions et sanctions<a id=208></a>
 
 ###### Article L412-2
 
@@ -19940,11 +19901,11 @@ _Anciens textes_:
   - Code de commerce L252-10 al. 1
 
 
-### Titre II : Les catégories de marchés<a id=210></a>
+### Titre II : Les catégories de marchés<a id=209></a>
 
-#### Chapitre Ier : Marchés réglementés français<a id=211></a>
+#### Chapitre Ier : Marchés réglementés français<a id=210></a>
 
-##### Section 1 : Reconnaissance et retrait de la qualité de marché réglementé.<a id=212></a>
+##### Section 1 : Reconnaissance et retrait de la qualité de marché réglementé.<a id=211></a>
 
 ###### Article L421-1
 
@@ -20074,7 +20035,7 @@ _Cite_:
   - Code monétaire et financier - art. L421-1 (M)
 
 
-##### Section 2 : Conditions de fonctionnement des marchés réglementés.<a id=213></a>
+##### Section 2 : Conditions de fonctionnement des marchés réglementés.<a id=212></a>
 
 ###### Article L421-3
 
@@ -20209,7 +20170,7 @@ _Cité par_:
   - Code monétaire et financier - art. L621-7 (V)
 
 
-##### Section 3 : Obligation d'intermédiation et monopole de négociation.<a id=214></a>
+##### Section 3 : Obligation d'intermédiation et monopole de négociation.<a id=213></a>
 
 ###### Article L421-6
 
@@ -20281,7 +20242,7 @@ _Cite_:
   - Code monétaire et financier - art. L421-6 (M)
 
 
-##### Section 4 : Régime des membres d'un marché réglementé.<a id=215></a>
+##### Section 4 : Régime des membres d'un marché réglementé.<a id=214></a>
 
 ###### Article L421-8
 
@@ -20429,7 +20390,7 @@ _Cité par_:
   - Code monétaire et financier - art. L621-7 (VD)
 
 
-##### Section 5 : Centralisation des ordres sur les marchés réglementés.<a id=216></a>
+##### Section 5 : Centralisation des ordres sur les marchés réglementés.<a id=215></a>
 
 ###### Article L421-12
 
@@ -20517,7 +20478,7 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-#### Chapitre II : Marchés réglementés européens.<a id=217></a>
+#### Chapitre II : Marchés réglementés européens.<a id=216></a>
 
 ###### Article L422-1
 
@@ -20588,7 +20549,7 @@ _Cite_:
   - Code monétaire et financier - art. L423-1 (M)
 
 
-#### Chapitre III : Marchés étrangers reconnus.<a id=218></a>
+#### Chapitre III : Marchés étrangers reconnus.<a id=217></a>
 
 ###### Article L423-1
 
@@ -20628,7 +20589,7 @@ _Cité par_:
   - Code monétaire et financier - art. R214-93 (V)
 
 
-#### Chapitre IV : Marché de l'or.<a id=219></a>
+#### Chapitre IV : Marché de l'or.<a id=218></a>
 
 ###### Article L424-1
 
@@ -20679,13 +20640,13 @@ _Cité par_:
   - Code monétaire et financier - art. L764-3 (MMN)
 
 
-### Titre III : Les négociations sur instruments financiers<a id=220></a>
+### Titre III : Les négociations sur instruments financiers<a id=219></a>
 
-#### Chapitre Ier : Dispositions générales<a id=221></a>
+#### Chapitre Ier : Dispositions générales<a id=220></a>
 
-##### Section 1 : Transfert de propriété des titres et mise en gage<a id=222></a>
+##### Section 1 : Transfert de propriété des titres et mise en gage<a id=221></a>
 
-##### Sous-section 1 : Transfert de propriété des titres.<a id=223></a>
+##### Sous-section 1 : Transfert de propriété des titres.<a id=222></a>
 
 ###### Article L431-1
 
@@ -20810,18 +20771,21 @@ _Cite_:
   - Code monétaire et financier - art. L211-1 (M)
 
 
-##### Sous-section 2 : Mise en gage.<a id=224></a>
+##### Sous-section 2 : Mise en gage.<a id=223></a>
 
 ###### Article L431-4
 
 I. - La constitution en gage d'un compte d'instruments financiers mentionnés aux 1, 2 et 3 du I de l'article L. 211-1 et
 d'instruments financiers équivalents émis sur le fondement de droits étrangers est réalisée, tant entre les parties qu'à
 l'égard de la personne morale émettrice et des tiers, par une déclaration signée par le titulaire du compte. Cette
-déclaration comporte les énonciations fixées par décret. Les instruments financiers figurant dans le compte gagé, ceux qui
-leur sont substitués ou les complètent, de quelque manière que ce soit, ainsi que leurs fruits et produits en toute monnaie,
-sont compris dans l'assiette du gage. Le créancier gagiste peut obtenir, sur simple demande au teneur de compte, une
-attestation de nantissement de compte d'instruments financiers, comportant l'inventaire des instruments financiers et sommes
-en toute monnaie, inscrits en compte gagé à la date de délivrance de cette attestation.
+déclaration comporte les énonciations fixées par décret. Les instruments financiers figurant initialement dans le compte
+gagé, ceux qui leur sont substitués ou les complètent en garantie de la créance initiale du créancier gagiste, de quelque
+manière que ce soit, ainsi que leurs fruits et produits en toute monnaie, sont compris dans l'assiette du gage. Le créancier
+gagiste peut obtenir, sur simple demande au teneur de compte, une attestation de nantissement de compte d'instruments
+financiers, comportant l'inventaire des instruments financiers et sommes en toute monnaie, inscrits en compte gagé à la date
+de délivrance de cette attestation. Les instruments financiers et les sommes en toute monnaie postérieurement inscrits au
+crédit du compte gagé, en garantie de la créance initiale du créancier gagiste, sont soumis aux mêmes conditions que ceux y
+figurant initialement et sont considérés comme ayant été remis à la date de déclaration de gage initiale.
 
 II. - Le compte gagé prend la forme d'un compte spécial ouvert au nom du titulaire et tenu par un intermédiaire habilité, un
 dépositaire central ou, le cas échéant, la personne morale émettrice.
@@ -20829,13 +20793,21 @@ dépositaire central ou, le cas échéant, la personne morale émettrice.
 A défaut d'un compte spécial, sont réputés constituer le compte gagé les instruments financiers mentionnés au premier alinéa,
 ainsi que les sommes en toute monnaie ayant fait l'objet d'une identification à cet effet par un procédé informatique.
 
-III. - Le créancier gagiste définit avec le titulaire du compte les conditions dans lesquelles ce dernier peut disposer des
+III. - Lorsque les instruments financiers figurant dans le compte gagé sont en forme nominative et que le teneur du compte
+n'est pas une personne autorisée à recevoir des fonds du public au sens de l'article L. 312-2, les fruits et produits
+mentionnés au I versés en toute monnaie doivent être inscrits au crédit d'un compte spécial ouvert au nom du titulaire du
+compte gagé dans les livres d'un intermédiaire habilité ou d'un établissement de crédit. Ce compte spécial est réputé faire
+partie intégrante du compte gagé à la date de signature de la déclaration de gage. Le créancier gagiste peut obtenir, sur
+simple demande au teneur du compte spécial, une attestation comportant l'inventaire des sommes en toute monnaie inscrites au
+crédit de ce compte à la date de la délivrance de cette attestation.
+
+IV. - Le créancier gagiste définit avec le titulaire du compte les conditions dans lesquelles ce dernier peut disposer des
 instruments financiers et des sommes en toute monnaie figurant dans le compte gagé. Le créancier gagiste bénéficie en toute
 hypothèse d'un droit de rétention sur les instruments financiers et sommes en toute monnaie figurant au compte gagé.
 
-IV. - Le créancier gagiste titulaire d'une créance certaine, liquide et exigible peut, pour les valeurs mobilières,
-françaises ou étrangères, négociées sur un marché réglementé, les parts ou actions d'organismes de placement collectif, ainsi
-que pour les sommes en toute monnaie, réaliser le gage, civil ou commercial, huit jours - ou à l'échéance de tout autre délai
+V. - Le créancier gagiste titulaire d'une créance certaine, liquide et exigible peut, pour les instruments financiers,
+français ou étrangers, négociés sur un marché réglementé, les parts ou actions d'organismes de placement collectif, ainsi que
+pour les sommes en toute monnaie, réaliser le gage, civil ou commercial, huit jours - ou à l'échéance de tout autre délai
 préalablement convenu avec le titulaire du compte après mise en demeure du débiteur remise en mains propres ou adressée par
 courrier recommandé. Cette mise en demeure du débiteur est également notifiée au constituant du gage lorsqu'il n'est pas le
 débiteur ainsi qu'au teneur de compte lorsque ce dernier n'est pas le créancier gagiste. La réalisation du gage intervient
@@ -20843,6 +20815,12 @@ selon des modalités fixées par décret.
 
 Pour les instruments financiers autres que ceux mentionnés à l'alinéa précédent, la réalisation du gage intervient
 conformément aux dispositions de l'article L. 521-3 du code de commerce.
+
+**Nota:**
+
+Ordonnance 2005-171 2005-02-24 art. 1er 1° c) 2ème alinéa : 
+
+Les dispositions du premier alinéa du I 1° c) revêtent un caractère interprétatif.
 
 **Liens relatifs à cet article**
 
@@ -20856,9 +20834,13 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 _Cité par_:
 
@@ -20875,13 +20857,14 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce. - art. L521-3 (M)
-  - Code monétaire et financier - art. L211-1 (M)
+  - Code de commerce - art. L521-3
+  - Code monétaire et financier - art. L211-1
+  - Code monétaire et financier - art. L312-2
 
 
 ###### Article L431-5
 
-Les dispositions du IV de l'article L. 431-4 relatives à la réalisation du gage s'appliquent aux nantissements d'instruments
+Les dispositions du V de l'article L. 431-4 relatives à la réalisation du gage s'appliquent aux nantissements d'instruments
 financiers inscrits en compte, français ou étrangers, constitués antérieurement au 4 juillet 1996.
 
 **Liens relatifs à cet article**
@@ -20895,13 +20878,21 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 1 () JORF 25 février 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
 _Cité par_:
 
   - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L431-4 (M)
+  - Code monétaire et financier - art. L431-4
 
 
 ###### Article L431-6
@@ -20953,39 +20944,32 @@ _Cité par_:
   - Code monétaire et financier - art. L613-31 (M)
 
 
-##### Section 2 : Compensation.<a id=225></a>
+##### Section 2 : Compensation et cession de créances<a id=224></a>
 
 ###### Article L431-7
 
-Les dettes et les créances afférentes à toutes opérations sur instruments financiers, lorsqu'elles sont effectuées dans le
-cadre du règlement général de l'Autorité des marchés financiers ou lorsqu'elles sont régies par une ou plusieurs conventions-
-cadres respectant les principes généraux de conventions-cadres de place, nationales ou internationales, et organisant les
-relations entre deux parties au moins, dont l'une est un prestataire de services d'investissement ou un établissement public
-ou une institution, entreprise ou un établissement bénéficiaire des dispositions de l'article L. 531-2 ou un établissement
-non résident ayant un statut comparable, sont compensables selon les modalités prévues par ledit règlement, la ou lesdites
-conventions-cadres et peuvent donner lieu à l'établissement d'un solde unique compensé.
+I. - Les dispositions de la présente section sont applicables :
 
-S'il existe deux conventions-cadres ou plus entre les parties, celles-ci peuvent les lier entre elles en sorte que les soldes
-résultant de la compensation qui viendrait à être effectuée pour chaque convention-cadre conformément à l'alinéa précédent
-fassent à leur tour l'objet d'une compensation entre eux.
+1° Aux obligations financières résultant d'opérations sur instruments financiers lorsqu'aucune des parties n'est une personne
+physique et que l'une au moins des parties à l'opération est un établissement de crédit, un prestataire de services
+d'investissement, un établissement public, une collectivité territoriale, une institution, une personne ou entité
+bénéficiaire des dispositions de l'article L. 531-2, une chambre de compensation, un établissement non résident ayant un
+statut comparable, une organisation ou organisme financier international dont la France ou l'Union européenne est membre ;
 
-Lorsque l'une des parties fait l'objet de l'une des procédures prévues par le livre VI du code de commerce, ledit règlement
-ou lesdites conventions-cadres peuvent prévoir la résiliation de plein droit des opérations mentionnées aux premier et
-deuxième alinéas du présent article.
+2° Aux obligations financières résultant de tout contrat donnant lieu à un règlement en espèces ou à une livraison
+d'instruments financiers lorsque toutes les parties appartiennent à l'une des catégories de personnes mentionnées à l'alinéa
+précédent, à l'exception des personnes mentionnées aux alinéas c à i du 2° de l'article L. 531-2 ;
 
-Les modalités de résiliation, d'évaluation et de compensation prévues par le règlement, la ou les conventions-cadres visées
-aux alinéas précédents sont opposables aux créanciers saisissants. Toute opération de résiliation, d'évaluation ou de
-compensation effectuée en raison d'une procédure civile d'exécution est réputée être intervenue avant ladite procédure.
+3° Aux obligations financières résultant de tout contrat conclu dans le cadre d'un système mentionné à l'article L. 330-1.
 
-La cession de créances afférentes aux opérations régies par la ou les conventions-cadres visées au premier alinéa du présent
-article est opposable aux tiers par l'accord écrit du débiteur cédé. A titre de garantie des obligations découlant de la ou
-des conventions-cadres, les parties peuvent également prévoir des remises, en pleine propriété, à titre de garantie et
-opposables aux tiers sans formalité, de valeurs, titres, effets, créances ou de sommes d'argent, ou la constitution de
-sûretés sur de tels biens et droits, réalisables même lorsque l'une des parties fait l'objet d'une des procédures visées au
-troisième alinéa du présent article. Les dettes et créances relatives à ces remises et sûretés et celles afférentes auxdites
-obligations sont alors compensables conformément aux dispositions des premier et deuxième alinéas du présent article.
+II. - Les conventions relatives aux obligations financières mentionnées au I sont résiliables, et les dettes et les créances
+y afférentes sont compensables. Les parties peuvent prévoir l'établissement d'un solde unique, que ces obligations
+financières soient régies par une ou plusieurs conventions ou conventions-cadres.
 
-Les dispositions du livre VI du code de commerce ne font pas obstacle à l'application du présent article.
+III. - Les modalités de résiliation, d'évaluation et de compensation des opérations et obligations mentionnées aux I et II
+sont opposables aux tiers. Ces modalités peuvent être notamment prévues par des conventions ou conventions-cadres. Toute
+opération de résiliation, d'évaluation ou de compensation faite en raison d'une procédure civile d'exécution ou de l'exercice
+d'un droit d'opposition est réputée être intervenue avant cette procédure.
 
 **Liens relatifs à cet article**
 
@@ -21034,12 +21018,212 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 2003-08-01 art. 38 1°, art. 39 JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 39 () JORF 2 août 2003
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
 
 _Cite_:
 
+  - Code monétaire et financier - art. L330-1 (M)
   - Code monétaire et financier - art. L531-2 (M)
+
+
+###### Article L431-7-1
+
+La cession de créances afférentes aux obligations financières mentionnées au I de l'article L. 431-7 est opposable aux tiers
+du fait de la notification de la cession au débiteur. La cession de contrats afférents aux obligations financières
+mentionnées au I de l'article L. 431-7 est opposable aux tiers du fait de l'accord écrit des parties.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+_Cité par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L431-7
+
+
+###### Article L431-7-2
+
+Les dispositions du livre VI du code de commerce, ou celles régissant toutes procédures judiciaires ou amiables équivalentes
+ouvertes sur le fondement de droits étrangers, ne font pas obstacle à l'application des dispositions de la présente section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+_Cité par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+
+##### Section 3 : Garanties<a id=225></a>
+
+###### Article L431-7-3
+
+I. - A titre de garantie des obligations financières présentes ou futures mentionnées au I de l'article L. 431-7, les parties
+peuvent prévoir des remises en pleine propriété, opposables aux tiers sans formalités, de valeurs, instruments financiers,
+effets, créances, contrats ou sommes d'argent, ou la constitution de sûretés sur de tels biens ou droits, réalisables, même
+lorsque l'une des parties fait l'objet d'une des procédures prévues par le livre VI du code de commerce, ou d'une procédure
+judiciaire ou amiable équivalente sur le fondement d'un droit étranger, ou d'une procédure civile d'exécution ou de
+l'exercice d'un droit d'opposition.
+
+Les dettes et créances relatives à ces garanties et celles afférentes à ces obligations sont alors compensables conformément
+au II de l'article L. 431-7.
+
+II. - Lorsque les garanties mentionnées au I sont relatives aux obligations financières mentionnées aux 2° et 3° du I de
+l'article L. 431-7 :
+
+1° La constitution de telles garanties et leur opposabilité ne sont subordonnées à aucune formalité. Elles résultent du
+transfert des biens et droits en cause, de la dépossession du constituant ou de leur contrôle par le bénéficiaire ou par une
+personne agissant pour son compte ;
+
+2° L'identification des biens et droits en cause, leur transfert, la dépossession du constituant ou le contrôle par le
+bénéficiaire doivent pouvoir être attestés par écrit ;
+
+3° La réalisation de telles garanties intervient à des conditions normales de marché, par compensation, appropriation ou
+vente, sans mise en demeure préalable, selon les modalités d'évaluation prévues par les parties dès lors que les obligations
+financières couvertes sont devenues exigibles.
+
+III. - L'acte prévoyant la constitution des sûretés mentionnées au I peut définir les conditions dans lesquelles le
+bénéficiaire de ces sûretés peut utiliser ou aliéner les biens ou droits en cause, à charge pour lui de restituer au
+constituant des biens ou droits équivalents. Les sûretés concernées portent alors sur les biens ou droits équivalents ainsi
+restitués comme si elles avaient été constituées dès l'origine sur ces biens ou droits équivalents. Cet acte peut permettre
+au bénéficiaire de compenser sa dette de restitution des biens ou droits équivalents avec les obligations financières au
+titre desquelles les sûretés ont été constituées, lorsqu'elles sont devenues exigibles.
+
+Par biens ou droits équivalents on entend :
+
+1° Lorsqu'il s'agit d'espèces, une somme de même montant et dans la même monnaie ;
+
+2° Lorsqu'il s'agit d'instruments financiers, des instruments financiers ayant le même émetteur ou débiteur, faisant partie
+de la même émission ou de la même catégorie, ayant la même valeur nominale, libellés dans la même monnaie et ayant la même
+désignation ou, d'autres actifs, lorsque les parties le prévoient, en cas de survenance d'un fait concernant ou affectant les
+instruments financiers constitués en sûreté.
+
+Lorsqu'il s'agit d'autres biens ou droits que ceux mentionnés aux 1° et 2°, la restitution porte sur ces mêmes biens ou
+droits.
+
+IV. - Les modalités de réalisation et de compensation des garanties mentionnées au I et des obligations mentionnées au I de
+l'article L. 431-7 sont opposables aux tiers. Toute réalisation ou compensation effectuée en raison d'une procédure civile
+d'exécution ou de l'exercice d'un droit d'opposition est réputée être intervenue avant cette procédure.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°89-623 du 6 septembre 1989 - art. 4-4 (Ab)
+  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis (M)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 38 bis-0 A bis (V)
+  - Code monétaire et financier - art. L214-43 (V)
+  - Code monétaire et financier - art. L330-2 (V)
+  - Code monétaire et financier - art. L431-7-4 (Ab)
+  - Code monétaire et financier - art. L734-3 (VT)
+  - Code monétaire et financier - art. L734-8-1 (Ab)
+  - Code monétaire et financier - art. L744-8-1 (V)
+  - Code monétaire et financier - art. L754-8-1 (V)
+  - Code monétaire et financier - art. L764-8-1 (V)
+  - Code monétaire et financier - art. R214-12 (V)
+  - Code monétaire et financier - art. R214-188 (V)
+  - Code monétaire et financier - art. R214-189 (V)
+  - Code monétaire et financier - art. R214-97 (V)
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+_Cite_:
+
+  - Code monétaire et financier - art. L431-7
+
+
+###### Article L431-7-4
+
+Les droits ou obligations du constituant, du bénéficiaire ou de tout tiers relatifs aux garanties mentionnées au I de
+l'article L. 431-7-3 portant sur des instruments financiers représentés par une inscription en compte sont déterminés par la
+loi de l'Etat où est situé le compte sur lequel les instruments financiers sont remis ou constitués en garantie.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+_Cité par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L431-7-3
+
+
+###### Article L431-7-5
+
+Les dispositions du livre VI du code de commerce, ou celles régissant toutes les procédures judiciaires ou amiables
+équivalentes ouvertes sur le fondement de droits étrangers, ne font pas obstacle à l'application de la présente section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 2 () JORF 25 février 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
+
+_Cité par_:
+
+  - Loi n°2009-526 du 12 mai 2009 - art. 138 (V)
 
 
 #### Chapitre II : Formes particulières de cessions d'instruments financiers<a id=226></a>
@@ -44963,11 +45147,11 @@ _Cite_:
   - Code monétaire et financier L431-3 à L431-6
 
 
-##### Paragraphe 2 : Compensation<a id=533></a>
+##### Paragraphe 2 : Compensation et cession de créances<a id=533></a>
 
 ###### Article L734-7
 
-L'article L. 431-7 est applicable à Mayotte.
+Les articles L. 431-7 à L. 431-7-5 sont applicables à Mayotte.
 
 **Liens relatifs à cet article**
 
@@ -44979,9 +45163,13 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+
 _Cite_:
 
-  - Code monétaire et financier - art. L431-7 (M)
+  - Code monétaire et financier L431-7 à L431-7-5
 
 
 ##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=534></a>
@@ -46582,11 +46770,14 @@ _Cite_:
   - Code monétaire et financier L431-4 à L431-6
 
 
-##### Paragraphe 2 : Compensation.<a id=605></a>
+##### Paragraphe 2 : Compensation et cession de créances<a id=605></a>
 
 ###### Article L744-7
 
-L'article L. 431-7 est applicable en Nouvelle-Calédonie.
+Les articles L. 431-7 à L. 431-7-5 sont applicables en Nouvelle-Calédonie. Au 1° de l'article L. 431-7, après les mots :
+
+"bénéficiaires des dispositions de l'article L. 531-2" sont ajoutés les mots : "à l'exception des personnes mentionnées au a
+du 2°".
 
 **Liens relatifs à cet article**
 
@@ -46598,9 +46789,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+
 _Cite_:
 
   - Code monétaire et financier - art. L431-7 (M)
+  - Code monétaire et financier L431-7 à L431-7-5, L431-7
 
 
 ##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=606></a>
@@ -48263,7 +48459,12 @@ _Cite_:
 
 Les articles L. 330-1 et L. 330-2 sont applicables en Polynésie française sous réserve, au I de l'article L. 330-1, de
 supprimer au premier alinéa les mots : "ou internationale" et "ou d'établissement non résident ayant un statut comparable",
-la seconde phrase du deuxième alinéa ainsi que le troisième alinéa.
+la seconde phrase du deuxième alinéa ainsi que le troisième alinéa. A l'article L. 330-2, la référence au livre VI du code de
+commerce est remplacée par la référence aux dispositions en vigueur en Polynésie française ayant le même objet.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -48277,7 +48478,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-823 du 19 août 2004 - art. 9 (V) JORF 21 août 2004
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
 
 _Cite_:
 
@@ -48507,11 +48708,14 @@ _Cite_:
   - Code monétaire et financier L431-4 à L431-6
 
 
-##### Paragraphe 2 : Compensation<a id=685></a>
+##### Paragraphe 2 : Compensation et cession de créances<a id=685></a>
 
 ###### Article L754-7
 
-L'article L. 431-7 est applicable en Polynésie française.
+Les articles L. 431-7 à L. 431-7-5 sont applicables en Polynésie française. Au 1° du I de l'article L. 431-7, après les
+mots : "les bénéficiaires des dispositions de l'article L. 531-2" sont ajoutés les mots : "à l'exception des personnes
+mentionnées au a du 2°". La référence au livre VI du code de commerce est remplacée par la référence aux dispositions en
+vigueur en Polynésie française ayant le même objet.
 
 **Liens relatifs à cet article**
 
@@ -48523,9 +48727,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
+
 _Cite_:
 
   - Code monétaire et financier - art. L431-7 (M)
+  - Code monétaire et financier L431-7 à L431-7-5, L431-7
 
 
 ##### Sous-section 2 : Formes particulières de cessions d'instruments financiers<a id=686></a>
@@ -50376,11 +50585,11 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Paragraphe 2 : Compensation<a id=765></a>
+##### Paragraphe 2 : Compensation et cession de créances<a id=765></a>
 
 ###### Article L764-7
 
-L'article L. 441-7 est applicable dans le territoire des îles Wallis-et-Futuna.
+Les articles L. 431-7 à L. 431-7-5 sont applicables dans les îles Wallis-et-Futuna.
 
 **Liens relatifs à cet article**
 
@@ -50391,6 +50600,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-171 du 24 février 2005 - art. 6 (V) JORF 25 février 2005
 
 
 ##### Sous-section 2 : Les formes particulières de cessions d'instruments financiers<a id=766></a>
