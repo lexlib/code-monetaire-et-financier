@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2001-11-16
+Version Consolidée au 2001-12-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -236,7 +236,7 @@ Version Consolidée au 2001-11-16
           - [Section 2 : Obligation de déposer un projet d'offre publique (art. L433-3)](#233)
           - [Section 3 : Offres publiques de retrait et retrait obligatoire (art. L433-4)](#234)
       - [Titre IV : Les entreprises de marché et les chambres de compensation (art. L441-1 à L442-9)](#235)
-        - [Chapitre Ier : Entreprises de marché. (art. L441-1 à L441-2)](#236)
+        - [Chapitre Ier : Entreprises de marché. (art. L441-1 à L441-3)](#236)
         - [Chapitre II : Chambres de compensation. (art. L442-1 à L442-9)](#237)
       - [Titre V : La protection des investisseurs (art. L451-1 à L452-4)](#238)
         - [Chapitre Ier : La transparence des marchés (art. L451-1 à L451-2)](#239)
@@ -247,7 +247,7 @@ Version Consolidée au 2001-11-16
         - [Chapitre Ier : Infractions relatives à l'appel public à l'épargne. (art. L461-1)](#244)
         - [Chapitre II : Infractions relatives aux marchés réglementés (art. L462-1 à L462-2)](#245)
         - [Chapitre III : Infractions relatives aux négociations sur instruments financiers. (art. L463-1 à L463-2)](#246)
-        - [Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation (art. L464-1)](#247)
+        - [Chapitre IV : Infractions relatives aux entreprises de marché et aux chambres de compensation (art. L464-1 à L464-2)](#247)
         - [Chapitre V : Infractions relatives à la protection des investisseurs (art. L465-1 à L465-4)](#248)
           - [Section 1 : Atteintes à la transparence des marchés (art. L465-1 à L465-3)](#249)
           - [Section 2 : Prises de participations (art. L465-4)](#250)
@@ -407,7 +407,7 @@ Version Consolidée au 2001-11-16
             - [Sous-section 1 : Dispositions générales. (art. L613-13)](#404)
           - [Section 5 : Exercice du pouvoir disciplinaire. (art. L613-21 à L613-24)](#405)
           - [Section 6 : Mesures disciplinaires de redressement et de liquidation judiciaires. (art. L613-25 à L613-31)](#406)
-          - [Section 7 : Régime de contrôle spécifique. (art. L613-32 à L613-33)](#407)
+          - [Section 7 : Régime de contrôle spécifique. (art. L613-32 à L613-33-1)](#407)
           - [Section 8 : Mise en oeuvre du fonds de garantie des dépôts. (art. L613-34)](#408)
         - [Chapitre IV : Institutions consultatives (art. L614-1 à L614-7)](#409)
           - [Section 1 : Conseil national du crédit et du titre et comité consultatif (art. L614-1 à L614-6)](#410)
@@ -3243,10 +3243,12 @@ _Cite_:
 ###### Article L131-73
 
 Sous réserve des dispositions de l'article L. 312-1 relatives au droit au compte et aux services bancaires de base, le
-banquier tiré qui a refusé le paiement d'un chèque pour défaut de provision suffisante doit enjoindre au titulaire du compte
-de restituer à tous les banquiers dont il est le client les formules en sa possession et en celle de ses mandataires et de ne
-plus émettre des chèques autres que ceux qui permettent exclusivement le retrait de fonds par le tireur auprès du tiré ou
-ceux qui sont certifiés. Le banquier tiré en informe dans le même temps les mandataires de son client.
+banquier tiré peut, après avoir informé par tout moyen approprié mis à disposition par lui le titulaire du compte des
+conséquences du défaut de provision, refuser le paiement d'un chèque pour défaut de provision suffisante. Il doit enjoindre
+au titulaire du compte de restituer à tous les banquiers dont il est le client les formules en sa possession et en celle de
+ses mandataires et de ne plus émettre des chèques autres que ceux qui permettent exclusivement le retrait de fonds par le
+tireur auprès du tiré ou ceux qui sont certifiés. Le banquier tiré en informe dans le même temps les mandataires de son
+client.
 
 Toutefois, le titulaire du compte recouvre la possibilité d'émettre des chèques lorsqu'il justifie avoir, à la suite de cette
 injonction adressée après un incident de paiement :
@@ -3269,7 +3271,8 @@ jours à compter de la réception de la notification ou de la signification dél
 titre exécutoire.
 
 En tout état de cause, les frais de toute nature qu'occasionne le rejet d'un chèque sans provision sont à la charge du
-tireur.
+tireur. Lorsque le montant du chèque rejeté est inférieur à 50 euros, les frais perçus par le tiré ne peuvent excéder un
+montant fixé par décret.
 
 **Liens relatifs à cet article**
 
@@ -3280,14 +3283,13 @@ _Anciens textes_:
   - Loi n°84-46 du 24 janvier 1984 - art. 58 (Ab)
   - Décret-loi 1935-10-30 art. 65-3
 
-_Créé par_:
-
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000 en vigueur le 1er janvier 2001 rectificatif JORF 17 mars 2001
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 15 (V)
 
 **Liens**:
 
@@ -3362,16 +3364,17 @@ _Codifié par_:
 
 ###### Article L131-75
 
-La pénalité libératoire que le titulaire du compte doit verser pour recouvrer la faculté d'émettre des chèques est fixée à
-cent cinquante francs par tranche de mille francs ou fraction de tranche.
+La pénalité libératoire que le titulaire du compte doit verser pour recouvrer la faculté d'émettre des chèques est calculée
+sur la fraction non provisionnée du chèque. Elle est fixée à 22 euros par tranche de 150 euros ou fraction de tranche non
+provisionnée, et ramenée à 5 euros lorsque la fraction non provisionnée du chèque est inférieure à 50 euros.
 
 Toutefois, cette pénalité n'est pas due lorsque le titulaire du compte ou son mandataire n'a pas émis un autre chèque rejeté
-pour défaut de provision dans les douze mois qui précédent l'incident de paiement et qu'il justifie, dans un délai d'un mois
-à compter de l'injonction prévue par l'article L. 131-73, avoir réglé le montant du chèque ou constitué une provision
+pour défaut de provision dans les douze mois qui précèdent l'incident de paiement et qu'il justifie, dans un délai de deux
+mois à compter de l'injonction prévue par l'article L. 131-73, avoir réglé le montant du chèque ou constitué une provision
 suffisante et disponible destinée à son règlement par les soins du tiré.
 
 Les dispositions de l'alinéa précédent s'appliquent à l'ensemble des chèques émis sur un même compte et rejetés pour défaut
-de provision suffisante au cours du délai d'un mois prévu au deuxième alinéa.
+de provision suffisante au cours du délai de deux mois prévu au même alinéa.
 
 Lorsque le délai prévu au deuxième alinéa expire un jour non ouvré, il est prolongé jusqu'au premier jour ouvré suivant.
 
@@ -3385,7 +3388,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 15 (V)
 
 _Cite_:
 
@@ -4222,7 +4228,7 @@ _Cité par_:
 
 ###### Article L141-4
 
-La Banque de France veille au bon fonctionnement et à la sécurité des systèmes de paiement dans le cadre de la mission du
+I. La Banque de France veille au bon fonctionnement et à la sécurité des systèmes de paiement dans le cadre de la mission du
 Système européen de banques centrales relative à la promotion du bon fonctionnement des systèmes de paiement prévue par
 l'article 105, paragraphe 2 du traité instituant la Communauté européenne.
 
@@ -4252,6 +4258,10 @@ ses membres. Un décret en Conseil d'Etat précise sa composition et ses compét
 L'observatoire établit chaque année un rapport d'activité remis au ministre chargé de l'économie, des finances et de
 l'industrie et transmis au Parlement.
 
+II. - Dans le cadre des missions du Système européen de banques centrales, et sans préjudice des compétences du Conseil des
+marchés financiers et de la commission bancaire, la Banque de France veille à la sécurité des systèmes de compensation, de
+règlement et de livraison des instruments financiers.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -4261,16 +4271,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2001-1062 du 15 novembre 2001 - art. 39 () JORF 16 novembre 2001
+  - Loi n°2001-1168 2001-12-11 art. 27 1° JORF 12 décembre 2001
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2002-709 du 2 mai 2002 - art. 2 (Ab)
@@ -13917,13 +13926,16 @@ _Cité par_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 **Liens**:
 
   - TXT_SOURCE: Décret n°2001-45 du 17 janvier 2001
   - TXT_SOURCE: Décret n°2001-45 du 17 janvier 2001 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2001-45 du 17 janvier 2001 - art. 2 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 13 I 1° JORF 12 décembre 2001
 
 
 ##### Section 2 : Fonds reçus du public<a id=156></a>
@@ -18814,7 +18826,9 @@ Sans préjudice des autres dispositions qui leur sont applicables, les personnes
 public à l'épargne doivent, au préalable, publier et tenir à la disposition de toute personne intéressée un document destiné
 à l'information du public, portant sur le contenu et les modalités de l'opération qui en fait l'objet, ainsi que sur
 l'organisation, la situation financière et l'évolution de l'activité de l'émetteur, dans des conditions prévues par un
-règlement de la commission des opérations de bourse.
+règlement de la commission des opérations de bourse. Ce document est rédigé en français ou, dans les cas définis par le
+règlement mentionné ci-dessus, dans une autre langue usuelle en matière financière. Il doit alors être accompagné d'un résumé
+rédigé en français, dans les conditions déterminées par le même règlement. 
 
 Ce règlement fixe également les conditions dans lesquelles l'émetteur dont les titres ont été émis ou cédés dans le cadre
 d'un appel public à l'épargne procède à l'information du public.
@@ -18835,9 +18849,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
 
 _Cité par_:
 
@@ -18987,9 +19007,12 @@ _Anciens textes_:
 
 La reconnaissance de la qualité de marché réglementé d'instruments financiers est décidée par arrêté du ministre chargé de
 l'économie sur la proposition du conseil des marchés financiers et après avis de la commission des opérations de bourse ainsi
-que de la Banque de France. Le retrait de la qualité de marché réglementé s'effectue dans les mêmes conditions. Cet arrêté
-est publié au Journal officiel de la République française. Les règles du marché sont publiées dans des conditions fixées par
-le conseil des marchés financiers.
+que de la Banque de France. Cet arrêté est publié au Journal officiel de la République française. Les règles du marché sont
+publiées dans des conditions fixées par le conseil des marchés financiers.
+
+Le retrait de la qualité de marché réglementé est prononcé soit à la demande de l'entreprise de marché, soit d'office lorsque
+les conditions ayant justifié la reconnaissance ne sont plus remplies ou lorsque le marché ne fonctionne plus depuis au moins
+six mois. Ce retrait est décidé selon la procédure prévue au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -19000,7 +19023,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 3° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
 
 _Cité par_:
 
@@ -19167,11 +19197,6 @@ sous réserve du droit d'opposition de la commission des opérations de bourse.
 
 L'accord exprès de l'émetteur de l'instrument financier est requis.
 
-Lorsque l'instrument financier comporte un élément sous-jacent, l'émetteur de celui-ci dispose d'un droit d'opposition dans
-les cas et selon les modalités prévus par le règlement général du conseil des marchés financiers. Toutefois, ce droit
-d'opposition n'existe pas lorsque l'élément sous-jacent est une devise, un titre de dette publique, un contrat financier à
-terme ou un indice.
-
 II. - Après en avoir informé l'émetteur, l'entreprise de marché peut suspendre, pour une durée déterminée et dans le cadre
 des règles du marché réglementé dont elle a la charge, la négociation d'un instrument financier admis aux négociations sur ce
 marché. Elle informe également de cette suspension le président de la commission des opérations de bourse et le président du
@@ -19196,7 +19221,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 4° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
 
 _Cité par_:
 
@@ -19711,35 +19743,30 @@ _Cité par_:
 
 ###### Article L431-1
 
-Pour chaque ordre de négociation, cession ou mutation d'une des valeurs mentionnées au premier alinéa de l'article L. 211-4
-revêtant la forme nominative en application de la loi ou des statuts de la personne morale émettrice et admises aux
-négociations sur un marché réglementé, l'intermédiaire mentionné au premier alinéa de l'article L. 211-4 établit un bordereau
-de références nominatives indiquant les éléments d'identification du donneur d'ordre, la nature juridique de ses droits, les
-restrictions dont le titre peut être frappé, et portant un code permettant de déterminer l'opération à laquelle il se
-rattache.
+Pour chaque ordre de négociation, cession ou mutation d'un instrument financier revêtant la forme nominative en application
+de la loi ou des statuts de la personne morale émettrice et admis aux opérations d'un dépositaire central, ou pour toute
+autre modification affectant l'inscription en compte dudit instrument financier, l'intermédiaire habilité mentionné au
+premier alinéa de l'article L. 211-4 établit un bordereau de références nominatives. Ce bordereau indique les éléments
+d'identification du donneur d'ordre, la nature juridique de ses droits et les restrictions dont l'instrument financier peut
+être frappé et porte un code permettant de déterminer l'opération à laquelle il se rattache.
 
-Les modalités selon lesquelles le bordereau est remis par l'intermédiaire à l'organisme assurant la compensation des valeurs
-puis transmis à la personne morale émettrice et les modalités de mise à jour du compte tenu par cette dernière sont définies
-par décret en Conseil d'Etat.
-
-En cas de méconnaissance des obligations de transmission du bordereau, l'organisme assurant la compensation des valeurs,
-après avoir mis en demeure l'intermédiaire défaillant, requiert l'entreprise de marché organisatrice des transactions de
-racheter ou de vendre d'office aux frais de l'intermédiaire, le titre qui n'aura pas donné lieu à remise de bordereau ou dont
-le bordereau est remis incomplet ou erroné.
-
-Pour le transport éventuel des bordereaux de références nominatives, il n'est pas fait application de l'article L. 1 du code
-des postes et télécommunications.
+Le règlement général du Conseil des marchés financiers détermine les modalités et les délais de circulation du bordereau de
+références nominatives entre l'intermédiaire habilité, le dépositaire central et la personne morale émettrice.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°87-416 1987-06-17 art. 55 al. 1 à al. 5
 
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 5° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
 
 _Cité par_:
 
@@ -19750,7 +19777,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des postes et télécommunications L1
   - Code monétaire et financier - art. L211-4 (M)
 
 
@@ -21008,17 +21034,49 @@ _Cite_:
 Les entreprises de marché sont des sociétés commerciales qui ont pour activité principale d'assurer le fonctionnement d'un
 marché réglementé d'instruments financiers.
 
+Toute personne qui vient à posséder, directement ou indirectement, une fraction du capital ou des droits de vote d'une
+entreprise de marché représentant plus du dixième, du cinquième, du tiers, de la moitié ou des deux tiers est tenue d'en
+informer le Conseil des marchés financiers, dans des conditions et selon des modalités prévues par décret. En cas de
+manquement à cette obligation déclarative et sans préjudice des dispositions de l'article L. 233-14 du code de commerce, le
+Conseil des marchés financiers ou tout actionnaire peut demander au juge de suspendre, jusqu'à régularisation de la
+situation, l'exercice des droits de vote attachés aux actions de l'entreprise de marché qui n'ont pas été régulièrement
+déclarées.
+
+A la suite d'une prise ou d'une extension de participation, le ministre chargé de l'économie peut, dans l'intérêt du bon
+fonctionnement d'un marché réglementé et sans préjudice des dispositions de l'article L. 233-14 du code de commerce, demander
+au juge de suspendre, jusqu'à régularisation de la situation, l'exercice des droits de vote attachés aux actions de
+l'entreprise de marché détenues directement ou indirectement. Sur proposition du Conseil des marchés financiers et après avis
+de la Commission des opérations de bourse et de la Banque de France, le ministre peut également procéder à une révision de la
+reconnaissance du marché réglementé ou à son retrait, dans les conditions prévues à l'article L. 421-1.
+
+**Nota:**
+
+Nota : Loi n° 2003-706 du 1er août 2003 article 46 V 1° et 2° :
+
+1° Les références à la Commission des opérations de bourse, au Conseil des marchés financiers et au Conseil de discipline de
+la gestion financière sont remplacées par la référence à l'Autorité des marchés financiers ;
+
+2° Les références aux règlements de la Commission des opérations de bourse et au règlement général du Conseil des marchés
+financiers sont remplacées par la référence au règlement général de l'Autorité des marchés financiers.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 40 al. 1
   - Loi n°96-597 du 2 juillet 1996 - art. 40 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 6° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
 
 _Cité par_:
 
@@ -21028,20 +21086,21 @@ _Cité par_:
   - Code monétaire et financier - art. L421-3 (M)
   - Code monétaire et financier - art. L622-9 (Ab)
 
+_Cite_:
+
+  - Code de commerce. - art. L233-14 (M)
+  - Code monétaire et financier - art. L421-1 (M)
+
 
 ###### Article L441-2
 
-Sous réserve des dispositions de l'article L. 442-1, les entreprises de marché peuvent également gérer une ou plusieurs
-chambres de compensation.
-
-Elles délivrent les cartes professionnelles mentionnées au 3 du II de l'article L. 622-7 pour ce qui concerne l'accès au
-marché réglementé dont elles ont la charge.
+Les entreprises de marché délivrent les cartes professionnelles mentionnées au 3 du I de l'article L. 622-7 pour ce qui
+concerne l'accès au marché réglementé dont elles ont la charge.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 40 al. 2 et al. 3
   - Loi n°96-597 du 2 juillet 1996 - art. 40 (Ab)
 
 _Codifié par_:
@@ -21049,14 +21108,54 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
+_Modifié par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 7° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Abrogé par_:
+
+  - Loi n°2003-706 du 1 août 2003 - art. 92 (V) JORF 2 août 2003
+
 _Cité par_:
 
   - Loi n°2003-706 du 1 août 2003 - art. 92 (V)
 
 _Cite_:
 
-  - Code monétaire et financier - art. L442-1 (M)
   - Code monétaire et financier - art. L622-7 (Ab)
+
+
+###### Article L441-3
+
+Les dirigeants, salariés et préposés des entreprises de marché sont tenus au secret professionnel.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 8° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+
+_Cité par_:
+
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 8 (V)
+  - Code monétaire et financier - art. L464-2 (M)
 
 
 #### Chapitre II : Chambres de compensation.<a id=237></a>
@@ -21064,8 +21163,8 @@ _Cite_:
 ###### Article L442-1
 
 Les chambres de compensation assurent la surveillance des positions, l'appel des marges et, le cas échéant, la liquidation
-d'office des positions. Elles doivent avoir la qualité d'établissement de crédit ou être gérées par un établissement de
-crédit. Leurs règles de fonctionnement doivent avoir été approuvées par le conseil des marchés financiers.
+d'office des positions. Elles doivent avoir la qualité d'établissement de crédit. Leurs règles de fonctionnement doivent
+avoir été approuvées par le conseil des marchés financiers.
 
 Les relations entre une chambre de compensation et une personne mentionnée à l'article L. 442-2 sont de nature contractuelle.
 
@@ -21073,13 +21172,20 @@ Les relations entre une chambre de compensation et une personne mentionnée à l
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 47 I
   - Loi n°96-597 du 2 juillet 1996 - art. 47 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 9° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
 
 _Nouveaux textes_:
 
@@ -21100,26 +21206,49 @@ _Cite_:
 
 Seuls peuvent adhérer aux chambres de compensation :
 
-1. Les personnes autorisées à devenir membres d'un marché réglementé ;
+1. Les établissements de crédit établis en France ;
 
-2. Les établissements de crédit. Ces établissements sont soumis, pour leur activité de compensation, aux règles d'approbation
-de programme d'activité et de contrôle fixées par le titre III du livre V pour les entreprises d'investissement ;
+2. Les entreprises d'investissement établies en France ;
 
-3. Les personnes morales ayant pour objet principal ou unique l'activité de compensation d'instruments financiers. Ces
-personnes sont soumises aux règles d'agrément, d'approbation du programme d'activité et de contrôle fixées par le titre III
-du livre V pour les entreprises d'investissement.
+3. Les personnes morales dont les membres ou associés sont indéfiniment et solidairement responsables des dettes et
+engagements, à condition que ces membres ou associés soient des établissements ou entreprises mentionnés aux 1 et 2 ci-
+dessus ;
+
+4. Les personnes morales établies en France et ayant pour objet principal ou unique l'activité de compensation d'instruments
+financiers ;
+
+5. Dans des conditions fixées par le règlement général du Conseil des marchés financiers, les établissements de crédit, les
+entreprises d'investissement et les personnes morales ayant pour objet principal ou unique l'activité de compensation
+d'instruments financiers, qui ne sont pas établis en France.
+
+Les organismes visés aux 1, 2 et 4 du présent article sont soumis, pour leur activité de compensation, aux règles
+d'approbation du programme d'activité, de contrôle et de sanction fixées par le présent code pour les prestataires de
+services d'investissement. En outre, les organismes mentionnés au 4 sont soumis aux règles d'agrément fixées par le présent
+code pour les entreprises d'investissement.
+
+Les organismes mentionnés au 5 doivent être soumis dans leur Etat d'origine à des règles d'exercice de l'activité de
+compensation et de contrôle équivalentes à celles en vigueur en France. Le Conseil des marchés financiers exerce à l'égard de
+ces organismes les pouvoirs de contrôle et de sanction prévus par le présent code pour les prestataires de services
+d'investissement, en tenant compte de la surveillance exercée par les autorités compétentes de chaque Etat concerné.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 47 II
   - Loi n°96-597 du 2 juillet 1996 - art. 47 (Ab)
 
 _Codifié par_:
 
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 10° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
 
 _Nouveaux textes_:
 
@@ -21841,6 +21970,44 @@ _Cite_:
   - Code pénal - art. 226-13 (M)
   - Code pénal - art. 226-14 (M)
   - Code monétaire et financier - art. L442-3 (T)
+
+
+###### Article L464-2
+
+Est puni des peines prévues à l'article 226-13 du code pénal le fait, pour tout dirigeant, salarié ou préposé des entreprises
+de marché, de violer le secret professionnel institué à l'article L. 441-3, sous réserve des dispositions de l'article 226-14
+du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 11° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Cite_:
+
+  - Code pénal - art. 226-13 (M)
+  - Code pénal - art. 226-14 (M)
+  - Code monétaire et financier - art. L441-3 (Ab)
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L734-11 (M)
+  - Code monétaire et financier - art. L734-3 (VD)
+  - Code monétaire et financier - art. L744-11 (AbD)
+  - Code monétaire et financier - art. L744-3 (V)
+  - Code monétaire et financier - art. L754-11 (AbD)
+  - Code monétaire et financier - art. L754-3 (V)
+  - Code monétaire et financier - art. L764-11 (AbD)
+  - Code monétaire et financier - art. L764-3 (V)
 
 
 #### Chapitre V : Infractions relatives à la protection des investisseurs<a id=248></a>
@@ -26454,6 +26621,17 @@ ce titre les collectivités territoriales ni les salariés de la caisse d'éparg
 Dans chaque conseil d'orientation et de surveillance, le nombre des membres élus par les salariés est identique à celui des
 membres élus par les collectivités territoriales et ne peut être supérieur à trois.
 
+En cas de fusion de caisses d'épargne et de prévoyance soit par absorption, soit par création d'une personne morale nouvelle,
+le nombre de membres du conseil d'orientation et de surveillance de la caisse issue de la fusion peut être supérieur à dix-
+sept, tout en respectant la répartition entre les différentes catégories de membres prévue aux quatrième à septième alinéas
+ci-dessus, pendant un délai maximum de trois ans à compter de la date de la fusion. Dans ce cas, le conseil d'administration
+et de surveillance ne peut être composé de plus de trente-quatre membres et le nombre de membres élus par les salariés et
+celui des membres élus par les collectivités territoriales ne peuvent être supérieurs à six.
+
+A défaut d'accord entre les caisses concernées, le nombre total des membres du conseil d'orientation et de surveillance,
+ainsi que la répartition de ces derniers par caisse et par catégorie, peuvent être fixés par la Caisse nationale des caisses
+d'épargne et de prévoyance.
+
 Les membres du directoire sont proposés par le conseil d'orientation et de surveillance. Le directoire de la Caisse nationale
 des caisses d'épargne et de prévoyance s'assure qu'ils présentent l'honorabilité nécessaire et l'expérience adéquate pour
 cette fonction et propose leur agrément au conseil de surveillance de la Caisse nationale des caisses d'épargne et de
@@ -26477,9 +26655,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L613-21 (M)
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 29 () JORF 12 décembre 2001
 
 
 ###### Article L512-91
@@ -26560,13 +26738,10 @@ laquelle la société locale d'épargne est affiliée, ainsi que par la Caisse n
 L'ensemble des sociétés locales d'épargne affiliées à chaque caisse d'épargne et de prévoyance constitue une seule entité
 pour l'application de l'article 145 du code général des impôts.
 
+Les dispositions de l'article 16 de la loi n° 47-1775 du 10 septembre 1947 précitée ne s'appliquent pas aux sociétés locales
+d'épargne.
+
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 145
-  - Loi n°47-1775 1947-09-10
-  - Code monétaire et financier - art. L512-93 (V)
 
 _Anciens textes_:
 
@@ -26577,6 +26752,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 29 () JORF 12 décembre 2001
 
 _Cité par_:
 
@@ -27661,10 +27840,11 @@ Cette quotité peut, le cas échéant, être dépassée lorsque ces prêts sont 
 et dans une limite déterminée par décret en Conseil d'Etat, par les ressources non privilégiées mentionnées au II de
 l'article L. 515-13.
 
-III. - Le bien apporté en garantie ou le bien financé par un prêt cautionné doit être situé dans l'Espace économique européen
-ou dans les territoires d'outre-mer de la République. Sa valeur est déterminée de manière prudente et exclut tout élément
-d'ordre spéculatif. Les modalités d'évaluation sont fixées par un règlement du comité de la réglementation bancaire et
-financière, qui prévoit notamment dans quels cas il doit être recouru à une expertise.
+III. - Le bien apporté en garantie ou le bien financé par un prêt cautionné doit être situé dans l'Espace économique
+européen, dans les territoires d'outre-mer de la République, en Suisse, aux Etats- Unis d'Amérique, au Canada ou au Japon. Sa
+valeur est déterminée de manière prudente et exclut tout élément d'ordre spéculatif. Les modalités d'évaluation sont fixées
+par un règlement du comité de la réglementation bancaire et financière, qui prévoit notamment dans quels cas il doit être
+recouru à une expertise.
 
 **Liens relatifs à cet article**
 
@@ -27679,11 +27859,9 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code de commerce. - art. L233-16 (M)
-  - Code monétaire et financier - art. L515-15 (M)
-  - Code de la construction et de l'habitation. - art. L312-1 (M)
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 31 () JORF 12 décembre 2001
 
 _Cité par_:
 
@@ -27706,8 +27884,14 @@ _Cité par_:
 ###### Article L515-15
 
 Les prêts aux personnes publiques sont des prêts accordés aux Etats, aux collectivités territoriales ou à leurs groupements
-et aux établissements publics, appartenant à l'Espace économique européen, ou totalement garantis par un ou plusieurs Etats
-ou collectivités territoriales ou groupements de celles-ci.
+et aux établissements publics de l'Espace économique européen, de Suisse, des Etats-Unis d'Amérique, du Canada ou du Japon,
+ou totalement garantis par un ou plusieurs Etats ou collectivités territoriales ou groupements de celles-ci.
+
+Sont assimilés aux prêts aux personnes publiques les titres de créances émis par les Etats, les collectivités territoriales
+ou leurs groupements et les établissements publics de l'Espace économique européen, de Suisse, des Etats-Unis d'Amérique, du
+Canada ou du Japon, ou totalement garantis par un ou plusieurs Etats ou collectivités territoriales ou groupements de celles-
+ci. Ces titres doivent être acquis avec une intention de conservation durable jusqu'à leur échéance et, en conséquence, être
+traités sur le plan comptable conformément à un règlement du comité de la réglementation comptable.
 
 **Liens relatifs à cet article**
 
@@ -27721,6 +27905,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 31 () JORF 12 décembre 2001
 
 _Cité par_:
 
@@ -27738,12 +27926,13 @@ _Cité par_:
 
 ###### Article L515-16
 
-Sont assimilés aux prêts mentionnés aux articles L. 515-14 et L. 515-15 les parts de fonds communs de créances, ainsi que les
+Sont assimilés aux prêts mentionnés aux articles L. 515-14 et L. 515-15 les parts de fonds communs de créances ainsi que les
 parts ou titres de créances émis par des entités similaires soumises au droit d'un Etat appartenant à l'Espace économique
-européen, dès lors que l'actif de ces fonds communs de créances ou entités similaires est composé, à hauteur de 90 % au
-moins, de créances de même nature que les prêts répondant aux caractéristiques définies aux trois premiers alinéas de
-l'article L. 515-14 ainsi qu'à l'article L. 515-15, et à l'exclusion des parts spécifiques supportant le risque de
-défaillance des débiteurs des créances.
+européen, de la Suisse, des Etats-Unis d'Amérique, du Canada ou du Japon, dès lors que l'actif de ces fonds communs de
+créances ou entités similaires est composé, à hauteur de 90 % au moins, de créances de même nature que les prêts répondant
+aux caractéristiques définies aux trois premiers alinéas de l'article L. 515-14 ainsi qu'à l'article L. 515-15 ou, dans des
+conditions fixées par décret en Conseil d'Etat, de créances assorties de garanties équivalentes à celles des prêts mentionnés
+à l'article L. 515-14 et à l'exclusion des parts spécifiques supportant le risque de défaillance des débiteurs de créances.
 
 **Liens relatifs à cet article**
 
@@ -27765,6 +27954,10 @@ _Codifié par_:
   - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
   - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 31 () JORF 12 décembre 2001
 
 _Cite_:
 
@@ -30293,7 +30486,8 @@ _Cite_:
 Pour délivrer l'approbation du programme d'activité à un prestataire de services d'investissement, le conseil des marchés
 financiers ou la commission des opérations de bourse lorsque ce programme porte sur un service d'investissement mentionné au
 4 de l'article L. 321-1 apprécie la qualité de ce programme au regard de l'honorabilité et de la compétence des dirigeants et
-de l'adéquation de leur expérience à leurs fonctions. Ce programme indique le type d'opérations envisagées et la structure de
+de l'adéquation de leur expérience à leurs fonctions ainsi que les conditions dans lesquelles le prestataire envisage de
+fournir les services d'investissement concernés. Ce programme indique le type d'opérations envisagées et la structure de
 l'organisation de l'entreprise ou de l'établissement prestataire de services d'investissement.
 
 Le conseil des marchés financiers statue dans un délai de trois mois à compter du dépôt de la demande. Sa décision est
@@ -30312,11 +30506,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Modifié par_:
 
-  - Loi n°2001-420 du 15 mai 2001 - art. 10
+  - Loi n°2001-1168 2001-12-11 art. 27 12° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
 
 _Cité par_:
 
@@ -36076,6 +36273,45 @@ _Cité par_:
   - Code monétaire et financier - art. R613-34 (VD)
 
 
+###### Article L613-33-1
+
+Pour l'application des dispositions de l'article L. 613-2 aux adhérents établis hors de France d'une chambre de compensation
+établie en France, la commission bancaire prend en compte la surveillance exercée par les autorités compétentes de chaque
+Etat concerné et, à cet effet, peut conclure avec elles une convention bilatérale, dans les conditions prévues à l'article L.
+613-13.
+
+Pour l'exercice de son pouvoir de sanction, la radiation prévue au 6 du I de l'article L. 613-21 et au premier alinéa de
+l'article L. 312-5 s'entend comme se traduisant par une interdiction faite à l'établissement de continuer à adhérer à une
+chambre de compensation établie sur le territoire de la République française.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+_Créé par_:
+
+  - Loi n°2001-1168 2001-12-11 art. 27 13° JORF 12 décembre 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Cité par_:
+
+  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L312-5 (M)
+  - Code monétaire et financier - art. L613-13 (Ab)
+  - Code monétaire et financier - art. L613-2 (M)
+  - Code monétaire et financier - art. L613-21 (M)
+
+
 ##### Section 8 : Mise en oeuvre du fonds de garantie des dépôts.<a id=408></a>
 
 ###### Article L613-34
@@ -41407,22 +41643,26 @@ _Codifié par_:
 
 Le titre IV du livre IV est applicable à Mayotte.
 
-L'article L. 464-1 s'y applique également.
+Les articles L. 464-1, et L. 464-2 s'y appliquent également.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°96-597 1996-07-02 art. 107 II
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
 
 _Cite_:
 
   - Code monétaire et financier - art. L464-1 (M)
+  - Code monétaire et financier - art. L464-2 (M)
 
 
 ##### Section 5 : La protection des investisseurs<a id=536></a>
@@ -42896,7 +43136,11 @@ _Codifié par_:
 
 Le titre IV du livre IV est applicable en Nouvelle-Calédonie.
 
-L'article L. 464-1 s'y applique également.
+Les articles L. 464-1 et L. 464-2 s'y appliquent également.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -42907,11 +43151,19 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
 
 _Cite_:
 
   - Code monétaire et financier - art. L464-1 (M)
+  - Code monétaire et financier - art. L464-2 (M)
 
 
 ##### Section 5 : La protection des investisseurs<a id=610></a>
@@ -44382,7 +44634,11 @@ _Codifié par_:
 
 Le titre IV du livre IV est applicable en Polynésie française.
 
-L'article L. 464-1 s'y applique également.
+Les articles L. 464-1 et L. 464-2 s'y appliquent également.
+
+**Nota:**
+
+La présente version de cet article est en vigueur jusqu'au 1er mai 2008.
 
 **Liens relatifs à cet article**
 
@@ -44392,13 +44648,20 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
 
 _Cite_:
 
   - Code monétaire et financier - art. L464-1 (M)
+  - Code monétaire et financier - art. L464-2 (M)
 
 
 ##### Section 5 : La protection des investisseurs<a id=688></a>
@@ -45836,7 +46099,7 @@ _Codifié par_:
 
 Le titre IV du livre IV est applicable dans le territoire des îles Wallis-et-Futuna.
 
-L'article L. 464-1 s'y applique également.
+Les articles L. 464-1 et L. 464-2 s'y appliquent également.
 
 **Liens relatifs à cet article**
 
@@ -45847,11 +46110,19 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2001-1168 2001-12-11 art. 27 III (champ d'application territoriale)
+
+_Modifié par_:
+
+  - Loi n°2001-1168 du 11 décembre 2001 - art. 27 (V) JORF 12 décembre 2001
 
 _Cite_:
 
   - Code monétaire et financier - art. L464-1 (M)
+  - Code monétaire et financier - art. L464-2 (M)
 
 
 ##### Section 5 : La protection des investisseurs<a id=766></a>
