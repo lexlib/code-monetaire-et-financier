@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-01-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -15984,7 +15984,8 @@ libertés.
 
 Les établissements de crédit visés par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
 établissements de crédit ainsi que les services financiers de La Poste sont tenus de déclarer à la Banque de France les
-incidents visés à l'alinéa précédent.
+incidents visés à l'alinéa précédent. Les frais afférents à cette déclaration ne peuvent être facturés aux personnes
+physiques concernées.
 
 Dès que la commission instituée à l'article L. 331-1 est saisie par un débiteur en application du premier alinéa de l'article
 L. 331-3, elle en informe la Banque de France aux fins d'inscription au fichier institué au premier alinéa du présent
@@ -16038,7 +16039,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2004-801 du 6 août 2004 - art. 18 () JORF 7 août 2004
+  - Loi n°2005-32 du 18 janvier 2005 - art. 126 () JORF 19 janvier 2005
 
 _Anciens textes_:
 
