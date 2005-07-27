@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-07-27
+Version Consolidée au 2005-07-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -40010,9 +40010,9 @@ _Cite_:
 
 ###### Article L613-27
 
-Les procédures de redressement et de liquidation judiciaires instituées par le titre II du livre VI du code de commerce ne
-peuvent être ouvertes à l'égard d'un établissement de crédit ou d'une entreprise d'investissement qu'après avis de la
-commission bancaire.
+Les procédures de sauvegarde, de redressement et de liquidation judiciaires instituées par le titre II du livre VI du code de
+commerce ne peuvent être ouvertes à l'égard d'un établissement de crédit ou d'une entreprise d'investissement qu'après avis
+de la commission bancaire.
 
 Le président du tribunal ne peut être saisi d'une demande d'ouverture du règlement amiable institué par le titre Ier du livre
 VI du code de commerce à l'égard d'un établissement de crédit ou d'une entreprise d'investissement qu'après avis de la
@@ -40033,7 +40033,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 _Cité par_:
 
@@ -40104,9 +40104,10 @@ _Cite_:
 
 ###### Article L613-30
 
-En cas d'ouverture d'une procédure de redressement ou de liquidation judiciaires à l'égard d'un établissement de crédit ou
-d'une entreprise d'investissement, sont dispensés de la déclaration prévue à l'article L. 621-43 du code de commerce, le
-fonds de garantie et les déposants pour leurs créances entrant pour tout ou partie dans le champ d'intervention du fonds.
+En cas d'ouverture d'une procédure de sauvegarde, de redressement ou de liquidation judiciaires à l'égard d'un établissement
+de crédit ou d'une entreprise d'investissement, sont dispensés de la déclaration prévue à l'article L. 621-43 du code de
+commerce, le fonds de garantie et les déposants pour leurs créances entrant pour tout ou partie dans le champ d'intervention
+du fonds.
 
 Le fonds informe les déposants du montant des créances exclues du champ d'intervention et précise les modalités de
 déclaration desdites créances auprès du représentant des créanciers.
@@ -40130,7 +40131,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+  - Loi n°2005-845 du 26 juillet 2005 - art. 165 (V)
 
 _Cite_:
 
