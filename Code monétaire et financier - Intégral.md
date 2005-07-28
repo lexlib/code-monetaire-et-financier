@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-07-28
+Version Consolidée au 2005-07-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -26012,8 +26012,10 @@ _Cité par_:
 
 ###### Article L511-36
 
-Les établissements de crédit sont tenus d'établir leurs comptes, dans les conditions fixées par le comité de la
-réglementation comptable après avis du Comité consultatif de la législation et de la réglementation financière.
+Lorsqu'ils établissent leurs comptes sous une forme consolidée, les établissements de crédit le font selon les règles
+définies par règlement du Comité de la réglementation comptable pris après avis du Comité consultatif de la législation et de
+la réglementation financières. Toutefois, ils sont dispensés de se conformer à ces règles lorsqu'ils utilisent les normes
+comptables internationales adoptées par règlement de la Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -26027,7 +26029,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 2 (V) JORF 29 juillet 2005
 
 _Cité par_:
 
@@ -46864,22 +46866,30 @@ Les articles L. 571-1 à L. 571-9 y sont également applicables. Au dernier alin
 celle rendue par la Commission européenne en application du règlement (CEE) n° 4064/89 du Conseil du 21 décembre 1989 relatif
 au contrôle des opérations de concentration entre entreprises" sont supprimés.
 
+A l'article L. 511-36, les mots : "règlement de la Commission européenne" sont remplacés par les mots : "arrêté du ministre
+chargé de l'économie".
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 104 () JORF 7 mai 2005
+  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 3 (V) JORF 29 juillet 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
 
 _Cite_:
 
   - Code monétaire et financier - art. L511-12 (M)
-  - Code monétaire et financier - art. L511-12-1 (M)
-  - Code monétaire et financier - art. L511-34 (M)
-  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-12-1
+  - Code monétaire et financier - art. L511-12-1
+  - Code monétaire et financier - art. L511-34
+  - Code monétaire et financier - art. L511-36 (M)
+  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-12-1, L511-36
 
 _Anciens textes_:
 
@@ -48548,21 +48558,25 @@ _Cite_:
 Le chapitre Ier du titre Ier du livre V est applicable en Nouvelle-Calédonie, à l'exception des articles L. 511-12, L. 511-21
 à L. 511-28 et L. 511-34. Les articles L. 571-1 à L. 571-9 y sont également applicables.
 
+A l'article L. 511-36, les mots : "règlement de la Commission européenne" sont remplacés par les mots : "arrêté du ministre
+chargé de l'économie".
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 104 () JORF 7 mai 2005
+  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 3 (V) JORF 29 juillet 2005
 
 _Cite_:
 
   - Code monétaire et financier - art. L511-12 (M)
   - Code monétaire et financier - art. L511-34 (M)
-  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9
+  - Code monétaire et financier - art. L511-36 (M)
+  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-36
 
 _Cité par_:
 
@@ -50542,26 +50556,29 @@ _Cite_:
 Le chapitre Ier du titre Ier du livre V est applicable en Polynésie française, à l'exception des articles L. 511-12, L.
 511-21 à L. 511-28 et L. 511-34. Les articles L. 571-1 à L. 571-9 sont également applicables en Polynésie française.
 
+A l'article L. 511-36, les mots : "règlement de la Commission européenne" sont remplacés par les mots : "arrêté du ministre
+chargé de l'économie".
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Code monétaire et financier art. L755-1
-  - Code monétaire et financier - art. L755-1 (T)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 104 () JORF 7 mai 2005
+  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 3 (V) JORF 29 juillet 2005
 
 _Cite_:
 
   - Code monétaire et financier - art. L511-12 (M)
   - Code monétaire et financier - art. L511-34 (M)
-  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9
+  - Code monétaire et financier - art. L511-36 (M)
+  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-36
 
 _Cité par_:
 
@@ -52627,28 +52644,29 @@ Les articles L. 571-1 à L. 571-9 y sont également applicables. Au dernier alin
 celle rendue par la Commission européenne en application du règlement (CEE) n° 4064/89 du Conseil du 21 décembre 1989 relatif
 au contrôle des opérations de concentration entre entreprises" sont supprimés.
 
+A l'article L. 511-36, les mots : "règlement de la Commission européenne" sont remplacés par les mots : "arrêté du ministre
+chargé de l'économie".
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Créé par_:
-
-  - Ordonnance 2005-429 2005-05-06 art. 90 I, II, art. 104 I JORF 7 mai 2005
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 104 () JORF 7 mai 2005
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 90 () JORF 7 mai 2005
 
 _Cite_:
 
   - Code monétaire et financier - art. L511-12 (M)
   - Code monétaire et financier - art. L511-12-1 (M)
   - Code monétaire et financier - art. L511-34 (M)
-  - Code monétaire et financier L511-12, L511-21 à L511-28, L511-34, L571-1 à L571-9, L511-12-1
+  - Code monétaire et financier - art. L511-36 (M)
 
 _Anciens textes_:
 
-  - Code monétaire et financier - art. L765-1 (T)
+  - Code monétaire et financier art. L765-1
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2005-861 du 28 juillet 2005 - art. 3 (V) JORF 29 juillet 2005
 
 
 ##### Sous-section 1 : Les sociétés financières<a id=767></a>
