@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-08-25
+Version Consolidée au 2005-09-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -1050,9 +1050,9 @@ Version Consolidée au 2005-08-25
             - [Sous-section 2 : Organisation. (art. R516-10 à R516-15)](#1047)
             - [Sous-section 3 : Dispositions diverses. (art. R516-16 à R516-20)](#1048)
           - [Section 2 : Les sociétés de développement régional. (art. R*516-22 à R516-21)](#1049)
-        - [Chapitre VII : Compagnies financières et conglomérats financiers. (art. D517-1 à D517-7)](#1050)
-          - [Section 2 : Dispositions générales (art. D517-1 à D517-7)](#1051)
-            - [Sous-section 1 : Compagnies financières. (art. D517-1 à D517-7)](#1052)
+        - [Chapitre VII : Compagnies financières et conglomérats financiers. (art. D517-1 à R517-4)](#1050)
+          - [Section 2 : Dispositions générales (art. D517-1 à R517-4)](#1051)
+            - [Sous-section 1 : Compagnies financières. (art. D517-1 à R517-4)](#1052)
         - [Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque. (art. R518-1 à R518-64)](#1053)
           - [Section 2 : La Caisse des dépôts et consignations. (art. R518-1 à R518-42)](#1054)
             - [Sous-section 2 : Administration de la Caisse des dépôts et consignations. (art. R518-1 à R518-30)](#1055)
@@ -73826,6 +73826,27 @@ _Cité par_:
   - Code monétaire et financier - art. D745-4 (V)
   - Code monétaire et financier - art. D755-4 (V)
   - Code monétaire et financier - art. D765-4 (V)
+
+
+###### Article R517-4
+
+Lorsqu'une demande de récusation présentée en application de l'article L. 823-6 du code de commerce concerne un commissaire
+aux comptes d'une compagnie financière soumise au contrôle de la Commission bancaire, le tribunal statue en la forme des
+référés après consultation du gouverneur de la Banque de France, président de la Commission bancaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Modifié par_:
+
+  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+
+_Cite_:
+
+  - Code de commerce. - art. L823-6 (V)
 
 
 #### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque.<a id=1053></a>
