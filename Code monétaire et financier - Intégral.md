@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-09-28
+Version Consolidée au 2005-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -65683,14 +65683,14 @@ _Cite_:
 ###### Article R221-24
 
 Le taux de l'intérêt servi par la Caisse des dépôts et consignations aux caisses d'épargne et de prévoyance sur les fonds
-provenant du livret A est supérieur de 1,10 % à celui qui est servi aux déposants.
+provenant du livret A est supérieur de 1,00 % à celui qui est servi aux déposants.
 
 La rémunération définie à l'alinéa précédent, versée par la Caisse des dépôts et consignations, est majorée d'un
 intéressement ou diminuée d'une réfaction dont le montant est calculé en fonction des variations d'encours moyens annuels des
 dépôts des livrets A. Cette majoration ou cette réfaction sont fixées par le ministre chargé de l'économie par rapport à un
 taux d'évolution des dépôts qu'il détermine chaque année après consultation de la Caisse nationale des caisses d'épargne et
 de prévoyance, sans que la différence entre le taux de l'intérêt servi par la Caisse des dépôts et consignations et celui qui
-est servi aux déposants puisse excéder 1,15 % ni être inférieure à 1,05 %.
+est servi aux déposants puisse excéder 1,05 % ni être inférieure à 0,95 %.
 
 **Liens relatifs à cet article**
 
@@ -65702,6 +65702,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Modifié par_:
+
+  - Décret n°2005-1335 du 28 octobre 2005 - art. 1 () JORF 29 octobre 2005 en vigueur le 1er novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2008-1264 du 4 décembre 2008 - art. 2
 
 
 ##### Sous-section 3 : Dispositions spécifiques à la Caisse nationale d'épargne.<a id=932></a>
