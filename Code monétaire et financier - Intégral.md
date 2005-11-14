@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-11-01
+Version Consolidée au 2005-11-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -73093,6 +73093,39 @@ _Codifié par_:
 _Cite_:
 
   - Code monétaire et financier - art. L515-14 (M)
+
+
+###### Article R515-6-1
+
+La liste prévue au troisième alinéa de l'article L. 515-15 comprend les personnes publiques suivantes :
+
+1° Les Etats mentionnés au premier alinéa du même article ;
+
+2° Les collectivités territoriales mentionnées audit alinéa, dès lors qu'elles ont plus de 5 000 habitants ;
+
+3° Les groupements de collectivités territoriales mentionnés à ce même alinéa, dès lors qu'ils réunissent plus de 10 000
+habitants ;
+
+4° Les établissements publics ou organismes de droit public assimilés rattachés aux personnes publiques mentionnées aux 1°,
+2° et 3°.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Créé par_:
+
+  - Décret n°2005-1400 du 10 novembre 2005 - art. 1 () JORF 15 novembre 2005
+
+_Abrogé par_:
+
+  - Décret n°2007-745 du 9 mai 2007 - art. 2 () JORF 10 mai 2007
+
+_Cite_:
+
+  - Code monétaire et financier - art. L515-15 (M)
 
 
 ###### Article R515-7
