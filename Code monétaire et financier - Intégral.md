@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2005-12-01
+Version Consolidée au 2005-12-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -32234,6 +32234,34 @@ _Anciens textes_:
   - Loi n°1816-04-28 Finances art. 110 al. 2, art. 111 al. 2, art. 115
 
 
+###### Article L518-2-1
+
+La Caisse des dépôts et consignations peut émettre les titres de créance visés au 2 du I de l'article L. 211-1.
+
+**Nota:**
+
+Loi 2005-842 2005-07-26 art. 28 I : Une anomalie s'est glissée lors de la rédaction de l'article 28 de la loi n° 2005-842 :
+Lire code monétaire et financier et non code de commerce.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Loi n°2005-842 du 26 juillet 2005 - art. 28 () JORF 27 juillet 2005
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 18 () JORF 16 décembre 2005
+
+_Cite_:
+
+  - Code monétaire et financier - art. L211-1 (M)
+
+
 ###### Article L518-3
 
 Les décrets dont la mise en oeuvre exige le concours de la Caisse des dépôts et consignations sont pris sur le rapport ou
@@ -32334,24 +32362,35 @@ gestion du fonds de réserve et de garantie des caisses d'épargne et de prévoy
 les cas de perte prévus par décret en Conseil d'Etat. Il est rendu compte de ces opérations dans un chapitre spécial du
 rapport annuel présenté au Parlement par la commission de surveillance, conformément à l'article L. 518-10.
 
+La commission de surveillance est saisie préalablement, chaque année, du programme d'émission de titres de créance de la
+Caisse des dépôts et consignations. Elle fixe l'encours annuel maximal de ces titres de créance.
+
+**Nota:**
+
+Loi 2005-842 2005-07-26 art. 28 II : Une erreur matérielle s'est glissée lors de la rédaction de l'article 28 de la loi n°
+2005-842 : Lire code monétaire et financier et non code de commerce.
+
 **Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°1862-05-31 art. 849
+  - Décret n°1862-05-31 du 31 mai 1862 - art. 849 (Ab)
+  - Code des caisses d'épargne - art. 53 (M)
 
 _Codifié par_:
 
-  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
+  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L518-10 (V)
+  - Loi n°2005-842 du 26 juillet 2005 - art. 28 () JORF 27 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 18 () JORF 16 décembre 2005
 
 _Cité par_:
 
   - Code monétaire et financier - art. L518-15-2 (V)
-
-_Anciens textes_:
-
-  - Décret n°1862-05-31 du 31 mai 1862 - art. 849 (Ab)
-  - Code des caisses d'épargne - art. 53 (M)
 
 
 ###### Article L518-8
@@ -39720,9 +39759,9 @@ _Cité par_:
 ###### Article L613-3
 
 La commission bancaire comprend le gouverneur de la Banque de France ou son représentant, président, le directeur du Trésor
-ou son représentant le président de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance
-ou son représentant et quatre membres ou leurs suppléants nommés par arrêté du ministre chargé de l'économie pour une durée
-de cinq ans dont le mandat est renouvelable une fois :
+ou son représentant le président de l'Autorité de contrôle des assurances et des mutuelles ou son représentant et quatre
+membres ou leurs suppléants nommés par arrêté du ministre chargé de l'économie pour une durée de cinq ans dont le mandat est
+renouvelable une fois :
 
 1. Un conseiller d'Etat proposé par le vice-président du Conseil d'Etat ;
 
@@ -39730,8 +39769,8 @@ de cinq ans dont le mandat est renouvelable une fois :
 
 3. Deux membres choisis en raison de leur compétence en matière bancaire et financière.
 
-La Commission bancaire et la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance se
-réunissent conjointement au moins deux fois par an et en tant que de besoin sur des sujets d'intérêt commun.
+La Commission bancaire et l'Autorité de contrôle des assurances et des mutuelles se réunissent conjointement au moins deux
+fois par an et en tant que de besoin sur des sujets d'intérêt commun.
 
 **Liens relatifs à cet article**
 
@@ -39746,7 +39785,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 34 () JORF 2 août 2003
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
 
 
 ##### Section 3 : Règles de fonctionnement.<a id=412></a>
@@ -42415,10 +42458,21 @@ diffusent des analyses financières :
 personnes qui produisent et diffusent des analyses financières, à titre de profession habituelle, et les dispositions propres
 à assurer leur indépendance d'appréciation et la prévention des conflits d'intérêts.
 
+IX. - Les règles relatives aux recommandations d'investissement destinées au public et portant sur tout émetteur dont les
+instruments financiers sont admis aux négociations sur un marché réglementé ou sur un instrument financier qu'il émet,
+lorsqu'elles sont produites ou diffusées par toute personne dans le cadre de ses activités professionnelles.
+
+Un décret en Conseil d'Etat précise les cas dans lesquels une information financière donnée au public constitue la production
+ou la diffusion d'une recommandation d'investissement telle que mentionnée à l'alinéa précédent.
+
+X. - Les modalités d'exécution, par dépôt ou par diffusion par voie de presse écrite et par voie électronique ou par la mise
+à disposition gratuite d'imprimés, des obligations de publicité et d'information édictées par le présent code au titre de la
+transparence des marchés financiers et dans le cadre des opérations par appel public à l'épargne.
+
 **Nota:**
 
-NOTA : Loi 2005-811 2005-07-20 art. 5 III : Les dispositions du I sont applicables à la date d'entrée en vigueur de
-l'ordonnance mentionnée au II de l'article 5 de la loi n° 2005-811.
+NOTA : Loi 2007-212 2007-02-20 art. 9 III : Les dispositions du I sont applicables à la date d'entrée en vigueur de
+l'ordonnance mentionnée au II de l'article 9 de la loi n° 2007-212.
 
 **Liens relatifs à cet article**
 
@@ -42459,9 +42513,15 @@ _Cité par_:
   - Code monétaire et financier - art. R621-30-3 (VT)
   - Code monétaire et financier - art. R621-30-4 (VT)
 
+**Liens**:
+
+  - SPEC_APPLI: Date de fin de vigueur indéterminée
+
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 5 (V) JORF 21 juillet 2005
+  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
+  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cite_:
 
@@ -42477,10 +42537,6 @@ _Cite_:
   - Code monétaire et financier - art. L542-1 (M)
   - Code monétaire et financier - art. L544-1 (M)
   - Code monétaire et financier - art. L621-9 (M)
-
-**Liens**:
-
-  - SPEC_APPLI: Date de fin de vigueur indeterminée
 
 
 ###### Article L621-7-1
@@ -43216,8 +43272,8 @@ _Modifié par_:
 ###### Article L621-15
 
 I. - Le collège examine le rapport d'enquête ou de contrôle établi par les services de l'Autorité des marchés financiers, ou
-la demande formulée par le gouverneur de la Banque de France, président de la Commission bancaire, ou par le président de la
-Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+la demande formulée par le gouverneur de la Banque de France, président de la Commission bancaire, ou par le président de
+l'Autorité de contrôle des assurances et des mutuelles.
 
 S'il décide l'ouverture d'une procédure de sanction, il notifie les griefs aux personnes concernées. Il transmet la
 notification des griefs à la commission des sanctions, qui désigne un rapporteur parmi ses membres. La commission des
@@ -43370,7 +43426,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-842 du 26 juillet 2005 - art. 30 () JORF 27 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+  - Ordonnance n°2006-344 du 23 mars 2006 - art. 10 () JORF 24 mars 2006
 
 _Anciens textes_:
 
@@ -43571,12 +43628,6 @@ présentée, effectuée pour compte propre ou pour compte de tiers, dont ils ont
 constituer une opération d'initié ou une manipulation de cours au sens des dispositions du règlement général de l'Autorité
 des marchés financiers.
 
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -43600,9 +43651,9 @@ _Cité par_:
   - Code monétaire et financier - art. L621-17-6 (V)
   - Code monétaire et financier - art. L621-17-7 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cite_:
 
@@ -43615,21 +43666,15 @@ Lorsque l'Autorité des marchés financiers transmet, conformément aux articles
 informations au procureur de la République près le tribunal de grande instance de Paris, la déclaration prévue à l'article L.
 621-17-2, dont le procureur de la République est avisé, ne figure pas au dossier de la procédure.
 
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -43638,42 +43683,36 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L621-15-1 (M)
-  - Code monétaire et financier - art. L621-17-2 (M)
-  - Code monétaire et financier - art. L621-20-1 (M)
+  - Code monétaire et financier - art. L621-15-1 (V)
+  - Code monétaire et financier - art. L621-17-2 (V)
+  - Code monétaire et financier - art. L621-20-1 (V)
 
 
 ###### Article L621-17-4
 
 Le règlement général de l'Autorité des marchés financiers précise les conditions dans lesquelles est faite la déclaration
-prévue à l'article L. 621-17-2.
+prévue à l'article L. 621-17-2. 
 
 La déclaration peut être écrite ou verbale. Dans ce dernier cas, l'Autorité des marchés financiers en demande une
-confirmation par écrit.
+confirmation par écrit. 
 
-La déclaration doit contenir :
+La déclaration doit contenir : 
 
-1° Une description des opérations, en particulier du type d'ordre et du mode de négociation utilisés ;
+1° Une description des opérations, en particulier du type d'ordre et du mode de négociation utilisés ; 
 
 2° Les raisons conduisant à soupçonner que les opérations déclarées constituent une opération d'initié ou une manipulation de
-cours ;
+cours ; 
 
 3° Les moyens d'identification des personnes pour le compte de qui les opérations ont été réalisées et de toute autre
-personne impliquée dans ces opérations ;
+personne impliquée dans ces opérations ; 
 
-4° L'indication que les opérations ont été effectuées pour compte propre ou pour compte de tiers ;
+4° L'indication que les opérations ont été effectuées pour compte propre ou pour compte de tiers ; 
 
-5° Toute autre information pertinente concernant les opérations déclarées.
+5° Toute autre information pertinente concernant les opérations déclarées. 
 
 Lorsque certains de ces éléments ne sont pas disponibles au moment de la déclaration, celle-ci doit au moins indiquer les
 raisons mentionnées au 2°. Les informations complémentaires sont communiquées à l'Autorité des marchés financiers dès
 qu'elles deviennent disponibles.
-
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -43681,13 +43720,17 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Loi n°2016-819 du 21 juin 2016 - art. 8
 
 _Cite_:
 
-  - Code monétaire et financier - art. L621-17-2 (M)
+  - Code monétaire et financier - art. L621-17-2
 
 
 ###### Article L621-17-5
@@ -43697,26 +43740,20 @@ mentionnées à l'article L. 621-17-2 du présent code, de porter à la connaiss
 personnes ou des parties liées aux personnes pour le compte desquelles les opérations déclarées ont été effectuées,
 l'existence de la déclaration mentionnée au même article ou de donner des informations sur les suites réservées à celle-ci.
 
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code monétaire et financier - art. L621-17-2 (M)
+  - Code pénal - art. 226-13 (V)
+  - Code monétaire et financier - art. L621-17-2 (V)
 
 _Cité par_:
 
@@ -43743,21 +43780,15 @@ Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace éc
 financiers transmet sans délai la déclaration à cette autorité, ainsi que les éventuels compléments d'information fournis par
 le déclarant à la demande de cette dernière, dans les conditions prévues à l'article L. 621-21.
 
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -43781,27 +43812,21 @@ _Cite_:
 
 Concernant les opérations ayant fait l'objet de la déclaration mentionnée à l'article L. 621-17-2, aucune poursuite fondée
 sur l'article 226-13 du code pénal ne peut être intentée contre les dirigeants et les préposés des personnes mentionnées à
-l'article L. 621-17-2 qui, de bonne foi, ont effectué cette déclaration.
+l'article L. 621-17-2 qui, de bonne foi, ont effectué cette déclaration. 
 
 Aucune action en responsabilité civile ne peut être intentée contre une personne mentionnée à l'article L. 621-17-2, ses
-dirigeants ou ses préposés qui ont effectué de bonne foi cette déclaration.
+dirigeants ou ses préposés qui ont effectué de bonne foi cette déclaration. 
 
 Sauf concertation frauduleuse avec l'auteur de l'opération ayant fait l'objet de la déclaration, le déclarant est dégagé de
 toute responsabilité : aucune poursuite pénale ne peut être engagée contre ses dirigeants ou ses préposés par application de
 l'article L. 465-1 et du premier alinéa de l'article L. 465-2 du présent code et des articles 321-1 à 321-3 du code pénal, et
 aucune procédure de sanction administrative ne peut être engagée à leur encontre pour des faits liés à une opération d'initié
-ou à une manipulation de cours.
+ou à une manipulation de cours. 
 
 Les dispositions du présent article s'appliquent même si la preuve du caractère fautif ou délictueux des faits à l'origine de
 la déclaration n'est pas rapportée ou si ces faits font l'objet d'une décision de non-lieu ou de relaxe et n'ont donné lieu à
 aucune sanction de la part de l'Autorité des marchés financiers ou de l'autorité compétente mentionnée au troisième alinéa de
 l'article L. 621-17-6.
-
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -43809,43 +43834,39 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cite_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code pénal 226-13, 321-1 à 321-3
-  - Code monétaire et financier - art. L465-1 (M)
-  - Code monétaire et financier - art. L465-2 (M)
-  - Code monétaire et financier - art. L621-17-2 (M)
-  - Code monétaire et financier - art. L621-17-6 (M)
+  - Code pénal - art. 321-1 (V)
+  - Code monétaire et financier - art. L465-1 (V)
+  - Code monétaire et financier - art. L465-2 (V)
+  - Code monétaire et financier - art. L621-17-2 (V)
+  - Code monétaire et financier - art. L621-17-6 (V)
 
 
 ##### Sous-section 7 : Autres compétences<a id=436></a>
 
 ###### Article L621-18
 
-L'Autorité s'assure que les publications prévues par les dispositions législatives ou réglementaires sont régulièrement
-effectuées par les sociétés dont les actions sont admises aux négociations sur un marché réglementé.
+L'Autorité des marchés financiers s'assure que les publications prévues par les dispositions législatives ou réglementaires
+sont régulièrement effectuées par les émetteurs mentionnés à l'article L. 451-1-2. 
 
-Elle vérifie les informations que ces sociétés fournissent aux actionnaires ou publient.
+Elle vérifie les informations que ces émetteurs publient. A cette fin, elle peut exiger des émetteurs, des personnes qui les
+contrôlent ou sont contrôlées par eux et de leurs commissaires aux comptes ou contrôleurs légaux ou statutaires qu'ils
+fournissent tous documents et informations utiles. 
 
-Elle peut ordonner à ces sociétés de procéder à des publications rectificatives dans le cas où des inexactitudes ou des
-omissions auraient été relevées dans les documents publiés. Faute pour les sociétés intéressées de déférer à cette
-injonction, l'Autorité des marchés financiers peut procéder elle-même à ces publications rectificatives.
+Elle peut ordonner à ces émetteurs de procéder à des publications rectificatives ou complémentaires dans le cas où des
+inexactitudes ou des omissions auraient été relevées dans les documents publiés. Faute pour les émetteurs concernés de
+déférer à cette injonction, l'Autorité des marchés financiers peut, après avoir entendu l'émetteur, procéder elle-même à ces
+publications rectificatives ou complémentaires. 
 
-L'Autorité peut porter à la connaissance du public les observations qu'elle a été amenée à faire à une société ou les
-informations qu'elle estime nécessaires.
+L'Autorité des marchés financiers peut porter à la connaissance du public les observations qu'elle a été amenée à faire à un
+émetteur ou les informations qu'elle estime nécessaires. 
 
-Les frais occasionnés par les publications mentionnées aux deux alinéas précédents sont à la charge des sociétés intéressées.
-
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5 et sous-section 7 au lieu de sous-section 6. Cette erreur a été corrigée par
-l'article 17 de la loi n° 2005-1564 du 16 décembre 2005.
+Les frais occasionnés par les publications mentionnées aux deux alinéas précédents sont à la charge des émetteurs concernés.
 
 **Liens relatifs à cet article**
 
@@ -43866,7 +43887,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005 en vigueur le 20 janvier 2007
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
+
+_Cite_:
+
+  - Code monétaire et financier - art. L451-1-2 (V)
 
 
 ###### Article L621-18-1
@@ -43874,12 +43900,6 @@ _Modifié par_:
 A la demande d'un ou plusieurs prestataires de services d'investissement ou d'une association professionnelle de prestataires
 de services d'investissement, l'Autorité des marchés financiers peut, après avis de la Banque de France, certifier des
 contrats types d'opérations sur instruments financiers.
-
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -43897,7 +43917,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Anciens textes_:
 
@@ -43926,12 +43946,6 @@ marchés financiers prévue au premier alinéa, une copie de cette communication
 financiers définit les modalités de la communication à celle-ci ainsi que les conditions dans lesquelles l'assemblée générale
 des actionnaires est informée des opérations mentionnées au présent article.
 
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -43953,8 +43967,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
-  - Loi n°2005-811 du 20 juillet 2005 - art. 3 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 
 ###### Article L621-18-3
@@ -43962,12 +43975,6 @@ _Modifié par_:
 Les personnes morales faisant appel public à l'épargne rendent publiques les informations relevant des matières mentionnées
 au dernier alinéa des articles L. 225-37 et L. 225-68 du code de commerce dans des conditions fixées par le règlement général
 de l'Autorité des marchés financiers. Celle-ci établit chaque année un rapport sur la base de ces informations.
-
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -43983,7 +43990,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cite_:
 
@@ -44005,12 +44012,6 @@ financiers une liste des personnes travaillant en leur sein et ayant accès aux 
 directement ou indirectement l'émetteur, ainsi que des tiers ayant accès aux mêmes informations dans le cadre de leurs
 relations professionnelles avec eux.
 
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -44022,9 +44023,9 @@ _Cité par_:
   - Arrêté du 12 novembre 2004 - art. 223-27 (Ab)
   - Arrêté du 12 novembre 2004 - art. 231-50 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 4 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 
 ###### Article L621-19
@@ -44043,12 +44044,6 @@ République française.
 Le président de l'Autorité des marchés financiers est entendu, sur leur demande, par les commissions des finances des deux
 assemblées et peut demander à être entendu par elles.
 
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -44066,7 +44061,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 
 ###### Article L621-20
@@ -44074,12 +44069,6 @@ _Modifié par_:
 Pour l'application des dispositions entrant dans le champ de compétence de l'Autorité des marchés financiers, les
 juridictions civiles, pénales ou administratives peuvent appeler le président de celle-ci ou son représentant à déposer des
 conclusions et à les développer oralement à l'audience sans préjudice des dispositions de l'article L. 466-1.
-
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -44098,11 +44087,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cite_:
 
-  - Code monétaire et financier - art. L466-1 (M)
+  - Code monétaire et financier - art. L466-1 (V)
 
 
 ###### Article L621-20-1
@@ -44114,12 +44103,6 @@ renseignements, procès-verbaux et actes qui y sont relatifs.
 Sous réserve des dispositions du quatrième alinéa de l'article L. 621-21, le procureur de la République peut obtenir de
 l'Autorité des marchés financiers la communication de tous les renseignements détenus par celle-ci dans le cadre de
 l'exercice de ses missions, sans que puisse lui être opposée l'obligation au secret.
-
-**Nota:**
-
-NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5. Cette erreur a été corrigée par l'article 17 de la loi n° 2005-1564 du 16
-décembre 2005.
 
 **Liens relatifs à cet article**
 
@@ -44135,11 +44118,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
 
 _Cite_:
 
-  - Code monétaire et financier - art. L621-21 (M)
   - Code monétaire et financier - art. L621-21 (V)
 
 
@@ -44155,7 +44137,11 @@ l'Autorité des marchés financiers, par dérogation aux dispositions de la loi 
 communication de documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des
 personnes physiques ou morales étrangères des informations qu'elle détient ou qu'elle recueille à leur demande aux autorités
 des autres Etats membres de la communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen
-exerçant des compétences analogues et astreintes aux mêmes obligations de secret professionnel.
+exerçant des compétences analogues et astreintes aux mêmes obligations de secret professionnel. L'Autorité des marchés
+financiers et ses agents peuvent également échanger des informations confidentielles relatives aux obligations mentionnées
+aux articles L. 412-1, L. 451-1-2 et L. 451-1-3 avec les entités auxquelles ces autorités ont délégué le contrôle de ces
+obligations, dès lors que ces entités sont astreintes aux mêmes obligations de secret professionnel. A cette fin, l'Autorité
+des marchés financiers peut signer des conventions organisant ses relations avec ces entités déléguées.
 
 L'Autorité des marchés financiers peut également communiquer, par dérogation aux dispositions de la loi n° 68-678 du 26
 juillet 1968 relative à la communication de documents et renseignements d'ordre économique, commercial, industriel, financier
@@ -44180,8 +44166,7 @@ conditions prévues à l'article L. 621-3. Elles sont publiées au Journal offic
 **Nota:**
 
 NOTA : Une erreur matérielle s'est glissée lors de la rédaction de l'article 1er de la loi n° 2005-811 du 20 juillet 2005 :
-Lire sous-section 6 au lieu de sous-section 5 et sous-section 7 au lieu de sous-section 6. Cette erreur a été corrigée par
-l'article 17 de la loi n° 2005-1564 du 16 décembre 2005.
+Lire sous-section 6 au lieu de sous-section 5 et sous-section 7 au lieu de sous-section 6.
 
 **Liens relatifs à cet article**
 
@@ -44192,6 +44177,10 @@ _Anciens textes_:
 _Cite_:
 
   - Loi n°68-678 1968-07-26
+  - Loi n°2005-811 du 20 juillet 2005 - art. 1, v. init.
+  - Code monétaire et financier - art. L412-1 (M)
+  - Code monétaire et financier - art. L451-1-2 (V)
+  - Code monétaire et financier - art. L451-1-3 (V)
   - Code monétaire et financier - art. L621-3 (M)
   - Code monétaire et financier - art. L621-4 (M)
 
@@ -44218,7 +44207,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-811 du 20 juillet 2005 - art. 1 () JORF 21 juillet 2005
+  - Loi n°2005-842 du 26 juillet 2005 - art. 32 (V) JORF 27 juillet 2005
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
+
+_Abrogé par_:
+
+  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
 
 
 ##### Section 5 : Relations avec les commissaires aux comptes<a id=437></a>
@@ -44638,10 +44632,10 @@ _Créé par_:
 Les échanges d'informations entre autorités de surveillance sont régis par les dispositions ci-après :
 
 Sont autorisés à se communiquer les renseignements nécessaires à l'accomplissement de leurs missions respectives la Banque de
-France, le comité des établissements de crédit et des entreprises d'investissement, la commission bancaire, la Commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance, le Comité des entreprises d'assurance, l'Autorité
-des marchés financiers, le fonds de garantie des dépôts institué par l'article L. 312-4, le fonds de garantie institué par
-l'article L. 423-1 du code des assurances, les entreprises de marché et les chambres de compensation.
+France, le comité des établissements de crédit et des entreprises d'investissement, la commission bancaire, l'Autorité de
+contrôle des assurances et des mutuelles, le Comité des entreprises d'assurance, l'Autorité des marchés financiers, le fonds
+de garantie des dépôts institué par l'article L. 312-4, le fonds de garantie institué par l'article L. 423-1 du code des
+assurances, les entreprises de marché et les chambres de compensation.
 
 Les renseignements ainsi recueillis sont couverts par le secret professionnel en vigueur dans les conditions applicables à
 l'organisme qui les a communiqués et à l'organisme destinataire.
@@ -44692,7 +44686,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -44705,18 +44699,18 @@ _Cite_:
 ###### Article L631-2
 
 Il est institué un collège des autorités de contrôle des entreprises du secteur financier. Ce collège est composé du
-gouverneur de la Banque de France, président de la commission bancaire, du président de la commission de contrôle des
-assurances, des mutuelles et des institutions de prévoyance, du président de l'Autorité des marchés financiers ou de leurs
-représentants. Il est présidé par le ministre chargé de l'économie ou son représentant.
+gouverneur de la Banque de France, président de la commission bancaire, du président de l'autorité de contrôle des assurances
+et des mutuelles, du président de l'Autorité des marchés financiers ou de leurs représentants. Il est présidé par le ministre
+chargé de l'économie ou son représentant.
 
 Le collège des autorités de contrôle a pour mission de faciliter les échanges d'information entre les autorités de contrôle
 des groupes financiers ayant à la fois des activités de crédit, d'investissement ou d'assurance ainsi que d'évoquer toute
 question d'intérêt commun relative à la coordination du contrôle desdits groupes.
 
 Le collège se réunit au minimum trois fois par an. Il peut également être consulté pour avis par le ministre chargé de
-l'économie, le gouverneur de la Banque de France, président de la commission bancaire, le président de la commission de
-contrôle des assurances, des mutuelles et des institutions de prévoyance et le président de l'Autorité des marchés financiers
-sur toute question relevant de sa compétence.
+l'économie, le gouverneur de la Banque de France, président de la commission bancaire, le président de l'autorité de contrôle
+des assurances et des mutuelles et le président de l'Autorité des marchés financiers sur toute question relevant de sa
+compétence.
 
 **Nota:**
 
@@ -44751,7 +44745,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 
 #### Chapitre II : Echanges d'informations avec l'étranger<a id=444></a>
@@ -44814,11 +44808,11 @@ _Modifié par_:
 
 ###### Article L633-1
 
-La commission bancaire, la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, l'Autorité
-des marchés financiers, en liaison, le cas échéant, avec les autorités de surveillance des entités réglementées des Etats
-membres ou autres Etats parties à l'accord sur l'Espace économique européen, identifient les groupes entrant dans le champ de
-la surveillance complémentaire des conglomérats financiers et échangent à cet effet toute information utile à
-l'accomplissement de leurs missions respectives.
+La commission bancaire, l'Autorité de contrôle des assurances et des mutuelles, l'Autorité des marchés financiers, en
+liaison, le cas échéant, avec les autorités de surveillance des entités réglementées des Etats membres ou autres Etats
+parties à l'accord sur l'Espace économique européen, identifient les groupes entrant dans le champ de la surveillance
+complémentaire des conglomérats financiers et échangent à cet effet toute information utile à l'accomplissement de leurs
+missions respectives.
 
 Lorsque un groupe a été identifié comme un conglomérat financier et que la commission bancaire est désignée, conformément aux
 dispositions de l'article L. 633-2, comme le coordonnateur de la surveillance complémentaire, elle en informe l'entité tête
@@ -44838,9 +44832,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1201 du 12 novembre 2004 - art. 12 () JORF 16 novembre 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -50243,9 +50237,8 @@ _Cite_:
 ###### Article L746-5
 
 Le titre II du livre VI est applicable en Nouvelle-Calédonie sous réserve de supprimer, au premier alinéa de l'article L.
-621-15, les mots : ", ou par le président de la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance" ainsi que le deuxième alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont également
-applicables.
+621-15, les mots : ", ou par le président de l'autorité de contrôle des assurances et des mutuelles" ainsi que le deuxième
+alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont également applicables.
 
 **Liens relatifs à cet article**
 
@@ -50260,7 +50253,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -52239,9 +52232,8 @@ _Cite_:
 ###### Article L756-5
 
 Le titre II du livre VI est applicable en Polynésie française sous réserve de supprimer, au premier alinéa de l'article L.
-621-15, les mots : ", ou par le président de la commission de contrôle des assurances, des mutuelles et des institutions de
-prévoyance" ainsi que le deuxième alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont également
-applicables.
+621-15, les mots : ", ou par le président de l'autorité de contrôle des assurances et des mutuelles" ainsi que le deuxième
+alinéa de l'article L. 621-21. Les articles L. 642-1 à L. 642-3 y sont également applicables.
 
 **Liens relatifs à cet article**
 
@@ -52256,7 +52248,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2004-823 du 19 août 2004 - art. 1 (V) JORF 21 août 2004
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -78593,8 +78585,7 @@ l) Deux représentants des professions mentionnées au 9 de l'article L. 562-1 ;
 
 a) Le secrétaire général de la Commission bancaire ou son représentant ;
 
-b) Le secrétaire général de la commission de contrôle des assurances, des mutuelles et des institutions de prévoyance ou son
-représentant ;
+b) Le secrétaire général de l'autorité de contrôle des assurances et des mutuelles ou son représentant ;
 
 c) Le directeur général de l'Autorité des marchés financiers ou son représentant ;
 
@@ -78621,6 +78612,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cite_:
 
@@ -80194,8 +80189,7 @@ l'économie ou son représentant. Le comité comprend quatorze autres membres :
 
 4° Le gouverneur de la Banque de France, président de la Commission bancaire, ou son représentant ;
 
-5° Le président de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance, ou son
-représentant ;
+5° Le président de l'Autorité de contrôle des assurances et des mutuelles, ou son représentant ;
 
 6° Le directeur des affaires civiles et du sceau au ministère de la justice, ou son représentant ;
 
@@ -80251,6 +80245,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
@@ -81766,7 +81764,7 @@ _Cité par_:
 Lorsque le collège décide de l'ouverture d'une procédure de sanction, la notification des griefs est adressée, par lettre
 recommandée avec demande d'avis de réception, remise en main propre contre récépissé ou acte d'huissier, à la personne mise
 en cause, accompagnée du rapport d'enquête ou de contrôle ou de la demande formulée par le président de la Commission
-bancaire ou par le président de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
+bancaire ou par le président de l'Autorité de contrôle des assurances et des mutuelles.
 
 La notification des griefs est transmise au président de la commission des sanctions.
 
@@ -81786,6 +81784,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Modifié par_:
+
+  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 _Cité par_:
 
