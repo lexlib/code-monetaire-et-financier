@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-05-18
+Version Consolidée au 2006-05-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -1731,10 +1731,6 @@ Les livraisons de céréales par les producteurs aux coopératives sont réglée
 crédit. Les coopératives autorisent ces établissements à communiquer à l'inspection générale des finances et aux agents de
 l'Office national interprofessionnel des grandes cultures les pièces justificatives de leurs comptes.
 
-Les dispositions concernant les règlements des ventes de blé par les organismes stockeurs à la meunerie sont étendues aux
-ventes de céréales secondaires et issues au négoce, coopératives ou syndicats agricoles d'approvisionnement et industries
-utilisatrices.
-
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -1748,11 +1744,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-11 du 5 janvier 2006 - art. 95 (V) JORF 6 janvier 2006
+  - Ordonnance n°2006-594 du 23 mai 2006 - art. 3 (V) JORF 25 mai 2006
 
 _Cité par_:
 
   - Ordonnance n°2006-594 du 23 mai 2006 - art. 3 (V)
+
+**Liens**:
+
+  - TRANSFERE: Ordonnance n°2009-104 du 30 janvier 2009 - art. 1
 
 _Nouveaux textes_:
 
