@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-06-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -987,12 +987,12 @@ Version Consolidée au 2006-05-25
             - [Sous-section 2 : Taux d'intérêt (art. R313-1 à D313-2)](#984)
               - [Paragraphe 2 : Taux effectif global. (art. R313-1)](#985)
               - [Paragraphe 3 : Taux de l'usure. (art. D313-2)](#986)
-          - [Section 2 : Catégories de crédits et opérations assimilées. (art. R313-3 à D313-14-1)](#987)
+          - [Section 2 : Catégories de crédits et opérations assimilées. (art. R313-3 à R313-14-1)](#987)
             - [Sous-section 1 : Crédit-bail. (art. R313-3 à R313-14)](#988)
               - [Paragraphe 1 : Publicité des opérations de crédit-bail en matière mobilière. (art. R313-4 à R313-11)](#989)
               - [Paragraphe 2 : Publicité des opérations de crédit-bail en matière immobilière. (art. R313-12 à R313-13)](#990)
               - [Paragraphe 3 : Publicité comptable des opérations de crédit-bail. (art. R313-14)](#991)
-            - [Sous-section 2 : Crédits aux entreprises. (art. D313-14-1)](#992)
+            - [Sous-section 2 : Crédits aux entreprises. (art. D313-14-1 à R313-14-1)](#992)
           - [Section 3 : Procédures de mobilisation des créances professionnelles. (art. R313-15 à R313-25)](#993)
             - [Sous-section 1 : Cession et nantissement des créances professionnelles. (art. R313-15 à R313-18)](#994)
             - [Sous-section 2 : Mobilisation des crédits par le cessionnaire ou le nanti. (art. R313-19 à R313-25)](#995)
@@ -71964,6 +71964,30 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. L313-12 (V)
+
+
+###### Article R313-14-1
+
+Les établissements publics mentionnés à l'article L. 313-13 sont les établissements publics de l'Etat à caractère industriel
+et commercial dont l'objet les autorise à participer au financement de l'activité économique.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°72-665 du 4 juillet 1972 - art. 12 (M)
+
+_Codifié par_:
+
+  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Créé par_:
+
+  - Décret n°2006-697 du 14 juin 2006 - art. 1 () JORF 16 juin 2006
+
+_Cite_:
+
+  - Code monétaire et financier - art. L313-13 (V)
 
 
 ##### Section 3 : Procédures de mobilisation des créances professionnelles.<a id=993></a>
