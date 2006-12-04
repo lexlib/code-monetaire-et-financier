@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-11-22
+Version Consolidée au 2006-12-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -1169,13 +1169,13 @@ Version Consolidée au 2006-11-22
           - [Section 3 : Dispositions relatives à l'euro à Mayotte et à Saint-Pierre-et-Miquelon (art. D711-15 à R711-19)](#1166)
         - [Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et à Wallis et Futuna (art. D712-1 à R712-19)](#1167)
           - [Section 1 : Les signes monétaires (art. D712-1)](#1168)
-          - [Section 2 : L'Institut d'émission d'outre-mer (art. D712-2 à R712-17)](#1169)
-            - [Sous-section 1 : Dispositions générales (art. D712-2 à D712-4)](#1170)
-            - [Sous-section 2 : Opérations (art. D712-5 à R712-10)](#1171)
-              - [Paragraphe 1 : Emission (art. D712-5 à D712-6)](#1172)
-              - [Paragraphe 2 : Autres opérations (art. D712-7 à R712-10)](#1173)
-            - [Sous-section 3 : Administration et tutelle (art. D712-11 à D712-14)](#1174)
-            - [Sous-section 4 : Comptabilité et contrôle (art. D712-15 à D712-16)](#1175)
+          - [Section 2 : L'Institut d'émission d'outre-mer (art. R712-2 à R712-17)](#1169)
+            - [Sous-section 1 : Dispositions générales (art. R712-2 à R712-4)](#1170)
+            - [Sous-section 2 : Opérations (art. R712-5 à R712-10)](#1171)
+              - [Paragraphe 1 : Emission (art. R712-5 à R712-6)](#1172)
+              - [Paragraphe 2 : Autres opérations (art. R712-7 à R712-10)](#1173)
+            - [Sous-section 3 : Administration et tutelle (art. R712-11 à R712-14)](#1174)
+            - [Sous-section 4 : Comptabilité et contrôle (art. R712-15 à R712-16)](#1175)
             - [Sous-section 5 : Autres missions (art. R712-17)](#1176)
           - [Section 3 : Les instruments de la monnaie scripturale (art. R712-18 à R712-19)](#1177)
       - [Titre II : Dispositions spécifiques à Saint-Pierre-et-Miquelon (art. R721-1 à R725-1)](#1178)
@@ -83119,7 +83119,8 @@ Le contrôle de l'inspection générale des finances sur La Poste prévu à l'ar
 l'inspection générale des postes et télécommunications.
 
 Les changeurs manuels résidant dans les départements d'outre-mer adressent leur déclaration d'activité à l'Institut
-d'émission des départements d'outre-mer.
+d'émission des départements d'outre-mer ; ceux qui résident en Nouvelle-Calédonie, en Polynésie française et dans les îles
+Wallis et Futuna adressent leur déclaration d'activité à l'Institut d'émission d'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -83129,7 +83130,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2006-736 du 26 juin 2006 - art. 3 () JORF 27 juin 2006
+  - Décret n°2006-1504 du 4 décembre 2006 - art. 2 () JORF 5 décembre 2006
+
+_Transféré par_:
+
+  - Décret n°2007-545 du 11 avril 2007 - art. 1 () JORF 13 avril 2007
 
 _Cite_:
 
@@ -87293,7 +87298,7 @@ _Anciens textes_:
 
 ##### Sous-section 1 : Dispositions générales<a id=1170></a>
 
-###### Article D712-2
+###### Article R712-2
 
 L'Institut d'émission d'outre-mer est un établissement public national doté de la personnalité civile et de l'autonomie
 financière.
@@ -87303,24 +87308,20 @@ exécutées et comptabilisées conformément aux règles et usages commerciaux e
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 1 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-2 (V)
+  - Code monétaire et financier - art. D712-2 (T)
 
 
-###### Article D712-3
+###### Article R712-3
 
 Le siège de l'institut peut être transféré par décision du conseil de surveillance.
 
@@ -87328,24 +87329,20 @@ L'institut ne peut ouvrir d'agences que dans sa zone d'émission.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 2 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-3 (V)
+  - Code monétaire et financier - art. D712-3 (T)
 
 
-###### Article D712-4
+###### Article R712-4
 
 L'Institut d'émission d'outre-mer dispose d'une dotation en capital qui est fixée par arrêté conjoint du ministre chargé de
 l'économie et du ministre chargé de l'outre-mer.
@@ -87354,56 +87351,48 @@ L'incorporation de réserves à la dotation en capital doit être approuvée par
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 3 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-4 (V)
+  - Code monétaire et financier - art. D712-4 (T)
 
 
 ##### Sous-section 2 : Opérations<a id=1171></a>
 
 ##### Paragraphe 1 : Emission<a id=1172></a>
 
-###### Article D712-5
+###### Article R712-5
 
 L'institut d'émission a le privilège exclusif d'émettre des billets de banque et les monnaies métalliques en Nouvelle-
 Calédonie, en Polynésie française et dans les îles Wallis et Futuna. Ces billets et monnaies métalliques ont cours légal.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 4 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
+_Anciens textes_:
+
+  - Code monétaire et financier - art. D712-5 (T)
+
 _Cité par_:
 
-  - Code monétaire et financier - art. D712-7 (T)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R712-5 (V)
+  - Code monétaire et financier - art. R712-7 (V)
 
 
-###### Article D712-6
+###### Article R712-6
 
 Les décisions concernant la création des billets et des monnaies métalliques de l'institut, leurs caractéristiques, leur
 retrait ou leur annulation sont de la compétence du conseil de surveillance.
@@ -87412,53 +87401,45 @@ La contre-valeur des billets et pièces métalliques adirés est versée au Tré
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 5 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-6 (V)
+  - Code monétaire et financier - art. D712-6 (T)
 
 
 ##### Paragraphe 2 : Autres opérations<a id=1173></a>
 
-###### Article D712-7
+###### Article R712-7
 
-L'institut exécute les transferts de fonds entre la métropole et les territoires énumérés à l'article D. 712-5.
+L'institut exécute les transferts de fonds entre la métropole et les territoires énumérés à l'article R. 712-5.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 6 de l'annexe
 
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
+_Anciens textes_:
+
+  - Code monétaire et financier - art. D712-7 (T)
+
 _Cite_:
 
-  - Code monétaire et financier - art. D712-5 (T)
-
-_Nouveaux textes_:
-
-  - Code monétaire et financier - art. R712-7 (V)
+  - Code monétaire et financier - art. R712-5 (V)
 
 
-###### Article D712-8
+###### Article R712-8
 
 L'institut peut escompter ou prendre en pension aux établissements de crédit des effets représentatifs de crédits à court
 terme ou de crédits à moyen terme d'une durée maximale de sept ans. L'échéance des effets dont l'escompte ou la prise en
@@ -87469,47 +87450,37 @@ des sûretés appropriées.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 7 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-8 (M)
-  - Code monétaire et financier - art. R712-8 (V)
+  - Code monétaire et financier - art. D712-8 (T)
 
 
-###### Article D712-9
+###### Article R712-9
 
 L'institut ouvre des comptes courants au Trésor et aux établissements de crédit. Les comptes ouverts aux établissements de
 crédit ne peuvent être débiteurs.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 8 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-9 (M)
-  - Code monétaire et financier - art. R712-9 (V)
+  - Code monétaire et financier - art. D712-9 (T)
 
 
 ###### Article R712-10
@@ -87544,7 +87515,7 @@ _Cite_:
 
 ##### Sous-section 3 : Administration et tutelle<a id=1174></a>
 
-###### Article D712-11
+###### Article R712-11
 
 Le conseil de surveillance, présidé par le gouverneur de la Banque de France ou son représentant, est composé du directeur
 général du Trésor et de la politique économique ou de son représentant, d'un représentant du ministre chargé de l'économie,
@@ -87562,24 +87533,20 @@ président et le directeur général du Trésor et de la politique économique.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 9 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-11 (V)
+  - Code monétaire et financier - art. D712-11 (T)
 
 
-###### Article D712-12
+###### Article R712-12
 
 Le conseil de surveillance se réunit au moins deux fois par an et aussi souvent qu'il est nécessaire sur convocation de son
 président soit sur l'initiative de celui-ci, soit à la demande de la moitié de ses membres.
@@ -87593,25 +87560,20 @@ même conseiller plus de deux voix en sus de la sienne.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 10 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-12 (M)
-  - Code monétaire et financier - art. R712-12 (V)
+  - Code monétaire et financier - art. D712-12 (T)
 
 
-###### Article D712-13
+###### Article R712-13
 
 Le conseil de surveillance fixe les conditions des opérations de l'institut. Ces opérations sont soumises à son approbation
 ainsi que les prises de participation qui font l'objet d'une autorisation par arrêté conjoint du ministre chargé de
@@ -87621,53 +87583,44 @@ Le conseil de surveillance établit le règlement intérieur de l'institut.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 11 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-13 (M)
-  - Code monétaire et financier - art. R712-13 (V)
+  - Code monétaire et financier - art. D712-13 (T)
 
 
-###### Article D712-14
+###### Article R712-14
 
-Le directeur général de l'Agence française de développement exerce les fonctions de directeur général de l'Institut
-d'émission d'outre-mer sous le contrôle du conseil de surveillance.
+Le directeur général de l'Institut d'émission d'outre-mer est nommé par le président du conseil de surveillance pour une
+durée de trois ans renouvelable.
 
 Il représente seul l'institut dans tous les actes de sa vie civile. Il dirige les services. Il peut déléguer ses pouvoirs.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 12 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-14 (V)
+  - Code monétaire et financier - art. D712-14 (T)
 
 
 ##### Sous-section 4 : Comptabilité et contrôle<a id=1175></a>
 
-###### Article D712-15
+###### Article R712-15
 
 Les comptes de l'institut sont arrêtés le 31 décembre de chaque année et approuvés par le conseil de surveillance.
 
@@ -87679,25 +87632,20 @@ billets et pièces adirés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 13 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-15 (M)
-  - Code monétaire et financier - art. R712-15 (V)
+  - Code monétaire et financier - art. D712-15 (T)
 
 
-###### Article D712-16
+###### Article R712-16
 
 Le contrôle des opérations de l'institut est assuré par un collège de censeurs composé du commissaire du Gouvernement de
 l'Agence française de développement et d'un représentant de la Banque de France. Les censeurs assistent aux séances du
@@ -87708,22 +87656,17 @@ président du conseil de surveillance ou du directeur général.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°85-403 1985-04-03 art 15 de l'annexe
-
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2006-1504 du 4 décembre 2006 - art. 1 () JORF 5 décembre 2006
 
-_Nouveaux textes_:
+_Anciens textes_:
 
-  - Code monétaire et financier - art. R712-16 (M)
-  - Code monétaire et financier - art. R712-16 (V)
+  - Code monétaire et financier - art. D712-16 (T)
 
 
 ##### Sous-section 5 : Autres missions<a id=1176></a>
