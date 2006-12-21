@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-12-08
+Version Consolidée au 2006-12-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -8364,9 +8364,11 @@ prévues pour l'émission d'obligations par appel public à l'épargne ;
 
 8. Les Etats ;
 
-9. Les fonds communs de créances.
+9. Les fonds communs de créances ;
 
-Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4, 5, 6, 7, 8 et 9 et fixe les
+10. L'Agence centrale des organismes de sécurité sociale.
+
+Un décret précise les conditions que doivent remplir les émetteurs mentionnés aux 2, 3, 4, 5, 6, 7, 8, 9 et 10 et fixe les
 conditions d'émission des titres de créances négociables.
 
 **Liens relatifs à cet article**
@@ -8407,12 +8409,6 @@ _Cité par_:
   - Code monétaire et financier - art. L752-3 (M)
   - Code monétaire et financier - art. L762-3 (M)
 
-_Cite_:
-
-  - Ordonnance n°96-50 du 24 janvier 1996 - art. 1 (M)
-  - Code civil 21 à 79
-  - Loi n°1901-07-01
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 31 décembre 1998 - art. 1 (V)
@@ -8427,9 +8423,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 36 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 37 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Loi n°2006-1640 du 21 décembre 2006 - art. 38 () JORF 22 décembre 2006
 
 
 ###### Article L213-4
