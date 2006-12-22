@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2006-12-22
+Version Consolidée au 2006-12-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -61570,20 +61570,20 @@ _Cite_:
 
 ###### Article D213-1
 
-I. - Les titres de créance négociables définis à l'article L. 213-1 comprennent :
+I.-Les titres de créance négociables définis à l'article L. 213-1 comprennent : 
 
 1° Les certificats de dépôt, d'une durée initiale inférieure ou égale à un an, émis par les établissements de crédit ainsi
-que par la Caisse des dépôts et consignations ;
+que par la Caisse des dépôts et consignations ; 
 
 2° Les billets de trésorerie, d'une durée initiale inférieure ou égale à un an, émis par des entreprises d'investissement et
-par les émetteurs mentionnés aux 2, 3, 4, 5, 6, 7, 8 et 9 de l'article L. 213-3 ;
+par les émetteurs mentionnés aux 2 à 10 de l'article L. 213-3 ; 
 
 3° Les bons à moyen terme négociables, d'une durée initiale supérieure à un an, émis par l'ensemble des émetteurs mentionnés
-à l'article L. 213-3.
+à l'article L. 213-3, à l'exception de celui mentionné au 10 du même article. 
 
-II. - La rémunération des titres de créance négociables est libre. Lorsque la rémunération varie en application d'une clause
+II.-La rémunération des titres de créance négociables est libre. Lorsque la rémunération varie en application d'une clause
 d'indexation qui ne porte pas sur un taux usuel du marché interbancaire, du marché monétaire ou du marché obligataire, cette
-clause doit être au préalable portée à la connaissance de la Banque de France.
+clause doit être au préalable portée à la connaissance de la Banque de France. 
 
 Les émetteurs doivent faire connaître, le cas échéant, lors de l'émission, le taux de rendement actuariel annuel.
 
@@ -61598,6 +61598,10 @@ _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1655 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
 _Cité par_:
 
   - Code monétaire et financier - art. D742-3 (V)
@@ -61607,7 +61611,7 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. L213-1 (V)
-  - Code monétaire et financier - art. L213-3 (M)
+  - Code monétaire et financier - art. L213-3 (VT)
 
 
 ###### Article D213-2
@@ -61745,8 +61749,8 @@ _Codifié par_:
 
 Les conditions d'émission des titres de créances négociables prévues aux articles L. 213-1 à L. 213-4 et à la présente sous-
 section sont précisées, pour les entreprises d'investissement, les établissements de crédit et la Caisse des dépôts et
-consignations et pour les émetteurs mentionnés aux 2, 3, 4, 5, 6, 7, 8 et 9 de l'article L. 213-3, par arrêtés du ministre
-chargé de l'économie.
+consignations et pour les émetteurs mentionnés aux 2 à 10 de l'article L. 213-3, par arrêtés du ministre chargé de
+l'économie. 
 
 L'arrêté du ministre chargé de l'économie précisant les conditions d'émission des titres de créances négociables par les
 entreprises d'investissement, les établissements de crédit et la Caisse des dépôts et consignations est pris dans les
@@ -61763,6 +61767,10 @@ _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
+_Modifié par_:
+
+  - Décret n°2006-1655 du 22 décembre 2006 - art. 1 () JORF 23 décembre 2006
+
 _Cité par_:
 
   - Code monétaire et financier - art. D213-14 (V)
@@ -61771,9 +61779,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L213-3 (M)
-  - Code monétaire et financier - art. L614-2 (M)
-  - Code monétaire et financier L213-1 à L213-4, L213-3, L614-2
+  - Code monétaire et financier - art. L213-1 (V)
+  - Code monétaire et financier - art. L213-3 (VT)
+  - Code monétaire et financier - art. L614-2 (V)
 
 
 ##### Sous-section 2 : Règles applicables à certains émetteurs.<a id=887></a>
