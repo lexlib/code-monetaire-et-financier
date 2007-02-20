@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-01-20
+Version Consolidée au 2007-02-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -36,12 +36,12 @@ Version Consolidée au 2007-01-20
         - [Chapitre IV : La lettre de change et le billet à ordre. (art. L134-1 à L134-2)](#33)
       - [Titre IV : La Banque de France (art. L141-1 à L144-4)](#34)
         - [Chapitre Ier : Missions (art. L141-1 à L141-9)](#35)
-          - [Section 1 : Missions fondamentales (art. L141-1 à L141-5)](#36)
-          - [Section 2 : Autres missions d'intérêt général et autres activités (art. L141-6 à L141-9)](#37)
+          - [Section 1 : Missions fondamentales (art. L141-1 à L141-6)](#36)
+          - [Section 2 : Autres missions d'intérêt général et autres activités (art. L141-7 à L141-9)](#37)
         - [Chapitre II : Organisation de la banque (art. L142-1 à L142-10)](#38)
           - [Section 1 : Statut de la Banque de France (art. L142-1)](#39)
-          - [Section 2 : Le Conseil de la politique monétaire. (art. L142-2 à L142-5)](#40)
-          - [Section 3 : Le Conseil général. (art. L142-6 à L142-7)](#41)
+          - [Section 2 : Le conseil général (art. L142-2 à L142-3)](#40)
+          - [Section 3 : Le comité monétaire du conseil général. (art. L142-4 à L142-7)](#41)
           - [Section 4 : Le gouverneur et les sous-gouverneurs (art. L142-8)](#42)
           - [Section 5 : Le personnel de la banque (art. L142-9)](#43)
           - [Section 6 : Les succursales (art. L142-10)](#44)
@@ -5406,8 +5406,8 @@ Dans ce cadre, et sans préjudice de l'objectif principal de stabilité des prix
 politique économique générale du Gouvernement.
 
 Dans l'exercice des missions qu'elle accomplit à raison de sa participation au Système européen de banques centrales, la
-Banque de France, en la personne de son gouverneur, de ses sous-gouverneurs ou d'un autre membre du Conseil de la politique
-monétaire, ne peut ni solliciter ni accepter d'instructions du Gouvernement ou de toute personne.
+Banque de France, en la personne de son gouverneur, de ses sous-gouverneurs ou d'un autre membre du comité monétaire du
+conseil général, ne peut ni solliciter ni accepter d'instructions du Gouvernement ou de toute personne.
 
 **Liens relatifs à cet article**
 
@@ -5419,6 +5419,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
 
 _Cité par_:
 
@@ -5623,20 +5627,26 @@ _Cité par_:
   - Code monétaire et financier - art. R123-3 (V)
 
 
-##### Section 2 : Autres missions d'intérêt général et autres activités<a id=37></a>
-
 ###### Article L141-6
 
-La Banque de France exerce également d'autres missions d'intérêt général.
+I. - La Banque de France est habilitée à se faire communiquer par les établissements de crédit, les entreprises
+d'investissement, les organismes de placement collectif en valeurs mobilières, les compagnies financières, les entreprises
+d'assurance et de réassurance régies par le code des assurances et les entreprises industrielles et commerciales tous
+documents et renseignements qui lui sont nécessaires pour l'exercice de ses missions fondamentales.
 
-Dans ce cadre, la Banque de France accomplit les prestations demandées par l'Etat ou réalisées pour des tiers avec l'accord
-de celui-ci.
+II. - La Banque de France établit la balance des paiements et la position extérieure de la France. Elle contribue à
+l'élaboration de la balance des paiements et de la position extérieure globale de la zone euro dans le cadre des missions du
+Système européen de banques centrales, ainsi qu'à l'élaboration des statistiques de la Communauté européenne en matière de
+balance des paiements, de commerce international des services et d'investissement direct étranger.
 
-A la demande de l'Etat ou avec son accord, la Banque de France peut aussi fournir des prestations pour le compte de celui-ci
-ou le compte de tiers. Ces prestations sont rémunérées afin de couvrir les coûts engagés par la Banque.
+III. - Un décret fixe les sanctions applicables en cas de manquement aux obligations déclaratives mentionnées aux I et II.
 
-La nature des prestations mentionnées ci-dessus et les conditions de leur rémunération sont fixées par des conventions
-conclues entre la Banque de France et, selon le cas, l'Etat ou les tiers intéressés.
+IV. - La Banque de France, l'Institut national de la statistique et des études économiques et les services statistiques
+ministériels se transmettent, dans le respect des dispositions légales applicables, les données qui leur sont nécessaires
+pour l'exercice de leurs missions respectives. Les modalités de transmission font l'objet de conventions.
+
+Les agents de l'administration des impôts peuvent communiquer à la Banque de France les renseignements qu'ils détiennent et
+qui sont nécessaires à l'accomplissement des missions mentionnées au II.
 
 **Liens relatifs à cet article**
 
@@ -5649,6 +5659,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 3 () JORF 21 février 2007
+
 _Cité par_:
 
   - Ordonnance n°2013-792 du 30 août 2013 - art. 1 (V)
@@ -5659,11 +5673,20 @@ _Cité par_:
   - Livre des procédures fiscales - art. L135 I (V)
 
 
+##### Section 2 : Autres missions d'intérêt général et autres activités<a id=37></a>
+
 ###### Article L141-7
 
-Dans les conditions définies par le dernier alinéa de l'article L. 141-6 la Banque de France établit, pour le compte de
-l'Etat, la balance des paiements et la position extérieure de la France, sur instruction du ministre chargé de l'économie qui
-publie ces informations.
+La Banque de France exerce également d'autres missions d'intérêt général.
+
+Dans ce cadre, la Banque de France accomplit les prestations demandées par l'Etat ou réalisées pour des tiers avec l'accord
+de celui-ci.
+
+A la demande de l'Etat ou avec son accord, la Banque de France peut aussi fournir des prestations pour le compte de celui-ci
+ou pour le compte de tiers. Ces prestations sont rémunérées afin de couvrir les coûts engagés par la Banque de France.
+
+La nature des prestations mentionnées ci-dessus et les conditions de leur rémunération sont fixées par des conventions
+conclues entre la Banque de France et, selon le cas, l'Etat ou les tiers intéressés.
 
 **Liens relatifs à cet article**
 
@@ -5676,6 +5699,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 3 () JORF 21 février 2007
+
 _Cité par_:
 
   - Arrêté du 24 janvier 2013 - art. 3 (V)
@@ -5687,10 +5714,6 @@ _Cité par_:
   - Code monétaire et financier - art. D221-112 (V)
   - Code monétaire et financier - art. D221-113-4 (V)
   - Code monétaire et financier - art. L142-10 (V)
-
-_Cite_:
-
-  - Code monétaire et financier - art. L141-6 (M)
 
 
 ###### Article L141-8
@@ -5798,19 +5821,24 @@ _Codifié par_:
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 
-##### Section 2 : Le Conseil de la politique monétaire.<a id=40></a>
+##### Section 2 : Le conseil général<a id=40></a>
 
 ###### Article L142-2
 
-Le Conseil de la politique monétaire examine les évolutions monétaires et analyse les implications de la politique monétaire
-élaborée dans le cadre du Système européen de banques centrales.
+Le conseil général administre la Banque de France.
 
-Dans le cadre des orientations et instructions de la Banque centrale européenne, il précise les modalités d'achat ou de
-vente, de prêt ou d'emprunt, d'escompte, de prise en gage, de prise ou de mise en pension de créances et d'émission de bons
-portant intérêt, ainsi que la nature et l'étendue des garanties dont sont assortis les prêts consentis par la Banque de
-France.
+Il délibère sur les questions relatives à la gestion des activités de la Banque de France autres que celles qui relèvent des
+missions du Système européen de banques centrales.
 
-Il peut consentir au gouverneur des délégations temporaires de pouvoir.
+Il délibère des statuts du personnel. Ces statuts sont présentés à l'agrément des ministres compétents par le gouverneur de
+la Banque de France.
+
+Le conseil général délibère également de l'emploi des fonds propres et établit les budgets prévisionnels et rectificatifs de
+dépenses, arrête le bilan et les comptes de la banque, ainsi que le projet d'affectation du bénéfice et de fixation du
+dividende revenant à l'Etat.
+
+Le conseil général désigne deux commissaires aux comptes chargés de vérifier les comptes de la Banque de France. Ils sont
+convoqués à la réunion du conseil général qui arrête les comptes de l'exercice écoulé.
 
 **Liens relatifs à cet article**
 
@@ -5823,6 +5851,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+
 _Cité par_:
 
   - Code monétaire et financier - art. L142-9 (V)
@@ -5832,33 +5864,35 @@ _Cité par_:
 
 ###### Article L142-3
 
-Le Conseil de la politique monétaire comprend, outre le gouverneur et les deux sous-gouverneurs de la Banque de France,
-quatre membres.
+I. - Le conseil général de la Banque de France comprend :
 
-Ces quatre membres sont nommés par décret en Conseil des ministres pour une durée de six ans, sous réserve des dispositions
-des quatrième et cinquième alinéas du présent article.
+1° Les membres du comité monétaire du conseil général ;
 
-Ils sont choisis sur une liste, comprenant un nombre de noms triple de celui des membres à désigner, qui est établie d'un
-commun accord, ou à défaut à parts égales, par le président du Sénat, le président de l'Assemblée nationale et le président
-du Conseil économique et social. Celle-ci est dressée en fonction de la compétence et de l'expérience professionnelle des
-membres à désigner dans les domaines monétaire, financier ou économique. Préalablement à leur transmission au Gouvernement,
-les listes dressées pour le renouvellement des membres mentionnés au deuxième alinéa sont soumises pour avis au Conseil de la
-politique monétaire.
+2° Deux membres nommés en conseil des ministres, sur proposition du ministre chargé de l'économie, compte tenu de leur
+compétence et de leur expérience professionnelle dans les domaines financier ou économique ;
 
-Les membres mentionnés au deuxième alinéa sont renouvelés par moitié tous les trois ans. Il est pourvu au remplacement des
-membres du conseil au moins huit jours avant l'expiration de leurs fonctions. Si l'un de ces membres ne peut exercer son
-mandat jusqu'à son terme, il est pourvu immédiatement à son remplacement dans les conditions décrites à l'alinéa précédent.
-Dans ce cas, le membre nommé n'exerce ses fonctions que pour la durée restant à courir du mandat de la personne qu'il
-remplace.
+3° Un représentant élu des salariés de la Banque de France.
 
-A l'occasion de la constitution du premier Conseil de la politique monétaire, la durée du mandat des six membres du Conseil
-de la politique monétaire, autres que le gouverneur et les sous-gouverneurs, est fixée par tirage au sort, selon des
-modalités prévues par le décret en Conseil d'Etat mentionné à l'article L. 144-4, pour deux d'entre eux à trois ans, pour
-deux autres à six ans et pour les deux derniers à neuf ans.
+Les fonctions des membres nommés en application du 2° ne sont pas exclusives d'une activité professionnelle, après accord du
+conseil général à la majorité des membres autres que l'intéressé. Le conseil général examine notamment l'absence de conflit
+d'intérêts et le respect du principe de l'indépendance de la Banque de France. Cette absence de conflit d'intérêts impose que
+les membres n'exercent aucune fonction et ne possèdent aucun intérêt au sein des prestataires de services visés par les
+titres Ier à V du livre V. Ces mêmes membres ne peuvent pas exercer un mandat parlementaire.
 
-Le mandat des membres définis au deuxième alinéa n'est pas renouvelable. Toutefois, cette règle n'est pas applicable aux
-membres qui ont effectué un mandat de trois ans par l'effet des mesures prévues au cinquième alinéa ou qui ont remplacé, pour
-une durée de trois ans au plus, un membre du conseil dans le cas prévu au quatrième alinéa.
+Le mandat de ces membres est de six ans. Ils sont tenus au secret professionnel.
+
+II. - La validité des délibérations est subordonnée à la présence d'au moins six membres.
+
+Les décisions se prennent à la majorité des membres présents. En cas de partage, la voix du président est prépondérante.
+
+Le conseil général peut consentir des délégations de pouvoir au gouverneur de la Banque de France, qui peut les subdéléguer
+dans les conditions fixées par le conseil.
+
+Un censeur, ou son suppléant, nommé par le ministre chargé de l'économie, assiste aux séances du conseil général. Il peut
+soumettre des propositions de décision à la délibération du conseil.
+
+Les décisions adoptées par le conseil général sont définitives, à moins que le censeur ou son suppléant n'y ait fait
+opposition.
 
 **Liens relatifs à cet article**
 
@@ -5872,7 +5906,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi - art. 85 (V) JORF 31 décembre 2002
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
 
 _Cité par_:
 
@@ -5880,28 +5914,17 @@ _Cité par_:
   - Code monétaire et financier - art. L164-1 (V)
   - Code monétaire et financier - art. R142-1 (M)
 
-_Cite_:
 
-  - Code monétaire et financier - art. L144-4 (M)
-
+##### Section 3 : Le comité monétaire du conseil général.<a id=41></a>
 
 ###### Article L142-4
 
-Le Conseil de la politique monétaire se réunit sur convocation de son président au moins une fois par mois. Le gouverneur est
-tenu de le convoquer dans les quarante-huit heures sur la demande de la majorité de ses membres.
+Le comité monétaire du conseil général examine les évolutions monétaires et analyse les implications de la politique
+monétaire élaborée dans le cadre du Système européen de banques centrales.
 
-La validité des délibérations du Conseil de la politique monétaire est subordonnée à la présence d'au moins les deux tiers
-des membres en fonction. Si ce quorum n'est pas atteint, le Conseil de la politique monétaire, convoqué à nouveau par le
-gouverneur sur le même ordre du jour, se réunit valablement sans condition de quorum. Les décisions se prennent à la majorité
-des membres présents. En cas de partage égal des voix, celle du président est prépondérante.
+Il adopte les mesures nécessaires pour transposer les orientations de la Banque centrale européenne.
 
-Le Premier ministre et le ministre chargé de l'économie peuvent participer sans voix délibérative aux séances du Conseil de
-la politique monétaire. Ils peuvent soumettre toute proposition de décision à la délibération du Conseil. En cas
-d'empêchement du ministre chargé de l'économie, il peut se faire représenter, en tant que de besoin, par une personne
-nommément désignée et spécialement habilitée à cet effet.
-
-Le Conseil de la politique monétaire délibère dans le respect de l'indépendance de son président, membre du conseil des
-gouverneurs de la Banque centrale européenne, et des règles de confidentialité de celle-ci.
+Il peut consentir au gouverneur des délégations temporaires de pouvoir.
 
 **Liens relatifs à cet article**
 
@@ -5914,29 +5937,44 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 173
+
 
 ###### Article L142-5
 
-Les membres du Conseil de la politique monétaire sont tenus au secret professionnel.
+Le comité monétaire du conseil général comprend sept membres :
 
-Il ne peut être mis fin, avant terme, à leurs fonctions, que s'ils deviennent incapables d'exercer celles-ci ou commettent
-une faute grave, par révocation sur demande motivée du Conseil de la politique monétaire statuant à la majorité des membres
-autres que l'intéressé.
+- le gouverneur et les deux sous-gouverneurs de la Banque de France ;
 
-Les fonctions du gouverneur, des sous-gouverneurs et des autres membres du Conseil de la politique monétaire sont exclusives
-de toute autre activité professionnelle publique ou privée, rémunérée ou non, à l'exception de l'exercice du mandat de membre
-du Conseil économique et social ou le cas échéant, après accord du Conseil de la politique monétaire, d'activités
-d'enseignement ou de fonctions exercées au sein d'organismes internationaux. Ils ne peuvent exercer de mandats électifs.
-S'ils ont la qualité de fonctionnaires, ils sont placés en position de détachement et ne peuvent recevoir une promotion au
-choix.
+- deux membres nommés par le président du Sénat et deux membres nommés par le président de l'Assemblée nationale, compte tenu
+de leur compétence et de leur expérience professionnelle dans les domaines monétaire, financier ou économique.
 
-Le gouverneur et les sous-gouverneurs qui cessent leurs fonctions pour un motif autre que la révocation pour faute grave
-continuent à recevoir leur traitement d'activité pendant trois ans. Pour les autres membres du Conseil de la politique
-monétaire, cette période est limitée à un an. Au cours de cette période, ils ne peuvent, sauf accord du Conseil de la
-politique monétaire, exercer d'activités professionnelles, à l'exception de fonctions publiques électives ou de fonctions de
-membre du Gouvernement. Dans le cas où le Conseil de la politique monétaire a autorisé l'exercice d'activités
-professionnelles, ou s'ils exercent des fonctions publiques électives autres que nationales, le Conseil détermine les
-conditions dans lesquelles tout ou partie de leur traitement peut continuer à leur être versé.
+Lors de la première désignation, à compter de la promulgation de la loi n° 2007-212 du 20 février 2007 portant diverses
+dispositions intéressant la Banque de France, des membres nommés dans les conditions définies au troisième alinéa, un membre
+est nommé par le président du Sénat et un membre est nommé par le président de l'Assemblée nationale. Le mandat de ces
+membres expire à la fin de l'année 2011, sous réserve des dispositions prévues au sixième alinéa. En outre, les membres du
+Conseil de la politique monétaire nommés par décret en conseil des ministres autres que le gouverneur et les deux sous-
+gouverneurs, en fonction à la date de publication de la loi n° 2007-212 du 20 février 2007 précitée, sont membres de droit du
+comité monétaire. Leur mandat ne sera pas renouvelé à l'expiration de leurs fonctions.
+
+A compter du 1er janvier 2009, le renouvellement des membres visés au troisième alinéa s'opère par moitié tous les trois ans.
+Lors de chaque renouvellement triennal, un membre est nommé par le président du Sénat et un membre est nommé par le président
+de l'Assemblée nationale. Le mandat de ces membres dure six ans, sous réserve des dispositions prévues au sixième alinéa.
+
+Il est pourvu au remplacement des membres du comité monétaire au moins huit jours avant l'expiration de leurs fonctions. Si
+l'un des membres visés au troisième alinéa ne peut exercer son mandat jusqu'à son terme, il est pourvu immédiatement à son
+remplacement dans les conditions décrites aux trois alinéas précédents et il n'exerce ses fonctions que pour la durée restant
+à courir du mandat de la personne qu'il remplace.
+
+Le mandat des membres nommés par le président du Sénat et le président de l'Assemblée nationale n'est pas renouvelable.
+Toutefois, cette règle n'est pas applicable aux membres qui ont remplacé, pour une durée de trois ans au plus, un membre du
+comité dans le cas prévu au sixième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -5949,29 +5987,38 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Cite_:
+
+  - Loi n°2007-212 du 20 février 2007
+
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 173
+
 _Cité par_:
 
   - Code monétaire et financier - art. L164-1 (M)
 
 
-##### Section 3 : Le Conseil général.<a id=41></a>
-
 ###### Article L142-6
 
-Le Conseil général administre la Banque de France.
+Le comité monétaire du conseil général se réunit sur convocation de son président au moins une fois par mois.
 
-Il délibère sur les questions relatives à la gestion des activités de la Banque de France autres que celles qui relèvent des
-missions du Système européen de banques centrales.
+Le gouverneur est tenu de le convoquer dans les quarante-huit heures sur la demande de la majorité de ses membres.
 
-Il délibère des statuts du personnel. Ces statuts sont présentés à l'agrément des ministres compétents par le gouverneur de
-la Banque de France.
+La validité des délibérations du comité monétaire du conseil général est subordonnée à la présence d'au moins quatre membres.
+Si ce quorum n'est pas atteint, le comité monétaire du conseil général, convoqué à nouveau par le gouverneur sur le même
+ordre du jour, se réunit valablement sans condition de quorum. Les décisions se prennent à la majorité des membres présents.
+En cas de partage, celle du président est prépondérante.
 
-Le Conseil général délibère également de l'emploi des fonds propres et établit les budgets prévisionnels et rectificatifs de
-dépenses, arrête le bilan et les comptes de la Banque, ainsi que le projet d'affectation du bénéfice et de fixation du
-dividende revenant à l'Etat.
-
-Le Conseil général désigne deux commissaires aux comptes chargés de vérifier les comptes de la Banque de France. Ils sont
-convoqués à la réunion du Conseil général, qui arrête les comptes de l'exercice écoulé.
+Le directeur général du Trésor et de la politique économique ou son représentant peut participer sans voix délibérative aux
+séances du comité monétaire du conseil général. Il peut soumettre toute proposition de décision à la délibération du comité.
+Le comité monétaire du conseil général délibère dans le respect de l'indépendance de son président, membre du conseil des
+gouverneurs de la Banque centrale européenne, et des règles de confidentialité de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -5984,6 +6031,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 173
+
 _Cité par_:
 
   - Code monétaire et financier - art. R142-7 (M)
@@ -5991,21 +6046,33 @@ _Cité par_:
 
 ###### Article L142-7
 
-Le Conseil général de la Banque de France comprend les membres du Conseil de la politique monétaire et un représentant élu
-des salariés de la Banque, dont le mandat est de six ans.
+Les membres du comité monétaire du conseil général sont tenus au secret professionnel.
 
-La validité des délibérations est subordonnée à la présence d'au moins cinq membres.
+Il ne peut être mis fin, avant terme, à leurs fonctions que s'ils deviennent incapables d'exercer celles-ci ou commettent une
+faute grave, par révocation sur demande motivée du comité monétaire du conseil général statuant à la majorité des membres
+autres que l'intéressé.
 
-Les décisions se prennent à la majorité des membres présents. En cas de partage, la voix du président est prépondérante.
+Les fonctions du gouverneur et des sous-gouverneurs sont exclusives de toute autre activité professionnelle publique ou
+privée, rémunérée ou non, à l'exception, le cas échéant, après accord du comité monétaire du conseil général, d'activités
+d'enseignement ou de fonctions exercées au sein d'organismes internationaux. Ils ne peuvent exercer de mandats électifs.
+S'ils ont la qualité de fonctionnaire, ils sont placés en position de détachement et ne peuvent recevoir une promotion au
+choix.
 
-Le Conseil général peut consentir des délégations de pouvoir au gouverneur de la Banque de France, qui peut les subdéléguer
-dans les conditions fixées par le Conseil.
+Les fonctions des autres membres du comité monétaire du conseil général ne sont pas exclusives d'une activité
+professionnelle, après accord du comité monétaire à la majorité des membres autres que l'intéressé. Le comité monétaire
+examine notamment l'absence de conflit d'intérêts et le respect du principe de l'indépendance de la Banque de France. Cette
+absence de conflit d'intérêts impose que les membres n'exercent aucune fonction et ne possèdent aucun intérêt au sein des
+prestataires de services visés par les titres Ier à V du livre V. Ces mêmes membres ne peuvent pas exercer un mandat
+parlementaire.
 
-Un censeur, ou son suppléant, nommé par le ministre chargé de l'économie, assiste aux séances du Conseil général. Il peut
-soumettre des propositions de décision à la délibération du Conseil.
-
-Les décisions adoptées par le Conseil général sont définitives, à moins que le censeur ou son suppléant n'y ait fait
-opposition.
+Le gouverneur et les sous-gouverneurs qui cessent leurs fonctions pour un motif autre que la révocation pour faute grave
+continuent à recevoir leur traitement d'activité pendant trois ans. Pour les autres membres du comité monétaire du conseil
+général en fonction à la date de promulgation de la loi n° 2007-212 du 20 février 2007 portant diverses dispositions
+intéressant la Banque de France, cette période est limitée à un an. Au cours de cette période, ils ne peuvent, sauf accord du
+comité monétaire du conseil général, exercer d'activités professionnelles, à l'exception de fonctions publiques électives ou
+de fonctions de membre du Gouvernement. Dans le cas où le comité monétaire a autorisé l'exercice d'activités
+professionnelles, ou s'ils exercent des fonctions publiques électives autres que nationales, le comité détermine les
+conditions dans lesquelles tout ou partie de leur traitement peut continuer à leur être versé.
 
 **Liens relatifs à cet article**
 
@@ -6017,9 +6084,17 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Cite_:
+
+  - Loi n°2007-212 du 20 février 2007
+
 _Modifié par_:
 
-  - Loi - art. 85 (V) JORF 31 décembre 2002
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+
+_Abrogé par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 173
 
 
 ##### Section 4 : Le gouverneur et les sous-gouverneurs<a id=42></a>
@@ -6028,17 +6103,17 @@ _Modifié par_:
 
 La direction de la Banque de France est assurée par le gouverneur de la Banque de France.
 
-Le gouverneur préside le Conseil de la politique monétaire et le Conseil général de la Banque de France.
+Le gouverneur préside le conseil général et le comité monétaire du conseil général de la Banque de France.
 
-Il prépare et met en oeuvre les décisions de ces Conseils.
+Il prépare et met en oeuvre les décisions du conseil général et du comité monétaire du conseil général.
 
 Il représente la Banque vis-à-vis des tiers ; il signe seul, au nom de la Banque, toute convention.
 
 Il nomme à tous les emplois de la Banque, sous réserve des dispositions de l'article L. 142-3.
 
 Le gouverneur est assisté d'un premier et d'un second sous-gouverneurs. Les sous-gouverneurs exercent les fonctions qui leur
-sont déléguées par le gouverneur. En cas d'absence ou d'empêchement du gouverneur, le Conseil de la politique monétaire et le
-Conseil général sont présidés par l'un des sous-gouverneurs, désigné spécialement à cet effet par le gouverneur.
+sont déléguées par le gouverneur. En cas d'absence ou d'empêchement du gouverneur, le conseil général et le comité monétaire
+du conseil général sont présidés par l'un des sous-gouverneurs, désigné spécialement à cet effet par le gouverneur.
 
 Le gouverneur et les deux sous-gouverneurs sont nommés par décret en Conseil des ministres pour une durée de six ans
 renouvelable une fois. La limite d'âge applicable à l'exercice de ces fonctions est fixée à soixante-cinq ans.
@@ -6059,9 +6134,9 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°2001-1277 du 21 décembre 2001
   - TXT_SOURCE: Décret n°2001-1277 du 21 décembre 2001 - art. 1 ()
 
-_Cite_:
+_Modifié par_:
 
-  - Code monétaire et financier - art. L142-3 (M)
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
 
 
 ##### Section 5 : Le personnel de la banque<a id=43></a>
@@ -6074,6 +6149,24 @@ Ils ne peuvent prendre ou recevoir une participation ou quelque intérêt ou ré
 dans une entreprise publique ou privée, industrielle, commerciale ou financière, sauf dérogation accordée par le gouverneur.
 Ces dispositions ne s'appliquent pas à la production des oeuvres scientifiques, littéraires ou artistiques.
 
+Le conseil général de la Banque de France détermine, dans les conditions prévues par le troisième alinéa de l'article L.
+142-2, les règles applicables aux agents de la Banque de France dans les domaines où les dispositions du code du travail sont
+incompatibles avec le statut ou avec les missions de service public dont elle est chargée.
+
+Les troisième à huitième alinéas de l'article L. 432-1 du code du travail et les articles L. 432-5 et L. 432-9 du même code
+ne sont pas applicables à la Banque de France.
+
+Les dispositions du chapitre II du titre III du livre IV du même code autres que celles énumérées à l'alinéa précédent sont
+applicables à la Banque de France uniquement pour les missions et autres activités qui, en application de l'article L. 142-2
+du présent code, relèvent de la compétence du conseil général.
+
+Le comité d'entreprise et, le cas échéant, les comités d'établissement de la Banque de France ne peuvent faire appel à
+l'expert visé au premier alinéa de l'article L. 434-6 du code du travail que lorsque la procédure prévue à l'article L. 321-3
+du même code est mise en oeuvre.
+
+Les conditions dans lesquelles s'applique à la Banque de France l'article L. 432-8 du même code sont fixées par un décret en
+Conseil d'Etat.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -6085,6 +6178,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 7 () JORF 21 février 2007
+
 _Cité par_:
 
   - Arrêté du 24 janvier 2013 - art. 3 (V)
@@ -6094,6 +6191,16 @@ _Cité par_:
   - Code monétaire et financier - art. L612-19 (V)
   - Code monétaire et financier - art. L613-50-7 (V)
   - Code monétaire et financier - art. R142-21-1 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L142-2 (M)
+  - Code du travail - art. L321-3 (M)
+  - Code du travail - art. L432-1 (T)
+  - Code du travail - art. L432-5 (T)
+  - Code du travail - art. L432-8 (T)
+  - Code du travail - art. L432-9 (T)
+  - Code du travail - art. L434-6 (T)
 
 
 ##### Section 6 : Les succursales<a id=44></a>
@@ -6129,9 +6236,9 @@ rapport sur les opérations de la Banque de France, la politique monétaire qu'e
 européen de banques centrales et les perspectives de celle-ci.
 
 Dans le respect des dispositions de l'article 108 du traité instituant la Communauté européenne et des règles de
-confidentialité de la Banque centrale européenne, le gouverneur de la Banque de France ou le Conseil de la politique
-monétaire sont entendus par les commissions des finances des deux assemblées, à l'initiative de celles-ci, et peuvent
-demander à être entendus par elles.
+confidentialité de la Banque centrale européenne, le gouverneur de la Banque de France ou le comité monétaire du conseil
+général sont entendus par les commissions des finances des deux assemblées, à l'initiative de celles-ci, et peuvent demander
+à être entendus par elles.
 
 Les comptes de la Banque de France, ainsi que le rapport des commissaires aux comptes, sont transmis aux commissions des
 finances de l'Assemblée nationale et du Sénat.
@@ -6147,6 +6254,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+
 _Cité par_:
 
   - Code de la consommation - art. L331-12 (VT)
@@ -6157,15 +6268,13 @@ _Cité par_:
 
 ###### Article L144-1
 
-La Banque de France est habilitée à se faire communiquer par les établissements de crédit et les établissements financiers
-tous documents et renseignements qui lui sont nécessaires pour exercer les missions définies à la section 1 du chapitre Ier
-du présent titre. Elle peut entrer directement en relation avec les entreprises et groupements professionnels qui seraient
-disposés à participer à ses enquêtes.
+La Banque de France peut entrer directement en relation avec les entreprises et groupements professionnels qui seraient
+disposés à participer à ses enquêtes. Ces entreprises et groupements professionnels peuvent communiquer à la Banque de France
+des informations sur leur situation financière.
 
-La Banque de France peut communiquer tout ou partie des renseignements qu'elle détient sur l'endettement des entreprises aux
-autres banques centrales membres du système européen des banques centrales, aux autres institutions chargées dans Etat membre
-de l'Union européenne d'une mission similaire à celles qui lui sont confiées en France et aux établissements de crédit et
-établissements financiers installés dans un Etat membre de l'Union européenne, sous condition de réciprocité.
+La Banque de France peut communiquer tout ou partie des renseignements qu'elle détient sur la situation financière des
+entreprises aux autres banques centrales, aux autres institutions chargées d'une mission similaire à celles qui lui sont
+confiées en France et aux établissements de crédit et établissements financiers.
 
 **Liens relatifs à cet article**
 
@@ -6180,7 +6289,9 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 79 () JORF 2 août 2003
+  - Loi n°2007-212 du 20 février 2007 - art. 3 () JORF 21 février 2007
+  - Loi n°2007-212 du 20 février 2007 - art. 5 () JORF 21 février 2007
+  - Loi n°2007-212 du 20 février 2007 - art. 6 () JORF 21 février 2007
 
 _Cité par_:
 
@@ -6231,8 +6342,8 @@ _Créé par_:
 
 ###### Article L144-3
 
-La juridiction administrative connaît des litiges se rapportant à l'administration intérieure de la Banque de France ou
-opposant celle-ci aux membres du Conseil de la politique monétaire, aux membres du Conseil général ou à ses agents.
+La juridiction administrative connaît des litiges se rapportant à l'administration intérieure de la Banque de France. Elle
+connaît également des litiges opposant la Banque de France aux membres du conseil général ou à ses agents.
 
 **Liens relatifs à cet article**
 
@@ -6245,6 +6356,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
+
 
 ###### Article L144-4
 
@@ -6252,8 +6367,8 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent titre
 
 Il précise notamment le montant du capital de la Banque de France, les modalités d'établissement de son budget annuel, de
 financement de ses investissements, de présentation et d'arrêté des comptes, d'affectation du résultat annuel et de
-rémunération des membres du Conseil de la politique monétaire et du Conseil général ainsi que les modalités d'élection du
-représentant des salariés de la Banque de France au Conseil général.
+rémunération des membres du Conseil général ainsi que les modalités d'élection du représentant des salariés de la Banque de
+France au Conseil général.
 
 **Liens relatifs à cet article**
 
@@ -6265,6 +6380,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-212 du 20 février 2007 - art. 1 () JORF 21 février 2007
 
 _Cité par_:
 
@@ -7361,9 +7480,9 @@ _Cité par_:
 
 ###### Article L164-1
 
-Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour les membres du Conseil de la politique monétaire,
-de violer le secret professionnel institué au premier alinéa de l'article L. 142-5, sous réserve des dérogations prévues à
-l'article 226-14 du code pénal.
+Est puni des peines prévues à l'article 226-13 du code pénal, le fait, pour les membres du conseil général, de violer le
+secret professionnel institué aux articles L. 142-3 et L. 142-7, sous réserve des dérogations prévues à l'article 226-14 du
+code pénal.
 
 **Liens relatifs à cet article**
 
@@ -7376,11 +7495,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Cite_:
+_Modifié par_:
 
-  - Code pénal - art. 226-13 (M)
-  - Code pénal - art. 226-14 (M)
-  - Code monétaire et financier - art. L142-5 (M)
+  - Loi n°2007-212 du 20 février 2007 - art. 2 () JORF 21 février 2007
 
 
 ###### Article L164-2
@@ -26171,9 +26288,9 @@ _Cité par_:
 ###### Article L451-2
 
 Les règles relatives à l'information sur les prises de participations significatives sont fixées par les articles L. 233-7 à
-L. 233-14 du code de commerce, reproduits ci-après :
+L. 233-14 du code de commerce, reproduits ci-après : 
 
-"Art. L. 233-7 - I. - Lorsque les actions d'une société ayant son siège sur le territoire de la République sont admises aux
+" Art.L. 233-7-I.-Lorsque les actions d'une société ayant son siège sur le territoire de la République sont admises aux
 négociations sur un marché réglementé ou sur un marché d'instruments financiers admettant aux négociations des actions
 pouvant être inscrites en compte chez un intermédiaire habilité dans les conditions prévues par l'article L. 211-4 du code
 monétaire et financier, toute personne physique ou morale agissant seule ou de concert qui vient à posséder un nombre
@@ -26183,56 +26300,56 @@ un délai fixé par décret en Conseil d'Etat, à compter du franchissement du s
 ou de droits de vote qu'elle possède.
 
 L'information mentionnée à l'alinéa précédent est également donnée dans les mêmes délais lorsque la participation en capital
-ou en droits de vote devient inférieure aux seuils mentionnés par cet alinéa.
+ou en droits de vote devient inférieure aux seuils mentionnés par cet alinéa. 
 
 La personne tenue à l'information prévue au premier alinéa précise le nombre de titres qu'elle possède donnant accès à terme
-au capital ainsi que les droits de vote qui y sont attachés.
+au capital ainsi que les droits de vote qui y sont attachés. 
 
-II. - La personne tenue à l'information mentionnée au I informe également l'Autorité des marchés financiers, dans un délai et
+II.-La personne tenue à l'information mentionnée au I informe également l'Autorité des marchés financiers, dans un délai et
 selon des modalités fixés par son règlement général, à compter du franchissement du seuil de participation, lorsque les
 actions de la société sont admises aux négociations sur un marché réglementé ou sur un marché d'instruments financiers autre
 qu'un marché réglementé, à la demande de la personne qui gère ce marché d'instruments financiers. Cette information est
-portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
+portée à la connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. 
 
-Le règlement général précise également les modalités de calcul des seuils de participation.
+Le règlement général précise également les modalités de calcul des seuils de participation. 
 
-III. - Les statuts de la société peuvent prévoir une obligation supplémentaire d'information portant sur la détention de
-fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I. L'obligation porte sur la
-détention de chacune de ces fractions, qui ne peuvent être inférieures à 0,5 % du capital ou des droits de vote.
+III.-Les statuts de la société peuvent prévoir une obligation supplémentaire d'information portant sur la détention de
+fractions du capital ou des droits de vote inférieures à celle du vingtième mentionnée au I.L'obligation porte sur la
+détention de chacune de ces fractions, qui ne peuvent être inférieures à 0, 5 % du capital ou des droits de vote. 
 
-IV. - Les obligations d'information prévues aux I, II et III ne s'appliquent pas aux actions :
+IV.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas aux actions : 
 
 1° Acquises aux seules fins de la compensation, du règlement ou de la livraison d'instruments financiers, dans le cadre
-habituel du cycle de règlement à court terme défini par le règlement général de l'Autorité des marchés financiers ;
+habituel du cycle de règlement à court terme défini par le règlement général de l'Autorité des marchés financiers ; 
 
-2° Détenues par les teneurs de comptes conservateurs dans le cadre de leur activité de tenue de compte et de conservation ;
+2° Détenues par les teneurs de comptes conservateurs dans le cadre de leur activité de tenue de compte et de conservation ; 
 
-3° Détenues par un prestataire de services d'investissement dans son portefeuille de négociation au sens de la directive
-93/6/CE du Conseil, du 15 mars 1993, sur l'adéquation des fonds des entreprises d'investissement de crédit à condition que
-ces actions ne représentent pas une quotité du capital ou des droits de vote de l'émetteur de ces titres supérieure à un
-seuil fixé par le règlement général de l'Autorité des marchés financiers et que les droits de vote attachés à ces titres ne
-soient pas exercés ni autrement utilisés pour intervenir dans la gestion de l'émetteur ;
+3° Détenues par un prestataire de services d'investissement dans son portefeuille de négociation au sens de la directive 93 /
+6 / CE du Conseil, du 15 mars 1993, sur l'adéquation des fonds des entreprises d'investissement de crédit à condition que ces
+actions ne représentent pas une quotité du capital ou des droits de vote de l'émetteur de ces titres supérieure à un seuil
+fixé par le règlement général de l'Autorité des marchés financiers et que les droits de vote attachés à ces titres ne soient
+pas exercés ni autrement utilisés pour intervenir dans la gestion de l'émetteur ; 
 
 4° Remises aux membres du Système européen de banques centrales ou par ceux-ci dans l'exercice de leurs fonctions d'autorités
 monétaires, dans les conditions fixées par le règlement général de l'Autorité des marchés financiers.
 
-V. - Les obligations d'information prévues aux I, II et III ne s'appliquent pas :
+V.-Les obligations d'information prévues aux I, II et III ne s'appliquent pas : 
 
 1° Au teneur de marché lors du franchissement du seuil du vingtième du capital ou des droits de vote dans le cadre de la
 tenue de marché, à condition qu'il n'intervienne pas dans la gestion de l'émetteur dans les conditions fixées par le
-règlement général de l'Autorité des marchés financiers ;
+règlement général de l'Autorité des marchés financiers ; 
 
 2° Lorsque la personne mentionnée au I est contrôlée, au sens de l'article L. 233-3, par une entité soumise à l'obligation
 prévue aux I à III pour les actions détenues par cette personne ou que cette entité est elle-même contrôlée, au sens de
-l'article L. 233-3, par une entité soumise à l'obligation prévue aux I à III pour ces mêmes actions.
+l'article L. 233-3, par une entité soumise à l'obligation prévue aux I à III pour ces mêmes actions. 
 
-VI. - En cas de non-respect de l'obligation d'information mentionnée au III, les statuts de la société peuvent prévoir que
-les dispositions des deux premiers alinéas de l'article L. 233-14 ne s'appliquent qu'à la demande, consignée dans le procès-
+VI.-En cas de non-respect de l'obligation d'information mentionnée au III, les statuts de la société peuvent prévoir que les
+dispositions des deux premiers alinéas de l'article L. 233-14 ne s'appliquent qu'à la demande, consignée dans le procès-
 verbal de l'assemblée générale, d'un ou plusieurs actionnaires détenant une fraction du capital ou des droits de vote de la
 société émettrice au moins égale à la plus petite fraction du capital dont la détention doit être déclarée. Cette fraction ne
-peut toutefois être supérieure à 5 %.
+peut toutefois être supérieure à 5 %. 
 
-VII. - Lorsque les actions de la société sont admises aux négociations sur un marché réglementé, la personne tenue à
+VII.-Lorsque les actions de la société sont admises aux négociations sur un marché réglementé, la personne tenue à
 l'information prévue au I est tenue de déclarer, à l'occasion des franchissements de seuil du dixième ou du cinquième du
 capital ou des droits de vote, les objectifs qu'elle a l'intention de poursuivre au cours des douze mois à venir. Cette
 déclaration précise si l'acquéreur agit seul ou de concert, s'il envisage d'arrêter ses achats ou de les poursuivre,
@@ -26242,107 +26359,109 @@ acquises et à l'Autorité des marchés financiers dans un délai de dix jours d
 connaissance du public dans les conditions fixées par le règlement général de l'Autorité des marchés financiers. En cas de
 changement d'intention, lequel ne peut être motivé que par des modifications importantes dans l'environnement, la situation
 ou l'actionnariat des personnes concernées, une nouvelle déclaration doit être établie, communiquée à la société et à
-l'Autorité des marchés financiers et portée à la connaissance du public dans les mêmes conditions."
+l'Autorité des marchés financiers et portée à la connaissance du public dans les mêmes conditions. " 
 
-"Art. L. 233-8 - I. - Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire, toute société par
-actions informe ses actionnaires du nombre total de droits de vote existant à cette date. Dans la mesure où, entre deux
-assemblées générales ordinaires, le nombre de droits de vote varie d'un pourcentage fixé par arrêté du ministre chargé de
-l'économie, par rapport au nombre déclaré antérieurement, la société, lorsqu'elle en a connaissance, informe ses
-actionnaires.
+" Art.L. 233-8-I.-Au plus tard dans les quinze jours qui suivent l'assemblée générale ordinaire, toute société par actions
+informe ses actionnaires du nombre total de droits de vote existant à cette date. Dans la mesure où, entre deux assemblées
+générales ordinaires, le nombre de droits de vote varie d'un pourcentage fixé par arrêté du ministre chargé de l'économie,
+par rapport au nombre déclaré antérieurement, la société, lorsqu'elle en a connaissance, informe ses actionnaires. 
 
-II. - Les sociétés dont des actions sont admises aux négociations sur un marché réglementé publient chaque mois le nombre
-total de droits de vote et le nombre d'actions composant le capital de la société s'ils ont varié par rapport à ceux publiés
+II.-Les sociétés dont des actions sont admises aux négociations sur un marché réglementé publient chaque mois le nombre total
+de droits de vote et le nombre d'actions composant le capital de la société s'ils ont varié par rapport à ceux publiés
 antérieurement, dans des conditions et selon des modalités fixées par le règlement général de l'Autorité des marchés
-financiers. Ces sociétés sont réputées remplir l'obligation prévue au I."
+financiers. Ces sociétés sont réputées remplir l'obligation prévue au I. " 
 
-"Art. L. 233-9. - I. - Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue
-au I de l'article L. 233-7 :
+" Art.L. 233-9.-I.-Sont assimilés aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au
+I de l'article L. 233-7 : 
 
-1° Les actions ou les droits de vote possédés par d'autres personnes pour le compte de cette personne ;
+1° Les actions ou les droits de vote possédés par d'autres personnes pour le compte de cette personne ; 
 
-2° Les actions ou les droits de vote possédés par les sociétés que contrôle cette personne au sens de l'article L. 233-3 ;
+2° Les actions ou les droits de vote possédés par les sociétés que contrôle cette personne au sens de l'article L. 233-3 ; 
 
-3° Les actions ou les droits de vote possédés par un tiers avec qui cette personne agit de concert ;
+3° Les actions ou les droits de vote possédés par un tiers avec qui cette personne agit de concert ; 
 
 4° Les actions ou les droits de vote que cette personne, ou l'une des personnes mentionnées aux 1° à 3° est en droit
-d'acquérir à sa seule initiative en vertu d'un accord ;
+d'acquérir à sa seule initiative en vertu d'un accord ; 
 
-5° Les actions dont cette personne a l'usufruit ;
+5° Les actions dont cette personne a l'usufruit ; 
 
 6° Les actions ou les droits de vote possédés par un tiers avec lequel cette personne a conclu un accord de cession
-temporaire portant sur ces actions ou droits de vote ;
+temporaire portant sur ces actions ou droits de vote ; 
 
 7° Les actions déposées auprès de cette personne, à condition que celle-ci puisse exercer les droits de vote qui leur sont
-attachés comme elle l'entend en l'absence d'instructions spécifiques des actionnaires ;
+attachés comme elle l'entend en l'absence d'instructions spécifiques des actionnaires ; 
 
 8° Les droits de vote que cette personne peut exercer librement en vertu d'une procuration en l'absence d'instructions
-spécifiques des actionnaires concernés.
+spécifiques des actionnaires concernés. 
 
-II. - Ne sont pas assimilées aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de
-l'article L. 233-7 :
+II.-Ne sont pas assimilées aux actions ou aux droits de vote possédés par la personne tenue à l'information prévue au I de
+l'article L. 233-7 : 
 
 1° Les actions détenues par les organismes de placement collectif en valeurs mobilières gérés par une société de gestion de
 portefeuille contrôlée par cette personne au sens de l'article L. 233-3, sauf exceptions prévues par le règlement général de
-l'Autorité des marchés financiers ;
+l'Autorité des marchés financiers ; 
 
 2° Les actions détenues dans un portefeuille géré par un prestataire de services d'investissement contrôlé par cette personne
 au sens de l'article L. 233-3, dans le cadre du service de gestion de portefeuille pour compte de tiers dans les conditions
-fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par le même règlement général."
+fixées par le règlement général de l'Autorité des marchés financiers, sauf exceptions prévues par le même règlement général.
+" 
 
-"Art. L. 233-10 - I. - Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou
-de céder des droits de vote, ou en vue d'exercer des droits de vote pour mettre en oeuvre une politique commune vis-à-vis de
-la société.
+" Art.L. 233-10-I.-Sont considérées comme agissant de concert les personnes qui ont conclu un accord en vue d'acquérir ou de
+céder des droits de vote ou en vue d'exercer les droits de vote, pour mettre en oeuvre une politique vis-à-vis de la
+société. 
 
-II. - Un tel accord est présumé exister :
+II.-Un tel accord est présumé exister : 
 
 1° Entre une société, le président de son conseil d'administration et ses directeurs généraux ou les membres de son
-directoire ou ses gérants ;
+directoire ou ses gérants ; 
 
-2° Entre une société et les sociétés qu'elle contrôle au sens de l'article L. 233-3 ;
+2° Entre une société et les sociétés qu'elle contrôle au sens de l'article L. 233-3 ; 
 
-3° Entre des sociétés contrôlées par la même ou les mêmes personnes ;
+3° Entre des sociétés contrôlées par la même ou les mêmes personnes ; 
 
-4° Entre les associés d'une société par actions simplifiée à l'égard des sociétés que celle-ci contrôle.
+4° Entre les associés d'une société par actions simplifiée à l'égard des sociétés que celle-ci contrôle ; 
 
-III. - Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par les lois et
-règlements."
+5° Entre le fiduciaire et le bénéficiaire d'un contrat de fiducie, si ce bénéficiaire est le constituant. 
+
+III.-Les personnes agissant de concert sont tenues solidairement aux obligations qui leur sont faites par les lois et
+règlements. " 
 
 " Art. L. 233-10-1 - En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont
 conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre.
 Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet
 de l'offre afin de faire échouer cette offre. "
 
-"Art. L. 233-11 - Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition
-d'actions admises aux négociations sur un marché réglementé et portant sur au moins 0,5 % du capital ou des droits de vote de
-la société qui a émis ces actions doit être transmise dans un délai de cinq jours de bourse à compter de la signature de la
-convention ou de l'avenant introduisant la clause concernée, à la société et à l'Autorité des marchés financiers. A défaut de
+" Art.L. 233-11-Toute clause d'une convention prévoyant des conditions préférentielles de cession ou d'acquisition d'actions
+admises aux négociations sur un marché réglementé et portant sur au moins 0, 5 % du capital ou des droits de vote de la
+société qui a émis ces actions doit être transmise dans un délai de cinq jours de bourse à compter de la signature de la
+convention ou de l'avenant introduisant la clause concernée, à la société et à l'Autorité des marchés financiers.A défaut de
 transmission, les effets de cette clause sont suspendus, et les parties déliées de leurs engagements, en période d'offre
-publique.
+publique. 
 
-La société et l'Autorité des marchés financiers doivent également être informées de la date à laquelle la clause prend fin.
+La société et l'Autorité des marchés financiers doivent également être informées de la date à laquelle la clause prend fin. 
 
 Les clauses des conventions conclues avant la date de publication de la loi n° 2001-420 du 15 mai 2001 relative aux nouvelles
 régulations économiques qui n'ont pas été transmises à l'Autorité des marchés financiers à cette date doivent lui être
 transmises, dans les mêmes conditions et avec les mêmes effets que ceux mentionnés au premier alinéa, dans un délai de six
-mois.
+mois. 
 
 Les informations mentionnées aux alinéas précédents sont portées à la connaissance du public dans les conditions fixées par
-le règlement général de l'Autorité des marchés financiers."
+le règlement général de l'Autorité des marchés financiers. " 
 
-"Art. L. 233-12 - Lorsqu'une société est contrôlée directement ou indirectement par une société par actions, elle notifie à
+" Art.L. 233-12-Lorsqu'une société est contrôlée directement ou indirectement par une société par actions, elle notifie à
 cette dernière et à chacune des sociétés participant à ce contrôle le montant des participations qu'elle détient directement
-ou indirectement dans leur capital respectif ainsi que les variations de ce montant.
+ou indirectement dans leur capital respectif ainsi que les variations de ce montant. 
 
 Les notifications sont faites dans le délai d'un mois à compter soit du jour où la prise de contrôle a été connue de la
 société pour les titres qu'elle détenait avant cette date, soit du jour de l'opération pour les acquisitions ou aliénations
-ultérieures."
+ultérieures. " 
 
-"Art. L. 233-10-1 - En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont
+" Art.L. 233-10-1-En cas d'offre publique d'acquisition, sont considérées comme agissant de concert les personnes qui ont
 conclu un accord avec l'auteur d'une offre publique visant à obtenir le contrôle de la société qui fait l'objet de l'offre.
 Sont également considérées comme agissant de concert les personnes qui ont conclu un accord avec la société qui fait l'objet
-de l'offre afin de faire échouer cette offre.
+de l'offre afin de faire échouer cette offre. 
 
-"Art. L. 233-13 - En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté
+" Art.L. 233-13-En fonction des informations reçues en application des articles L. 233-7 et L. 233-12, le rapport présenté
 aux actionnaires sur les opérations de l'exercice mentionne l'identité des personnes physiques ou morales détenant
 directement ou indirectement plus du vingtième, du dixième, des trois vingtièmes, du cinquième, du quart, du tiers, de la
 moitié, des deux tiers ou des dix-neuf vingtièmes du capital social ou des droits de vote aux assemblées générales. Il fait
@@ -26350,12 +26469,12 @@ moitié, des deux tiers ou des dix-neuf vingtièmes du capital social ou des dro
 part du capital de la société qu'elles détiennent. Il en est fait mention, le cas échéant, dans le rapport des commissaires
 aux comptes."
 
-"Art. L. 233-14 - A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7,
+" Art.L. 233-14-A défaut d'avoir été régulièrement déclarées dans les conditions prévues aux I et II de l'article L. 233-7,
 les actions excédant la fraction qui aurait dû être déclarée, lorsqu'elles sont admises aux négociations sur un marché
 réglementé ou sur un marché d'instruments financiers admettant aux négociations des actions pouvant être inscrites en compte
 chez un intermédiaire habilité dans les conditions prévues à l'article L. 211-4 du code monétaire et financier, sont privées
 du droit de vote pour toute assemblée d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la
-date de régularisation de la notification.
+date de régularisation de la notification. 
 
 Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n'ont pas été régulièrement déclarés ne peuvent
 être exercés ou délégués par l'actionnaire défaillant.
@@ -26363,14 +26482,14 @@ Dans les mêmes conditions, les droits de vote attachés à ces actions et qui n
 L'actionnaire qui n'aurait pas procédé à la déclaration prévue au VII de l'article L. 233-7 est privé des droits de vote
 attachés aux titres excédant la fraction du dixième ou du cinquième mentionnée au même alinéa pour toute assemblée
 d'actionnaires qui se tiendrait jusqu'à l'expiration d'un délai de deux ans suivant la date de régularisation de la
-notification.
+notification. 
 
 Le tribunal de commerce dans le ressort duquel la société a son siège social peut, le ministère public entendu, sur demande
 du président de la société, d'un actionnaire ou de l'Autorité des marchés financiers, prononcer la suspension totale ou
 partielle, pour une durée ne pouvant excéder cinq ans, de ses droits de vote à l'encontre de tout actionnaire qui n'aurait
 pas procédé aux déclarations prévues à l'article L. 233-7 ou qui n'aurait pas respecté le contenu de la déclaration prévue au
 VII de cet article pendant la période de douze mois suivant sa publication dans les conditions fixées par le règlement
-général de l'Autorité des marchés financiers."
+général de l'Autorité des marchés financiers. "
 
 **Liens relatifs à cet article**
 
@@ -26380,12 +26499,24 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-387 du 31 mars 2006 - art. 4
+  - Loi n°2007-211 2007-02-19 art. 18 1° JORF 21 février 2007
 
 _Cite_:
 
   - Code de commerce. - art. L228-1 (M)
   - Code de commerce. - art. L228-3-3 (M)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-10 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-10-1 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-11 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-12 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-13 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-14 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-7 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-8 (V)
+  - PILOTE_SUIVEUR: Code de commerce. - art. L233-9 (V)
 
 
 ##### Section 3 : Obligation d'information sur le rachat d'actions<a id=249></a>
@@ -39597,7 +39728,8 @@ réalisation des transactions concernant :
 
 5° La constitution, la gestion ou la direction des sociétés ;
 
-6° La constitution, la gestion ou la direction de fiducies de droit étranger ou de toute autre structure similaire.
+6° La constitution, la gestion ou la direction de fiducies régies par les articles 2011 à 2031 du code civil ou par un droit
+étranger ou de toute autre structure similaire.
 
 Les personnes mentionnées au 12 de l'article L. 562-1 dans l'exercice des activités relatives aux transactions visées ci-
 dessus et les experts-comptables lorsqu'ils effectuent des consultations juridiques conformément aux dispositions de
@@ -39636,6 +39768,7 @@ justice.
 _Cite_:
 
   - Ordonnance n°45-2138 du 19 septembre 1945 - art. 22 (M)
+  - Code civil 2011 à 2031
   - Code monétaire et financier - art. L562-2 (M)
   - Code monétaire et financier - art. L562-4 (M)
 
@@ -39653,7 +39786,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2006-64 du 23 janvier 2006 - art. 23 () JORF 24 janvier 2006
+  - Loi n°2007-211 du 19 février 2007 - art. 2 () JORF 21 février 2007
 
 
 ###### Article L562-3
@@ -45460,7 +45593,7 @@ règles relatives à l'exécution des transactions sur instruments financiers ad
 2° Les conditions dans lesquelles l'Autorité des marchés financiers, en application des articles L. 421-1 et L. 421-3,
 propose la reconnaissance ou le retrait de la qualité de marché réglementé d'instruments financiers ;
 
-3° Abrogé.
+3° Abrogé (voir nota) ;
 
 4° Les règles relatives à l'information de l'Autorité des marchés financiers et du public concernant les ordres et les
 transactions sur instruments financiers admis sur un marché réglementé.
@@ -45534,9 +45667,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-842 du 26 juillet 2005 - art. 26 () JORF 27 juillet 2005
-  - Loi n°2005-842 du 26 juillet 2005 - art. 29 () JORF 27 juillet 2005
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 17 () JORF 16 décembre 2005
+  - Loi n°2007-212 du 20 février 2007 - art. 9 (V)
 
 _Cite_:
 
@@ -45555,7 +45686,7 @@ _Cite_:
 
 **Liens**:
 
-  - SPEC_APPLI: Date de fin de vigueur indéterminée
+  - SPEC_APPLI: Date d'entrée en vigueur indéterminée
 
 
 ###### Article L621-7-1
