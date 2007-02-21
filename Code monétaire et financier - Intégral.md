@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-02-21
+Version Consolidée au 2007-02-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -53418,9 +53418,9 @@ Les services financiers de l'office des postes et télécommunications sont soum
 des finances.
 
 Le titre VI du livre V relatif à la lutte contre le blanchiment de capitaux, à l'exception de l'article L. 563-2, ainsi que
-les articles L. 574-1 et L. 574-2 sont applicables à l'office des postes et télécommunications. En cas de méconnaissance par
-l'office de ses obligations à ce titre, l'inspection générale des finances peut saisir la Commission bancaire pour faire
-prononcer une des sanctions prévues à l'article L. 613-21.
+le chapitre IV du titre VII du même livre sont applicables à l'office des postes et télécommunications. En cas de
+méconnaissance par l'office de ses obligations à ce titre, l'inspection générale des finances peut saisir la Commission
+bancaire pour faire prononcer une des sanctions prévues à l'article L. 613-21.
 
 **Liens relatifs à cet article**
 
@@ -53428,15 +53428,13 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-729 du 22 juillet 2004 - art. 1 () JORF 24 juillet 2004
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
   - Code monétaire et financier - art. L563-2 (M)
-  - Code monétaire et financier - art. L574-1 (M)
-  - Code monétaire et financier - art. L574-2 (M)
   - Code monétaire et financier - art. L611-1 (M)
   - Code monétaire et financier - art. L611-3 (M)
   - Code monétaire et financier - art. L611-4 (M)
@@ -53466,29 +53464,36 @@ _Créé par_:
 
 ###### Article L745-7-4
 
-Les articles L. 131-1 à L. 131-15, L. 131-31 à L. 131-38, premier alinéa, L. 131-44 et L. 131-45, L. 131-59 et L. 131-60, L.
-131-71 à L. 131-87, L. 163-1 à L. 163-10-1 et L. 712-5 sont applicables aux chèques postaux tirés sur l'office des postes et
-télécommunications.
+Les articles L. 131-1 à L. 131-15, L. 131-31 à L. 131-38, premier alinéa, L. 131-39 à L. 131-46, L. 131-56 et L. 131-57, L.
+131-59 et L. 131-60, L. 131-69 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, L.
+163-1 à L. 163-12 et L. 712-5 sont applicables aux chèques postaux tirés sur l'office des postes et télécommunications. 
 
-Les chèques postaux ne sont pas endossables.
+Les chèques postaux ne sont pas endossables. 
 
 En cas de refus de paiement, les chèques postaux font l'objet, en lieu et place du protêt, de l'établissement d'un certificat
 de non-paiement.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - L. 131-44 et L. 131-45, L. 131-59, L. 131-60, L. 131-71 à L. 131-87, L. 163-1 à L. 163-10-1 et L. 712-5
-  - Code monétaire et financier L131-1 à L131-15, L131-31 à L131-38
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-729 du 22 juillet 2004 - art. 1 () JORF 24 juillet 2004
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
+
+_Cite_:
+
+  - Code monétaire et financier - art. L131-1 (V)
+  - Code monétaire et financier - art. L131-31 (V)
+  - Code monétaire et financier - art. L131-39 (V)
+  - Code monétaire et financier - art. L131-56 (V)
+  - Code monétaire et financier - art. L131-59 (V)
+  - Code monétaire et financier - art. L131-69 (V)
+  - Code monétaire et financier - art. L131-71 (V)
+  - Code monétaire et financier - art. L163-1 (V)
+  - Code monétaire et financier - art. L712-5 (VT)
 
 
 ###### Article L745-7-5
@@ -55607,9 +55612,9 @@ Les services financiers de l'office des postes et télécommunications sont soum
 des finances.
 
 Le titre VI du livre V relatif à la lutte contre le blanchiment de capitaux, à l'exception de l'article L. 563-2, ainsi que
-les articles L. 574-1 et L. 574-2 sont applicables à l'office des postes et télécommunications. En cas de méconnaissance par
-l'office de ses obligations à ce titre, l'inspection générale des finances peut saisir la Commission bancaire pour faire
-prononcer une des sanctions prévues à l'article L. 613-21.
+le chapitre IV du titre VII du même livre sont applicables à l'office des postes et télécommunications. En cas de
+méconnaissance par l'office de ses obligations à ce titre, l'inspection générale des finances peut saisir la Commission
+bancaire pour faire prononcer une des sanctions prévues à l'article L. 613-21.
 
 **Liens relatifs à cet article**
 
@@ -55617,15 +55622,13 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-729 du 22 juillet 2004 - art. 2 () JORF 24 juillet 2004
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
   - Code monétaire et financier - art. L563-2 (M)
-  - Code monétaire et financier - art. L574-1 (M)
-  - Code monétaire et financier - art. L574-2 (M)
   - Code monétaire et financier - art. L611-1 (M)
   - Code monétaire et financier - art. L611-3 (M)
   - Code monétaire et financier - art. L611-4 (M)
@@ -55655,11 +55658,11 @@ _Créé par_:
 
 ###### Article L755-7-4
 
-Les articles L. 131-1 à L. 131-15, L. 131-31 à L. 131-38, premier alinéa, L. 131-44 et L. 131-45, L. 131-59 et L. 131-60, L.
-131-71 à L. 131-87, L. 163-1 à L. 163-10-1 et L. 712-5 sont applicables aux chèques postaux tirés sur l'office des postes et
-télécommunications.
+Les articles L. 131-1 à L. 131-15, L. 131-31 à L. 131-38, premier alinéa, L. 131-39 à L. 131-46, L. 131-56 et L. 131-57, L.
+131-59 et L. 131-60, L. 131-69 à L. 131-87, à l'exception de la seconde phrase du troisième alinéa de l'article L. 131-71, L.
+163-1 à L. 163-12 et L. 712-5 sont applicables aux chèques postaux tirés sur l'office des postes et télécommunications. 
 
-Les chèques postaux ne sont pas endossables.
+Les chèques postaux ne sont pas endossables. 
 
 En cas de refus de paiement, les chèques postaux font l'objet, en lieu et place du protêt, d'un certificat de non-paiement.
 
@@ -55669,13 +55672,21 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-729 du 22 juillet 2004 - art. 2 () JORF 24 juillet 2004
+  - Loi n°2007-224 du 21 février 2007 - art. 20 (V) JORF 22 février 2007
 
 _Cite_:
 
-  - Code monétaire et financier L131-1 à L131-15, L131-31 à L131-38
+  - Code monétaire et financier - art. L131-1 (V)
+  - Code monétaire et financier - art. L131-31 (V)
+  - Code monétaire et financier - art. L131-39 (V)
+  - Code monétaire et financier - art. L131-56 (V)
+  - Code monétaire et financier - art. L131-59 (V)
+  - Code monétaire et financier - art. L131-69 (V)
+  - Code monétaire et financier - art. L131-71 (V)
+  - Code monétaire et financier - art. L163-1 (V)
+  - Code monétaire et financier - art. L712-5 (VT)
 
 
 ###### Article L755-7-5
