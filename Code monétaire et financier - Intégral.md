@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-07-01
+Version Consolidée au 2007-08-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -974,7 +974,7 @@ Version Consolidée au 2007-07-01
                 - [Sous-paragraphe 8 : Règles particulières applicables aux organismes de placement collectif immobilier issus de sociétés civiles de placement immobilier. (art. D214-204 à R214-203)](#971)
               - [Paragraphe 2 : Dispositions comptables et financières. (art. D214-207 à R214-210)](#972)
               - [Paragraphe 3 : Evaluation des actifs immobiliers. (art. R214-211)](#973)
-            - [Sous-section 2 : Règles particulières relatives aux sociétés de placement à prépondérance immobilière à capital variable. (art. D214-212)](#974)
+            - [Sous-section 2 : Règles particulières relatives aux sociétés de placement à prépondérance immobilière à capital variable. (art. D214-212 à R214-212-1)](#974)
             - [Sous-section 4 : Organismes de placement collectif immobilier à règles de fonctionnement allégées. (art. D214-213 à R214-222)](#975)
               - [Paragraphe 1 : Dispositions communes (art. D214-213 à D214-214)](#976)
               - [Paragraphe 2 : Organismes de placement collectif immobilier à règles de fonctionnement allégées sans effet de levier (art. R214-215 à R214-217)](#977)
@@ -73714,6 +73714,37 @@ _Cite_:
   - Code monétaire et financier - art. R214-161 (V)
 
 
+###### Article R214-162-1
+
+I. - Les participations directes ou indirectes dans des organismes de droit étranger mentionnés au e du I de l'article L.
+214-92 ne sont éligibles à l'actif d'un organisme de placement collectif immobilier que si ces organismes établissent des
+comptes annuels et des comptes intermédiaires d'une fréquence au moins semestrielle.
+
+II. - Les participations directes ou indirectes détenues par un fonds de placement immobilier dans des fonds de placement
+immobilier ou dans des organismes de droit étranger ayant un objet équivalent et de forme similaire mentionnés à la dernière
+phrase du 1° de l'article L. 214-93 doivent satisfaire aux conditions prévues à l'article R. 214-162.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Créé par_:
+
+  - Décret n°2007-1206 du 10 août 2007 - art. 2 () JORF 12 août 2007
+
+_Abrogé par_:
+
+  - Décret n°2013-687 du 25 juillet 2013 - art. 8
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-92
+  - Code monétaire et financier - art. L214-93
+  - Code monétaire et financier - art. R214-162
+
+
 ###### Article R214-163
 
 Par dérogation à l'article R. 214-162, l'actif d'une société de placement à prépondérance immobilière à capital variable peut
@@ -75794,6 +75825,27 @@ _Cité par_:
   - Code monétaire et financier - art. D214-202 (Ab)
   - Code monétaire et financier - art. D214-205 (Ab)
   - Code monétaire et financier - art. D214-214 (V)
+
+
+###### Article R214-212-1
+
+Les articles R. 214-20-1 et R. 214-20-2 s'appliquent aux sociétés de placement à prépondérance immobilière à capital
+variable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+_Créé par_:
+
+  - Décret n°2007-1206 du 10 août 2007 - art. 2 () JORF 12 août 2007
+
+_Cite_:
+
+  - Code monétaire et financier - art. R214-20-1 (V)
+  - Code monétaire et financier - art. R214-20-2 (V)
 
 
 ##### Sous-section 4 : Organismes de placement collectif immobilier à règles de fonctionnement allégées.<a id=975></a>
