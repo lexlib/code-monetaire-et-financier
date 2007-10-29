@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-10-18
+Version Consolidée au 2007-10-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -6878,7 +6878,7 @@ _Cité par_:
 ###### Article L162-1
 
 La contrefaçon et la falsification des monnaies et des billets de banque, ainsi que le transport, la mise en circulation et
-la détention en vue de la mise en circulation de monnaies et de billets contrefaits ou falsifiés sont réprimés par les
+la détention en vue de la mise en circulation de monnaies et de billets contrefaisants ou falsifiés sont réprimés par les
 articles 442-1 à 442-15 du code pénal.
 
 **Liens relatifs à cet article**
@@ -6889,8 +6889,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 19 () JORF 7 mai 2005
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 20 () JORF 7 mai 2005
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 _Anciens textes_:
 
@@ -6900,16 +6899,16 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code pénal 442-1 à 442-15
+  - Code pénal - art. 442-1 (V)
 
 
 ###### Article L162-2
 
-Toute personne qui a reçu des signes monétaires contrefaits ou falsifiés a l'obligation de les remettre ou de les faire
+Toute personne qui a reçu des signes monétaires contrefaisants ou falsifiés a l'obligation de les remettre ou de les faire
 remettre à la Banque de France ou à la Monnaie de Paris, selon qu'il s'agit de billets de banque ou de monnaies métalliques.
 
 La Banque de France et la Monnaie de Paris sont habilitées à retenir et éventuellement à détruire les signes monétaires
-qu'elles reconnaissent comme contrefaits ou falsifiés.
+qu'elles reconnaissent comme contrefaisants ou falsifiés.
 
 **Liens relatifs à cet article**
 
@@ -6917,14 +6916,14 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Modifié par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V) JORF 27 décembre 2006
-
 _Cité par_:
 
   - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (VD)
   - Code monétaire et financier - art. L121-3 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 _Anciens textes_:
 
@@ -7026,9 +7025,9 @@ Est puni d'un emprisonnement de sept ans et d'une amende de 750 000 euros le fai
 
 1. De contrefaire ou de falsifier un chèque ;
 
-2. De faire ou de tenter de faire usage, en connaissance de cause, d'un chèque contrefait ou falsifié ;
+2. De faire ou de tenter de faire usage, en connaissance de cause, d'un chèque contrefaisant ou falsifié ;
 
-3. D'accepter, en connaissance de cause, de recevoir un chèque contrefait ou falsifié.
+3. D'accepter, en connaissance de cause, de recevoir un chèque contrefaisant ou falsifié.
 
 **Liens relatifs à cet article**
 
@@ -7046,13 +7045,13 @@ _Anciens textes_:
   - Décret-loi 1935-10-30 art. 67
   - Décret-loi du 30 octobre 1935 - art. 67 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2002 en vigueur le 1er janvier 2002
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 
 ###### Article L163-4
@@ -7061,21 +7060,26 @@ Est puni des peines prévues à l'article L. 163-3 le fait pour toute personne :
 
 1. De contrefaire ou de falsifier une carte de paiement ou de retrait ;
 
-2. De faire ou de tenter de faire usage, en connaissance de cause, d'une carte de paiement ou de retrait contrefaite ou
+2. De faire ou de tenter de faire usage, en connaissance de cause, d'une carte de paiement ou de retrait contrefaisante ou
 falsifiée ;
 
-3. D'accepter, en connaissance de cause, de recevoir un paiement au moyen d'une carte de paiement contrefaite ou falsifiée.
+3. D'accepter, en connaissance de cause, de recevoir un paiement au moyen d'une carte de paiement contrefaisante ou
+falsifiée.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret-loi du 30 octobre 1935 - art. 67-1 (Ab)
   - Décret-loi 1935-10-30 art. 67-1
+  - Décret-loi du 30 octobre 1935 - art. 67-1 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Loi n°2007-1544 du 29 octobre 2007 - art. 41 () JORF 30 octobre 2007
 
 _Cité par_:
 
@@ -7086,7 +7090,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L163-3 (M)
+  - Code monétaire et financier - art. L163-3
 
 
 ###### Article L163-4-1
