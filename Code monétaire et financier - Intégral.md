@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2007-11-22
+Version Consolidée au 2007-12-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -1216,9 +1216,9 @@ Version Consolidée au 2007-11-22
           - [Section 3 : Règles de fonctionnement (art. R612-2 à R612-5)](#1213)
         - [Chapitre III : Commission bancaire (art. R613-1 à R613-27)](#1214)
           - [Section 3 : Règles de fonctionnement (art. R613-1 à R613-2)](#1215)
-          - [Section 4 : Exercice du contrôle (art. D613-3 à R613-3-1)](#1216)
-            - [Sous-section 1 : Dispositions générales (art. D613-3)](#1217)
-            - [Sous-section 2 : Surveillance sur une base consolidée (art. R613-3-1)](#1218)
+          - [Section 4 : Exercice du contrôle (art. D613-3 à R613-3-2)](#1216)
+            - [Sous-section 1 : Dispositions générales (art. D613-3 à R613-3-1)](#1217)
+            - [Sous-section 2 : Surveillance sur une base consolidée (art. R613-3-2)](#1218)
           - [Section 5 : Exercice du pouvoir disciplinaire (art. R613-4 à R613-9)](#1219)
           - [Section 6 : Dispositions relatives au traitement des établissements de crédit et des entreprises d'investissement en difficulté (art. R613-10 à R613-27)](#1220)
             - [Sous-section 1 : Mesures spécifiques au redressement et à la liquidation judiciaires des établissements de crédit et des entreprises d'investissement (art. R613-10 à R613-23)](#1221)
@@ -94690,33 +94690,66 @@ _Cite_:
   - Code monétaire et financier - art. L613-13 (Ab)
 
 
-##### Sous-section 2 : Surveillance sur une base consolidée<a id=1218></a>
-
 ###### Article R613-3-1
 
+I.-Le secrétariat général de la Commission bancaire s'assure que les personnes auxquelles elle fait appel pour l'exercice de
+ses contrôles, en application des dispositions du second alinéa de l'article L. 613-7, ont les capacités et les ressources
+nécessaires à l'exécution effective de toutes leurs missions. 
+
+II.-Les conventions passées par la Commission bancaire avec les personnes mentionnées au I énoncent les missions à mener et
+précisent les conditions dans lesquelles elles doivent être exécutées. 
+
+Elles comportent une clause stipulant que ces personnes agissent et s'organisent de manière à éviter tout conflit d'intérêts
+et s'assurent que les informations obtenues dans l'exercice des missions qui leur sont confiées ne sont utilisées que pour
+l'accomplissement de celles-ci. 
+
+III.-Nul ne peut être habilité ou désigné pour effectuer un contrôle s'il a fait l'objet de l'une des condamnations
+mentionnées à l'article L. 500-1. 
+
+Nul ne peut être désigné pour effectuer un contrôle auprès d'une personne morale au sein de laquelle il a exercé une activité
+professionnelle, qu'il a conseillée ou sur laquelle il a effectué un contrôle relatif aux mêmes faits au cours des trois
+années précédentes.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2007-1685 du 29 novembre 2007 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 2
+
+_Cite_:
+
+  - Code monétaire et financier - art. L500-1
+  - Code monétaire et financier - art. L613-7
+
+
+##### Sous-section 2 : Surveillance sur une base consolidée<a id=1218></a>
+
+###### Article R613-3-2
+
 Lorsque la commission bancaire est saisie d'une demande d'autorisation en application de l'article L. 613-20-4, elle se
-prononce au plus tard dans un délai de six mois à compter de la réception du dossier complet de demande.
+prononce au plus tard dans un délai de six mois à compter de la réception du dossier complet de demande. 
 
 La commission bancaire transmet, dans les meilleurs délais, la demande aux autres autorités compétentes intéressées des Etats
 membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, et se concerte avec elles en vue
-de parvenir à une décision faisant l'objet d'un accord de leur part.
+de parvenir à une décision faisant l'objet d'un accord de leur part. 
 
 Dans le cas où un tel accord n'a pu être obtenu, elle tient compte dans la motivation de sa décision des avis et réserves des
 autres autorités. Cette décision est immédiatement notifiée au demandeur et aux autres autorités intéressées.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
 _Créé par_:
 
-  - Décret n°2007-745 du 9 mai 2007 - art. 3 () JORF 10 mai 2007
-
-_Transféré par_:
-
   - Décret n°2007-1685 du 29 novembre 2007 - art. 1
+
+_Cité par_:
+
+  - Décret n°2014-1280 du 23 octobre 2014 - art. (V)
+  - Code monétaire et financier - art. R736-1 (V)
 
 _Cite_:
 
