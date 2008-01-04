@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-01-01
+Version Consolidée au 2008-01-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -19797,6 +19797,13 @@ conditions et tarifs applicables à son compte de dépôt.
 II. - Sauf si la convention de compte en dispose autrement, toutes les opérations en crédit et en débit d'un compte de dépôt
 doivent être portées à la connaissance du client à intervalle régulier n'excédant pas un mois.
 
+Dans les mêmes conditions, au cours du mois de janvier de chaque année, est porté à la connaissance des personnes physiques
+et des associations un document distinct récapitulant le total des sommes perçues par l'établissement de crédit au cours de
+l'année civile précédente au titre de produits ou services dont ces personnes bénéficient dans le cadre de la gestion de leur
+compte de dépôt, y compris les intérêts perçus au titre d'une position débitrice de celui-ci. Ce récapitulatif distingue,
+pour chaque catégorie de produits ou services liés à la gestion du compte de dépôt, le sous-total des frais perçus et le
+nombre de produits ou services correspondant.
+
 III. - Le montant des frais bancaires consécutifs à un incident de paiement autre que le rejet d'un chèque est plafonné dans
 des conditions fixées par décret en fonction de la nature et du montant de l'incident, sans excéder en tout état de cause ce
 dernier montant.
@@ -19864,7 +19871,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-290 du 5 mars 2007 - art. 70 () JORF 6 mars 2007
+  - Loi n°2008-3 du 3 janvier 2008 - art. 24 (V)
 
 
 ###### Article L312-1-2
@@ -19935,24 +19942,25 @@ _Cite_:
 
 ###### Article L312-1-3
 
-I. - Tout établissement de crédit désigne un ou plusieurs médiateurs chargés de recommander des solutions aux litiges
-relatifs à l'application par les établissements de crédit des obligations figurant aux I des articles L. 312-1-1 et L.
-312-1-2. Les médiateurs sont choisis en raison de leur compétence et de leur impartialité.
+I.-Tout établissement de crédit désigne un ou plusieurs médiateurs chargés de recommander des solutions aux litiges avec des
+personnes physiques n'agissant pas pour des besoins professionnels, relatifs aux services fournis et à l'exécution de
+contrats conclus dans le cadre du présent titre et du titre II du présent livre et relatifs aux produits mentionnés aux
+titres Ier et II du livre II. Les médiateurs sont choisis en raison de leur compétence et de leur impartialité. 
 
 Le médiateur est tenu de statuer dans un délai de deux mois à compter de sa saisine. Celle-ci suspend la prescription pendant
 ce délai. Les constatations et les déclarations que le médiateur recueille ne peuvent être ni produites ni invoquées dans la
-suite de la procédure sans l'accord des parties. Cette procédure de médiation est gratuite. L'existence de la médiation et
-ses modalités d'accès doivent faire l'objet d'une mention portée sur la convention visée à l'article L. 312-1-1, ainsi que
-sur les relevés de compte.
+suite de la procédure sans l'accord des parties. Cette procédure de médiation est gratuite.L'existence de la médiation et ses
+modalités d'accès doivent faire l'objet d'une mention portée sur la convention visée à l'article L. 312-1-1, ainsi que sur
+les relevés de compte. 
 
 Le compte rendu annuel d'activité établi par chaque médiateur est transmis au gouverneur de la Banque de France et au
-président du comité consultatif institué à l'article L. 614-1.
+président du comité consultatif institué à l'article L. 614-1. 
 
-II. - Il est institué un comité de la médiation bancaire chargé d'examiner les rapports des médiateurs et d'établir chaque
+II.-Il est institué un comité de la médiation bancaire chargé d'examiner les rapports des médiateurs et d'établir chaque
 année un bilan de la médiation bancaire qu'il transmet au Comité consultatif du secteur financier. Ce comité est également
 chargé de préciser les modalités d'exercice de l'activité des médiateurs, en veillant notamment à garantir leur indépendance.
 Il est informé des modalités et du montant des indemnités et dédommagements versés aux médiateurs par les établissements de
-crédit. Ce comité peut adresser des recommandations aux établissements de crédit et aux médiateurs.
+crédit. Ce comité peut adresser des recommandations aux établissements de crédit et aux médiateurs. 
 
 Le comité de la médiation bancaire est présidé par le gouverneur de la Banque de France ou son représentant. Les autres
 membres sont nommés par arrêté du ministre chargé de l'économie, selon la répartition suivante : une personnalité proposée
@@ -19976,7 +19984,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 45 () JORF 7 mai 2005
+  - Loi n°2008-3 du 3 janvier 2008 - art. 23
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-866 du 15 juillet 2009 - art. 4
 
 _Cité par_:
 
@@ -19995,9 +20007,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L312-1-1 (M)
-  - Code monétaire et financier - art. L312-1-2 (M)
-  - Code monétaire et financier - art. L614-1 (M)
+  - Code monétaire et financier - art. L312-1-1 (VD)
+  - Code monétaire et financier - art. L614-1 (VD)
 
 
 ###### Article L312-1-4
