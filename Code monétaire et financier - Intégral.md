@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-01-05
+Version Consolidée au 2008-02-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -819,7 +819,7 @@ Version Consolidée au 2008-01-05
             - [Sous-section 3 : Election et rémunération du conseiller représentant le personnel. (art. R142-6 à R142-17)](#816)
           - [Section 3 : Le comité monétaire du conseil général. (art. R142-18)](#817)
           - [Section 4 : Le gouverneur et les sous-gouverneurs. (art. R142-19 à R142-20)](#818)
-          - [Section 5 : Le personnel de la banque. (art. R142-21)](#819)
+          - [Section 5 : Le personnel de la banque. (art. R142-21 à R142-21-1)](#819)
           - [Section 7 : Observatoire de la sécurité des cartes de paiement. (art. R142-22 à R142-27)](#820)
         - [Chapitre IV : Dispositions diverses (art. R144-1 à R144-14)](#821)
           - [Section 1 : Dispositions budgétaires et financières (art. R144-1 à R144-4)](#822)
@@ -65324,6 +65324,34 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
+
+
+###### Article R142-21-1
+
+En application du dernier alinéa de l'article L. 142-9 du présent code, le conseil général de la Banque de France établit le
+budget affecté chaque année aux dépenses sociales et culturelles. La contribution globale de la Banque de France à ces
+dépenses ne peut être inférieure à 2, 5 % de la masse salariale brute. Les dispositions de l'article R. 2323-35 du code du
+travail ne s'appliquent pas. Les modalités de répartition de cette contribution globale peuvent faire l'objet d'un accord
+d'entreprise.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3, en vigueur le 1er mai 2008 (V)
+
+_Créé par_:
+
+  - Décret n°2008-165 du 21 février 2008 - art. 1
+
+_Cité par_:
+
+  - Décret n°2015-715 du 23 juin 2015 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L142-9
+  - Code du travail - art. R2323-35 (V)
 
 
 ##### Section 7 : Observatoire de la sécurité des cartes de paiement.<a id=820></a>
