@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-07-05
+Version Consolidée au 2008-07-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -6094,13 +6094,13 @@ _Cite_:
 
 En application de l'article 106, paragraphe I, du traité instituant la Communauté européenne, accordant à la Banque centrale
 européenne le monopole d'autorisation d'émission de billets de banque dans la Communauté, la Banque de France est seule
-habilitée, sur le territoire de la France métropolitaine et des départements d'outre-mer, à émettre les billets ayant cours
-légal.
+habilitée, sur le territoire de la France métropolitaine       et des départements d'outre-mer ainsi que sur le territoire de
+Saint-Barthélemy et de Saint-Martin, à émettre les billets ayant cours légal. 
 
-Elle exerce cette compétence à Mayotte, à Saint-Pierre-et-Miquelon.
+Elle exerce cette compétence à Mayotte, à Saint-Pierre-et-Miquelon. 
 
 La Banque de France doit verser à l'Etat le solde non présenté à ses guichets de types de billets libellés en francs retirés
-de la circulation.
+de la circulation. 
 
 La Banque de France a pour mission d'assurer l'entretien de la monnaie fiduciaire et de gérer la bonne qualité de sa
 circulation sur l'ensemble du territoire.
@@ -6109,16 +6109,11 @@ circulation sur l'ensemble du territoire.
 
 _Anciens textes_:
 
-  - Loi n°93-980 1993-08-04 art. 5 al. 1, al. 2 et al. 4
   - Loi n°93-980 du 4 août 1993 - art. 5 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Modifié par_:
-
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
 
 _Cité par_:
 
@@ -6126,6 +6121,14 @@ _Cité par_:
   - Code monétaire et financier - art. L122-1 (V)
   - Code monétaire et financier - art. L711-1 (VD)
   - Code monétaire et financier - art. R123-3 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier
 
 
 ###### Article L141-6
@@ -12831,7 +12834,7 @@ mêmes conditions si l'activité était exercée en France, et qui remplissent l
 a) Exercer leurs activités principalement dans des établissements situés dans la zone géographique choisie par le fonds et
 limitée à une région ou deux ou trois régions limitrophes, ou, lorsque cette condition ne trouve pas à s'appliquer, y avoir
 établi leur siège social. Le fonds peut également choisir une zone géographique constituée d'un ou de plusieurs départements
-d'outre mer ;
+d'outre mer ainsi que de Saint-Barthélemy et de Saint-Martin ;
 
 b) Répondre à la définition des petites et moyennes entreprises figurant à l'annexe I au règlement (CE) n° 70/2001 de la
 Commission, du 12 janvier 2001, concernant l'application des articles 87 et 88 du traité CE aux aides d'Etat en faveur des
@@ -12922,7 +12925,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-882 du 2 août 2005 - art. 98 () JORF 3 août 2005
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 
 ##### Sous-section 14 : Fonds communs d'intervention sur les marchés à terme<a id=102></a>
@@ -26279,8 +26282,9 @@ _Modifié par_:
 
 Un marché réglementé est géré par une entreprise de marché. Celle-ci a la forme d'une société commerciale. Lorsque
 l'entreprise de marché gère un marché réglementé régi par les dispositions du présent code, son siège social et sa direction
-effective sont établis sur le territoire de la France métropolitaine ou des départements d'outre-mer. L'entreprise de marché
-doit satisfaire à tout moment aux dispositions législatives et réglementaires qui lui sont applicables.
+effective sont établis sur le territoire de la France métropolitaine ou des     départements d'outre-mer ou de Saint-
+Barthélemy ou de Saint-Martin.L'entreprise de marché doit satisfaire à tout moment aux dispositions législatives et
+réglementaires qui lui sont applicables.
 
 L'entreprise de marché effectue les actes afférents à l'organisation et l'exploitation de chaque marché réglementé qu'elle
 gère. Elle veille à ce que chaque marché réglementé qu'elle gère remplisse en permanence les exigences qui lui sont
@@ -26294,13 +26298,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -27043,10 +27045,10 @@ _Cité par_:
 
 Les prestataires de services d'investissement agréés dans un Etat membre de la Communauté européenne ou dans un Etat partie à
 l'accord sur l'Espace économique européen autre que la France en vue de l'exécution d'ordres pour le compte de tiers ou de la
-négociation pour compte propre peuvent devenir membres d'un marché réglementé mentionné à l'article L. 421-1 :
+négociation pour compte propre peuvent devenir membres d'un marché réglementé mentionné à l'article L. 421-1 : 
 
 a) Soit directement, en établissant une succursale sur le territoire de la France métropolitaine ou des départements d'outre
-mer ;
+mer ou à Saint-Barthélemy ou à Saint-Martin ; 
 
 b) Soit en devenant membres à distance de ce marché.
 
@@ -27056,9 +27058,13 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L421-1 (V)
 
 _Cité par_:
 
@@ -27143,23 +27149,25 @@ _Cite_:
 
 ###### Article L422-1
 
-I. - Tout marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+I.-Tout marché réglementé d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
 économique européen qui fonctionne sans requérir la présence effective de personnes physiques peut offrir, sur le territoire
-de la France métropolitaine et des départements d'outre-mer, les moyens d'accès à ce marché.
+de la France métropolitaine et des     départements d'outre-mer et de Saint-Barthélemy et de Saint-Martin, les moyens d'accès
+à ce marché. 
 
-II. - Lorsque l'Autorité des marchés financiers a des raisons claires et démontrables d'estimer qu'un marché réglementé d'un
+II.-Lorsque l'Autorité des marchés financiers a des raisons claires et démontrables d'estimer qu'un marché réglementé d'un
 autre Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui offre
-des moyens d'accès sur le territoire de la France métropolitaine et des départements d'outre-mer enfreint les obligations qui
-lui incombent, elle en fait part à l'autorité compétente de l'Etat d'origine dudit marché réglementé.
+des moyens d'accès sur le territoire de la France métropolitaine et des     départements d'outre-mer et de Saint-Barthélemy
+et de Saint-Martin enfreint les obligations qui lui incombent, elle en fait part à l'autorité compétente de l'Etat d'origine
+dudit marché réglementé. 
 
 Si, en dépit des mesures prises par l'autorité compétente de l'Etat d'origine ou en raison du caractère inadéquat de ces
 mesures, le marché réglementé continue de fonctionner d'une manière clairement préjudiciable aux intérêts des investisseurs
 ou au fonctionnement ordonné des marchés en France, l'Autorité des marchés financiers, après en avoir informé l'autorité
 compétente de l'Etat d'origine, prend toutes les mesures appropriées requises pour protéger les investisseurs ou pour
 préserver le bon fonctionnement des marchés. Elle peut notamment interdire à ce marché réglementé de mettre ses moyens
-d'accès à la disposition de membres à distance établis sur le territoire de la France métropolitaine et des départements
-d'outre-mer. L'Autorité des marchés financiers notifie sa décision, dûment motivée, au marché réglementé concerné. Elle en
-informe sans délai la Commission européenne.
+d'accès à la disposition de membres à distance établis sur le territoire de la France métropolitaine et des     départements
+d'outre-mer et de Saint-Barthélemy et de Saint-Martin.L'Autorité des marchés financiers notifie sa décision, dûment motivée,
+au marché réglementé concerné. Elle en informe sans délai la Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -27217,7 +27225,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 
 #### Chapitre III : Marchés étrangers reconnus<a id=236></a>
@@ -27412,11 +27420,11 @@ _Cité par_:
 
 ###### Article L424-4
 
-Toute personne qui gère en France métropolitaine ou dans les départements d'outre-mer un système multilatéral de négociation,
-qui fonctionne sans requérir la présence effective de personnes physiques, communique à l'Autorité des marchés financiers le
-nom des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen
-dans lesquels elle compte fournir des moyens d'accès à son système. L'Autorité des marchés financiers communique cette
-information à l'autorité compétente de l'Etat concerné.
+Toute personne qui gère en France métropolitaine ou dans les     départements d'outre-mer ou à Saint-Barthélemy ou à Saint-
+Martin un système multilatéral de négociation, qui fonctionne sans requérir la présence effective de personnes physiques,
+communique à l'Autorité des marchés financiers le nom des Etats membres de la Communauté européenne ou des autres Etats
+parties à l'accord sur l'Espace économique européen dans lesquels elle compte fournir des moyens d'accès à son
+système.L'Autorité des marchés financiers communique cette information à l'autorité compétente de l'Etat concerné.
 
 A la demande de l'autorité compétente de l'Etat d'accueil du système multilatéral de négociation et dans un délai
 raisonnable, l'Autorité des marchés financiers lui communique l'identité des membres du système multilatéral de négociation
@@ -27428,9 +27436,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -27576,7 +27584,8 @@ _Créé par_:
 
 Tout système multilatéral de négociation d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
 l'accord sur l'Espace économique européen qui fonctionne sans requérir la présence effective de personnes physiques peut
-offrir, sur le territoire de la France métropolitaine et des départements d'outre-mer, les moyens d'accès à ce système.
+offrir, sur le territoire de la France métropolitaine et des départements d'outre-mer et de Saint-Barthélemy et de Saint-
+Martin, les moyens d'accès à ce système.
 
 **Liens relatifs à cet article**
 
@@ -27584,9 +27593,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -29252,22 +29261,22 @@ Etat partie à l'accord sur l'Espace économique européen ;
 engagements, à condition que ces membres ou associés soient des établissements ou entreprises mentionnés aux 1 et 2 ci-
 dessus ;
 
-4. Les personnes morales ayant leur siège social en France métropolitaine ou dans les départements d'outre-mer et dont
-l'objet principal ou unique est la compensation d'instruments financiers ;
+4. Les personnes morales ayant leur siège social en France métropolitaine ou dans les départements d'outre-mer ou à Saint-
+Barthélemy ou à Saint-Martin et dont l'objet principal ou unique est la compensation d'instruments financiers ;
 
 5. Dans des conditions fixées par le règlement général de l'Autorité des marchés financiers, les établissements de crédit, et
 les entreprises d'investissement, qui ont leur siège social dans un Etat qui n'est ni membre de la Communauté européenne ni
 partie à l'accord sur l'Espace économique européen, ainsi que les personnes morales ayant pour objet principal ou unique
 l'activité de compensation d'instruments financiers qui ne sont pas établis sur le territoire de la France métropolitaine ou
-des départements d'outre-mer.
+des départements d'outre-mer ou à Saint-Barthélemy ou à Saint-Martin. 
 
 Les organismes mentionnés aux 1 à 4 sont soumis, pour leur activité de compensation d'instruments financiers, aux obligations
 législatives et réglementaires et aux règles de contrôle et de sanction fixées par le présent code pour les prestataires de
 services d'investissement. Les personnes morales mentionnées aux 3 et 4 sont soumises aux règles d'agrément fixées par le
 présent code pour les entreprises d'investissement. Les personnes morales mentionnées aux 1 et 2 qui ont leur siège social en
-France métropolitaine ou dans les départements d'outre-mer et qui souhaitent compenser les transactions d'autres membres d'un
-marché réglementé ou d'un système multilatéral de négociation font l'objet d'une habilitation délivrée dans le cadre de leur
-agrément d'établissement de crédit ou d'entreprise d'investissement.
+France métropolitaine ou dans les départements d'outre-mer ou à Saint-Barthélémy ou à Saint-martin et qui souhaitent
+compenser les transactions d'autres membres d'un marché réglementé ou d'un système multilatéral de négociation font l'objet
+d'une habilitation délivrée dans le cadre de leur agrément d'établissement de crédit ou d'entreprise d'investissement.
 
 Les organismes mentionnés au 5° doivent être soumis dans leur Etat d'origine à des règles d'exercice de l'activité de
 compensation et de contrôle équivalentes à celles en vigueur en France. L'Autorité des marchés financiers exerce à l'égard de
@@ -29316,9 +29325,9 @@ _Cité par_:
   - Code monétaire et financier - art. L764-11 (VD)
   - Code monétaire et financier - art. R533-2 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 3 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Anciens textes_:
 
@@ -32205,10 +32214,10 @@ _Cite_:
 
 Dans la limite des services qu'il est habilité à fournir sur le territoire d'un Etat membre autre que la France où il a son
 siège social et en fonction de l'agrément qu'il y a reçu, tout établissement de crédit peut, sur le territoire de la France
-métropolitaine et des départements d'outre-mer, établir des succursales pour fournir des services bancaires et intervenir en
-libre prestation de services dans les conditions définies à l'article L. 511-24, sous réserve que le comité des
-établissements de crédit et des entreprises d'investissement ait préalablement été informé par l'autorité compétente de
-l'Etat membre, dans des conditions fixées par le ministre chargé de l'économie.
+métropolitaine et des     départements d'outre-mer de Saint-Barthélemy et de Saint-Martin, établir des succursales pour
+fournir des services bancaires et intervenir en libre prestation de services dans les conditions définies à l'article L.
+511-24, sous réserve que le comité des établissements de crédit et des entreprises d'investissement ait préalablement été
+informé par l'autorité compétente de l'Etat membre, dans des conditions fixées par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -32241,7 +32250,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 
 ###### Article L511-23
@@ -32249,10 +32258,10 @@ _Modifié par_:
 Dans la limite des services qu'il est habilité à fournir sur le territoire d'un Etat membre autre que la France où il a son
 siège social, tout établissement financier ayant obtenu des autorités compétentes de cet Etat membre une attestation
 certifiant qu'il remplit les conditions requises à cet effet par ces autorités peut, sur le territoire de la France
-métropolitaine et des départements d'outre-mer, établir des succursales pour fournir des services bancaires et intervenir en
-libre prestation de services dans les conditions définies à l'article L. 511-24, sous réserve que le comité des
-établissements de crédit et des entreprises d'investissement ait préalablement été informé par l'autorité compétente de
-l'Etat membre, dans des conditions fixées par le ministre chargé de l'économie.
+métropolitaine et des départements d'outre-mer de Saint-Barthélemy et de Saint-Martin, établir des succursales pour fournir
+des services bancaires et intervenir en libre prestation de services dans les conditions définies à l'article L. 511-24, sous
+réserve que le comité des établissements de crédit et des entreprises d'investissement ait préalablement été informé par
+l'autorité compétente de l'Etat membre, dans des conditions fixées par le ministre chargé de l'économie.
 
 **Liens relatifs à cet article**
 
@@ -32266,7 +32275,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 46 (V) JORF 2 août 2003
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -41160,7 +41169,8 @@ _Codifié par_:
 Dans la limite des services qu'elle est autorisée à fournir sur le territoire de son Etat d'origine, et en fonction de
 l'agrément qu'elle y a reçu, toute personne morale ou physique agréée pour fournir des services d'investissement peut, sans
 préjudice des dispositions des articles L. 511-21 à L. 511-26, fournir des services d'investissement et des services connexes
-en libre prestation de services sur le territoire de la France métropolitaine et des départements d'outre-mer.
+en libre prestation de services sur le territoire de la France métropolitaine et des départements d'outre-mer de Saint-
+Barthélemy et de Saint-Martin.
 
 Pour l'application des articles L. 213-3, L. 421-17 à L. 421-19, L. 431-7, L. 531-10, L. 621-17-2 à L. 621-17-7 et L.
 621-18-1, les personnes mentionnées à l'alinéa précédent sont assimilées à des prestataires de services d'investissement.
@@ -41202,7 +41212,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier
+  - Code monétaire et financier - art. L213-3
+  - Code monétaire et financier - art. L431-7
+  - Code monétaire et financier - art. L621-18-1
 
 
 ###### Article L532-18-1
@@ -41210,15 +41227,16 @@ _Modifié par_:
 Dans la limite des services qu'elle est autorisée à fournir sur le territoire de son Etat d'origine, et en fonction de
 l'agrément qu'elle y a reçu, toute personne morale ou physique agréée pour fournir des services d'investissement peut, sans
 préjudice des dispositions des articles L. 511-21 à L. 511-28, établir des succursales pour fournir des services
-d'investissement et des services connexes sur le territoire de la France métropolitaine et des départements d'outre-mer.
+d'investissement et des services connexes sur le territoire de la France métropolitaine et des départements d'outre-mer de
+Saint-Barthélemy et de Saint-Martin.
 
 Pour l'application des articles L. 213-3, L. 421-17 à L. 421-19, L. 431-7, L. 432-20, L. 531-10, du 5 de l'article L. 533-10,
 des articles L. 621-17-2 à L. 621-17-7 et L. 621-18-1, les personnes mentionnées à l'alinéa précédent sont assimilées à des
 prestataires de services d'investissement.
 
 Lorsqu'un prestataire de services d'investissement ayant son siège social dans un autre Etat membre recourt à des agents liés
-mentionnés à l'article L. 545-1, établis sur le territoire de la France métropolitaine et des départements d'outre-mer, ces
-agents sont assimilés à une succursale.
+mentionnés à l'article L. 545-1, établis sur le territoire de la France métropolitaine et des départements d'outre-mer de
+Saint-Barthélemy et de Saint-Martin, ces agents sont assimilés à une succursale.
 
 **Liens relatifs à cet article**
 
@@ -41253,14 +41271,24 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 4 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier
+  - Code monétaire et financier - art. L213-3
+  - Code monétaire et financier - art. L431-7
+  - Code monétaire et financier - art. L432-20
+  - Code monétaire et financier - art. L533-10
+  - Code monétaire et financier - art. L621-18-1
 
 
 ###### Article L532-18-2
 
 Les dispositions des articles L. 425-2, L. 533-1, L. 533-6, L. 533-9, L. 533-11 à L. 533-20, du premier alinéa de l'article
 L. 533-23, des articles L. 533-24 et L. 632-16 s'appliquent aux succursales mentionnées à l'article L. 532-18-1 pour ce qui
-concerne les services fournis sur le territoire de la France métropolitaine et des départements d'outre-mer.
+concerne les services fournis sur le territoire de la France métropolitaine et des départements d'outre-mer de Saint-
+Barthélemy et de Saint-Martin.
 
 **Liens relatifs à cet article**
 
@@ -41270,7 +41298,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 4 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L425-2 (V)
+  - Code monétaire et financier - art. L532-18-1 (V)
+  - Code monétaire et financier - art. L533-1 (V)
+  - Code monétaire et financier - art. L533-11 (V)
+  - Code monétaire et financier - art. L533-23 (V)
+  - Code monétaire et financier - art. L533-24 (V)
+  - Code monétaire et financier - art. L533-6 (V)
+  - Code monétaire et financier - art. L533-9 (V)
+  - Code monétaire et financier - art. L632-16 (V)
 
 _Cité par_:
 
@@ -41287,11 +41327,12 @@ communication de toutes informations utiles à l'exercice de cette surveillance.
 
 Après information préalable de l'Autorité des marchés financiers, qui informe le cas échéant la Commission bancaire,
 l'autorité compétente de l'Etat membre d'origine d'un prestataire de service d'investissement ayant des succursales situées
-sur le territoire de la France métropolitaine et des départements d'outre-mer peut, dans le cadre de ses missions de
-surveillance, procéder à des vérifications sur place de cette succursale, directement ou par l'intermédiaire de personnes que
-cette autorité mandate spécialement à cet effet. Les résultats de ces contrôles sont communiqués à l'Autorité des marchés
-financiers sans que les règles relatives au secret professionnel puissent être opposées. L'Autorité des marchés financiers
-informe, le cas échéant, la Commission bancaire des contrôles ci-mentionnés et de leurs résultats.
+sur le territoire de la France métropolitaine et des départements d'outre-mer de Saint-Barthélemy et de Saint-Martin peut,
+dans le cadre de ses missions de surveillance, procéder à des vérifications sur place de cette succursale, directement ou par
+l'intermédiaire de personnes que cette autorité mandate spécialement à cet effet. Les résultats de ces contrôles sont
+communiqués à l'Autorité des marchés financiers sans que les règles relatives au secret professionnel puissent être opposées.
+L'Autorité des marchés financiers informe, le cas échéant, la Commission bancaire des contrôles ci-mentionnés et de leurs
+résultats.
 
 En outre, la commission bancaire et l'Autorité des marchés financiers procèdent, le cas échéant, aux vérifications
 sollicitées par les autorités compétentes de l'Etat d'origine.
@@ -41309,7 +41350,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L532-18-1
 
 _Cité par_:
 
@@ -41326,15 +41371,14 @@ des rapports périodiques sur les activités de leur succursale.
 
 L'Autorité des marchés financiers peut exiger des succursales mentionnées à l'article L. 532-18-1 qu'elles lui transmettent
 les informations nécessaires pour lui permettre de vérifier qu'elles se conforment aux dispositions qui leur sont applicables
-sur le territoire de la France métropolitaine et des départements d'outre-mer, pour les cas prévus à l'article L. 532-18-2.
-Les obligations ainsi imposées à ces succursales ne peuvent être plus strictes que celles qui sont applicables aux
-prestataires de services d'investissement mentionnés à l'article L. 531-1.
+sur le territoire de la France métropolitaine et des départements d'outre-mer de Saint-Barthélemy et de Saint-Martin, pour
+les cas prévus à l'article L. 532-18-2. Les obligations ainsi imposées à ces succursales ne peuvent être plus strictes que
+celles qui sont applicables aux prestataires de services d'investissement mentionnés à l'article L. 531-1.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 79 II
   - Loi n°96-597 du 2 juillet 1996 - art. 79 (Ab)
 
 _Codifié par_:
@@ -41343,7 +41387,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L531-1
+  - Code monétaire et financier - art. L532-18-1
+  - Code monétaire et financier - art. L532-18-2
 
 _Cité par_:
 
@@ -41354,8 +41404,9 @@ _Cité par_:
 
 Lorsque la Commission bancaire ou l'Autorité des marchés financiers a des raisons claires et démontrables d'estimer qu'un
 prestataire de services d'investissement opérant dans le cadre du régime de la libre prestation de services ou possédant une
-succursale sur le territoire de la France métropolitaine et des départements d'outre-mer enfreint les obligations légales ou
-réglementaires pour lesquelles l'autorité de l'Etat d'origine est compétente, elle en fait part à cette autorité.
+succursale sur le territoire de la France métropolitaine et des départements d'outre-mer de Saint-Barthélemy et de Saint-
+Martin enfreint les obligations légales ou réglementaires pour lesquelles l'autorité de l'Etat d'origine est compétente, elle
+en fait part à cette autorité.
 
 Si, en dépit des mesures prises par l'autorité compétente de l'Etat d'origine ou en raison du caractère inadéquat de ces
 mesures, le prestataire de services d'investissement concerné continue d'agir d'une manière clairement préjudiciable aux
@@ -41363,13 +41414,13 @@ intérêts des investisseurs résidant ou établis en France ou au fonctionnemen
 l'Autorité des marchés financiers, selon le cas, après en avoir informé l'autorité compétente de l'Etat d'origine, prend
 toutes les mesures requises pour protéger les investisseurs et préserver le bon fonctionnement des marchés, y compris, le cas
 échéant, l'interdiction faite au prestataire concerné de continuer à fournir des services sur le territoire de la France
-métropolitaine et des départements d'outre-mer. La Commission européenne est informée de l'adoption de ces mesures.
+métropolitaine et des départements d'outre-mer de Saint-Barthélemy et de Saint-Martin. La Commission européenne est informée
+de l'adoption de ces mesures.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 79 III
   - Loi n°96-597 du 2 juillet 1996 - art. 79 (Ab)
 
 _Codifié par_:
@@ -41378,7 +41429,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -41388,10 +41439,10 @@ _Cité par_:
 ###### Article L532-21-1
 
 Lorsque la Commission bancaire ou l'Autorité des marchés financiers constate qu'un prestataire de services d'investissement
-ayant une succursale sur le territoire de la France métropolitaine ou des départements d'outre-mer ne respecte pas les
-dispositions des articles L. 425-2, L. 533-1, L. 533-8, L. 533-9, L. 533-11 à L. 533-16, L. 533-18, L. 533-19, L. 533-24 et
-L. 632-16 ou les dispositions réglementaires prises pour leur application, elle exige que ce prestataire mette fin à cette
-situation irrégulière.
+ayant une succursale sur le territoire de la France métropolitaine ou des départements d'outre-mer de Saint-Barthélemy et de
+Saint-Martin ne respecte pas les dispositions des articles L. 425-2, L. 533-1, L. 533-8, L. 533-9, L. 533-11 à L. 533-16, L.
+533-18, L. 533-19, L. 533-24 et L. 632-16 ou les dispositions réglementaires prises pour leur application, elle exige que ce
+prestataire mette fin à cette situation irrégulière.
 
 Si le prestataire de services d'investissement concerné ne prend pas les dispositions nécessaires, la Commission bancaire ou
 l'Autorité des marchés financiers, selon le cas, prend toutes les mesures appropriées pour qu'il mette fin à cette situation
@@ -41401,9 +41452,9 @@ Si, en dépit des mesures prises conformément au deuxième alinéa, le prestata
 enfreindre les dispositions législatives ou réglementaires mentionnées au premier alinéa, la Commission bancaire ou
 l'Autorité des marchés financiers, selon le cas, peut, après en avoir informé les autorités compétentes de l'Etat d'origine,
 prendre les mesures appropriées pour prévenir ou sanctionner de nouvelles irrégularités et, au besoin, interdire à ce
-prestataire de continuer à fournir des services sur le territoire de la France métropolitaine et des départements d'outre-
-mer. La Commission bancaire ou l'Autorité des marchés financiers notifie sa décision, dûment motivée, au prestataire
-concerné. Elle en informe la Commission européenne.
+prestataire de continuer à fournir des services sur le territoire de la France métropolitaine et des départements d'outre-mer
+de Saint-Barthélemy et de Saint-Martin. La Commission bancaire ou l'Autorité des marchés financiers notifie sa décision,
+dûment motivée, au prestataire concerné. Elle en informe la Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -41411,9 +41462,21 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier
+  - Code monétaire et financier - art. L425-2
+  - Code monétaire et financier - art. L533-1
+  - Code monétaire et financier - art. L533-18
+  - Code monétaire et financier - art. L533-19
+  - Code monétaire et financier - art. L533-24
+  - Code monétaire et financier - art. L533-8
+  - Code monétaire et financier - art. L533-9
+  - Code monétaire et financier - art. L632-16
 
 _Cité par_:
 
@@ -41451,9 +41514,10 @@ _Cite_:
 ###### Article L532-23
 
 Tout prestataire de services d'investissement ayant son siège social sur le territoire de la France métropolitaine et des
-départements d'outre mer et autorisé à fournir des services d'investissement en application de l'article L. 532-1 qui veut
-établir une succursale dans un autre Etat membre notifie son projet au Comité des établissements de crédit et des entreprises
-d'investissement et à l'Autorité des marchés financiers selon des règles fixées par décret en Conseil d'Etat.
+départements d'outre mer de Saint-Barthélemy et de Saint-Martin et autorisé à fournir des services d'investissement en
+application de l'article L. 532-1 qui veut établir une succursale dans un autre Etat membre notifie son projet au Comité des
+établissements de crédit et des entreprises d'investissement et à l'Autorité des marchés financiers selon des règles fixées
+par décret en Conseil d'Etat.
 
 Ce projet ainsi que les informations prévues à l'article L. 533-23 assurant la protection des clients de la succursale sont
 transmis, dans les trois mois de leur réception, à l'autorité de l'Etat membre d'accueil qui a été désignée comme point de
@@ -41481,7 +41545,6 @@ marché réglementé.
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 75 I 1°
   - Loi n°96-597 du 2 juillet 1996 - art. 75 (Ab)
 
 _Codifié par_:
@@ -41512,16 +41575,22 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 4 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L532-1
+  - Code monétaire et financier - art. L533-23
+  - Directive 2004-39 CE 2004-04-21 art. 56
 
 
 ###### Article L532-24
 
 Tout prestataire de services d'investissement ayant son siège social sur le territoire de la France métropolitaine et des
-départements d'outre-mer et autorisé à fournir des services d'investissement en application de l'article L. 532-1, qui veut
-exercer ses activités sur le territoire d'un autre Etat membre en libre prestation de services, le déclare au comité des
-établissements de crédit et des entreprises d'investissement et à l'Autorité des marchés financiers dans les conditions et
-selon des modalités fixées par décret en Conseil d'Etat.
+départements d'outre-mer de Saint-Barthélemy et de Saint-Martin et autorisé à fournir des services d'investissement en
+application de l'article L. 532-1, qui veut exercer ses activités sur le territoire d'un autre Etat membre en libre
+prestation de services, le déclare au comité des établissements de crédit et des entreprises d'investissement et à l'Autorité
+des marchés financiers dans les conditions et selon des modalités fixées par décret en Conseil d'Etat.
 
 Le Comité des établissements de crédit et des entreprises d'investissement et l'Autorité des marchés financiers communiquent
 cette déclaration à l'autorité compétente de l'Etat membre d'accueil qui a été désignée comme point de contact dans un délai
@@ -41532,7 +41601,6 @@ dans l'Etat membre d'accueil les services d'investissement déclarés.
 
 _Anciens textes_:
 
-  - Loi n°96-597 1996-07-02 art. 75 I 2°
   - Loi n°96-597 du 2 juillet 1996 - art. 75 (Ab)
 
 _Codifié par_:
@@ -41541,7 +41609,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 4 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -41549,6 +41617,10 @@ _Cité par_:
   - Code monétaire et financier - art. D532-23-3 (VD)
   - Code monétaire et financier - art. L532-50 (VD)
   - Code monétaire et financier - art. L541-8 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L532-1
 
 
 ###### Article L532-25
@@ -43407,14 +43479,14 @@ _Cité par_:
 
 ###### Article L545-5
 
-Tout agent lié établi en France métropolitaine ou dans les départements d'outre-mer se fait déclarer auprès de l'autorité qui
-a agréé le prestataire mandant ou, si cette autorité n'est pas en France, auprès de celle qui a reçu la déclaration de libre
-établissement. La déclaration est adressée par le prestataire mandant pour enregistrement au fichier mentionné à l'article L.
-341-7 en cette qualité d'agent lié.
+Tout agent lié établi en France métropolitaine ou dans les     départements d'outre-mer ou à Saint-Barthélemy ou à Saint-
+Martin se fait déclarer auprès de l'autorité qui a agréé le prestataire mandant ou, si cette autorité n'est pas en France,
+auprès de celle qui a reçu la déclaration de libre établissement. La déclaration est adressée par le prestataire mandant pour
+enregistrement au fichier mentionné à l'article L. 341-7 en cette qualité d'agent lié. 
 
 Lorsqu'un prestataire de services d'investissement agréé en France recourt à un agent lié établi dans un Etat d'accueil qui
 n'autorise pas les prestataires de services d'investissement qui y sont agréés à faire appel à de tels agents, cet agent lié
-est également inscrit dans le fichier mentionné à l'article L. 341-7 en cette qualité.
+est également inscrit dans le fichier mentionné à l'article L. 341-7 en cette qualité. 
 
 Un prestataire de services d'investissement ne fait enregistrer un agent lié qu'après s'être assuré de son honorabilité et de
 ses connaissances professionnelles.
@@ -43425,10 +43497,6 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Modifié par_:
-
-  - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 4 () JORF 19 octobre 2007 en vigueur le 1er novembre 2007
-
 _Cité par_:
 
   - Ordonnance n°2007-1490 du 18 octobre 2007 - art. 12 (V)
@@ -43438,6 +43506,14 @@ _Cité par_:
   - Code monétaire et financier - art. L745-11-4 (V)
   - Code monétaire et financier - art. L755-11-4 (V)
   - Code monétaire et financier - art. L765-11-4 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L341-7
 
 
 ###### Article L545-6
@@ -48652,13 +48728,14 @@ _Cité par_:
 
 ###### Article L613-31-3
 
-Sous réserve des dispositions des articles L. 613-31-5 et L. 613-31-6 :
+Sous réserve des dispositions des articles L. 613-31-5 et L. 613-31-6 : 
 
 1° Les mesures d'assainissement et de liquidation décidées par les autorités compétentes d'un Etat membre autre que la France
 à l'égard d'un établissement de crédit ayant son siège sur le territoire de cet Etat produisent tous leurs effets en France
-métropolitaine et dans les départements d'outre-mer sans aucune autre formalité, y compris à l'égard des tiers, dès qu'elles
-produisent leurs effets dans cet Etat. Il en va de même lorsque ces mesures sont prises à l'égard d'une succursale d'un
-établissement de crédit ayant son siège social hors de l'Espace économique européen ;
+métropolitaine et dans les     départements d'outre-mer ainsi qu'à Saint-Barthélemy et à Saint-Martin sans aucune autre
+formalité, y compris à l'égard des tiers, dès qu'elles produisent leurs effets dans cet Etat. Il en va de même lorsque ces
+mesures sont prises à l'égard d'une succursale d'un établissement de crédit ayant son siège social hors de l'Espace
+économique européen ; 
 
 2° Lorsqu'elles sont prises par l'autorité publique française compétente à l'égard d'un établissement de crédit agréé en
 France ou d'une succursale en France d'un établissement ayant son siège social hors de l'Espace économique européen, ces
@@ -48667,17 +48744,13 @@ d'autres Etats membres.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°99-532 1999-06-25 art. 92 I
-
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -48874,8 +48947,8 @@ _Créé par_:
 ###### Article L613-31-9
 
 L'administrateur ou liquidateur désigné par l'autorité compétente d'un autre Etat membre est habilité à exercer en France
-métropolitaine et dans les départements d'outre-mer tous les pouvoirs qu'il est habilité à exercer sur le territoire de cet
-Etat.
+métropolitaine et dans les départements d'outre-mer ainsi qu'à Saint-Barthélemy et à Saint-Martin tous les pouvoirs qu'il est
+habilité à exercer sur le territoire de cet Etat.
 
 Dans l'exercice de ces pouvoirs, l'administrateur ou le liquidateur respecte la loi française, en particulier pour ce qui
 concerne les modalités de réalisation des biens ou l'information des salariés. Ces pouvoirs ne peuvent pas inclure des
@@ -48886,19 +48959,13 @@ dans les Etats membres sur lesquels sont établies les succursales de l'établis
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°99-532 1999-06-25 art. 92 I
-
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2004-1127 du 21 octobre 2004 - art. 1 () JORF 22 octobre 2004
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 
 ###### Article L613-31-10
@@ -52558,19 +52625,19 @@ _Cite_:
 
 ###### Article L632-6
 
-I. - Lorsque la Commission bancaire ou l'Autorité des marchés financiers a des motifs raisonnables de soupçonner que des
-actes enfreignant les dispositions applicables aux prestataires de services d'investissement, aux marchés réglementés ou aux
+I.-Lorsque la Commission bancaire ou l'Autorité des marchés financiers a des motifs raisonnables de soupçonner que des actes
+enfreignant les dispositions applicables aux prestataires de services d'investissement, aux marchés réglementés ou aux
 entreprises de marché ont été commis sur le territoire d'un autre Etat membre de la Communauté européenne ou d'un autre Etat
 partie à l'accord sur l'Espace économique européen par des entités qui ne sont pas soumises à sa surveillance, elle en
-informe l'autorité compétente de cet autre Etat d'une manière aussi circonstanciée que possible.
+informe l'autorité compétente de cet autre Etat d'une manière aussi circonstanciée que possible. 
 
-II. - Lorsque la Commission bancaire ou l'Autorité des marchés financiers est informée par une autorité d'un autre Etat
-membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen que des actes
-enfreignant les dispositions applicables aux prestataires de service d'investissement, aux marchés réglementés ou aux
-entreprises de marché sont susceptibles d'avoir été commis sur le territoire de la France métropolitaine ou des départements
-d'outre-mer par une entité non soumise à la surveillance de cette autorité, elle prend les mesures appropriées. Elle
-communique les résultats de son intervention à l'autorité compétente qui l'a informée et, dans la mesure du possible, lui
-communique les éléments importants intervenus dans l'intervalle.
+II.-Lorsque la Commission bancaire ou l'Autorité des marchés financiers est informée par une autorité d'un autre Etat membre
+de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen que des actes enfreignant
+les dispositions applicables aux prestataires de service d'investissement, aux marchés réglementés ou aux entreprises de
+marché sont susceptibles d'avoir été commis sur le territoire de la France métropolitaine ou des     départements d'outre-mer
+ou de Saint-Barthélemy ou de Saint-Martin par une entité non soumise à la surveillance de cette autorité, elle prend les
+mesures appropriées. Elle communique les résultats de son intervention à l'autorité compétente qui l'a informée et, dans la
+mesure du possible, lui communique les éléments importants intervenus dans l'intervalle.
 
 **Liens relatifs à cet article**
 
@@ -52578,9 +52645,9 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -52759,13 +52826,13 @@ _Cite_:
 Lorsque l'Autorité des marchés financiers reçoit des comptes rendus de transactions conformément à l'article L. 533-9, elle
 transmet ces informations à l'autorité compétente du marché le plus pertinent en termes de liquidité pour l'instrument
 financier considéré, lorsque ce marché est situé dans un autre Etat membre de la Communauté européenne ou dans un autre Etat
-partie à l'accord sur l'Espace économique européen.
+partie à l'accord sur l'Espace économique européen. 
 
 Lorsque l'Autorité des marchés financiers reçoit des comptes rendus de transactions d'une succursale en France métropolitaine
-ou dans les départements d'outre-mer de prestataires de services d'investissement ayant leur siège dans un autre Etat membre
-de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen, elle les communique à
-l'autorité compétente de l'Etat d'origine de la succursale. Toutefois, elle est dispensée de cette communication si cette
-dernière autorité indique qu'elle ne souhaite pas les recevoir.
+ou dans les départements d'outre-mer ou à Saint-Barthélemy ou à Saint-Martin de prestataires de services d'investissement
+ayant leur siège dans un autre Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen, elle les communique à l'autorité compétente de l'Etat d'origine de la succursale. Toutefois, elle est
+dispensée de cette communication si cette dernière autorité indique qu'elle ne souhaite pas les recevoir.
 
 **Liens relatifs à cet article**
 
@@ -52773,9 +52840,13 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2007-544 du 12 avril 2007 - art. 5 () JORF 13 avril 2007 en vigueur le 1er novembre 2007
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L533-9 (V)
 
 
 ##### Section 2 : Autres dispositions<a id=489></a>
@@ -53802,17 +53873,16 @@ _Cite_:
 ###### Article L711-1
 
 Les signes monétaires ayant cours légal et pouvoir libératoire en France métropolitaine ont cours légal et pouvoir
-libératoire dans les départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion ainsi qu'à Mayotte et à
-Saint-Pierre-et-Miquelon. Les billets sont émis par la Banque de France dans les conditions fixées par les articles L. 122-1
-et L. 141-5. Les monnaies métalliques sont mises en circulation dans les conditions fixées par l'article L. 711-3.
+libératoire dans les départements de la Guadeloupe, de la Guyane, de la Martinique, de la Réunion à Saint-Barthélemy et à
+Saint-Martin ainsi qu'à Mayotte et à Saint-Pierre-et-Miquelon. Les billets sont émis par la Banque de France dans les
+conditions fixées par les articles L. 122-1 et L. 141-5. Les monnaies métalliques sont mises en circulation dans les
+conditions fixées par l'article L. 711-3.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°72-650 1972-07-11 art. 21 II al. 1
   - Loi n°72-650 du 11 juillet 1972 - art. 21 (V)
-  - Loi n°74-1114 1974-12-27 art. 17 I
   - Loi n°74-1114 du 27 décembre 1974 - art. 17 (V)
 
 _Codifié par_:
@@ -53821,8 +53891,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 85 () JORF 7 mai 2005
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -53832,6 +53901,11 @@ _Cité par_:
   - Code monétaire et financier - art. L711-4 (VD)
   - Code monétaire et financier - art. L711-5 (VD)
   - Code monétaire et financier - art. R711-10 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L122-1 (V)
+  - Code monétaire et financier - art. L141-5 (VT)
 
 
 ##### Section 2 : L'institut d'émission des départements d'outre-mer<a id=510></a>
@@ -54030,9 +54104,9 @@ _Cité par_:
 
 ###### Article L711-8
 
-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion ainsi qu'à Mayotte et à Saint-Pierre-
-et-Miquelon, l'institut d'émission des départements d'outre-mer exerce, en liaison avec la Banque de France, les attributions
-dévolues à celle-ci aux articles L. 131-85 et L. 131-86.
+Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion à Saint-Barthélemy et à Saint-Martin
+ainsi qu'à Mayotte et à Saint-Pierre-et-Miquelon, l'institut d'émission des départements d'outre-mer exerce, en liaison avec
+la Banque de France, les attributions dévolues à celle-ci aux articles L. 131-85 et L. 131-86.
 
 **Liens relatifs à cet article**
 
@@ -54046,8 +54120,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 85 () JORF 7 mai 2005
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
 
 _Cité par_:
 
@@ -54574,25 +54647,22 @@ _Cité par_:
 ###### Article L721-4
 
 Les dispositions prévues aux articles L. 721-2 et L. 721-3 ne s'appliquent pas aux relations financières entre, d'une part,
-Saint-Pierre-et-Miquelon et, d'autre part, le territoire métropolitain, la Guadeloupe, la Guyane, la Martinique, la Réunion,
-Mayotte, les îles Wallis et Futuna, la Nouvelle-Calédonie et la Polynésie française.
+Saint-Pierre-et-Miquelon et, d'autre part, le territoire métropolitain, la Guadeloupe, la Guyane, la Martinique, la Réunion
+Saint-Barthélemy, Saint-Martin, Mayotte, les îles Wallis et Futuna, la Nouvelle-Calédonie et la Polynésie française.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Ordonnance 98-525 1998-06-24 art. 4 I C
-
 _Codifié par_:
 
-  - Ordonnance 2000-1223 2000-12-14 JORF 16 décembre 2000
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-  - Loi n°2003-591 2003-07-02 art. 31 I JORF 3 juillet 2003
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 86 () JORF 7 mai 2005
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 95 () JORF 7 mai 2005
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L721-2 (V)
 
 
 #### Chapitre II : Les produits<a id=522></a>
@@ -55093,12 +55163,19 @@ Saint-Martin, Saint-Pierre-et-Miquelon, les îles Wallis et Futuna, la Nouvelle-
 
 _Codifié par_:
 
-  - 2000-1223
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
 _Modifié par_:
 
-  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 3
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2013-79 du 25 janvier 2013 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L731-3 (VT)
 
 
 ###### Article L731-6
@@ -56173,13 +56250,9 @@ _Cité par_:
 
 Les dispositions prévues aux articles L. 741-4 et L. 741-5 ne s'appliquent pas aux relations financières entre, d'une part,
 la Nouvelle-Calédonie et, d'autre part, le territoire métropolitain, la Guadeloupe, la Guyane, la Martinique, la Réunion,
-Mayotte, Saint-Pierre-et-Miquelon, la Polynésie française et les îles Wallis et Futuna.
+Saint-Barthélemy, Saint-Martin, Mayotte, Saint-Pierre-et-Miquelon, la Polynésie française et les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 98-525 1998-06-24 art. 4 I C
 
 _Codifié par_:
 
@@ -56187,7 +56260,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 95 () JORF 7 mai 2005
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L741-4 (V)
 
 
 #### Chapitre II : Les produits<a id=548></a>
@@ -58411,13 +58488,9 @@ _Cité par_:
 
 Les dispositions prévues aux articles L. 751-4 et L. 751-5 ne s'appliquent pas aux relations financières entre, d'une part,
 la Polynésie française et, d'autre part, le territoire métropolitain, la Guadeloupe, la Guyane, la Martinique, la Réunion,
-Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-Calédonie et les îles Wallis et Futuna.
+Saint-Barthélemy, Saint-Martin, Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-Calédonie et les îles Wallis et Futuna.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 98-525 1998-06-24 art. 4 I C
 
 _Codifié par_:
 
@@ -58425,7 +58498,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 95 () JORF 7 mai 2005
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L751-4 (V)
 
 
 #### Chapitre II : Les produits<a id=629></a>
@@ -60689,13 +60766,9 @@ _Cité par_:
 
 Les dispositions prévues aux articles L. 761-3 et L. 761-4 ne s'appliquent pas aux relations financières entre, d'une part,
 les îles Wallis et Futuna et, d'autre part, le territoire métropolitain, la Guadeloupe, la Guyane, la Martinique, la Réunion,
-Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-Calédonie et la Polynésie française.
+Saint-Barthélemy, Saint-Martin, Mayotte, Saint-Pierre-et-Miquelon, la Nouvelle-Calédonie et la Polynésie française.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 98-525 1998-06-24 art. 4 I C
 
 _Codifié par_:
 
@@ -60703,7 +60776,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-387 du 31 mars 2006 - art. 26 (V) JORF 1 avril 2006
+  - Ordonnance n°2008-698 du 11 juillet 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L761-3 (V)
 
 
 #### Chapitre II : Les produits<a id=710></a>
