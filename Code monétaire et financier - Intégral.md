@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-07-25
+Version Consolidée au 2008-07-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
