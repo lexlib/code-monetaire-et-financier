@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-09-06
+Version Consolidée au 2008-09-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -1152,7 +1152,7 @@ Version Consolidée au 2008-09-06
           - [Section 1 : Missions (art. R612-1)](#1149)
           - [Section 3 : Règles de fonctionnement (art. R612-2 à R612-5)](#1150)
         - [Chapitre III : Commission bancaire (art. R613-1 à R613-27)](#1151)
-          - [Section 3 : Règles de fonctionnement (art. R613-1 à R613-2)](#1152)
+          - [Section 3 : Règles de fonctionnement (art. R613-1 à R613-2-1)](#1152)
           - [Section 4 : Exercice du contrôle (art. D613-3 à R613-3-2)](#1153)
             - [Sous-section 1 : Dispositions générales (art. D613-3 à R613-3-1)](#1154)
             - [Sous-section 2 : Surveillance sur une base consolidée (art. R613-3-2)](#1155)
@@ -95263,6 +95263,52 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
+###### Article R612-4-1
+
+Le comité des établissements de crédit et des entreprises d'investissement assure la publication par voie électronique des
+informations suivantes : 
+
+1° Les orientations, méthodes et critères généraux qu'il met en œuvre et applique pour les besoins de la surveillance
+prudentielle, notamment les modalités d'exercice des facultés prévues par la législation communautaire en matière
+prudentielle ; 
+
+2° Les solutions retenues par la France, parmi les options ouvertes par la législation communautaire en matière prudentielle,
+notamment dans le cadre de la transposition des directives 2006 / 48 / CE et 2006 / 49 / CE du 14 juin 2006 ; 
+
+3° Le texte des dispositions législatives et réglementaires dont le comité des établissements de crédit et des entreprises
+d'investissement fait application ; 
+
+4° Des données statistiques agrégées sur les principaux aspects de la mise en œuvre de la surveillance prudentielle. 
+
+Ces informations doivent permettre une comparaison utile des approches adoptées par les autorités compétentes en matière de
+surveillance prudentielle des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique
+européen. 
+
+Ces informations sont accessibles sur le site du comité, à partir d'une adresse électronique unique, commune avec celle
+prévue à l'article R. 613-2-1.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel, à l'exception de son article 11 (9 mars 2010).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-922 du 11 septembre 2008 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2010-217 du 3 mars 2010 - art. 1
+
+_Cité par_:
+
+  - Code monétaire et financier - art. R511-3-3 (V)
+  - Code monétaire et financier - art. R532-8-2 (V)
+  - Code monétaire et financier - art. R613-2-1 (T)
+
+
 ###### Article R612-5
 
 La juridiction compétente pour connaître des décisions du Comité des établissements de crédit et des entreprises
@@ -95342,6 +95388,39 @@ _Cité par_:
   - Code monétaire et financier - art. R746-3 (V)
   - Code monétaire et financier - art. R756-3 (V)
   - Code monétaire et financier - art. R766-3 (V)
+
+
+###### Article R613-2-1
+
+La commission bancaire assure la publication par voie électronique des informations suivantes : 
+
+1° Les orientations, méthodes et critères généraux qu'elle met en œuvre et applique pour les besoins de la surveillance
+prudentielle, notamment les modalités d'exercice des facultés prévues par la législation communautaire en matière
+prudentielle ; 
+
+2° Les solutions retenues par la France, parmi les options ouvertes par la législation communautaire en matière prudentielle,
+notamment dans le cadre de la transposition des directives 2006 / 48 / CE et 2006 / 49 / CE du 14 juin 2006 ; 
+
+3° Le texte des dispositions législatives et réglementaires dont la commission bancaire fait application ; 
+
+4° Des données statistiques agrégées sur les principaux aspects de la mise en œuvre de la surveillance prudentielle. 
+
+Ces informations doivent permettre une comparaison utile des approches adoptées par les autorités compétentes en matière de
+surveillance prudentielle des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique
+européen. 
+
+Ces informations sont accessibles sur le site de la commission, à partir d'une adresse électronique unique, commune avec
+celle prévue à l'article R. 612-4-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-922 du 11 septembre 2008 - art. 2
+
+_Cité par_:
+
+  - Code monétaire et financier - art. R612-4-1 (Ab)
 
 
 ##### Section 4 : Exercice du contrôle<a id=1153></a>
