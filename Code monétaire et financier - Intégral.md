@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-10-11
+Version Consolidée au 2008-10-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -80444,26 +80444,18 @@ _Cite_:
 
 Les dépôts collectés au titre du régime d'épargne populaire sont centralisés et versés à un fonds géré par la Caisse des
 dépôts et consignations dans des conditions fixées par une convention passée entre le ministre chargé de l'économie et le
-directeur général de cet établissement.
+directeur général de cet établissement. 
 
 Une fraction de l'encours de ces dépôts peut toutefois être laissée au libre emploi des établissements collecteurs à
 condition que ces derniers prennent en charge un pourcentage équivalent du montant total des rémunérations à servir aux
 déposants et qu'ils s'engagent à ne pas se référer dans leurs opérations de crédit au montant de la rémunération servie au
-compte sur livret d'épargne populaire. Cette fraction ne peut excéder 15 % de l'encours des dépôts.
+compte sur livret d'épargne populaire. Cette fraction ne peut excéder 30 % de l'encours des dépôts.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Décret n°82-454 du 28 mai 1982 - art. 22 (Ab)
-
-_Codifié par_:
-
-  - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
-
-_Modifié par_:
-
-  - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 _Cité par_:
 
@@ -80474,6 +80466,10 @@ _Cité par_:
   - Décret n°2013-688 du 30 juillet 2013 (V)
   - Code monétaire et financier - art. R221-59 (Ab)
   - Code monétaire et financier - art. R221-60 (Ab)
+
+_Modifié par_:
+
+  - Décret n°2008-1057 du 15 octobre 2008 - art. 1
 
 
 ##### Paragraphe 3 : Dispositions relatives à la centralisation et à la gestion des fonds collectés.<a id=957></a>
