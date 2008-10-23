@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-10-21
+Version Consolidée au 2008-10-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -94,7 +94,7 @@ Version Consolidée au 2008-10-21
             - [Sous-section 3 : Règles particulières aux fonds communs de placement (art. L214-20 à L214-32)](#91)
             - [Sous-section 4 : Organismes de placement collectif en valeurs mobilières à compartiments (art. L214-33)](#92)
             - [Sous-section 5 : Organismes de placement collectif en valeurs mobilières maîtres et nourriciers (art. L214-34)](#93)
-            - [Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs (art. L214-35 à L214-35-6)](#94)
+            - [Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs (art. L214-34-1 à L214-35-6)](#94)
               - [Paragraphe 1er : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées. (art. L214-35 à L214-35-1)](#95)
               - [Paragraphe 2 : Organismes de placement collectif en valeurs mobilières contractuels. (art. L214-35-2 à L214-35-6)](#96)
             - [Sous-section 10 : Fonds communs de placement à risques (art. L214-36 à L214-38-2)](#97)
@@ -889,8 +889,8 @@ Version Consolidée au 2008-10-21
               - [Paragraphe 2 : Règles applicables aux organismes de placement collectif en valeurs mobilières d'organismes de placement collectif en valeurs mobilières non coordonnés. (art. R214-26)](#886)
             - [Sous-section 7 : Organismes de placement collectif en valeurs mobilières à formule. (art. R214-27)](#887)
             - [Sous-section 8 : Organismes de placement collectif en valeurs mobilières indiciels. (art. R214-28)](#888)
-            - [Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs. (art. R214-29 à R214-37)](#889)
-              - [Paragraphe 1 : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées. (art. R214-29 à R214-37)](#890)
+            - [Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs. (art. D214-28-1 à R214-37)](#889)
+              - [Paragraphe 1 : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées. (art. D214-28-1 à R214-37)](#890)
                 - [Sous-paragraphe 1 : Règles applicables aux organismes de placement collectif en valeurs mobilières à règles d'investissement allégées sans effet de levier. (art. R214-29 à R214-31)](#891)
                 - [Sous-paragraphe 2 : Règles applicables aux organismes de placement collectif en valeurs mobilières à règles d'investissement allégées à effet de levier. (art. R214-32 à R214-35)](#892)
                 - [Sous-paragraphe 3 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières de fonds alternatifs. (art. R214-36 à R214-37)](#893)
@@ -9964,7 +9964,7 @@ I.-Les organismes de placements collectifs sont :
 
 1. Les organismes de placement collectif en valeurs mobilières ; 
 
-2. Les   organismes de titrisation  ; 
+2. Les organismes de titrisation ; 
 
 3. Les sociétés civiles de placement immobilier. 
 
@@ -9972,21 +9972,26 @@ I.-Les organismes de placements collectifs sont :
 
 5. Les organismes de placement collectif immobilier. 
 
-II.-Tout organisme de placement collectif doit, préalablement à sa commercialisation sur le territoire de la République
-française, faire l'objet d'une autorisation délivrée par l'Autorité des marchés financiers. Un décret définit les conditions
-de délivrance de cette autorisation.
+II.-    Tout organisme de placement collectif ou fonds d'investissement constitué sur le fondement d'un droit étranger autre
+que de type fermé doit, préalablement à sa commercialisation sur le territoire de la République française, faire l'objet
+d'une autorisation délivrée par l'Autorité des marchés financiers. Un décret définit les conditions de délivrance de cette
+autorisation.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Loi n°96-597 du 2 juillet 1996 - art. 2 (Ab)
+
 _Cité par_:
 
-  - Décret n°89-624 du 6 septembre 1989 - art. 14 (Ab)
   - Décret n°2004-569 du 18 juin 2004 - art. 29 (M)
-  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
   - Arrêté du 12 novembre 2004 - art. 411-131 (V)
   - Arrêté du 12 novembre 2004 - art. 411-133 (V)
   - Arrêté du 12 novembre 2004 - art. 411-135 (M)
   - Arrêté du 12 novembre 2004 - art. 411-51 (V)
+  - Décret n°89-624 du 6 septembre 1989 - art. 14 (Ab)
+  - Ordonnance n°2004-823 du 19 août 2004 - art. 4 (VD)
   - Ordonnance n°2009-394 du 9 avril 2009 - art. 1 (V)
   - Ordonnance n°2009-884 du 22 juillet 2009 - art. 2 (V)
   - Décret n°2011-922 du 1er août 2011 (V)
@@ -10033,21 +10038,17 @@ _Cité par_:
   - Code monétaire et financier - art. R214-67 (V)
   - Code monétaire et financier - art. R214-77 (V)
 
-_Anciens textes_:
+_Nouveaux textes_:
 
-  - Loi n°96-597 du 2 juillet 1996 - art. 2 (Ab)
+  - Code monétaire et financier art. L543-1
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Nouveaux textes_:
-
-  - Code monétaire et financier art. L543-1
-
 _Modifié par_:
 
-  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 1
 
 
 ##### Section 1 : Les organismes de placement collectif en valeurs mobilières<a id=88></a>
@@ -10466,6 +10467,12 @@ L'Autorité des marchés financiers définit les conditions dans lesquelles les 
 mobilières doivent informer leurs souscripteurs et peuvent faire l'objet de publicité, en particulier audiovisuelle, ou de
 démarchage.
 
+Les statuts ou le règlement des organismes de placement collectif en valeurs mobilières ainsi que les documents destinés à
+l'information de leurs porteurs de parts ou actions sont rédigés en français. Toutefois, dans des conditions fixées par le
+règlement général de l'Autorité des marchés financiers, ils peuvent être rédigés dans une langue usuelle en matière
+financière autre que le français, sous réserve que cette langue soit compréhensible par les investisseurs auxquels
+l'information est destinée.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -10475,10 +10482,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
-
-_Modifié par_:
-
-  - Loi n°2003-706 du 1 août 2003 - art. 51 () JORF 2 août 2003
 
 _Cité par_:
 
@@ -10492,6 +10495,10 @@ _Cité par_:
   - Code monétaire et financier - art. L341-11 (V)
   - Code monétaire et financier - art. L533-13-1 (VD)
   - Code monétaire et financier - art. R533-15 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 1
 
 
 ###### Article L214-13
@@ -10641,64 +10648,65 @@ _Cité par_:
 
 ###### Article L214-17
 
-Par dérogation aux dispositions des titres II et III du livre II du code de commerce :
+Par dérogation aux dispositions des titres II et III du livre II et du titre II du livre VIII du code de commerce : 
 
-1. Les actions sont intégralement libérées dès leur émission ;
+1. Les actions sont intégralement libérées dès leur émission ; 
 
-2. Tout apport en nature est apprécié sous sa responsabilité par le commissaire aux comptes ;
+2. Tout apport en nature est apprécié sous sa responsabilité par le commissaire aux comptes ; 
 
-3. L'assemblée générale ordinaire peut se tenir sans qu'un quorum soit requis ; il en est de même, sur deuxième convocation,
-de l'assemblée générale extraordinaire ;
+3.L'assemblée générale ordinaire peut se tenir sans qu'un quorum soit requis ; il en est de même, sur deuxième convocation,
+de l'assemblée générale extraordinaire ; 
 
 4. Une même personne physique peut exercer simultanément cinq mandats de directeur général, de membre du directoire ou de
 directeur général unique de SICAV ayant leur siège sur le territoire français. Les mandats de directeur général, de membre du
 directoire ou de directeur général unique exercés au sein d'une SICAV ne sont pas pris en compte pour les règles de cumul
-visées au livre II du code de commerce ;
+visées au livre II du code de commerce ; 
 
 4 bis. Les mandats de représentant permanent d'une personne morale au conseil d'administration ou de surveillance d'une SICAV
 ne sont pas pris en compte pour l'application des dispositions des articles L. 225-21, L. 225-77 et L. 225-94-1 du code de
-commerce ;
+commerce ; 
 
 5. Le commissaire aux comptes est désigné pour six exercices par le conseil d'administration ou le directoire, après accord
-de l'Autorité des marchés financiers.
+de l'Autorité des marchés financiers. La désignation d'un commissaire aux comptes suppléant n'est pas requise. 
 
-Le commissaire aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers.
+Le commissaire aux comptes est délié du secret professionnel à l'égard de l'Autorité des marchés financiers. 
 
 Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à l'Autorité des marchés financiers tout fait ou
 décision concernant une société d'investissement à capital variable dont il a eu connaissance dans l'exercice de sa mission,
-de nature :
+de nature : 
 
 a) A constituer une violation des dispositions législatives ou réglementaires applicables à cette société et susceptible
-d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
+d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ; 
 
-b) A porter atteinte à la continuité de son exploitation ;
+b) A porter atteinte à la continuité de son exploitation ; 
 
-c) A entraîner l'émission de réserves ou le refus de la certification des comptes.
+c) A entraîner l'émission de réserves ou le refus de la certification des comptes. 
 
 La responsabilité du commissaire aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles
 il procède en exécution des obligations imposées par le présent article.
 
 L'Autorité des marchés financiers peut également transmettre aux commissaires aux comptes des sociétés d'investissement à
 capital variable les informations nécessaires à l'accomplissement de leur mission. Les informations transmises sont couvertes
-par la règle du secret professionnel ;
+par la règle du secret professionnel ; 
 
 6. La mise en paiement des produits distribuables doit avoir lieu dans le délai d'un mois après la tenue de l'assemblée
-générale ayant approuvé les comptes de l'exercice ;
+générale ayant approuvé les comptes de l'exercice ; 
 
-7. L'assemblée générale extraordinaire qui décide une transformation, fusion ou scission, donne pouvoir au conseil
+7.L'assemblée générale extraordinaire qui décide une transformation, fusion ou scission, donne pouvoir au conseil
 d'administration ou au directoire d'évaluer les actifs et de déterminer la parité de l'échange à une date qu'elle fixe ; ces
 opérations s'effectuent sous le contrôle du commissaire aux comptes sans qu'il soit nécessaire de désigner un commissaire à
 la fusion ; l'assemblée générale est dispensée d'approuver les comptes si ceux-ci sont certifiés par le commissaire aux
-comptes ;
+comptes ; 
 
-8. En cas d'augmentation de capital, les actionnaires n'ont pas de droit préférentiel de souscription aux actions nouvelles ;
+8. En cas d'augmentation de capital, les actionnaires n'ont pas de droit préférentiel de souscription aux actions
+nouvelles ; 
 
 9. Les statuts contiennent l'évaluation des apports en nature. Il y est procédé au vu d'un rapport qui leur est annexé et qui
-est établi sous sa responsabilité par le commissaire aux comptes.
+est établi sous sa responsabilité par le commissaire aux comptes. 
 
-Les statuts ne peuvent prévoir d'avantages particuliers ;
+Les statuts ne peuvent prévoir d'avantages particuliers ; 
 
-10. L'assemblée générale annuelle est réunie dans les quatre mois de la clôture de l'exercice ;
+10.L'assemblée générale annuelle est réunie dans les quatre mois de la clôture de l'exercice ; 
 
 11. Le siège social et l'administration centrale de la société d'investissement à capital variable sont situés en France.
 
@@ -10725,20 +10733,21 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 ()
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 1
 
 _Cite_:
 
-  - Code de commerce. - art. L225-21 (M)
-  - Code de commerce. - art. L225-77 (M)
-  - Code de commerce. - art. L225-94-1 (M)
+  - Code de commerce
+  - Code de commerce - art. L225-21
+  - Code de commerce - art. L225-77
+  - Code de commerce - art. L225-94-1
 
 
 ###### Article L214-18
 
 Les dispositions de l'ordonnance n° 45-2710 du 2 novembre 1945 relative aux sociétés d'investissement ainsi que les articles
-L. 224-1, L. 224-2, L. 225-3 à L. 225-16, L. 225-25, L. 225-26, 
-L. 225-258 à L. 225-270, L. 231-1 à L. 231-8, L. 242-31 et L. 247-10 du code de commerce ne sont pas applicables aux SICAV. 
+L. 224-1, L. 224-2, L. 225-3 à L. 225-16, L. 225-25, L. 225-26, L. 225-258 à L. 225-270, L. 231-1 à L. 231-8, L. 233-8, L.
+242-31 et L. 247-10 du code de commerce ne sont pas applicables aux SICAV. 
 
 Les fusions transfrontalières des sociétés mentionnées à la présente sous-section ne sont pas régies par les articles L.
 236-25 à L. 236-32 du code de commerce.
@@ -10749,12 +10758,7 @@ _Cite_:
 
   - Ordonnance n°45-2710 du 2 novembre 1945
   - Code de commerce - art. L224-1
-  - Code de commerce - art. L225-258
-  - Code de commerce - art. L225-3
-  - Code de commerce - art. L231-1
   - Code de commerce - art. L236-25
-  - Code de commerce - art. L242-31
-  - Code de commerce - art. L247-10
 
 _Anciens textes_:
 
@@ -10766,12 +10770,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2008-649 du 3 juillet 2008 - art. 2
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 1
 
 _Cité par_:
 
   - Code monétaire et financier - art. L214-110 (V)
-  - Code monétaire et financier - art. L732-7 (V)
+  - Code monétaire et financier - art. L732-7 (Ab)
   - Code monétaire et financier - art. L742-6 (V)
   - Code monétaire et financier - art. L752-6 (M)
   - Code monétaire et financier - art. L762-6 (V)
@@ -10781,10 +10785,25 @@ _Cité par_:
 
 Le rachat par la société de ses actions, comme l'émission d'actions nouvelles, peuvent être suspendus, à titre provisoire,
 par le conseil d'administration ou le directoire, quand des circonstances exceptionnelles l'exigent et si l'intérêt des
-actionnaires le commande dans des conditions fixées par les statuts de la société.
+actionnaires le commande dans des conditions fixées par les statuts de la société. 
+
+Dans les mêmes circonstances, lorsque la cession de certains actifs ne serait pas conforme à l'intérêt des actionnaires,
+ceux-ci peuvent être transférés à une nouvelle SICAV. Conformément à l'article L. 236-16 du code de commerce, la scission est
+décidée par l'assemblée générale extraordinaire des actionnaires de la SICAV. Par dérogation aux dispositions de l'article L.
+225-96 du code de commerce, cette assemblée peut se tenir sans qu'un quorum soit requis. Par dérogation à l'article L. 214-3,
+cette scission n'est pas soumise à l'agrément de l'Autorité des marchés financiers, mais lui est déclarée sans délai. Chaque
+actionnaire reçoit un nombre d'actions de la nouvelle SICAV égal à celui qu'il détient dans l'ancienne. La SICAV créée ne
+peut émettre de nouvelles actions. Ses actions sont amorties au fur et à mesure de la cession de ses actifs. Les conditions
+d'application du présent alinéa sont définies par décret. 
 
 Le règlement général de l'Autorité des marchés financiers fixe les autres cas et les conditions dans lesquels les statuts de
 la SICAV prévoient, le cas échéant, que l'émission des actions est interrompue de façon provisoire ou définitive.
+
+**Nota:**
+
+Ordonnance n° 2008-1081 du 23 octobre 2008 article 8 : Les dispositions du 6° et du 7° de l'article 1er et celles du 2° de
+l'article 2 sont immédiatement applicables aux organismes constitués à la date de publication des décrets prévus
+respectivement par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -10812,7 +10831,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 2003-08-01 art. 59 2° JORF 2 août 2003
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 1
+
+_Cite_:
+
+  - Code de commerce - art. L225-96
+  - Code de commerce - art. L236-16
+  - Code monétaire et financier - art. L214-3
 
 
 ##### Sous-section 3 : Règles particulières aux fonds communs de placement<a id=91></a>
@@ -11261,11 +11286,12 @@ L'Autorité des marchés financiers peut également transmettre aux commissaires
 nécessaires à l'accomplissement de leur mission. Les informations transmises sont couvertes par la règle du secret
 professionnel.
 
+La désignation d'un commissaire aux comptes suppléant n'est pas requise.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°88-1201 1988-12-23 art. 16 et art. 16-1
   - Loi n°88-1201 du 23 décembre 1988 - art. 16 (Ab)
   - Loi n°88-1201 du 23 décembre 1988 - art. 16-1 (Ab)
 
@@ -11275,8 +11301,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 21 () JORF 9 septembre 2005
-  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V) JORF 9 septembre 2005
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 1
 
 _Cité par_:
 
@@ -11286,18 +11311,31 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de commerce. - art. L823-6 (V)
-  - Code de commerce. - art. L823-7 (V)
+  - Code de commerce - art. L823-6
+  - Code de commerce - art. L823-7
 
 
 ###### Article L214-30
 
 Le rachat par le fonds de ses parts et l'émission de parts nouvelles peuvent être suspendus à titre provisoire par la société
 de gestion quand des circonstances exceptionnelles l'exigent et si l'intérêt des porteurs de parts le commande, dans des
-conditions fixées par le règlement du fonds.
+conditions fixées par le règlement du fonds. 
+
+Dans les mêmes circonstances, lorsque la cession de certains actifs ne serait pas conforme à l'intérêt des porteurs, ceux-ci
+peuvent être transférés à un nouveau fonds. La scission est décidée par la société de gestion. Par dérogation à l'article L.
+214-3, elle n'est pas soumise à l'agrément de l'Autorité des marchés financiers, mais lui est déclarée sans délai. Chaque
+porteur reçoit un nombre de parts du nouveau fonds égal à celui qu'il détient dans l'ancien. Le fonds créé ne peut émettre de
+nouvelles parts. Ses parts sont amorties au fur et à mesure de la cession de ses actifs. Les conditions d'application du
+présent alinéa sont définies par décret. 
 
 Le règlement général de l'Autorité des marchés financiers fixe les autres cas et les conditions dans lesquels le règlement du
 fonds prévoit, le cas échéant, que l'émission des parts est interrompue de façon provisoire ou définitive.
+
+**Nota:**
+
+Ordonnance n° 2008-1081 du 23 octobre 2008 article 8 : Les dispositions du 6° et du 7° de l'article 1er et celles du 2° de
+l'article 2 sont immédiatement applicables aux organismes constitués à la date de publication des décrets prévus
+respectivement par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -11370,7 +11408,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 2003-08-01 art. 59 4° JORF 2 août 2003
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-3
 
 
 ###### Article L214-31
@@ -11596,6 +11638,37 @@ _Modifié par_:
 
 ##### Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs<a id=94></a>
 
+###### Article L214-34-1
+
+Par dérogation aux articles L. 214-16 et L. 214-26 et dans les conditions définies par les statuts ou le règlement de
+l'organisme, une convention conclue entre le dépositaire et un organisme relevant de la présente sous-section ou sa société
+de gestion peut définir les obligations qui demeurent à la charge du dépositaire au titre du service mentionné au 1 de
+l'article L. 321-2. 
+
+Un décret détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 12 novembre 2004 - art. 323-14 (M)
+  - Ordonnance n°2009-394 du 9 avril 2009 - art. 1 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-915 du 1er août 2011 - art. 3
+
+_Cite_:
+
+  - Code monétaire et financier - art. L214-16
+  - Code monétaire et financier - art. L214-26
+  - Code monétaire et financier - art. L321-2
+
+
 ##### Paragraphe 1er : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées.<a id=95></a>
 
 ###### Article L214-35
@@ -11605,6 +11678,17 @@ limites fixées par un décret en Conseil d'Etat, déroger à l'article L. 214-4
 
 Le règlement général de l'Autorité des marchés financiers fixe les conditions de souscription, de cession et de rachat des
 parts ou des actions émises par un tel organisme.
+
+Par dérogation au deuxième alinéa de l'article L. 214-15 et au premier alinéa de l'article L. 214-20, le règlement ou les
+statuts de l'organisme de placement collectif en valeurs mobilières à règles d'investissement allégées peuvent prévoir que le
+rachat des parts ou actions peut être plafonné, à chaque date d'établissement de la valeur liquidative, à une fraction des
+parts ou actions émises par l'organisme. Un décret détermine les conditions d'application du présent alinéa.
+
+**Nota:**
+
+Ordonnance n° 2008-1081 du 23 octobre 2008 article 8 : Les dispositions du 6° et du 7° de l'article 1er et celles du 2° de
+l'article 2 sont immédiatement applicables aux organismes constitués à la date de publication des décrets prévus
+respectivement par ces dispositions.
 
 **Liens relatifs à cet article**
 
@@ -11657,11 +11741,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 2
 
 _Cite_:
 
-  - Code monétaire et financier - art. L214-4 (M)
+  - Code monétaire et financier - art. L214-15
+  - Code monétaire et financier - art. L214-20
+  - Code monétaire et financier - art. L214-4
 
 
 ###### Article L214-35-1
@@ -11709,14 +11795,32 @@ _Cite_:
 
 ###### Article L214-35-2
 
-Un organisme de placement collectif en valeurs mobilières contractuel a pour objet d'investir en tous instruments financiers
-mentionnés à l'article L. 211-1 et dans des dépôts bancaires. Il prend la forme d'une SICAV ou d'un fonds commun de
-placement.
+Par dérogation aux dispositions des articles L. 214-4, L. 214-15 et L. 214-20, un organisme de placement collectif en valeurs
+mobilières contractuel peut investir dans des biens s'ils satisfont aux règles suivantes : 
 
-Selon le cas, sa dénomination est alors respectivement "société d'investissement contractuelle" ou "fonds d'investissement
-contractuel".
+a) La propriété du bien est fondée, soit sur une inscription, soit un acte authentique, soit sur un acte sous seing privé
+dont la valeur probatoire est reconnue par la loi française ; 
 
-Par dérogation aux dispositions de l'article. L. 214-4, le règlement ou les statuts de l'organisme de placements collectifs
+b) Le bien ne fait l'objet d'aucune sûreté autre que celles éventuellement constituées pour la réalisation de l'objectif de
+gestion de l'organisme ; 
+
+c) Le bien fait l'objet d'une valorisation fiable sous forme d'un prix calculé de façon précise et établi régulièrement, qui
+est soit un prix de marché, soit un prix fourni par un système de valorisation permettant de déterminer la valeur à laquelle
+l'actif pourrait être échangé entre des parties avisées et contractant en connaissance de cause dans le cadre d'une
+transaction effectuée dans des conditions normales de concurrence ; 
+
+d) La liquidité du bien permet à l'organisme de respecter ses obligations en matière d'exécution des rachats vis-à-vis de ses
+porteurs et actionnaires définies par ses statuts ou son règlement. 
+
+Par dérogation aux articles L. 214-16, L. 214-24 et L. 214-26, le dépositaire de l'organisme de placement collectif en
+valeurs mobilières contractuel ne conserve que les actifs mentionnés à l'article L. 214-4. Pour les autres actifs, il
+conserve la preuve de l'existence de ceux-ci apportée dans les conditions mentionnées au a ; Il prend la forme d'une SICAV ou
+d'un fonds commun de placement. 
+
+Selon le cas, sa dénomination est alors respectivement " société d'investissement contractuelle " ou " fonds d'investissement
+contractuel ". 
+
+Par dérogation aux dispositions de l'article.L. 214-4, le règlement ou les statuts de l'organisme de placements collectifs
 contractuel fixent les règles d'investissement et d'engagement.
 
 **Liens relatifs à cet article**
@@ -11742,11 +11846,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 2
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-915 du 1er août 2011 - art. 3
 
 _Cite_:
 
-  - Code monétaire et financier - art. L211-1 (M)
+  - Code monétaire et financier - art. L214-15
+  - Code monétaire et financier - art. L214-16
+  - Code monétaire et financier - art. L214-20
+  - Code monétaire et financier - art. L214-24
+  - Code monétaire et financier - art. L214-4
 
 
 ###### Article L214-35-3
@@ -11814,17 +11926,29 @@ _Cite_:
 
 ###### Article L214-35-5
 
-Par dérogation au deuxième alinéa de l'article L. 214-15 et au premier alinéa de l'article L. 214-20, le règlement ou les
-statuts de l'organisme de placement collectif en valeurs mobilières contractuel prévoit les conditions et les modalités des
-souscriptions, acquisitions, rachat des parts et des actions ; toutefois, lorsque ce règlement ou ces statuts n'autorise le
-rachat qu'à l'échéance d'un délai, ce dernier ne peut excéder deux ans après la constitution de l'organisme ; le délai auquel
-le règlement ou les statuts de l'organisme peuvent soumettre l'exécution des rachats ne peut excéder trois mois.
+I.-Par dérogation au deuxième alinéa de l'article L. 214-15 et au premier alinéa de l'article L. 214-20, le règlement ou les
+statuts de l'organisme de placement collectif en valeurs mobilières contractuel prévoient les conditions et les modalités
+d'émission, souscription, de cession et du rachat des parts ou des actions. 
 
 Le règlement ou les statuts de l'organisme de placement collectif en valeurs mobilières contractuel prévoit la valeur
-liquidative en deçà de laquelle il est procédé à sa dissolution.
+liquidative en deçà de laquelle il est procédé à sa dissolution. 
 
-Le règlement ou les statuts de l'organisme précisent les conditions et les modalités de leur modification éventuelle. A
-défaut, toute modification requiert l'unanimité des actionnaires ou porteurs de parts.
+Le règlement ou les statuts de l'organisme précisent les conditions et les modalités de leur modification éventuelle.A
+défaut, toute modification requiert l'unanimité des actionnaires ou porteurs de parts. 
+
+II.-Par dérogation au 1 de l'article L. 214-17, le règlement ou les statuts de l'organisme peuvent prévoir une libération
+fractionnée des parts ou actions souscrites. Ces parts ou actions sont nominatives. Lorsque les parts ou actions sont cédées,
+le souscripteur et les cessionnaires successifs sont tenus solidairement du montant non libéré de celles-ci. A défaut pour le
+porteur de parts ou l'actionnaire de libérer aux époques fixées par la société de gestion et le cas échéant par la SICAV les
+sommes restant à verser sur le montant des parts ou actions détenues, la société de gestion lui adresse une mise en demeure.
+Un mois après cette mise en demeure et si celle-ci est restée sans effet, la société de gestion et le cas échéant la SICAV
+peuvent procéder, sans aucune autorisation de justice, à la cession de ces parts ou actions ou, dans les conditions prévues
+par les statuts ou le règlement de l'organisme, à la suspension du droit au versement des sommes distribuables mentionnées à
+l'article L. 214-10. Après paiement des sommes dues, en principal et intérêt, l'actionnaire ou le porteur de parts peut
+demander le versement des sommes distribuables non prescrites. 
+
+Le règlement ou les statuts de l'organisme peuvent prévoir qu'en cas de liquidation de celui-ci une fraction des actifs est
+attribuée à la société de gestion ou à un tiers dans des conditions fixées par le règlement ou les statuts.
 
 **Liens relatifs à cet article**
 
@@ -11834,16 +11958,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-429 du 6 mai 2005 - art. 24 () JORF 7 mai 2005
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 2
 
 _Cité par_:
 
   - Ordonnance n°2009-394 du 9 avril 2009 - art. 1 (V)
 
+_Abrogé par_:
+
+  - Ordonnance n°2011-915 du 1er août 2011 - art. 3
+
 _Cite_:
 
-  - Code monétaire et financier - art. L214-15 (M)
-  - Code monétaire et financier - art. L214-20 (M)
+  - Code monétaire et financier - art. L214-10
+  - Code monétaire et financier - art. L214-15
+  - Code monétaire et financier - art. L214-17
+  - Code monétaire et financier - art. L214-20
 
 
 ###### Article L214-35-6
@@ -14227,28 +14357,21 @@ _Cité par_:
 
 La société de gestion est constituée sous la forme d'une société anonyme dont le capital minimum ne peut être inférieur à
 deux cent vingt cinq mille euros ou d'une société en nom collectif à la condition que, dans ce cas, l'un au moins des
-associés soit une société anonyme justifiant du capital social minimum susmentionné.
+associés soit une société anonyme justifiant du capital social minimum susmentionné. 
 
 La société de gestion doit être agréée par l'Autorité des marchés financiers.
 
-L'Autorité des marchés financiers peut, par décision motivée, retirer l'agrément d'une société de gestion.
+L'Autorité des marchés financiers peut, par décision motivée, retirer l'agrément d'une société de gestion. 
 
 Les sociétés de gestion gérant des sociétés civiles de placement immobilier ne peuvent créer des organismes de placement
 collectif immobilier avant d'avoir mis leurs statuts, leur organisation et leurs moyens en harmonie avec la section 5 et
 d'être agréées par l'Autorité des marchés financiers dans les conditions prévues par le règlement général de l'Autorité des
-marchés financiers.
+marchés financiers. 
 
 Lorsque l'une des sociétés civiles de placement immobilier gérées par une société de gestion s'est transformée en un
 organisme de placement collectif immobilier dont la gestion sera assurée par cette société dès lors qu'elle remplit les
-conditions prévues à l'article L. 214-119, les autres sociétés civiles de placement immobilier peuvent continuer à être
-gérées par cette société.
-
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
+conditions prévues à l'article L. 214-119 ou lorsque cette société crée un tel organisme, les autres sociétés civiles de
+placement immobilier peuvent continuer à être gérées par cette société.
 
 **Liens relatifs à cet article**
 
@@ -14270,11 +14393,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 3 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 3
 
 _Cite_:
 
-  - Code monétaire et financier - art. L214-119 (MMN)
+  - Code monétaire et financier - art. L214-119
 
 
 ###### Article L214-68
@@ -14795,19 +14918,12 @@ _Cité par_:
 ###### Article L214-84-1
 
 Dans les conditions fixées par décret en Conseil d'Etat, une société civile de placement immobilier peut transmettre son
-patrimoine par voie de scission à des organismes de placement collectif immobilier de forme différente.
+patrimoine par voie de scission à des organismes de placement collectif immobilier quelle qu'en soit la forme. 
 
 Préalablement à la scission, les sociétés civiles de placement immobilier sont, par dérogation à l'article L. 214-50,
 autorisées le cas échéant à faire apport de tout ou partie de leur patrimoine à des sociétés civiles nouvelles, afin que les
 parts de ces dernières soient transmises dès que possible aux organismes de placement collectif immobilier dans le cadre de
 la scission.
-
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -14815,13 +14931,17 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 4 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 3
+
+_Abrogé par_:
+
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 6
 
 _Cite_:
 
-  - Code monétaire et financier - art. L214-50 (V)
+  - Code monétaire et financier - art. L214-50
 
 _Cité par_:
 
@@ -16382,22 +16502,22 @@ _Cite_:
 
 ###### Article L214-118
 
-I. - Le dépositaire a pour mission :
+I.-Le dépositaire a pour mission : 
 
 1° La conservation et le contrôle de l'inventaire des actifs de l'organisme de placement collectif immobilier à l'exclusion
-des actifs mentionnés aux a à c du I de l'article L. 214-92 ;
+des actifs mentionnés au a du I de l'article L. 214-92 et des créances d'exploitation ; 
 
-2° Le contrôle de l'inventaire des actifs de l'organisme de placement collectif immobilier mentionnés aux a à c du I de
-l'article L. 214-92 ;
+2° Le contrôle de l'inventaire des actifs de l'organisme de placement collectif immobilier mentionnés au a du I de l'article
+L. 214-92 et des créances d'exploitation ; 
 
 3° De s'assurer de la régularité des décisions de la société de placement à prépondérance immobilière à capital variable et
 de la société de gestion.
 
 L'étendue et les modalités d'accomplissement des missions du dépositaire sont définies dans le règlement général de
-l'Autorité des marchés financiers.
+l'Autorité des marchés financiers. 
 
-II. - Le dépositaire assure également pour le compte de l'ensemble des porteurs de parts, le cas échéant, le paiement, dans
-les conditions prévues par le code général des impôts, de l'impôt sur les plus-values immobilières réalisées directement ou
+II.-Le dépositaire assure également pour le compte de l'ensemble des porteurs de parts, le cas échéant, le paiement, dans les
+conditions prévues par le code général des impôts, de l'impôt sur les plus-values immobilières réalisées directement ou
 indirectement par le fonds de placement immobilier.
 
 **Nota:**
@@ -16423,13 +16543,13 @@ _Cité par_:
   - Code monétaire et financier - art. D214-235 (Ab)
   - Code monétaire et financier - art. R214-160 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 4
 
 _Cite_:
 
-  - Code monétaire et financier - art. L214-92 (MMN)
+  - Code monétaire et financier - art. L214-92 (V)
 
 
 ##### Paragraphe 5 : Société de gestion de l'organisme de placement collectif immobilier<a id=124></a>
@@ -17461,39 +17581,35 @@ _Cite_:
 ###### Article L214-145
 
 Un organisme de placement collectif immobilier à règles de fonctionnement allégées peut, dans les conditions et limites
-fixées par décret en Conseil d'Etat, déroger aux limites prévues aux articles L. 214-93 à L. 214-97.
+fixées par décret en Conseil d'Etat, déroger aux limites prévues aux articles L. 214-93 à L. 214-97. 
 
 Les parts ou actions d'un organisme de placement collectif immobilier à règles de fonctionnement allégées peuvent donner lieu
 à des droits différents sur l'actif net ou les produits de l'organisme et à des modalités d'émission, de cession ou de
 rachats dérogeant à l'article L. 214-126 ainsi qu'aux deuxième et troisième alinéas de l'article L. 214-136, dans des
 conditions définies par les statuts de la société de placement à prépondérance immobilière à capital variable ou le règlement
-du fonds de placement immobilier.
+du fonds de placement immobilier. 
 
 Par dérogation respectivement aux dispositions du 1 de l'article L. 214-17 auxquelles renvoie l'article L. 214-123 et du
 premier alinéa de l'article L. 214-136, les statuts d'une société de placement à prépondérance immobilière à capital variable
 à règles de fonctionnement allégées ou le règlement d'un fonds de placement immobilier peuvent prévoir une libération
-fractionnée du montant des parts ou actions souscrites. Ces parts sont nominatives.
+fractionnée du montant des parts ou actions souscrites. Ces parts sont nominatives. 
 
 Lorsque les parts ou actions n'ont pas été entièrement libérées, le souscripteur et les cessionnaires successifs sont tenus
-solidairement du montant non libéré de celles-ci. A défaut pour le porteur de parts ou actionnaire de libérer aux époques
+solidairement du montant non libéré de celles-ci.A défaut pour le porteur de parts ou actionnaire de libérer aux époques
 fixées par la société de gestion du fonds ou la société de placement à prépondérance immobilière à capital variable les
 sommes restant à verser sur le montant des parts ou actions détenues, une mise en demeure lui est adressée. Un mois après
 cette mise en demeure restée sans effet, la société de gestion du fonds ou la société de placement à prépondérance
-immobilière à capital variable peut procéder, sans aucune autorisation de justice, à la cession de ces parts ou actions.
-Toutefois, le souscripteur ou cessionnaire qui a cédé ses parts ou actions cesse d'être tenu des versements non encore
-appelés par la société de gestion du fonds ou la société de placement à prépondérance immobilière à capital variable, deux
-ans après le virement de compte à compte des parts ou actions cédées.
+immobilière à capital variable peut procéder, sans aucune autorisation de justice, à la cession de ces parts ou actions ou,
+dans les conditions prévues par les statuts ou le règlement de l'organisme, à la suspension du droit au versement des sommes
+distribuables mentionnées à l'article L. 214-128. Après paiement des sommes dues, en principal et intérêt, l'actionnaire ou
+le porteur de parts peut demander le versement des sommes distribuables non prescrites. Toutefois, le souscripteur ou
+cessionnaire qui a cédé ses parts ou actions cesse d'être tenu des versements non encore appelés par la société de gestion du
+fonds ou la société de placement à prépondérance immobilière à capital variable, deux ans après le virement de compte à
+compte des parts ou actions cédées. 
 
 Le règlement du fonds de placement immobilier ou les statuts de la société de placement à prépondérance immobilière à capital
 variable peut n'autoriser le rachat des parts ou actions de l'organisme de placement collectif à règles de fonctionnement
 allégées qu'à l'échéance d'un délai qui ne peut excéder trois ans après la constitution de l'organisme.
-
-**Nota:**
-
-Ordonnance 2005-1278 du 13 octobre 2005 art. 7 : La présente ordonnance entre en vigueur le premier jour du mois suivant
-celui de la publication au Journal officiel de la République française de l'arrêté du ministre chargé de l'économie portant
-homologation des dispositions du règlement général de l'Autorité des marchés financiers relatives aux organismes de placement
-collectif immobilier.L'arrêté d'homologation du 15 mai 2007 a été publié au Journal officiel du 16 mai 2007.
 
 **Liens relatifs à cet article**
 
@@ -17505,17 +17621,18 @@ _Cité par_:
 
   - Arrêté du 12 novembre 2004 - art. 424-70 (Ab)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2005-1278 du 13 octobre 2005 - art. 2 () JORF 14 octobre 2005 en vigueur le 1er juin 2007
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 4
 
 _Cite_:
 
-  - Code monétaire et financier - art. L214-123 (V)
-  - Code monétaire et financier - art. L214-126 (V)
-  - Code monétaire et financier - art. L214-136 (V)
-  - Code monétaire et financier - art. L214-17 (M)
-  - Code monétaire et financier L214-93 à L214-97, L214-126, L214-136, L214-17, L214-123
+  - Code monétaire et financier - art. L214-123
+  - Code monétaire et financier - art. L214-126
+  - Code monétaire et financier - art. L214-128
+  - Code monétaire et financier - art. L214-136
+  - Code monétaire et financier - art. L214-17
+  - Code monétaire et financier - art. L214-93
 
 
 ##### Sous-section 5 : Organismes de placement collectif immobilier à compartiments<a id=128></a>
@@ -25891,63 +26008,57 @@ _Cité par_:
 
 ###### Article L411-2
 
-I. - Ne constitue pas une opération par appel public à l'épargne l'admission aux négociations sur un marché réglementé,
-l'émission ou la cession d'instruments financiers :
+I.-Ne constitue pas une opération par appel public à l'épargne l'admission aux négociations sur un marché réglementé,
+l'émission ou la cession d'instruments financiers : 
 
-1° Inconditionnellement et irrévocablement garantis ou émis par un Etat partie à l'accord sur l'Espace économique européen ;
+1° Inconditionnellement et irrévocablement garantis ou émis par un Etat partie à l'accord sur l'Espace économique européen ; 
 
-2° Emis par un organisme international à caractère public dont la France fait partie ;
+2° Emis par un organisme international à caractère public dont la France fait partie ; 
 
 3° Emis par la Banque centrale européenne ou la banque centrale d'un Etat partie à l'accord sur l'Espace économique
-européen ;
+européen ; 
 
-4° Emis par un organisme mentionné au 1 ou au 5 du I de l'article L. 214-1.
+4° Emis par un organisme mentionné au 1 ou au 5 du I de l'article L. 214-1 ou un fonds d'investissement constitué sur le
+fondement d'un droit étranger autre que de type fermé. 
 
-II. - Ne constitue pas une opération par appel public à l'épargne l'émission ou la cession d'instruments financiers lorsque :
+II.-Ne constitue pas une opération par appel public à l'épargne l'émission ou la cession d'instruments financiers lorsque : 
 
 1° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
 anonyme ou une société en commandite par actions et que le montant total de l'offre est inférieur à un montant fixé par le
 règlement général de l'Autorité des marchés financiers ou à un montant et une quotité du capital de l'émetteur fixés par le
-règlement général.
+règlement général. 
 
-Le montant total de l'offre est calculé sur une période de douze mois dans des conditions fixées par le règlement général ;
+Le montant total de l'offre est calculé sur une période de douze mois dans des conditions fixées par le règlement général ; 
 
 2° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
 anonyme ou une société en commandite par actions et que les bénéficiaires de l'offre acquièrent ces instruments financiers
 pour un montant total par investisseur et par offre distincte supérieur à un montant fixé par le règlement général de
-l'Autorité des marchés financiers ;
+l'Autorité des marchés financiers ; 
 
 3° L'offre porte sur des instruments financiers mentionnés au 1 ou au 2 du I de l'article L. 211-1 émis par une société
 anonyme ou une société en commandite par actions et que la valeur nominale de chacun de ces instruments financiers est
-supérieure à un montant fixé par le règlement général de l'Autorité des marchés financiers ;
+supérieure à un montant fixé par le règlement général de l'Autorité des marchés financiers ; 
 
 4° Nonobstant le recours au démarchage, à la publicité ou à un prestataire de services d'investissement, l'offre s'adresse
-exclusivement :
+exclusivement : 
 
-a) Aux personnes fournissant le service d'investissement de gestion de portefeuille pour compte de tiers ;
+a) Aux personnes fournissant le service d'investissement de gestion de portefeuille pour compte de tiers ; 
 
 b) A des investisseurs qualifiés ou à un cercle restreint d'investisseurs, sous réserve que ces investisseurs agissent pour
-compte propre.
+compte propre. 
 
 Un investisseur qualifié est une personne ou une entité disposant des compétences et des moyens nécessaires pour appréhender
 les risques inhérents aux opérations sur instruments financiers. La liste des catégories d'investisseurs reconnus comme
-qualifiés est fixée par décret.
+qualifiés est fixée par décret. 
 
 Un cercle restreint d'investisseurs est composé de personnes, autres que des investisseurs qualifiés, dont le nombre est
-inférieur à un seuil fixé par décret.
+inférieur à un seuil fixé par décret. 
 
-III. - Pour l'application des dispositions du code pénal et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant
-institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable, les personnes
-morales ou les sociétés procédant à des opérations mentionnées aux 1° à 3° du II sont réputées faire appel public à
-l'épargne.
+III.-Pour l'application des dispositions du code pénal et de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution
+de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable, les personnes morales ou les
+sociétés procédant à des opérations mentionnées aux 1° à 3° du II sont réputées faire appel public à l'épargne.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 45-2138 1945-09-19
-  - Code monétaire et financier - art. L211-1 (M)
-  - Code monétaire et financier - art. L214-1 (M)
 
 _Anciens textes_:
 
@@ -26014,7 +26125,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-1770 du 30 décembre 2006 - art. 66 (V) JORF 31 décembre 2006
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 5
+
+_Cite_:
+
+  - Code monétaire et financier - art. L211-1
+  - Code monétaire et financier - art. L214-1
 
 
 #### Chapitre II : Conditions de l'appel public à l'épargne<a id=221></a>
@@ -28640,11 +28756,11 @@ _Abrogé par_:
 
 ###### Article L432-12
 
-La pension est l'opération par laquelle une personne morale, un fonds commun de placement ou un organisme de titrisation cède
-en pleine propriété à une autre personne morale, à un fonds commun de placement ou à un organisme de titrisation, moyennant
-un prix convenu, des valeurs, titres ou effets définis ci-après et par laquelle le cédant et le cessionnaire s'engagent
-respectivement et irrévocablement, le premier à reprendre les valeurs, titres ou effets, le second à les rétrocéder pour un
-prix et à une date convenus. 
+La pension est l'opération par laquelle une personne morale, un fonds commun de placement, un fonds de placement immobilier
+ou un organisme de titrisation cède en pleine propriété à une autre personne morale, à un fonds commun de placement , un
+fonds de placement immobilier ou à un organisme de titrisation, moyennant un prix convenu, des valeurs, titres ou effets
+définis ci-après et par laquelle le cédant et le cessionnaire s'engagent respectivement et irrévocablement, le premier à
+reprendre les valeurs, titres ou effets, le second à les rétrocéder pour un prix et à une date convenus. 
 
 Les valeurs, titres ou effets mentionnés ci-dessus sont : 
 
@@ -28659,7 +28775,11 @@ Toutefois, seuls les établissements de crédit peuvent prendre ou mettre en pen
 
 _Modifié par_:
 
-  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 6
+
+_Abrogé par_:
+
+  - Ordonnance n°2009-15 du 8 janvier 2009 - art. 3
 
 _Cité par_:
 
@@ -40895,8 +41015,8 @@ seule personne. Il précise les mesures qui doivent être prises pour garantir l
 concernée ; 
 
 5. Dispose d'un programme d'activité pour chacun des services qu'elle entend exercer, qui précise les conditions dans
-lesquelles elle envisage de fournir les services d'investissement concernés et indique le type d'opérations envisagées et la
-structure de son organisation ; 
+lesquelles elle envisage       de fournir les services d'investissement concernés ou d'exercer la gestion des organismes
+mentionnés au premier alinéa et indique le type d'opérations envisagées et la structure de son organisation ; 
 
 6. Adhère à un mécanisme de garantie des titres géré par le Fonds de garantie des dépôts conformément aux articles L. 322-5
 et L. 322-10.
@@ -40997,7 +41117,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2008-556 du 13 juin 2008 - art. 16
+  - Ordonnance n°2008-1081 du 23 octobre 2008 - art. 7
 
 _Cite_:
 
@@ -71163,6 +71283,41 @@ _Cite_:
 ##### Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs.<a id=889></a>
 
 ##### Paragraphe 1 : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées.<a id=890></a>
+
+###### Article D214-28-1
+
+Afin d'éviter qu'un déséquilibre entre les demandes de rachat et l'actif de l'organisme de placement collectif en valeurs
+mobilières à règles d'investissement allégées ou de l'un de ses compartiments ne lui permette pas d'honorer les demandes de
+rachats dans des conditions préservant l'intérêt des porteurs et leur égalité de traitement, le règlement ou les statuts de
+l'organisme peuvent, en application du troisième alinéa de l'article L. 214-35, prévoir un plafonnement des rachats de parts
+ou actions dans les conditions suivantes : 
+
+1° Le règlement ou les statuts de l'organisme fixent le seuil au-delà duquel le plafonnement des rachats intervenant à une
+même date de centralisation peut être décidé. 
+
+2° Le seuil fixé au 1° doit pouvoir être justifié au regard de la périodicité de calcul de la valeur liquidative, de
+l'orientation de la gestion et de la liquidité des actifs détenus par l'organisme. 
+
+Ce seuil correspond au rapport entre :
+
+- la différence constatée, à une même date de centralisation, entre le montant ou le nombre de parts ou actions de
+l'organisme ou du compartiment considéré dont le rachat est demandé et le montant ou le nombre de parts ou actions de ce même
+organisme ou compartiment dont la souscription est demandée ; et
+
+- l'actif net ou le nombre total de parts ou actions de l'organisme ou du compartiment considéré. 
+
+Ce seuil est déterminé sur la base de la dernière valeur liquidative publiée, ou de la dernière valeur estimative calculée
+par la société de gestion ou du nombre de parts ou actions en circulation constaté à sa date d'établissement. 
+
+3° Le règlement ou les statuts déterminent les modalités selon lesquelles l'organisme reporte les ordres de rachat excédant
+le seuil visé au 1° aux prochaines dates de centralisation ou procède à leur annulation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1083 du 23 octobre 2008 - art. 1
+
 
 ##### Sous-paragraphe 1 : Règles applicables aux organismes de placement collectif en valeurs mobilières à règles d'investissement allégées sans effet de levier.<a id=891></a>
 
