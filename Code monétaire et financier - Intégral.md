@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-10-24
+Version Consolidée au 2008-11-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -783,7 +783,7 @@ Version Consolidée au 2008-10-24
     - [Livre Ier : La monnaie (art. D112-1 à R165-2)](#780)
       - [Titre Ier : Dispositions générales (art. D112-1 à R112-2)](#781)
         - [Chapitre II : Règles d'usage de la monnaie. (art. D112-1 à R112-2)](#782)
-          - [Section 1 : L'indexation. (art. D112-1)](#783)
+          - [Section 1 : L'indexation. (art. D112-1 à D112-2)](#783)
           - [Section 2 : Pouvoir libératoire. (art. R112-2)](#784)
       - [Titre II : La monnaie fiduciaire (art. D121-1 à R123-3)](#785)
         - [Chapitre Ier : Les monnaies métalliques. (art. D121-1 à R121-20)](#786)
@@ -63234,6 +63234,27 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. L112-3 (V)
+
+
+###### Article D112-2
+
+Les activités mentionnées dans la seconde phrase du premier alinéa de l'article L. 112-2 du code monétaire et financier sont
+les activités commerciales y compris celles exercées par les artisans.
+
+Sont exclues du champ d'application du présent article les activités commerciales exercées dans des locaux à usage exclusif
+de bureaux, y compris les plates-formes logistiques, ainsi que les activités industrielles au sens de l'article L. 110-1 (5°)
+du code de commerce.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1139 du 4 novembre 2008 - art. 6
+
+_Cite_:
+
+  - Code de commerce - art. L110-1
+  - Code monétaire et financier - art. L112-2
 
 
 ##### Section 2 : Pouvoir libératoire.<a id=784></a>
