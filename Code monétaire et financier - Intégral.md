@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-12-06
+Version Consolidée au 2008-12-07
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -32741,7 +32741,7 @@ _Cite_:
 ###### Article L511-29
 
 Tout établissement de crédit est tenu d'adhérer à un organisme professionnel ou à un organe central affilié à l'association
-française des établissements de crédit et des entreprises d'investissement.
+française des établissements de crédit et des entreprises d'investissement. 
 
 Toutefois, le ministre chargé de l'économie peut autoriser certaines institutions financières spécialisées à adhérer
 directement à cette association.
@@ -32750,11 +32750,13 @@ L'association française des établissements de crédit et des entreprises d'inv
 intérêts collectifs des établissements de crédit et des entreprises d'investissement, notamment auprès des pouvoirs publics,
 l'information de ses adhérents et du public, l'étude de toute question d'intérêt commun et l'élaboration des recommandations
 s'y rapportant en vue, le cas échéant, de favoriser la coopération entre réseaux, ainsi que l'organisation et la gestion de
-services d'intérêt commun.
+services d'intérêt commun. Elle a également pour objet l'élaboration de codes de conduite applicables aux établissements de
+crédit et aux entreprises d'investissement en vue de leur homologation dans les conditions mentionnées à l'article L.
+611-3-1.
 
 L'association française des établissements de crédit et des entreprises d'investissement a également la possibilité d'engager
 un dialogue social sur les questions d'ordre général concernant l'ensemble des établissements de crédit et des entreprises
-d'investissement avec les organisations syndicales représentatives de ce secteur.
+d'investissement avec les organisations syndicales représentatives de ce secteur. 
 
 Ses statuts sont soumis à l'approbation ministérielle.
 
@@ -32769,6 +32771,10 @@ _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2008-1271 du 5 décembre 2008 - art. 1
+
 _Cité par_:
 
   - Code de la sécurité sociale. - art. D133-8 (V)
@@ -32781,6 +32787,10 @@ _Cité par_:
   - Code monétaire et financier - art. L531-8 (V)
   - Code monétaire et financier - art. L745-1-1 (V)
   - Code monétaire et financier - art. L755-1-1 (VD)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L611-3-1
 
 
 ##### Sous-section 2 : Les organes centraux<a id=289></a>
@@ -47197,6 +47207,40 @@ _Cite_:
   - Code monétaire et financier - art. L532-9 (V)
 
 
+###### Article L611-3-1
+
+Le ministre chargé de l'économie peut, après avis du comité consultatif de la législation et de la réglementation financières
+et à la demande d'une ou plusieurs organisations représentatives des professionnels du secteur financier figurant sur une
+liste arrêtée par le ministre, homologuer par arrêté les codes de conduite qu'elles ont élaborés en matière de
+commercialisation d'instruments financiers mentionnés à l'article L. 211-1, de produits d'épargne mentionnés au titre II du
+livre II du présent code ainsi que de contrats d'assurance individuels comportant des valeurs de rachat, de contrats de
+capitalisation et de contrats mentionnés à l'article L. 132-5-3 et à l'article L. 441-1 du code des assurances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2008-1271 du 5 décembre 2008 - art. 1
+
+_Cité par_:
+
+  - Code des assurances - art. L411-2 (V)
+  - Code monétaire et financier - art. L511-29 (VD)
+  - Code monétaire et financier - art. L613-1 (Ab)
+  - Code monétaire et financier - art. L614-2 (V)
+  - Code monétaire et financier - art. L621-1 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L211-1
+  - Code des assurances - art. L132-5-3
+  - Code des assurances - art. L441-1
+
+
 ###### Article L611-4
 
 Le ministre chargé de l'économie précise également :
@@ -47753,11 +47797,13 @@ _Cité par_:
 ###### Article L613-1
 
 La commission bancaire est chargée de contrôler le respect par les établissements de crédit des dispositions législatives et
-réglementaires qui leur sont applicables et de sanctionner les manquements constatés.
+réglementaires qui leur sont applicables et de sanctionner les manquements constatés. 
 
-Elle examine les conditions de leur exploitation et veille à la qualité de leur situation financière.
+Elle examine les conditions de leur exploitation et veille à la qualité de leur situation financière. 
 
-Elle veille au respect des règles de bonne conduite de la profession.
+Elle veille au respect des règles de bonne conduite de la profession. Elle veille également à ce que les entreprises soumises
+à son contrôle mettent en œuvre les moyens adaptés pour se conformer aux codes de conduite homologués mentionnés à l'article
+L. 611-3-1. 
 
 Elle propose et demande la mise en oeuvre du fonds de garantie des dépôts dans les conditions prévues par les articles L.
 312-5 et L. 613-34.
@@ -47773,12 +47819,19 @@ la présente décision dans les conditions fixées par son considérant 9.
 
 _Anciens textes_:
 
-  - Loi n°84-46 1984-01-24 art. 37
   - Loi n°84-46 du 24 janvier 1984 - art. 37 (Ab)
 
 _Codifié par_:
 
   - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2008-1271 du 5 décembre 2008 - art. 1
+
+_Abrogé par_:
+
+  - Ordonnance n°2010-76 du 21 janvier 2010 - art. 6
 
 _Cité par_:
 
@@ -47791,8 +47844,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code monétaire et financier - art. L312-5 (M)
-  - Code monétaire et financier - art. L613-34 (V)
+  - Code monétaire et financier - art. L312-5
+  - Code monétaire et financier - art. L611-3-1
+  - Code monétaire et financier - art. L613-34
 
 
 ###### Article L613-2
@@ -49742,12 +49796,13 @@ Le Comité consultatif de la législation et de la réglementation financières 
 l'économie de tout projet de loi ou d'ordonnance et de toute proposition de règlement ou de directive communautaires avant
 son examen par le Conseil des Communautés européennes, traitant de questions relatives au secteur de l'assurance, au secteur
 bancaire et aux entreprises d'investissement, à l'exception des textes portant sur l'Autorité des marchés financiers ou
-entrant dans les compétences de celle-ci.
+entrant dans les compétences de celle-ci. 
 
 Les projets de décret ou d'arrêté, autres que les mesures individuelles, intervenant dans les mêmes domaines ne peuvent être
-adoptés qu'après l'avis du Comité consultatif de la législation et de la réglementation financières. Il ne peut être passé
-outre à un avis défavorable du comité sur ces projets qu'après que le ministre chargé de l'économie a demandé une deuxième
-délibération de ce comité.
+adoptés qu'après l'avis du Comité consultatif de la législation et de la réglementation financières. Il est également saisi
+pour avis par le ministre chargé de l'économie des demandes d'homologation des codes de conduite mentionnés à l'article L.
+611-3-1. Il ne peut être passé outre à un avis défavorable du comité sur ces projets qu'après que le ministre chargé de
+l'économie a demandé une deuxième délibération de ce comité. 
 
 La composition du comité, les conditions de désignation de ses membres et de son président ainsi que ses règles
 d'organisation et de fonctionnement sont fixées par décret.
@@ -49777,13 +49832,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 22 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 26 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 48 () JORF 2 août 2003
+  - Ordonnance n°2008-1271 du 5 décembre 2008 - art. 1
 
 **Liens**:
 
   - PILOTE_SUIVEUR: Code des assurances - art. L411-2 (V)
+
+_Cite_:
+
+  - Code monétaire et financier - art. L611-3-1
 
 
 ###### Article L614-3
@@ -49877,7 +49934,10 @@ _Anciens textes_:
 L'Autorité des marchés financiers, autorité publique indépendante dotée de la personnalité morale, veille à la protection de
 l'épargne investie dans les instruments financiers et tous autres placements donnant lieu à appel public à l'épargne, à
 l'information des investisseurs et au bon fonctionnement des marchés d'instruments financiers. Elle apporte son concours à la
-régulation de ces marchés aux échelons européen et international.
+régulation de ces marchés aux échelons européen et international. 
+
+Elle veille également à ce que les entreprises soumises à son contrôle mettent en œuvre les moyens adaptés pour se conformer
+aux codes de conduite homologués mentionnés à l'article L. 611-3-1.
 
 **Liens relatifs à cet article**
 
@@ -49902,8 +49962,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-706 du 1 août 2003 - art. 1 () JORF 2 août 2003
-  - Loi n°2003-706 du 1 août 2003 - art. 2 () JORF 2 août 2003
+  - Ordonnance n°2008-1271 du 5 décembre 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L611-3-1
 
 
 ##### Section 2 : Composition<a id=467></a>
