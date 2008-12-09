@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-12-07
+Version Consolidée au 2008-12-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -296,7 +296,7 @@ Version Consolidée au 2008-12-07
             - [Sous-section 2 : Commissaires aux comptes (art. L511-38 à L511-39)](#293)
           - [Section 7 : Dispositions prudentielles et contrôle interne (art. L511-40 à L511-44)](#294)
         - [Chapitre II : Les banques mutualistes ou coopératives (art. L512-1 à L512-105)](#295)
-          - [Section 1 : Dispositions générales (art. L512-1)](#296)
+          - [Section 1 : Dispositions générales (art. L512-1 à L512-1-1)](#296)
           - [Section 2 : Les banques populaires (art. L512-2 à L512-13)](#297)
             - [Sous-section 1 : Dispositions générales (art. L512-2 à L512-9)](#298)
             - [Sous-section 2 : Banque fédérale des banques populaires (art. L512-10 à L512-12)](#299)
@@ -33709,6 +33709,47 @@ _Cité par_:
   - Code monétaire et financier - art. L512-105 (VD)
   - Code monétaire et financier - art. L621-15 (VD)
   - Code monétaire et financier - art. L621-9 (VD)
+
+
+###### Article L512-1-1
+
+Sont exemptées des obligations mentionnées à l'article L. 823-19 du code de commerce : 
+
+a) Les personnes et entités affiliées, au sens de l'article L. 512-92, à une caisse d'épargne et de prévoyance ; 
+
+b) Les personnes et entités agréées collectivement avec une caisse régionale ou fédérale ou une fédération régionale au sens
+de l'article R. 511-3 ; 
+
+c) Les personnes et entités agréées collectivement avec une banque mutualiste et coopérative au sens de l'article R. 515-1,
+dès lors qu'elles n'ont pas émis de valeurs mobilières admises à la négociation sur un marché réglementé.
+
+**Nota:**
+
+Ordonnance n° 2008-1278 du 8 décembre 2008 article 21 : Les dispositions de l'article 16 de la présente ordonnance entrent en
+vigueur à l'expiration d'un délai de huit mois qui suit la clôture du premier exercice ouvert à compter du 1er janvier 2008
+au cours duquel un mandat au sein de l'organe d'administration ou de surveillance vient à échéance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2000-1223 du 14 décembre 2000 (V)
+
+_Créé par_:
+
+  - Ordonnance n°2008-1278  du 8 décembre 2008 - art. 16
+
+_Cite_:
+
+  - Code de commerce - art. L823-19
+  - Code monétaire et financier - art. L512-92
+  - Code monétaire et financier - art. R511-3
+  - Code monétaire et financier - art. R515-1
+
+_Cité par_:
+
+  - Code monétaire et financier - art. L511-46 (Ab)
+  - Code monétaire et financier - art. L612-23-1 (V)
 
 
 ##### Section 2 : Les banques populaires<a id=297></a>
