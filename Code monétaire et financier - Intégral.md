@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-12-10
+Version Consolidée au 2008-12-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -78977,34 +78977,6 @@ _Cité par_:
 _Cite_:
 
   - Code monétaire et financier - art. R221-1 (V)
-
-
-###### Article R*221-7
-
-L'autorité administrative compétente mentionnée à l'article R. 221-6 est le ministre chargé de l'économie.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Code des caisses d'épargne art 17 (ecqc la décision du ministre)
-  - Décret n°76-79 1976-01-26 art 2 (alinéas 1 et 2, ecqc la décision du ministre)
-
-_Créé par_:
-
-  - Décret n°2005-1006 2005-08-02 Annexe JORF 25 août 2005
-
-_Codifié par_:
-
-  - Décret n°2005-1006 2005-08-02 JORF 25 août 2005
-
-_Cite_:
-
-  - Code monétaire et financier - art. R221-6 (V)
-
-_Abrogé par_:
-
-  - Décret n°2008-1302 du 11 décembre 2008 - art. 1
 
 
 ###### Article R221-1
