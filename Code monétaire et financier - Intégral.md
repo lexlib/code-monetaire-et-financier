@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2008-12-20
+Version Consolidée au 2008-12-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -1072,329 +1072,340 @@ Version Consolidée au 2008-12-20
             - [Sous-section 4 : Les sociétés locales d'épargne. (art. R512-49 à R512-55)](#1069)
             - [Sous-section 5 : La Caisse nationale des caisses d'épargne et de prévoyance. (art. R512-56 à R512-58)](#1070)
             - [Sous-section 7 : Fonds de réserve et de garantie. (art. R512-59 à R512-63)](#1071)
-        - [Chapitre V : Les sociétés financières. (art. R515-1 à R515-14)](#1072)
-          - [Section 3 : Les sociétés de caution mutuelle. (art. R515-1)](#1073)
-          - [Section 4 : Les sociétés de crédit foncier. (art. R515-2 à R515-14)](#1074)
-            - [Sous-section 2 : Opérations. (art. R515-2 à R515-7)](#1075)
-            - [Sous-section 3 : Privilège des créances nées des opérations. (art. R515-8 à R515-9)](#1076)
-            - [Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier. (art. D515-10 à D515-11)](#1077)
-            - [Sous-section 6 : Contrôles. (art. R515-12 à R515-14)](#1078)
-        - [Chapitre VI : Les institutions financières spécialisées. (art. D516-1 à R516-21)](#1079)
-          - [Section 1 : Agence française de développement. (art. R516-3 à R516-20)](#1080)
-            - [Sous-section 1 : Opérations. (art. R516-4 à R516-9)](#1081)
-              - [Paragraphe 1 : Concours financiers de l'agence pour son compte propre. (art. R516-5 à R516-6)](#1082)
-              - [Paragraphe 2 : Opérations pour compte de l'Etat. (art. R516-7)](#1083)
-              - [Paragraphe 3 : Autres opérations. (art. R516-8 à R516-9)](#1084)
-            - [Sous-section 2 : Organisation. (art. R516-10 à R516-15)](#1085)
-            - [Sous-section 3 : Dispositions diverses. (art. R516-16 à R516-20)](#1086)
-          - [Section 2 : Les sociétés de développement régional. (art. R*516-22 à R516-21)](#1087)
-        - [Chapitre VII : Compagnies financières et conglomérats financiers. (art. D517-1 à D517-8)](#1088)
-          - [Section 2 : Dispositions générales (art. D517-1 à D517-8)](#1089)
-            - [Sous-section 1 : Compagnies financières. (art. D517-1 à R517-4)](#1090)
-            - [Sous-section 2 : Conglomérats financiers. (art. D517-8)](#1091)
-        - [Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque. (art. R518-1 à R518-69)](#1092)
-          - [Section 2 : La Caisse des dépôts et consignations. (art. R518-1 à R518-42)](#1093)
-            - [Sous-section 2 : Administration de la Caisse des dépôts et consignations. (art. R518-1 à R518-30)](#1094)
-              - [Paragraphe 1 : Le directeur général. (art. R518-1 à R518-12)](#1095)
-              - [Paragraphe 2 : Le caissier général. (art. R518-13 à R518-22)](#1096)
-              - [Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor. (art. R518-23 à R518-27)](#1097)
-              - [Paragraphe 4 : Contrôle par la Cour des comptes. (art. R518-28 à R518-30)](#1098)
-            - [Sous-section 4 : Opérations. (art. R518-31 à R518-42)](#1099)
-              - [Paragraphe 1 : Consignations et dépôts. (art. R518-31 à R518-42)](#1100)
-          - [Section 4 : La Caisse nationale d'épargne. (art. R518-46 à R518-55)](#1101)
-          - [Section 5 : Les associations sans but lucratif et les sociétés autorisées à effectuer certaines opérations de banque. (art. R518-57 à R518-69)](#1102)
-            - [Sous-section 1 : Dispositions communes. (art. R518-57 à R518-58)](#1103)
-            - [Sous-section 2 : Les associations sans but lucratif habilitées à faire certains prêts (art. R518-59 à R518-64)](#1104)
-            - [Sous-section 3 : Les sociétés autorisées à consentir certaines garanties (art. R518-65 à R518-69)](#1105)
-      - [Titre III : Les prestataires de services d'investissement (art. D531-1 à D533-14)](#1106)
-        - [Chapitre Ier : Définitions. (art. D531-1)](#1107)
-        - [Chapitre II : Conditions d'exercice de la profession. (art. R532-1 à R532-29)](#1108)
-          - [Section 1 : Agrément. (art. R532-1 à R532-16)](#1109)
-            - [Sous-section 1 : Conditions et procédures d'agrément. (art. R532-1 à R532-9)](#1110)
-            - [Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille. (art. R532-10 à R532-16)](#1111)
-              - [Paragraphe 1 : Agrément. (art. R532-10 à R532-16)](#1112)
-          - [Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen. (art. R532-17 à R532-29)](#1113)
-            - [Sous-section 2 : Libre prestation de services et liberté d'établissement en France. (art. R532-17 à R532-19)](#1114)
-            - [Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen. (art. R532-20 à R532-29)](#1115)
-              - [Paragraphe 2 : Libre établissement. (art. R532-20 à R532-25)](#1116)
-                - [Sous-paragraphe 1 : Libre établissement des prestataires de services d'investissement autres que les sociétés de gestion de portefeuille. (art. R532-20 à R532-23)](#1117)
-                - [Sous-paragraphe 2 : Libre établissement des sociétés de gestion de portefeuille. (art. R532-24 à R532-25)](#1118)
-              - [Paragraphe 3 : Libre prestation de services (art. R532-26 à R532-29)](#1119)
-                - [Sous-paragraphe 1 : Libre prestation de services des prestataires de services d'investissement autres que les sociétés de gestion de portefeuille. (art. R532-26 à R532-27)](#1120)
-                - [Sous-paragraphe 2 : Libre prestation de services des sociétés de gestion de portefeuille. (art. R532-28 à R532-29)](#1121)
-        - [Chapitre III : Obligations des prestataires de services d'investissement. (art. D533-2-1 à D533-14)](#1122)
-          - [Section 2 : Obligations comptables et déclaratives. (art. D533-2-1 à R533-8)](#1123)
-            - [Sous-section 1 : Comptes sociaux et documents comptables. (art. D533-2-1 à R533-2)](#1124)
-            - [Sous-section 2 : Commissaires aux comptes. (art. D533-3 à R533-8)](#1125)
-          - [Section 3 : Règles de bonne conduite. (art. R533-9 à D533-14)](#1126)
-            - [Sous-section 1 : Dispositions applicables aux membres du personnel des entreprises d'investissement (art. R533-9 à R533-10)](#1127)
-            - [Sous-section 2 : Clients professionnels (art. D533-11 à D533-12)](#1128)
-            - [Sous-section 3 : Contreparties éligibles (art. D533-13 à D533-14)](#1129)
-      - [Titre IV : Autres prestataires de services (art. D541-1 à R542-1)](#1130)
-        - [Chapitre Ier : Les conseillers en investissements financiers. (art. D541-1 à D541-9)](#1131)
-        - [Chapitre II : Les intermédiaires et les personnes faisant appel public à l'épargne habilités en vue de l'administration ou de la conservation d'instruments financiers. (art. R542-1)](#1132)
-      - [Titre V : Intermédiaires en biens divers (art. R550-1 à R550-3)](#1133)
-      - [Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes. (art. R562-1 à R565-4)](#1134)
-        - [Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite. (art. R562-1 à D562-15)](#1135)
-          - [Section 1 : Communication et déclaration. (art. R562-1 à R562-2-3)](#1136)
-          - [Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation. (art. R562-3 à R562-8)](#1137)
-          - [Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes. (art. D562-12 à D562-15)](#1138)
-        - [Chapitre III : Autres obligations de vigilance. (art. R563-1 à R563-4)](#1139)
-        - [Chapitre IV : Dispositions relatives à la lutte contre le financement des activités terroristes. (art. R564-1 à R564-2)](#1140)
-        - [Chapitre V : Dispositions diverses. (art. D565-2 à R565-4)](#1141)
-      - [Titre VII : Dispositions pénales (art. R571-1 à R571-2)](#1142)
-        - [Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire. (art. R571-1 à R571-2)](#1143)
-          - [Section 2 : Banques mutualistes ou coopératives. (art. R571-1)](#1144)
-          - [Section 4 : Sociétés financières. (art. R571-2)](#1145)
-    - [Livre VI : Les institutions en matière bancaire et financière (art. R611-1 à R633-4)](#1146)
-      - [Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R611-1 à R616-1)](#1147)
-        - [Chapitre Ier : Réglementation (art. R611-1 à R611-3)](#1148)
-        - [Chapitre II : Comité des établissements de crédit et des entreprises d'investissement (art. R612-1 à R612-5)](#1149)
-          - [Section 1 : Missions (art. R612-1)](#1150)
-          - [Section 3 : Règles de fonctionnement (art. R612-2 à R612-5)](#1151)
-        - [Chapitre III : Commission bancaire (art. R613-1 à R613-27)](#1152)
-          - [Section 3 : Règles de fonctionnement (art. R613-1 à R613-2-1)](#1153)
-          - [Section 4 : Exercice du contrôle (art. D613-3 à R613-3-2)](#1154)
-            - [Sous-section 1 : Dispositions générales (art. D613-3 à R613-3-1)](#1155)
-            - [Sous-section 2 : Surveillance sur une base consolidée (art. R613-3-2)](#1156)
-          - [Section 5 : Exercice du pouvoir disciplinaire (art. R613-4 à R613-9)](#1157)
-          - [Section 6 : Dispositions relatives au traitement des établissements de crédit et des entreprises d'investissement en difficulté (art. R613-10 à R613-27)](#1158)
-            - [Sous-section 1 : Mesures spécifiques au redressement et à la liquidation judiciaires des établissements de crédit et des entreprises d'investissement (art. R613-10 à R613-23)](#1159)
-              - [Paragraphe 1 : Procédure de désignation des administrateurs provisoires et liquidateurs (art. R613-10 à R613-13-1)](#1160)
-              - [Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, liquidation judiciaires et de procédures de conciliation applicables aux établissements de crédit et aux entreprises d'investissement (art. R613-14 à R613-23)](#1161)
-            - [Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires (art. R613-24 à R613-27)](#1162)
-        - [Chapitre IV : Institutions consultatives (art. D614-1 à D614-3)](#1163)
-          - [Section 1 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières (art. D614-1 à D614-3)](#1164)
-        - [Chapitre V : Autres institutions (art. D615-1 à D615-8)](#1165)
-          - [Section unique : Commissaires du Gouvernement et mission de contrôle des activités financières (art. D615-1 à D615-8)](#1166)
-        - [Chapitre VI : Incompatibilités (art. R616-1)](#1167)
-      - [Titre II : L'Autorité des marchés financiers (art. R621-1 à R621-46)](#1168)
-        - [Chapitre unique : L'Autorité des marchés financiers (art. R621-1 à R621-46)](#1169)
-          - [Section 2 : Composition (art. R621-1 à R621-9)](#1170)
-          - [Section 3 : Règles de fonctionnement (art. D621-27 à R621-26)](#1171)
-          - [Section 4 : Pouvoirs (art. R621-30-1 à R621-43-1)](#1172)
-            - [Sous-section 1 : Réglementation et décisions (art. R621-30-1 à R621-30-4)](#1173)
-            - [Sous-section 3 : Contrôles et enquêtes (art. R621-31 à R621-36)](#1174)
-            - [Sous-section 4 : Injonctions et mesures d'urgence (art. R621-37)](#1175)
-            - [Sous-section 5 : Sanctions (art. R621-38 à R621-42)](#1176)
-            - [Sous-section 7 : Autres compétences (art. R621-43-1)](#1177)
-          - [Section 6 : Voies de recours (art. R621-44 à R621-46)](#1178)
-      - [Titre III : Coopération, échanges d'informations et surveillance complémentaire des conglomérats financiers (art. R632-1 à R633-4)](#1179)
-        - [Chapitre II : Coopération et échange d'informations avec l'étranger (art. R632-1 à R632-3)](#1180)
-          - [Section 1 : Dispositions concernant la surveillance, les contrôles et les enquêtes relatifs aux prestataires de services d'investissement, aux marchés réglementés et aux entreprises de marché et transposant la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers (art. R632-1 à D632-1-1)](#1181)
-            - [Sous-section 1 : Coopération et échanges d'informations avec les autorités d'autres Etats membres de la Communauté européenne ou d'autres Etats parties à l'accord sur l'Espace économique européen (art. R632-1)](#1182)
-            - [Sous-section 2 : Coopération et échanges d'informations avec les autorités des Etats non parties à l'accord sur l'Espace économique européen (art. D632-1-1)](#1183)
-          - [Section 2 : Autres dispositions (art. D632-3 à R632-3)](#1184)
-            - [Sous-section 2 : Dispositions particulières à l'Autorité des marchés financiers (art. D632-3 à R632-3)](#1185)
-        - [Chapitre III : Surveillance complémentaire des conglomérats financiers (art. R633-1 à R633-4)](#1186)
-    - [Livre VII : Régime de l'outre-mer (art. R711-1 à R766-4)](#1187)
-      - [Titre Ier : Dispositions communes à plusieurs collectivités territoriales (art. R711-1 à R712-19)](#1188)
-        - [Chapitre Ier : Dispositions applicables à la Guadeloupe, à la Guyane, à la Martinique, à la Réunion, à Mayotte et à Saint-Pierre-et-Miquelon (art. R711-1 à R711-19)](#1189)
-          - [Section 2 : L'Institut d'émission des départements d'outre-mer (art. R711-1 à R711-13)](#1190)
-            - [Sous-section 1 : Dispositions générales (art. R711-1 à R711-3)](#1191)
-            - [Sous-section 2 : Administration (art. R711-4 à R711-7)](#1192)
-            - [Sous-section 3 : Comptabilité et contrôle (art. R711-8 à R711-9)](#1193)
-            - [Sous-section 4 : Dispositions diverses (art. D711-14 à R711-13)](#1194)
-          - [Section 3 : Dispositions relatives à l'euro à Mayotte et à Saint-Pierre-et-Miquelon (art. D711-15 à R711-19)](#1195)
-        - [Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et à Wallis et Futuna (art. D712-1 à R712-19)](#1196)
-          - [Section 1 : Les signes monétaires (art. D712-1)](#1197)
-          - [Section 2 : L'Institut d'émission d'outre-mer (art. R712-2 à R712-17)](#1198)
-            - [Sous-section 1 : Dispositions générales (art. R712-2 à R712-4)](#1199)
-            - [Sous-section 2 : Opérations (art. R712-5 à R712-10)](#1200)
-              - [Paragraphe 1 : Emission (art. R712-5 à R712-6)](#1201)
-              - [Paragraphe 2 : Autres opérations (art. R712-7 à R712-10)](#1202)
-            - [Sous-section 3 : Administration et tutelle (art. R712-11 à R712-14)](#1203)
-            - [Sous-section 4 : Comptabilité et contrôle (art. R712-15 à R712-16)](#1204)
-            - [Sous-section 5 : Autres missions (art. R712-17)](#1205)
-          - [Section 3 : Les instruments de la monnaie scripturale (art. R712-18 à R712-19)](#1206)
-      - [Titre II : Dispositions spécifiques à Saint-Pierre-et-Miquelon (art. R721-1 à R725-1)](#1207)
-        - [Chapitre Ier : La monnaie (art. R721-1 à R721-6)](#1208)
-          - [Section 2 : Les instruments de la monnaie scripturale (art. R721-1 à R721-2)](#1209)
-          - [Section 3 : Les relations financières avec l'étranger (art. R721-3 à R721-6)](#1210)
-            - [Sous-section 1 : Obligations de déclaration (art. R721-3 à R721-6)](#1211)
-        - [Chapitre V : Les prestataires de services (art. R725-1)](#1212)
-          - [Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. R725-1)](#1213)
-      - [Titre III : Dispositions applicables à Mayotte. (art. D731-4 à R736-4)](#1214)
-        - [Chapitre Ier : La monnaie. (art. D731-4 à R731-9)](#1215)
-          - [Section 1 : Les instruments de la monnaie scripturale (art. D731-4 à R731-5)](#1216)
-          - [Section 2 : Les relations financières avec l'étranger (art. R731-6 à R731-9)](#1217)
-            - [Sous-section 2 : Obligations de déclaration (art. R731-6 à R731-9)](#1218)
-        - [Chapitre II : Les produits. (art. R732-1 à R732-8)](#1219)
-          - [Section 1 : Les instruments financiers (art. R732-1 à R732-7)](#1220)
-            - [Sous-section 1 : Définition et règles générales (art. R732-1)](#1221)
-            - [Sous-section 3 : Les titres de créance (art. D*732-2 à D732-3)](#1222)
-              - [Paragraphe 1 : Les titres de créances négociables (art. D*732-2 à D732-3)](#1223)
-            - [Sous-section 4 : Les placements collectifs (art. D732-5 à R732-7)](#1224)
-          - [Section 2 : Produits d'épargne (art. R732-8)](#1225)
-            - [Sous-section 1 : Epargne-logement (art. R732-8)](#1226)
-        - [Chapitre III : Les services. (art. D733-2 à D733-9)](#1227)
-          - [Section 1 : Les opérations de banque (art. D733-2 à R733-6)](#1228)
-            - [Sous-section 2 : Comptes et dépôts (art. D733-2 à R733-1)](#1229)
-            - [Sous-section 3 : Crédits (art. D733-4 à R733-6)](#1230)
-              - [Paragraphe 1 : Dispositions générales (art. D733-4 à R733-3)](#1231)
-              - [Paragraphe 2 : Catégories de crédits (art. D733-4-1)](#1232)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. R733-5)](#1233)
-              - [Paragraphe 4 : Garantie des cautions (art. R733-6)](#1234)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. R733-7)](#1235)
-          - [Section 4 : Démarchage bancaire et financier (art. D733-8 à D733-9)](#1236)
-        - [Chapitre IV : Les marchés. (art. D734-1 à D734-4)](#1237)
-          - [Section 1 : L'appel public à l'épargne (art. D734-1)](#1238)
-          - [Section 3 : Les négociations sur instruments financiers (art. D734-2 à D734-3)](#1239)
-            - [Sous-section 1 : Dispositions générales (art. D734-2)](#1240)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. D734-2)](#1241)
-            - [Sous-section 2 : Les formes particulières de cession d'instruments financiers (art. D734-3)](#1242)
-          - [Section 4 : Les entreprises de marché et les chambres de compensations (art. D734-4)](#1243)
-        - [Chapitre V : Les prestataires de services. (art. D735-2 à R735-10)](#1244)
-          - [Section 1 : Les établissements du secteur bancaire (art. D735-2 à D735-4)](#1245)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. R735-3)](#1246)
-            - [Sous-section 3 : Les compagnies financières (art. D735-4)](#1247)
-          - [Section 2 : Les changeurs manuels (art. R735-5)](#1248)
-          - [Section 3 : Les prestataires de services d'investissement (art. R735-6 à R735-7)](#1249)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. R735-6)](#1250)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. D735-8 à R735-7)](#1251)
-          - [Section 4 : Autres prestataires de services (art. D735-9)](#1252)
-          - [Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes (art. D735-11 à R735-10)](#1253)
-        - [Chapitre VI : Les institutions en matière bancaire et financière. (art. R736-1 à R736-4)](#1254)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R736-1 à R736-3)](#1255)
-            - [Sous-section 1 : Réglementation (art. R736-1)](#1256)
-            - [Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement (art. R736-2)](#1257)
-            - [Sous-section 3 : La Commission bancaire (art. R736-3)](#1258)
-          - [Section 2 : L'Autorité des marchés financiers (art. D736-5 à R736-4)](#1259)
-      - [Titre IV : Dispositions applicables en Nouvelle-Calédonie (art. D741-4 à R746-9)](#1260)
-        - [Chapitre Ier : La monnaie (art. D741-4 à R741-9)](#1261)
-          - [Section 2 : Les instruments de la monnaie scripturale (art. D741-4 à R741-5)](#1262)
-          - [Section 3 : Les relations financières avec l'étranger (art. R741-6 à R741-9)](#1263)
-            - [Sous-section 2 : Obligations de déclaration (art. R741-6 à R741-9)](#1264)
-        - [Chapitre II : Les produits (art. R742-1 à R742-7)](#1265)
-          - [Section unique : Les instruments financiers. (art. R742-1 à R742-7)](#1266)
-            - [Sous-section 1 : Inscription en compte. (art. R742-1)](#1267)
-            - [Sous-section 3 : Les titres de créance (art. D*742-2 à D742-3)](#1268)
-              - [Paragraphe 1 : Les titres de créances négociables (art. D*742-2 à D742-3)](#1269)
-            - [Sous-section 4 : Les placements collectifs (art. D742-5 à R742-7)](#1270)
-        - [Chapitre III : Les services (art. D743-2 à D743-9)](#1271)
-          - [Section 1 : Les opérations de banque (art. D743-2 à R743-6)](#1272)
-            - [Sous-section 2 : Comptes et dépôts (art. D743-2 à R743-1)](#1273)
-            - [Sous-section 3 : Crédits (art. D743-4 à R743-6)](#1274)
-              - [Paragraphe 1 : Dispositions générales (art. D743-4 à R743-3)](#1275)
-              - [Paragraphe 2 : Catégories de crédits (art. D743-4-1)](#1276)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. R743-5)](#1277)
-              - [Paragraphe 4 : Garantie des cautions (art. R743-6)](#1278)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. R743-7)](#1279)
-          - [Section 4 : Démarchage bancaire ou financier (art. D743-8 à D743-9)](#1280)
-        - [Chapitre IV : Les marchés (art. D744-1 à D744-4)](#1281)
-          - [Section 1 : L'appel public à l'épargne (art. D744-1)](#1282)
-          - [Section 3 : Les négociations sur instruments financiers (art. D744-2 à D744-3)](#1283)
-            - [Sous-section 1 : Dispositions générales (art. D744-2)](#1284)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. D744-2)](#1285)
-            - [Sous-section 2 : Les formes particulières de cession d'instruments financiers (art. D744-3)](#1286)
-          - [Section 4 : Les entreprises de marché et les chambres de compensations. (art. D744-4)](#1287)
-        - [Chapitre V : Les prestataires de services (art. D745-2 à R745-10)](#1288)
-          - [Section 1 : Les établissements du secteur bancaire (art. D745-2 à D745-4)](#1289)
-            - [Sous-section 4 : Les institutions financières spécialisées (art. R745-3)](#1290)
-            - [Sous-section 5 : Les compagnies financières (art. D745-4)](#1291)
-          - [Section 2 : Les services financiers de l'office des postes et télécommunications (art. R745-4-1 à R745-4-3)](#1292)
-          - [Section 3 : Les changeurs manuels (art. R745-5)](#1293)
-          - [Section 4 : Les prestataires de services d'investissement (art. R745-6 à R745-7)](#1294)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. R745-6)](#1295)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. D745-8 à R745-7)](#1296)
-          - [Section 5 : Autres prestataires de services (art. D745-9)](#1297)
-          - [Section 7 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes (art. D745-11 à R745-10)](#1298)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. R746-1 à R746-9)](#1299)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R746-1 à R746-8)](#1300)
-            - [Sous-section 1 : Réglementation (art. R746-1)](#1301)
-            - [Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement (art. R746-2)](#1302)
-            - [Sous-section 3 : La Commission bancaire (art. R746-3)](#1303)
-            - [Sous-section 5 : Comité consultatif du crédit en Nouvelle-Calédonie (art. R746-4 à R746-8)](#1304)
-          - [Section 2 : L'Autorité des marchés financiers (art. D746-10 à R746-9)](#1305)
-      - [Titre V : Dispositions applicables en Polynésie française (art. D751-4 à R756-4)](#1306)
-        - [Chapitre Ier : La monnaie (art. D751-4 à R751-9)](#1307)
-          - [Section 2 : Les instruments de la monnaie scripturale (art. D751-4 à R751-5)](#1308)
-          - [Section 3 : Les relations financières avec l'étranger (art. R751-6 à R751-9)](#1309)
-            - [Sous-section 2 : Obligations de déclaration (art. R751-6 à R751-9)](#1310)
-        - [Chapitre II : Les produits (art. R752-1 à R752-7)](#1311)
-          - [Section 1 : Les instruments financiers (art. R752-1 à R752-7)](#1312)
-            - [Sous-section 1 : Inscription en compte. (art. R752-1)](#1313)
-            - [Sous-section 3 : Les titres de créance (art. D*752-2 à D752-3)](#1314)
-              - [Paragraphe 1 : Les titres de créances négociables (art. D*752-2 à D752-3)](#1315)
-            - [Sous-section 4 : Les placements collectifs (art. D752-5 à R752-7)](#1316)
-        - [Chapitre III : Les services (art. D753-2 à D753-9)](#1317)
-          - [Section 1 : Les opérations de banque (art. D753-2 à R753-6)](#1318)
-            - [Sous-section 2 : Comptes et dépôts (art. D753-2 à R753-1)](#1319)
-            - [Sous-section 3 : Crédits (art. D753-4 à R753-6)](#1320)
-              - [Paragraphe 1 : Dispositions générales (art. D753-4 à R753-3)](#1321)
-              - [Paragraphe 2 : Catégories de crédits (art. D753-4-1)](#1322)
-              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. R753-5)](#1323)
-              - [Paragraphe 4 : Garanties des cautions (art. R753-6)](#1324)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. R753-7)](#1325)
-          - [Section 4 : Démarchage bancaire ou financier (art. D753-8 à D753-9)](#1326)
-        - [Chapitre IV : Les marchés (art. D754-1 à D754-4)](#1327)
-          - [Section 1 : L'appel public à l'épargne (art. D754-1)](#1328)
-          - [Section 3 : Les négociations sur instruments financiers (art. D754-2 à D754-3)](#1329)
-            - [Sous-section 1 : Dispositions générales (art. D754-2)](#1330)
-              - [Paragraphe 1 : Transfert de propriété des titres et mise en gage (art. D754-2)](#1331)
-            - [Sous-section 2 : Les formes particulières de cession d'instruments financiers (art. D754-3)](#1332)
-          - [Section 4 : Les entreprises de marché et les chambres de compensations. (art. D754-4)](#1333)
-        - [Chapitre V : Les prestataires de services (art. D755-2 à R755-10)](#1334)
-          - [Section 1 : Les établissements du secteur bancaire (art. D755-2 à D755-4)](#1335)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. R755-3)](#1336)
-            - [Sous-section 3 : Les compagnies financières (art. D755-4)](#1337)
-          - [Section 1 bis : Les services financiers de l'office des postes et télécommunications (art. R755-4-1 à R755-4-3)](#1338)
-          - [Section 2 : Les changeurs manuels (art. R755-5)](#1339)
-          - [Section 3 : Les prestataires de services d'investissement (art. R755-6 à R755-7)](#1340)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. R755-6)](#1341)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. D755-8 à R755-7)](#1342)
-          - [Section 4 : Autres prestataires de services (art. D755-9)](#1343)
-          - [Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes (art. D755-11 à R755-10)](#1344)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. R756-1 à R756-4)](#1345)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R756-1 à R756-3)](#1346)
-            - [Sous-section 1 : Réglementation (art. R756-1)](#1347)
-            - [Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement (art. R756-2)](#1348)
-            - [Sous-section 3 : La Commission bancaire (art. R756-3)](#1349)
-          - [Section 2 : L'Autorité des marchés financiers (art. D756-5 à R756-4)](#1350)
-      - [Titre VI : Dispositions applicables à Wallis et Futuna (art. D761-4 à R766-4)](#1351)
-        - [Chapitre Ier : La monnaie (art. D761-4 à R761-9)](#1352)
-          - [Section 1 : Les instruments de la monnaie scripturale (art. D761-4 à R761-5)](#1353)
-          - [Section 2 : Les relations financières avec l'étranger (art. R761-6 à R761-9)](#1354)
-            - [Sous-section 2 : Obligations de déclaration (art. R761-6 à R761-9)](#1355)
-        - [Chapitre II : Les produits (art. R762-1 à R762-7)](#1356)
-          - [Section 1 : Les instruments financiers (art. R762-1 à R762-7)](#1357)
-            - [Sous-section 1 : Inscription en compte. (art. R762-1)](#1358)
-            - [Sous-section 3 : Les titres de créance (art. D*762-2 à D762-3)](#1359)
-              - [Paragraphe 1 : Les titres de créances négociables (art. D*762-2 à D762-3)](#1360)
-            - [Sous-section 4 : Les placements collectifs (art. D762-5 à R762-7)](#1361)
-        - [Chapitre III : Les services (art. D763-2 à D763-9)](#1362)
-          - [Section 1 : Les opérations de banque (art. D763-2 à R763-6)](#1363)
-            - [Sous-section 1 : Dispositions générales (art. D763-2 à R763-1)](#1364)
-            - [Sous-section 3 : Crédits. (art. D763-4 à R763-6)](#1365)
-              - [Paragraphe 1 : Dispositions générales (art. D763-4 à R763-3)](#1366)
-              - [Paragraphe 2 : Catégories de crédits (art. D763-4-1)](#1367)
-              - [Paragraphe 3 : Procédures de mobilisation des créances (art. R763-5)](#1368)
-              - [Paragraphe 4 : Garantie des cautions (art. R763-6)](#1369)
-          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. R763-7)](#1370)
-          - [Section 4 : Démarchage bancaire ou financier (art. D763-8 à D763-9)](#1371)
-        - [Chapitre IV : Les marchés (art. D764-1 à D764-4)](#1372)
-          - [Section 1 : L'appel public à l'épargne (art. D764-1)](#1373)
-          - [Section 3 : Les négociations sur instruments financiers (art. D764-2 à D764-3)](#1374)
-            - [Sous-section 1 : Dispositions générales (art. D764-2)](#1375)
-              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. D764-2)](#1376)
-            - [Sous-section 2 : Les formes particulières de cession d'instruments financiers (art. D764-3)](#1377)
-          - [Section 4 : Les entreprises de marché et les chambres de compensations. (art. D764-4)](#1378)
-        - [Chapitre V : Les prestataires de services (art. D765-2 à R765-10)](#1379)
-          - [Section 1 : Les établissements du secteur bancaire (art. D765-2 à D765-4)](#1380)
-            - [Sous-section 2 : Les institutions financières spécialisées (art. R765-3)](#1381)
-            - [Sous-section 3 : Les compagnies financières (art. D765-4)](#1382)
-          - [Section 2 : Les changeurs manuels (art. R765-5)](#1383)
-          - [Section 3 : Les prestataires de services d'investissement (art. R765-6 à R765-7)](#1384)
-            - [Sous-section 2 : Les conditions d'accès à la profession (art. R765-6)](#1385)
-            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. D765-8 à R765-7)](#1386)
-          - [Section 4 : Autres prestataires de services (art. D765-9)](#1387)
-          - [Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes (art. D765-11 à R765-10)](#1388)
-        - [Chapitre VI : Les institutions en matière bancaire et financière (art. R766-1 à R766-4)](#1389)
-          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R766-1 à R766-3)](#1390)
-            - [Sous-section 1 : Réglementation (art. R766-1)](#1391)
-            - [Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement (art. R766-2)](#1392)
-            - [Sous-section 3 : La Commission bancaire (art. R766-3)](#1393)
-          - [Section 2 : L'Autorité des marchés financiers (art. D766-5 à R766-4)](#1394)
+        - [Chapitre IV : Les caisses de crédit municipal. (art. D514-1 à R514-37)](#1072)
+          - [Section 1 : Opérations. (art. D514-1 à D514-22)](#1073)
+            - [Sous-section 1 : Principes et modalités des prêts sur gage. (art. D514-1 à D514-9)](#1074)
+            - [Sous-section 2 : Reconnaissance de dépôt des objets engagés. (art. D514-10 à D514-11)](#1075)
+            - [Sous-section 3 : Règles applicables aux gages. (art. D514-12 à D514-15)](#1076)
+            - [Sous-section 4 : Ventes aux enchères. (art. D514-16 à D514-20)](#1077)
+            - [Sous-section 5 : Bonis. (art. D514-21)](#1078)
+            - [Sous-section 6 : Revendication d'un objet gagé. (art. D514-22)](#1079)
+          - [Section 2 : Organisation et fonctionnement (art. R514-23 à R514-37)](#1080)
+            - [Sous-section 1 : Conseil d'orientation et de surveillance (art. R514-23 à R514-32)](#1081)
+            - [Sous-section 2 : Règles comptables et financières (art. R514-33 à R514-37)](#1082)
+        - [Chapitre V : Les sociétés financières. (art. R515-1 à R515-14)](#1083)
+          - [Section 3 : Les sociétés de caution mutuelle. (art. R515-1)](#1084)
+          - [Section 4 : Les sociétés de crédit foncier. (art. R515-2 à R515-14)](#1085)
+            - [Sous-section 2 : Opérations. (art. R515-2 à R515-7)](#1086)
+            - [Sous-section 3 : Privilège des créances nées des opérations. (art. R515-8 à R515-9)](#1087)
+            - [Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier. (art. D515-10 à D515-11)](#1088)
+            - [Sous-section 6 : Contrôles. (art. R515-12 à R515-14)](#1089)
+        - [Chapitre VI : Les institutions financières spécialisées. (art. D516-1 à R516-21)](#1090)
+          - [Section 1 : Agence française de développement. (art. R516-3 à R516-20)](#1091)
+            - [Sous-section 1 : Opérations. (art. R516-4 à R516-9)](#1092)
+              - [Paragraphe 1 : Concours financiers de l'agence pour son compte propre. (art. R516-5 à R516-6)](#1093)
+              - [Paragraphe 2 : Opérations pour compte de l'Etat. (art. R516-7)](#1094)
+              - [Paragraphe 3 : Autres opérations. (art. R516-8 à R516-9)](#1095)
+            - [Sous-section 2 : Organisation. (art. R516-10 à R516-15)](#1096)
+            - [Sous-section 3 : Dispositions diverses. (art. R516-16 à R516-20)](#1097)
+          - [Section 2 : Les sociétés de développement régional. (art. R*516-22 à R516-21)](#1098)
+        - [Chapitre VII : Compagnies financières et conglomérats financiers. (art. D517-1 à D517-8)](#1099)
+          - [Section 2 : Dispositions générales (art. D517-1 à D517-8)](#1100)
+            - [Sous-section 1 : Compagnies financières. (art. D517-1 à R517-4)](#1101)
+            - [Sous-section 2 : Conglomérats financiers. (art. D517-8)](#1102)
+        - [Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque. (art. R518-1 à R518-69)](#1103)
+          - [Section 2 : La Caisse des dépôts et consignations. (art. R518-1 à R518-42)](#1104)
+            - [Sous-section 2 : Administration de la Caisse des dépôts et consignations. (art. R518-1 à R518-30)](#1105)
+              - [Paragraphe 1 : Le directeur général. (art. R518-1 à R518-12)](#1106)
+              - [Paragraphe 2 : Le caissier général. (art. R518-13 à R518-22)](#1107)
+              - [Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor. (art. R518-23 à R518-27)](#1108)
+              - [Paragraphe 4 : Contrôle par la Cour des comptes. (art. R518-28 à R518-30)](#1109)
+            - [Sous-section 4 : Opérations. (art. R518-31 à R518-42)](#1110)
+              - [Paragraphe 1 : Consignations et dépôts. (art. R518-31 à R518-42)](#1111)
+          - [Section 4 : La Caisse nationale d'épargne. (art. R518-46 à R518-55)](#1112)
+          - [Section 5 : Les associations sans but lucratif et les sociétés autorisées à effectuer certaines opérations de banque. (art. R518-57 à R518-69)](#1113)
+            - [Sous-section 1 : Dispositions communes. (art. R518-57 à R518-58)](#1114)
+            - [Sous-section 2 : Les associations sans but lucratif habilitées à faire certains prêts (art. R518-59 à R518-64)](#1115)
+            - [Sous-section 3 : Les sociétés autorisées à consentir certaines garanties (art. R518-65 à R518-69)](#1116)
+      - [Titre III : Les prestataires de services d'investissement (art. D531-1 à D533-14)](#1117)
+        - [Chapitre Ier : Définitions. (art. D531-1)](#1118)
+        - [Chapitre II : Conditions d'exercice de la profession. (art. R532-1 à R532-29)](#1119)
+          - [Section 1 : Agrément. (art. R532-1 à R532-16)](#1120)
+            - [Sous-section 1 : Conditions et procédures d'agrément. (art. R532-1 à R532-9)](#1121)
+            - [Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille. (art. R532-10 à R532-16)](#1122)
+              - [Paragraphe 1 : Agrément. (art. R532-10 à R532-16)](#1123)
+          - [Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen. (art. R532-17 à R532-29)](#1124)
+            - [Sous-section 2 : Libre prestation de services et liberté d'établissement en France. (art. R532-17 à R532-19)](#1125)
+            - [Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen. (art. R532-20 à R532-29)](#1126)
+              - [Paragraphe 2 : Libre établissement. (art. R532-20 à R532-25)](#1127)
+                - [Sous-paragraphe 1 : Libre établissement des prestataires de services d'investissement autres que les sociétés de gestion de portefeuille. (art. R532-20 à R532-23)](#1128)
+                - [Sous-paragraphe 2 : Libre établissement des sociétés de gestion de portefeuille. (art. R532-24 à R532-25)](#1129)
+              - [Paragraphe 3 : Libre prestation de services (art. R532-26 à R532-29)](#1130)
+                - [Sous-paragraphe 1 : Libre prestation de services des prestataires de services d'investissement autres que les sociétés de gestion de portefeuille. (art. R532-26 à R532-27)](#1131)
+                - [Sous-paragraphe 2 : Libre prestation de services des sociétés de gestion de portefeuille. (art. R532-28 à R532-29)](#1132)
+        - [Chapitre III : Obligations des prestataires de services d'investissement. (art. D533-2-1 à D533-14)](#1133)
+          - [Section 2 : Obligations comptables et déclaratives. (art. D533-2-1 à R533-8)](#1134)
+            - [Sous-section 1 : Comptes sociaux et documents comptables. (art. D533-2-1 à R533-2)](#1135)
+            - [Sous-section 2 : Commissaires aux comptes. (art. D533-3 à R533-8)](#1136)
+          - [Section 3 : Règles de bonne conduite. (art. R533-9 à D533-14)](#1137)
+            - [Sous-section 1 : Dispositions applicables aux membres du personnel des entreprises d'investissement (art. R533-9 à R533-10)](#1138)
+            - [Sous-section 2 : Clients professionnels (art. D533-11 à D533-12)](#1139)
+            - [Sous-section 3 : Contreparties éligibles (art. D533-13 à D533-14)](#1140)
+      - [Titre IV : Autres prestataires de services (art. D541-1 à R542-1)](#1141)
+        - [Chapitre Ier : Les conseillers en investissements financiers. (art. D541-1 à D541-9)](#1142)
+        - [Chapitre II : Les intermédiaires et les personnes faisant appel public à l'épargne habilités en vue de l'administration ou de la conservation d'instruments financiers. (art. R542-1)](#1143)
+      - [Titre V : Intermédiaires en biens divers (art. R550-1 à R550-3)](#1144)
+      - [Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes. (art. R562-1 à R565-4)](#1145)
+        - [Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite. (art. R562-1 à D562-15)](#1146)
+          - [Section 1 : Communication et déclaration. (art. R562-1 à R562-2-3)](#1147)
+          - [Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation. (art. R562-3 à R562-8)](#1148)
+          - [Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes. (art. D562-12 à D562-15)](#1149)
+        - [Chapitre III : Autres obligations de vigilance. (art. R563-1 à R563-4)](#1150)
+        - [Chapitre IV : Dispositions relatives à la lutte contre le financement des activités terroristes. (art. R564-1 à R564-2)](#1151)
+        - [Chapitre V : Dispositions diverses. (art. D565-2 à R565-4)](#1152)
+      - [Titre VII : Dispositions pénales (art. R571-1 à R571-2)](#1153)
+        - [Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire. (art. R571-1 à R571-2)](#1154)
+          - [Section 2 : Banques mutualistes ou coopératives. (art. R571-1)](#1155)
+          - [Section 4 : Sociétés financières. (art. R571-2)](#1156)
+    - [Livre VI : Les institutions en matière bancaire et financière (art. R611-1 à R633-4)](#1157)
+      - [Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R611-1 à R616-1)](#1158)
+        - [Chapitre Ier : Réglementation (art. R611-1 à R611-3)](#1159)
+        - [Chapitre II : Comité des établissements de crédit et des entreprises d'investissement (art. R612-1 à R612-5)](#1160)
+          - [Section 1 : Missions (art. R612-1)](#1161)
+          - [Section 3 : Règles de fonctionnement (art. R612-2 à R612-5)](#1162)
+        - [Chapitre III : Commission bancaire (art. R613-1 à R613-27)](#1163)
+          - [Section 3 : Règles de fonctionnement (art. R613-1 à R613-2-1)](#1164)
+          - [Section 4 : Exercice du contrôle (art. D613-3 à R613-3-2)](#1165)
+            - [Sous-section 1 : Dispositions générales (art. D613-3 à R613-3-1)](#1166)
+            - [Sous-section 2 : Surveillance sur une base consolidée (art. R613-3-2)](#1167)
+          - [Section 5 : Exercice du pouvoir disciplinaire (art. R613-4 à R613-9)](#1168)
+          - [Section 6 : Dispositions relatives au traitement des établissements de crédit et des entreprises d'investissement en difficulté (art. R613-10 à R613-27)](#1169)
+            - [Sous-section 1 : Mesures spécifiques au redressement et à la liquidation judiciaires des établissements de crédit et des entreprises d'investissement (art. R613-10 à R613-23)](#1170)
+              - [Paragraphe 1 : Procédure de désignation des administrateurs provisoires et liquidateurs (art. R613-10 à R613-13-1)](#1171)
+              - [Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, liquidation judiciaires et de procédures de conciliation applicables aux établissements de crédit et aux entreprises d'investissement (art. R613-14 à R613-23)](#1172)
+            - [Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires (art. R613-24 à R613-27)](#1173)
+        - [Chapitre IV : Institutions consultatives (art. D614-1 à D614-3)](#1174)
+          - [Section 1 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières (art. D614-1 à D614-3)](#1175)
+        - [Chapitre V : Autres institutions (art. D615-1 à D615-8)](#1176)
+          - [Section unique : Commissaires du Gouvernement et mission de contrôle des activités financières (art. D615-1 à D615-8)](#1177)
+        - [Chapitre VI : Incompatibilités (art. R616-1)](#1178)
+      - [Titre II : L'Autorité des marchés financiers (art. R621-1 à R621-46)](#1179)
+        - [Chapitre unique : L'Autorité des marchés financiers (art. R621-1 à R621-46)](#1180)
+          - [Section 2 : Composition (art. R621-1 à R621-9)](#1181)
+          - [Section 3 : Règles de fonctionnement (art. D621-27 à R621-26)](#1182)
+          - [Section 4 : Pouvoirs (art. R621-30-1 à R621-43-1)](#1183)
+            - [Sous-section 1 : Réglementation et décisions (art. R621-30-1 à R621-30-4)](#1184)
+            - [Sous-section 3 : Contrôles et enquêtes (art. R621-31 à R621-36)](#1185)
+            - [Sous-section 4 : Injonctions et mesures d'urgence (art. R621-37)](#1186)
+            - [Sous-section 5 : Sanctions (art. R621-38 à R621-42)](#1187)
+            - [Sous-section 7 : Autres compétences (art. R621-43-1)](#1188)
+          - [Section 6 : Voies de recours (art. R621-44 à R621-46)](#1189)
+      - [Titre III : Coopération, échanges d'informations et surveillance complémentaire des conglomérats financiers (art. R632-1 à R633-4)](#1190)
+        - [Chapitre II : Coopération et échange d'informations avec l'étranger (art. R632-1 à R632-3)](#1191)
+          - [Section 1 : Dispositions concernant la surveillance, les contrôles et les enquêtes relatifs aux prestataires de services d'investissement, aux marchés réglementés et aux entreprises de marché et transposant la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers (art. R632-1 à D632-1-1)](#1192)
+            - [Sous-section 1 : Coopération et échanges d'informations avec les autorités d'autres Etats membres de la Communauté européenne ou d'autres Etats parties à l'accord sur l'Espace économique européen (art. R632-1)](#1193)
+            - [Sous-section 2 : Coopération et échanges d'informations avec les autorités des Etats non parties à l'accord sur l'Espace économique européen (art. D632-1-1)](#1194)
+          - [Section 2 : Autres dispositions (art. D632-3 à R632-3)](#1195)
+            - [Sous-section 2 : Dispositions particulières à l'Autorité des marchés financiers (art. D632-3 à R632-3)](#1196)
+        - [Chapitre III : Surveillance complémentaire des conglomérats financiers (art. R633-1 à R633-4)](#1197)
+    - [Livre VII : Régime de l'outre-mer (art. R711-1 à R766-4)](#1198)
+      - [Titre Ier : Dispositions communes à plusieurs collectivités territoriales (art. R711-1 à R712-19)](#1199)
+        - [Chapitre Ier : Dispositions applicables à la Guadeloupe, à la Guyane, à la Martinique, à la Réunion, à Mayotte et à Saint-Pierre-et-Miquelon (art. R711-1 à R711-19)](#1200)
+          - [Section 2 : L'Institut d'émission des départements d'outre-mer (art. R711-1 à R711-13)](#1201)
+            - [Sous-section 1 : Dispositions générales (art. R711-1 à R711-3)](#1202)
+            - [Sous-section 2 : Administration (art. R711-4 à R711-7)](#1203)
+            - [Sous-section 3 : Comptabilité et contrôle (art. R711-8 à R711-9)](#1204)
+            - [Sous-section 4 : Dispositions diverses (art. D711-14 à R711-13)](#1205)
+          - [Section 3 : Dispositions relatives à l'euro à Mayotte et à Saint-Pierre-et-Miquelon (art. D711-15 à R711-19)](#1206)
+        - [Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et à Wallis et Futuna (art. D712-1 à R712-19)](#1207)
+          - [Section 1 : Les signes monétaires (art. D712-1)](#1208)
+          - [Section 2 : L'Institut d'émission d'outre-mer (art. R712-2 à R712-17)](#1209)
+            - [Sous-section 1 : Dispositions générales (art. R712-2 à R712-4)](#1210)
+            - [Sous-section 2 : Opérations (art. R712-5 à R712-10)](#1211)
+              - [Paragraphe 1 : Emission (art. R712-5 à R712-6)](#1212)
+              - [Paragraphe 2 : Autres opérations (art. R712-7 à R712-10)](#1213)
+            - [Sous-section 3 : Administration et tutelle (art. R712-11 à R712-14)](#1214)
+            - [Sous-section 4 : Comptabilité et contrôle (art. R712-15 à R712-16)](#1215)
+            - [Sous-section 5 : Autres missions (art. R712-17)](#1216)
+          - [Section 3 : Les instruments de la monnaie scripturale (art. R712-18 à R712-19)](#1217)
+      - [Titre II : Dispositions spécifiques à Saint-Pierre-et-Miquelon (art. R721-1 à R725-1)](#1218)
+        - [Chapitre Ier : La monnaie (art. R721-1 à R721-6)](#1219)
+          - [Section 2 : Les instruments de la monnaie scripturale (art. R721-1 à R721-2)](#1220)
+          - [Section 3 : Les relations financières avec l'étranger (art. R721-3 à R721-6)](#1221)
+            - [Sous-section 1 : Obligations de déclaration (art. R721-3 à R721-6)](#1222)
+        - [Chapitre V : Les prestataires de services (art. R725-1)](#1223)
+          - [Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux (art. R725-1)](#1224)
+      - [Titre III : Dispositions applicables à Mayotte. (art. D731-4 à R736-4)](#1225)
+        - [Chapitre Ier : La monnaie. (art. D731-4 à R731-9)](#1226)
+          - [Section 1 : Les instruments de la monnaie scripturale (art. D731-4 à R731-5)](#1227)
+          - [Section 2 : Les relations financières avec l'étranger (art. R731-6 à R731-9)](#1228)
+            - [Sous-section 2 : Obligations de déclaration (art. R731-6 à R731-9)](#1229)
+        - [Chapitre II : Les produits. (art. R732-1 à R732-8)](#1230)
+          - [Section 1 : Les instruments financiers (art. R732-1 à R732-7)](#1231)
+            - [Sous-section 1 : Définition et règles générales (art. R732-1)](#1232)
+            - [Sous-section 3 : Les titres de créance (art. D*732-2 à D732-3)](#1233)
+              - [Paragraphe 1 : Les titres de créances négociables (art. D*732-2 à D732-3)](#1234)
+            - [Sous-section 4 : Les placements collectifs (art. D732-5 à R732-7)](#1235)
+          - [Section 2 : Produits d'épargne (art. R732-8)](#1236)
+            - [Sous-section 1 : Epargne-logement (art. R732-8)](#1237)
+        - [Chapitre III : Les services. (art. D733-2 à D733-9)](#1238)
+          - [Section 1 : Les opérations de banque (art. D733-2 à R733-6)](#1239)
+            - [Sous-section 2 : Comptes et dépôts (art. D733-2 à R733-1)](#1240)
+            - [Sous-section 3 : Crédits (art. D733-4 à R733-6)](#1241)
+              - [Paragraphe 1 : Dispositions générales (art. D733-4 à R733-3)](#1242)
+              - [Paragraphe 2 : Catégories de crédits (art. D733-4-1)](#1243)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. R733-5)](#1244)
+              - [Paragraphe 4 : Garantie des cautions (art. R733-6)](#1245)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. R733-7)](#1246)
+          - [Section 4 : Démarchage bancaire et financier (art. D733-8 à D733-9)](#1247)
+        - [Chapitre IV : Les marchés. (art. D734-1 à D734-4)](#1248)
+          - [Section 1 : L'appel public à l'épargne (art. D734-1)](#1249)
+          - [Section 3 : Les négociations sur instruments financiers (art. D734-2 à D734-3)](#1250)
+            - [Sous-section 1 : Dispositions générales (art. D734-2)](#1251)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. D734-2)](#1252)
+            - [Sous-section 2 : Les formes particulières de cession d'instruments financiers (art. D734-3)](#1253)
+          - [Section 4 : Les entreprises de marché et les chambres de compensations (art. D734-4)](#1254)
+        - [Chapitre V : Les prestataires de services. (art. D735-2 à R735-10)](#1255)
+          - [Section 1 : Les établissements du secteur bancaire (art. D735-2 à D735-4)](#1256)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. R735-3)](#1257)
+            - [Sous-section 3 : Les compagnies financières (art. D735-4)](#1258)
+          - [Section 2 : Les changeurs manuels (art. R735-5)](#1259)
+          - [Section 3 : Les prestataires de services d'investissement (art. R735-6 à R735-7)](#1260)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. R735-6)](#1261)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. D735-8 à R735-7)](#1262)
+          - [Section 4 : Autres prestataires de services (art. D735-9)](#1263)
+          - [Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes (art. D735-11 à R735-10)](#1264)
+        - [Chapitre VI : Les institutions en matière bancaire et financière. (art. R736-1 à R736-4)](#1265)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R736-1 à R736-3)](#1266)
+            - [Sous-section 1 : Réglementation (art. R736-1)](#1267)
+            - [Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement (art. R736-2)](#1268)
+            - [Sous-section 3 : La Commission bancaire (art. R736-3)](#1269)
+          - [Section 2 : L'Autorité des marchés financiers (art. D736-5 à R736-4)](#1270)
+      - [Titre IV : Dispositions applicables en Nouvelle-Calédonie (art. D741-4 à R746-9)](#1271)
+        - [Chapitre Ier : La monnaie (art. D741-4 à R741-9)](#1272)
+          - [Section 2 : Les instruments de la monnaie scripturale (art. D741-4 à R741-5)](#1273)
+          - [Section 3 : Les relations financières avec l'étranger (art. R741-6 à R741-9)](#1274)
+            - [Sous-section 2 : Obligations de déclaration (art. R741-6 à R741-9)](#1275)
+        - [Chapitre II : Les produits (art. R742-1 à R742-7)](#1276)
+          - [Section unique : Les instruments financiers. (art. R742-1 à R742-7)](#1277)
+            - [Sous-section 1 : Inscription en compte. (art. R742-1)](#1278)
+            - [Sous-section 3 : Les titres de créance (art. D*742-2 à D742-3)](#1279)
+              - [Paragraphe 1 : Les titres de créances négociables (art. D*742-2 à D742-3)](#1280)
+            - [Sous-section 4 : Les placements collectifs (art. D742-5 à R742-7)](#1281)
+        - [Chapitre III : Les services (art. D743-2 à D743-9)](#1282)
+          - [Section 1 : Les opérations de banque (art. D743-2 à R743-6)](#1283)
+            - [Sous-section 2 : Comptes et dépôts (art. D743-2 à R743-1)](#1284)
+            - [Sous-section 3 : Crédits (art. D743-4 à R743-6)](#1285)
+              - [Paragraphe 1 : Dispositions générales (art. D743-4 à R743-3)](#1286)
+              - [Paragraphe 2 : Catégories de crédits (art. D743-4-1)](#1287)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. R743-5)](#1288)
+              - [Paragraphe 4 : Garantie des cautions (art. R743-6)](#1289)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. R743-7)](#1290)
+          - [Section 4 : Démarchage bancaire ou financier (art. D743-8 à D743-9)](#1291)
+        - [Chapitre IV : Les marchés (art. D744-1 à D744-4)](#1292)
+          - [Section 1 : L'appel public à l'épargne (art. D744-1)](#1293)
+          - [Section 3 : Les négociations sur instruments financiers (art. D744-2 à D744-3)](#1294)
+            - [Sous-section 1 : Dispositions générales (art. D744-2)](#1295)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. D744-2)](#1296)
+            - [Sous-section 2 : Les formes particulières de cession d'instruments financiers (art. D744-3)](#1297)
+          - [Section 4 : Les entreprises de marché et les chambres de compensations. (art. D744-4)](#1298)
+        - [Chapitre V : Les prestataires de services (art. D745-2 à R745-10)](#1299)
+          - [Section 1 : Les établissements du secteur bancaire (art. D745-2 à D745-4)](#1300)
+            - [Sous-section 4 : Les institutions financières spécialisées (art. R745-3)](#1301)
+            - [Sous-section 5 : Les compagnies financières (art. D745-4)](#1302)
+          - [Section 2 : Les services financiers de l'office des postes et télécommunications (art. R745-4-1 à R745-4-3)](#1303)
+          - [Section 3 : Les changeurs manuels (art. R745-5)](#1304)
+          - [Section 4 : Les prestataires de services d'investissement (art. R745-6 à R745-7)](#1305)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. R745-6)](#1306)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. D745-8 à R745-7)](#1307)
+          - [Section 5 : Autres prestataires de services (art. D745-9)](#1308)
+          - [Section 7 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes (art. D745-11 à R745-10)](#1309)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. R746-1 à R746-9)](#1310)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R746-1 à R746-8)](#1311)
+            - [Sous-section 1 : Réglementation (art. R746-1)](#1312)
+            - [Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement (art. R746-2)](#1313)
+            - [Sous-section 3 : La Commission bancaire (art. R746-3)](#1314)
+            - [Sous-section 5 : Comité consultatif du crédit en Nouvelle-Calédonie (art. R746-4 à R746-8)](#1315)
+          - [Section 2 : L'Autorité des marchés financiers (art. D746-10 à R746-9)](#1316)
+      - [Titre V : Dispositions applicables en Polynésie française (art. D751-4 à R756-4)](#1317)
+        - [Chapitre Ier : La monnaie (art. D751-4 à R751-9)](#1318)
+          - [Section 2 : Les instruments de la monnaie scripturale (art. D751-4 à R751-5)](#1319)
+          - [Section 3 : Les relations financières avec l'étranger (art. R751-6 à R751-9)](#1320)
+            - [Sous-section 2 : Obligations de déclaration (art. R751-6 à R751-9)](#1321)
+        - [Chapitre II : Les produits (art. R752-1 à R752-7)](#1322)
+          - [Section 1 : Les instruments financiers (art. R752-1 à R752-7)](#1323)
+            - [Sous-section 1 : Inscription en compte. (art. R752-1)](#1324)
+            - [Sous-section 3 : Les titres de créance (art. D*752-2 à D752-3)](#1325)
+              - [Paragraphe 1 : Les titres de créances négociables (art. D*752-2 à D752-3)](#1326)
+            - [Sous-section 4 : Les placements collectifs (art. D752-5 à R752-7)](#1327)
+        - [Chapitre III : Les services (art. D753-2 à D753-9)](#1328)
+          - [Section 1 : Les opérations de banque (art. D753-2 à R753-6)](#1329)
+            - [Sous-section 2 : Comptes et dépôts (art. D753-2 à R753-1)](#1330)
+            - [Sous-section 3 : Crédits (art. D753-4 à R753-6)](#1331)
+              - [Paragraphe 1 : Dispositions générales (art. D753-4 à R753-3)](#1332)
+              - [Paragraphe 2 : Catégories de crédits (art. D753-4-1)](#1333)
+              - [Paragraphe 3 : Procédures de mobilisation des créances professionnelles (art. R753-5)](#1334)
+              - [Paragraphe 4 : Garanties des cautions (art. R753-6)](#1335)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. R753-7)](#1336)
+          - [Section 4 : Démarchage bancaire ou financier (art. D753-8 à D753-9)](#1337)
+        - [Chapitre IV : Les marchés (art. D754-1 à D754-4)](#1338)
+          - [Section 1 : L'appel public à l'épargne (art. D754-1)](#1339)
+          - [Section 3 : Les négociations sur instruments financiers (art. D754-2 à D754-3)](#1340)
+            - [Sous-section 1 : Dispositions générales (art. D754-2)](#1341)
+              - [Paragraphe 1 : Transfert de propriété des titres et mise en gage (art. D754-2)](#1342)
+            - [Sous-section 2 : Les formes particulières de cession d'instruments financiers (art. D754-3)](#1343)
+          - [Section 4 : Les entreprises de marché et les chambres de compensations. (art. D754-4)](#1344)
+        - [Chapitre V : Les prestataires de services (art. D755-2 à R755-10)](#1345)
+          - [Section 1 : Les établissements du secteur bancaire (art. D755-2 à D755-4)](#1346)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. R755-3)](#1347)
+            - [Sous-section 3 : Les compagnies financières (art. D755-4)](#1348)
+          - [Section 1 bis : Les services financiers de l'office des postes et télécommunications (art. R755-4-1 à R755-4-3)](#1349)
+          - [Section 2 : Les changeurs manuels (art. R755-5)](#1350)
+          - [Section 3 : Les prestataires de services d'investissement (art. R755-6 à R755-7)](#1351)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. R755-6)](#1352)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. D755-8 à R755-7)](#1353)
+          - [Section 4 : Autres prestataires de services (art. D755-9)](#1354)
+          - [Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes (art. D755-11 à R755-10)](#1355)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. R756-1 à R756-4)](#1356)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R756-1 à R756-3)](#1357)
+            - [Sous-section 1 : Réglementation (art. R756-1)](#1358)
+            - [Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement (art. R756-2)](#1359)
+            - [Sous-section 3 : La Commission bancaire (art. R756-3)](#1360)
+          - [Section 2 : L'Autorité des marchés financiers (art. D756-5 à R756-4)](#1361)
+      - [Titre VI : Dispositions applicables à Wallis et Futuna (art. D761-4 à R766-4)](#1362)
+        - [Chapitre Ier : La monnaie (art. D761-4 à R761-9)](#1363)
+          - [Section 1 : Les instruments de la monnaie scripturale (art. D761-4 à R761-5)](#1364)
+          - [Section 2 : Les relations financières avec l'étranger (art. R761-6 à R761-9)](#1365)
+            - [Sous-section 2 : Obligations de déclaration (art. R761-6 à R761-9)](#1366)
+        - [Chapitre II : Les produits (art. R762-1 à R762-7)](#1367)
+          - [Section 1 : Les instruments financiers (art. R762-1 à R762-7)](#1368)
+            - [Sous-section 1 : Inscription en compte. (art. R762-1)](#1369)
+            - [Sous-section 3 : Les titres de créance (art. D*762-2 à D762-3)](#1370)
+              - [Paragraphe 1 : Les titres de créances négociables (art. D*762-2 à D762-3)](#1371)
+            - [Sous-section 4 : Les placements collectifs (art. D762-5 à R762-7)](#1372)
+        - [Chapitre III : Les services (art. D763-2 à D763-9)](#1373)
+          - [Section 1 : Les opérations de banque (art. D763-2 à R763-6)](#1374)
+            - [Sous-section 1 : Dispositions générales (art. D763-2 à R763-1)](#1375)
+            - [Sous-section 3 : Crédits. (art. D763-4 à R763-6)](#1376)
+              - [Paragraphe 1 : Dispositions générales (art. D763-4 à R763-3)](#1377)
+              - [Paragraphe 2 : Catégories de crédits (art. D763-4-1)](#1378)
+              - [Paragraphe 3 : Procédures de mobilisation des créances (art. R763-5)](#1379)
+              - [Paragraphe 4 : Garantie des cautions (art. R763-6)](#1380)
+          - [Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers (art. R763-7)](#1381)
+          - [Section 4 : Démarchage bancaire ou financier (art. D763-8 à D763-9)](#1382)
+        - [Chapitre IV : Les marchés (art. D764-1 à D764-4)](#1383)
+          - [Section 1 : L'appel public à l'épargne (art. D764-1)](#1384)
+          - [Section 3 : Les négociations sur instruments financiers (art. D764-2 à D764-3)](#1385)
+            - [Sous-section 1 : Dispositions générales (art. D764-2)](#1386)
+              - [Paragraphe 1 : Transfert de propriété et mise en gage (art. D764-2)](#1387)
+            - [Sous-section 2 : Les formes particulières de cession d'instruments financiers (art. D764-3)](#1388)
+          - [Section 4 : Les entreprises de marché et les chambres de compensations. (art. D764-4)](#1389)
+        - [Chapitre V : Les prestataires de services (art. D765-2 à R765-10)](#1390)
+          - [Section 1 : Les établissements du secteur bancaire (art. D765-2 à D765-4)](#1391)
+            - [Sous-section 2 : Les institutions financières spécialisées (art. R765-3)](#1392)
+            - [Sous-section 3 : Les compagnies financières (art. D765-4)](#1393)
+          - [Section 2 : Les changeurs manuels (art. R765-5)](#1394)
+          - [Section 3 : Les prestataires de services d'investissement (art. R765-6 à R765-7)](#1395)
+            - [Sous-section 2 : Les conditions d'accès à la profession (art. R765-6)](#1396)
+            - [Sous-section 3 : Les obligations des prestataires de services d'investissement (art. D765-8 à R765-7)](#1397)
+          - [Section 4 : Autres prestataires de services (art. D765-9)](#1398)
+          - [Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes (art. D765-11 à R765-10)](#1399)
+        - [Chapitre VI : Les institutions en matière bancaire et financière (art. R766-1 à R766-4)](#1400)
+          - [Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement (art. R766-1 à R766-3)](#1401)
+            - [Sous-section 1 : Réglementation (art. R766-1)](#1402)
+            - [Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement (art. R766-2)](#1403)
+            - [Sous-section 3 : La Commission bancaire (art. R766-3)](#1404)
+          - [Section 2 : L'Autorité des marchés financiers (art. D766-5 à R766-4)](#1405)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : La monnaie<a id=2></a>
@@ -88411,9 +88422,761 @@ _Cite_:
   - Code monétaire et financier - art. R512-62
 
 
-#### Chapitre V : Les sociétés financières.<a id=1072></a>
+#### Chapitre IV : Les caisses de crédit municipal.<a id=1072></a>
 
-##### Section 3 : Les sociétés de caution mutuelle.<a id=1073></a>
+##### Section 1 : Opérations.<a id=1073></a>
+
+##### Sous-section 1 : Principes et modalités des prêts sur gage.<a id=1074></a>
+
+###### Article D514-1
+
+Les caisses de crédit municipal peuvent consentir à toute personne physique des prêts sur gages de biens mobiliers corporels,
+susceptibles d'une valeur appréciable et en bon état de conservation. Ces biens sont déposés dans leurs magasins et
+préalablement estimés par des appréciateurs.
+
+Chaque caisse vérifie au préalable le domicile et l'identité de cette personne, qui est tenue de présenter un document
+officiel portant sa photographie. Les caractéristiques et les références de ce document sont enregistrées par la caisse. A
+défaut de pouvoir produire ce document, la personne doit être assistée par un tiers répondant, connu de la caisse et
+justifiant d'un domicile.
+
+Le directeur de la caisse peut, chaque fois qu'il l'estime utile, demander avant l'octroi d'un prêt que lui soit remis tout
+document de nature à justifier les droits dont la personne peut se prévaloir sur les biens susceptibles d'être gagés, en
+particulier, le mandat que pourrait lui avoir confié le propriétaire de ceux-ci en vue de la réalisation de cette opération
+ainsi que tout renseignement concernant l'origine de ces biens.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-2
+
+L'appréciation des objets remis en gage par les emprunteurs est faite par des commissaires-priseurs judiciaires, qui sont
+nommés pour une durée de trois ans renouvelable par le directeur de chaque caisse de crédit municipal.
+
+Avant de procéder à cette nomination, ou de mettre fin aux fonctions d'un commissaire-priseur judiciaire ou d'une personne
+habilitée à procéder aux évaluations, le directeur sollicite l'avis du conseil d'orientation et de surveillance de la caisse.
+Il recueille en outre l'avis de la chambre de discipline des commissaires-priseurs judiciaires compétente, préalablement à
+chaque nomination de commissaire-priseur judiciaire. En l'absence de réponse de la chambre de discipline dans un délai de
+trente jours, son avis est réputé favorable.
+
+Le présent article n'est pas applicable aux caisses de crédit municipal du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. A444-2 (V)
+  - Code de commerce - art. Annexe 4-7 (V)
+
+
+###### Article D514-3
+
+Les appréciateurs sont responsables vis-à-vis de la caisse des suites de leurs évaluations.
+
+En conséquence, lorsqu'à défaut de dégagement d'un objet ou de renouvellement du gage il est procédé à sa vente et que le
+produit de cette vente ne suffit pas à rembourser la caisse des sommes qu'elle a prêtées au vu de ces évaluations ainsi que
+de ce qui lui est dû, tant pour les intérêts afférents à la durée du prêt, augmentée d'un mois si cette durée est de six mois
+et de deux mois si elle est d'un an, que pour les droits accessoires dus pour la durée du prêt, les appréciateurs sont tenus
+de lui rembourser la différence.
+
+Toutefois, si cette différence est imputable en tout ou partie à des circonstances particulières et indépendantes de la
+capacité des appréciateurs, le conseil d'orientation et de surveillance pourra accorder la remise totale ou partielle du
+débet aux appréciateurs.
+
+La responsabilité de ces derniers ne peut en aucun cas être supprimée ni atténuée par avance, directement ou indirectement,
+par une décision de l'administration de l'établissement. Il n'est fait exception à cette règle que pour les droits spéciaux
+de garage et de magasinage pour lesquels la responsabilité des appréciateurs est limitée à 10 % du montant du prêt consenti.
+
+Lorsque l'appréciation est faite par plusieurs commissaires-priseurs judiciaires, leur responsabilité est solidaire.
+
+En garantie de cette responsabilité, les commissaires-priseurs judiciaires attachés à une caisse de crédit municipal doivent
+soit verser à cette dernière des cautionnements, soit obtenir un engagement de caution d'une entreprise d'assurance, d'un
+établissement de crédit ou d'un organisme professionnel habilité à cet effet. Le montant minimum de la garantie est fixé par
+le conseil d'orientation et de surveillance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-4
+
+L'établissement peut octroyer, dans les limites prévues à l'article D. 514-8, un prêt d'un montant supérieur à celui garanti
+par les commissaires-priseurs judiciaires. Au cas où le bien remis en gage est vendu à un prix inférieur au montant du prêt
+consenti mais supérieur au montant garanti par les commissaires-priseurs judiciaires, la perte financière qui en résulte est
+à la charge de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. D514-8 (V)
+
+
+###### Article D514-5
+
+La rémunération des appréciateurs est fixée par le conseil d'orientation et de surveillance. Elle ne peut excéder 0,50 % du
+montant des prêts qui ont été consentis ou renouvelés sur la base de l'appréciation des biens remis en gage.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-6
+
+Les appréciateurs doivent inscrire en toutes lettres sur le bulletin de prisée le montant de leur estimation ainsi que le
+montant du prêt à accorder par l'établissement et y apposer leur signature.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-7
+
+Le conseil d'orientation et de surveillance détermine la durée des prêts. Celle-ci ne peut excéder deux ans, y incluant la
+reconduction des prêts.
+
+Les emprunteurs ont toutefois la faculté de dégager leurs objets avant le terme du prêt, ou de solliciter à l'échéance de ce
+dernier le renouvellement de leur engagement. L'accord sur ce renouvellement est subordonné au paiement des intérêts et
+droits échus et au remboursement de l'excédent du capital prêté, dans le cas où la nouvelle estimation du gage, à laquelle il
+devra obligatoirement être procédé, ferait ressortir une diminution de valeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-8
+
+Le montant des prêts, lorsqu'ils sont garantis par des biens en platine, en or ou en argent, ne peut excéder les quatre
+cinquièmes de cette valeur, estimée selon leur poids. Pour les autres biens, ce montant ne peut excéder les deux tiers de la
+valeur de leur estimation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cité par_:
+
+  - Code monétaire et financier - art. D514-4 (V)
+  - Code monétaire et financier - art. D514-8-1 (V)
+
+
+###### Article D514-9
+
+I.-Toute personne apportant des objets en gage est tenue de signer l'acte constatant l'engagement de ces objets. 
+
+II.-L'acte formalisant l'accord de l'emprunteur et de la caisse sur le prêt doit comporter la date de l'acte, la signature de
+l'emprunteur, le montant du prêt, les modalités d'amortissement du prêt, la durée du prêt, le taux conventionnel ainsi que
+l'identification des biens remis en gage et leur estimation par l'appréciateur. 
+
+Ces indications peuvent être inscrites sur un support électronique, selon les modalités prévues par le décret n° 2001-272 du
+30 mars 2001 pris pour l'application de l'article 1316-4 du code civil relatif à la signature électronique.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2001-272 du 30 mars 2001
+  - Code civil - art. 1316-4
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cité par_:
+
+  - Code monétaire et financier - art. D514-11 (V)
+
+
+##### Sous-section 2 : Reconnaissance de dépôt des objets engagés.<a id=1075></a>
+
+###### Article D514-10
+
+Une reconnaissance de remise de l'objet engagé est délivrée par la caisse à l'emprunteur simultanément au versement à ce
+dernier de la somme prêtée. Cette reconnaissance est soit délivrée au porteur, soit nominative, selon les critères définis
+par le conseil d'orientation et de surveillance. Elle contient le numéro et la date de l'engagement, la désignation du bien
+remis en gage, le montant et les conditions du prêt.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cité par_:
+
+  - Code monétaire et financier - art. D514-8-1 (V)
+  - Code monétaire et financier - art. D514-9 (V)
+
+
+###### Article D514-11
+
+En cas de perte de la reconnaissance de dépôt d'un objet en gage, l'emprunteur doit en informer immédiatement
+l'établissement. Celui-ci porte la mention de cette perte dans l'acte mentionné au II de l'article D. 514-9 ou sur le support
+informatique ayant enregistré cet acte. 
+
+Dans ce cas, l'emprunteur ne peut obtenir la restitution de l'objet gagé qu'à l'échéance de l'amortissement du prêt que
+garantit l'objet. Lorsque l'emprunteur est autorisé à retirer le bien remis en gage, ou à recevoir le boni résultant de sa
+vente, il est tenu d'en donner une décharge spéciale, avec caution d'une personne reconnue solvable.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cité par_:
+
+  - Code monétaire et financier - art. D514-9 (V)
+
+
+##### Sous-section 3 : Règles applicables aux gages.<a id=1076></a>
+
+###### Article D514-12
+
+En cas de perte par l'établissement de tout ou partie de l'objet remis en gage, l'emprunteur en est indemnisé par le
+versement d'une somme égale à l'estimation de ce bien. Cette somme est majorée d'une indemnité forfaitaire fixée à 25 %. Le
+montant de cette indemnité forfaitaire peut être relevé par délibération du conseil d'orientation et de surveillance, s'il
+est saisi à cette fin par le directeur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cité par_:
+
+  - Code monétaire et financier - art. D514-13 (V)
+  - Code monétaire et financier - art. D514-8-1 (V)
+  - Code monétaire et financier - art. D514-9 (V)
+
+
+###### Article D514-13
+
+En cas de détérioration de l'objet remis en gage, l'emprunteur peut l'abandonner à l'établissement, moyennant le versement
+d'une indemnité déterminée selon les modalités prévues à l'article D. 514-12. Dans ce cas, l'objet peut être vendu aux
+enchères pour le propre compte de l'établissement. 
+
+Si l'emprunteur préfère reprendre cet objet en l'état, il reçoit une indemnité dont le montant est égal à la différence entre
+la valeur actuelle de remplacement de l'objet, telle qu'elle est estimée par un appréciateur de l'établissement, et celle qui
+avait été estimée lors du dépôt. 
+
+Toutefois, les détériorations par piqûres d'insectes, vers-pour les meubles et objets en bois-et oxydation des métaux ainsi
+que celles liées aux variations de température ne donnent droit à aucune indemnité.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. D514-12
+
+
+###### Article D514-14
+
+Les biens remis en gage qui, à l'expiration du terme stipulé dans les reconnaissances délivrées aux emprunteurs, n'ont pas
+été dégagés ou renouvelés, ou pour lesquels un délai complémentaire n'a pas été accordé par le directeur, sont vendus aux
+enchères publiques pour le compte de l'établissement.
+
+Le directeur établit le rôle des biens remis en gage à vendre. Ce rôle est rendu exécutoire par une ordonnance du président
+du tribunal de grande instance.
+
+L'établissement ne peut en aucun cas exposer dans les ventes effectuées pour son compte des biens autres que ceux qui lui ont
+été remis en gage selon les modalités définies dans la présente section.
+
+Il est tenu d'indiquer aux emprunteurs l'excédent éventuel du produit de la vente sur les sommes qui sont dues en principal,
+intérêts et droits.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-15
+
+Après un délai de trois mois à partir du jour du dépôt de son bien remis en gage, tout déposant peut solliciter, aux périodes
+de ventes fixées par le règlement intérieur de l'établissement, la vente de ce bien, avant même le terme fixé sur sa
+reconnaissance.
+
+Le montant de l'adjudication hors frais de cet objet est remis au propriétaire emprunteur ou au détenteur de la
+reconnaissance au porteur, déduction faite du capital prêté, des intérêts échus et du montant des droits accessoires dus au
+jour de la vente.
+
+Les marchandises neuves remises en gage ne peuvent néanmoins être vendues qu'après l'expiration du terme stipulé dans le
+contrat de prêt.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+##### Sous-section 4 : Ventes aux enchères.<a id=1077></a>
+
+###### Article D514-16
+
+Les ventes sont annoncées au moins dix jours à l'avance par affiches publiques ou, s'il y a lieu, par catalogues imprimés et
+distribués, avis particuliers et exposition publique des objets à vendre.
+
+L'affiche contient l'indication des dates d'échéance des prêts, dont les biens gagés sont présentés à la vente, ainsi que de
+la nature des objets et des conditions de la vente.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-17
+
+Les ventes sont effectuées par les commissaires-priseurs judiciaires attachés à l'établissement comme appréciateurs. Ils sont
+assistés, le cas échéant, de crieurs et clercs choisis et rémunérés par eux. A défaut, les ventes sont effectuées par les
+officiers publics ou ministériels compétents pour effectuer les ventes publiques dans les conditions prévues par l'article 3
+de l'ordonnance du 26 juin 1816 qui établit, en exécution de la loi du 28 avril 1816, des commissaires-priseurs judiciaires
+dans les villes chefs-lieux d'arrondissement, ou qui sont le siège d'un tribunal de grande instance, et dans celles qui,
+n'ayant ni sous-préfecture ni tribunal, renferment une population de cinq mille âmes et au-dessus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+_Cité par_:
+
+  - Décret n°2016-230 du 26 février 2016 - art.
+  - Code de commerce - art. A444-3 (V)
+  - Code de commerce - art. Annexe 4-7 (V)
+
+_Cite_:
+
+  - Ordonnance du 26 juin 1816 - art. 3
+  - Loi du 28 avril 1816
+
+
+###### Article D514-18
+
+Il est alloué aux commissaires-priseurs judiciaires ou aux autres officiers ministériels, pour vacation et frais de vente, un
+droit proportionnel sur le produit des ventes dont la quotité est fixée par délibération du conseil d'orientation et de
+surveillance.
+
+L'établissement peut percevoir à son profit un droit proportionnel sur le produit des ventes, qui est fixé dans les mêmes
+formes. Il peut percevoir, en outre, pour les ventes des biens gagés qui ont fait l'objet d'une publicité particulière, sous
+forme de catalogues, d'avis particuliers ou d'expositions publiques, un droit supplémentaire sur le produit de ces ventes
+calculé en proportion de celui-ci.
+
+La mise à la charge de ces droits, selon les cas, aux acheteurs ou aux vendeurs, est fixée par une délibération du conseil
+d'orientation et de surveillance. Ces droits sont ajoutés au montant de l'adjudication.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-19
+
+Les objets adjugés, y compris ceux composés ou garnis, en platine, en or ou en argent, qui ne sont pas empreints de la marque
+de garantie, mais que l'adjudicataire consent à faire briser et mettre hors de service, lui sont remis dès qu'il en a payé le
+prix.
+
+Les objets en platine, en or ou en argent, non empreints de la marque de garantie, mais que l'adjudicataire désire conserver
+dans leur forme, sont provisoirement conservés en vue de leur présentation au bureau de garantie ou à la caisse de crédit
+municipal qui apposent la garantie. Ils ne sont remis à l'adjudicataire qu'après apposition des poinçons.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+###### Article D514-20
+
+Les ventes sont effectuées exclusivement au comptant et en euros.
+
+Les commissaires-priseurs judiciaires, ou les autres officiers publics ou ministériels chargés des ventes dans les conditions
+fixées par l'article D. 514-17, sont responsables vis-à-vis de l'établissement du montant des adjudications constatées aux
+procès-verbaux de vente et des droits accessoires perçus par eux au profit de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+##### Sous-section 5 : Bonis.<a id=1078></a>
+
+###### Article D514-21
+
+Lorsqu'à l'expiration d'un délai de trois mois après la liquidation du produit des ventes les emprunteurs n'ont pas demandé
+le remboursement des bonis qui leur reviennent, l'établissement avise les intéressés, par lettre affranchie adressée dans le
+respect des règles de confidentialité, de ces bonis, lorsqu'ils sont égaux ou supérieurs à 15 euros. Les frais
+d'affranchissement correspondants sont à la charge de l'emprunteur ; ils sont prélevés sur le montant du boni lors du
+remboursement.
+
+Les sommes provenant des bonis sont conservées en dépôt jusqu'à la réclamation des ayants droit ou, à défaut de réclamation,
+pendant un délai de deux ans, à compter de la vente. A l'expiration de ce délai, ces sommes sont définitivement acquises à
+l'établissement sauf dérogation exceptionnelle accordée par le conseil d'orientation et de surveillance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+##### Sous-section 6 : Revendication d'un objet gagé.<a id=1079></a>
+
+###### Article D514-22
+
+Lorsqu'un objet qui a été remis en gage pour l'attribution d'un prêt est revendiqué par une personne autre que l'emprunteur,
+cette personne invoquant un vol ou toute autre cause, la caisse reste séquestre de l'objet, lequel ne peut donc faire l'objet
+d'une réquisition pour saisie préalable à l'aboutissement de l'instance judiciaire.
+
+La personne qui réclame l'objet est tenue, pour en obtenir la restitution :
+
+1° De justifier, dans les formes légales, de son droit de propriété sur l'objet en cause ;
+
+2° De rembourser, tant en principal qu'intérêts et droits, la somme pour laquelle l'objet a été laissé en gage ; et ce, sans
+préjudice des actions que cette personne pourrait engager contre le déposant, l'emprunteur et le tiers répondant, ainsi que
+contre le directeur ou d'autres employés de l'établissement, en cas de fraude, vol ou négligence.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1404 du 19 décembre 2008 - art. 1
+
+
+##### Section 2 : Organisation et fonctionnement<a id=1080></a>
+
+##### Sous-section 1 : Conseil d'orientation et de surveillance<a id=1081></a>
+
+###### Article R514-23
+
+Le conseil d'orientation et de surveillance d'une caisse de crédit municipal comprend, outre le président, six à vingt
+membres.
+
+Le nombre de membres du conseil d'orientation et de surveillance est arrêté par le maire de la commune où la caisse a son
+siège, après avis du directeur de la caisse de crédit municipal. Le maire informe le conseil municipal de sa décision.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-24
+
+Les membres du conseil d'orientation et de surveillance ne doivent avoir encouru aucune condamnation entraînant interdiction
+ou incapacité électorales. Au cas où un membre en est frappé en cours de mandat, il est déclaré démissionnaire d'office par
+le représentant de l'Etat dans le département du siège de l'établissement principal.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-25
+
+Le mandat des membres du conseil d'orientation et de surveillance est de trois ans. Ce mandat est renouvelable.
+
+Les membres du conseil d'orientation et de surveillance, qui sont élus en son sein par le conseil municipal de la commune
+siège de l'établissement, ne conservent leur mandat auprès de la caisse que pour autant qu'ils continuent de faire partie du
+conseil municipal.
+
+Le mandat des membres du conseil d'orientation et de surveillance, élus ou nommés par suite d'une vacance provenant de décès
+d'un membre ou de toute autre cause, prend fin à la date d'expiration du mandat de la personne remplacée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-26
+
+Le maire peut accorder l'honorariat de leurs fonctions aux membres du conseil d'orientation et de surveillance qui cessent
+leurs fonctions, dès lors qu'ils ont exercé ces dernières pendant douze années.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-27
+
+En cas de cessation de fonctions d'un membre du conseil d'orientation et de surveillance, pour quelque motif que ce soit, le
+maire procède à son remplacement au plus tard dans les deux mois suivant la cessation de fonctions.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-28
+
+Le conseil d'orientation et de surveillance élit un vice-président à la majorité absolue de ses membres en exercice. Si,
+après deux tours de scrutin, aucun candidat n'a obtenu cette majorité, l'élection a lieu au troisième tour à la majorité
+relative ; en cas d'égalité de suffrages, le candidat le plus âgé est déclaré élu.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-29
+
+En l'absence du président, la présidence est assurée par le vice-président ou, en cas d'absence de ce dernier, par le plus
+ancien des membres du conseil présent et, en cas d'égalité d'ancienneté entre eux, par le plus âgé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-30
+
+Le conseil d'orientation et de surveillance se réunit au moins une fois par trimestre.
+
+Il peut, en outre, être convoqué par le président toutes les fois que celui-ci l'estime nécessaire ou à la demande de la
+majorité des membres ou du directeur de l'établissement.
+
+Les membres du conseil peuvent se faire représenter par l'un d'entre eux à condition que celui-ci ne soit porteur que de ce
+mandat. Le mandat doit être nominatif et spécial pour chaque séance.
+
+Le directeur de l'établissement assiste de droit aux réunions du conseil d'orientation et de surveillance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-31
+
+Le conseil d'orientation et de surveillance ne peut valablement délibérer que si deux tiers au moins des membres en exercice
+sont présents ou représentés. Lorsque ce quorum est atteint, les délibérations sont adoptées à la majorité absolue des
+membres présents ou représentés.
+
+Lorsque ce quorum n'est pas atteint, une nouvelle convocation est envoyée dans le délai de quinze jours aux membres du
+conseil. Les délibérations sont alors adoptées à la majorité relative des membres présents ou représentés.
+
+En cas de partage des voix, celle du président de séance est prépondérante. Le scrutin est secret si le quart des membres le
+demande.
+
+Les membres du conseil d'orientation et de surveillance sont tenus au secret des débats.
+
+Les procès-verbaux des délibérations sont inscrits sur un registre coté et paraphé. Ils sont signés par le président de
+séance.
+
+Ces délibérations ainsi que les actes, conventions et décisions de l'établissement sont soumis aux dispositions des articles
+L. 2131-1 à L. 2131-6 du code général des collectivités territoriales.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+_Cite_:
+
+  - Code général des collectivités territoriales - art. L2131-1 (V)
+
+
+###### Article R514-32
+
+I. – Le conseil d'orientation et de surveillance adopte le règlement intérieur, lequel régit notamment l'organisation du
+travail et les procédures de contrôle interne destinées à assurer la sécurité des opérations.
+
+Il veille à l'application des réglementations en matière de relations sociales et examine, le cas échéant, le bilan social de
+la caisse.
+
+Il approuve les orientations en matière de conditions générales des dépôts de fonds, des prêts et des autres services offerts
+par la caisse à sa clientèle.
+
+Il désigne les représentants de la caisse auprès des instances représentatives de la profession.
+
+II. – Sont soumis à l'autorisation préalable du conseil d'orientation et de surveillance :
+
+1° Les dépenses excédant un montant, tel que fixé par arrêté du ministre chargé de l'économie ;
+
+2° Les décisions d'ouverture ou de fermeture de succursales ou de bureaux auxiliaires ;
+
+3° Les actes de disposition affectant le patrimoine de la caisse, notamment les prises de participations prévues à l'article
+L. 514-1 dans les sociétés anonymes, sans préjudice des dispositions générales applicables aux actes de disposition des
+établissements publics ;
+
+4° Les conventions entre la caisse et le directeur ou un ou plusieurs membres du conseil d'orientation et de surveillance, à
+l'exception de celles portant sur des opérations courantes et conclues à des conditions normales, lesquelles font l'objet
+d'une information préalable du président du conseil d'orientation et de surveillance.
+
+III. – Le conseil d'orientation et de surveillance informe préalablement le conseil municipal de la commune siège de
+l'établissement de :
+
+1° Toute cession d'actifs dont la valeur nette au bilan est supérieure ou égale au plus faible des deux montants suivants :
+10 % des immobilisations nettes de la caisse ou 1 % du total de son bilan ;
+
+2° Toute acquisition d'actifs dont le prix atteint le même montant.
+
+Pour l'application des 1° et 2°, il convient de se référer au dernier bilan de la caisse, consolidé s'il y a lieu, approuvé
+par le conseil d'orientation et de surveillance.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L514-1
+
+
+##### Sous-section 2 : Règles comptables et financières<a id=1082></a>
+
+###### Article R514-33
+
+Les caisses de crédit municipal doivent tenir une comptabilité conforme à un plan comptable établi par arrêté conjoint du
+ministre chargé du budget et du ministre de l'intérieur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-34
+
+I. – La dotation de chaque caisse de crédit municipal comprend :
+
+1° Les biens meubles et immeubles dont elle est propriétaire ;
+
+2° Les bénéfices et bonis acquis dans les conditions prévues à l'article L. 514-4, à l'exception des sommes que le conseil
+d'orientation et de surveillance décide d'affecter à des organismes d'aide sociale ;
+
+3° Les subventions reçues.
+
+II. – Les caisses de crédit municipal effectuent leurs opérations au moyen des fonds libres de leur dotation ainsi que des
+fonds qu'elles se procurent par voie d'emprunt ou qu'elles reçoivent en dépôt.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+_Cite_:
+
+  - Code monétaire et financier - art. L514-4
+
+
+###### Article R514-35
+
+Le budget des caisses de crédit municipal comprend une section d'exploitation et une section de dotation. Chaque section est
+elle-même divisée en chapitres et articles.
+
+La section d'exploitation présente, en recettes, les produits et revenus de l'établissement et, en dépenses, les charges de
+l'établissement, y compris les dotations annuelles aux comptes d'amortissement et de provisions.
+
+La section de dotation présente, en recettes et en dépenses, toutes les opérations qui intéressent la dotation de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-36
+
+Le budget des caisses de crédit municipal est accompagné d'un état prévisionnel des opérations financières qui regroupent ces
+opérations, selon leur objet, sous trois paragraphes :
+
+1° Opérations sur prêts ;
+
+2° Moyens de financement ;
+
+3° Emploi des fonds disponibles.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+###### Article R514-37
+
+Les dispositions du décret n° 64-1183 du 27 novembre 1964 relatif au remplacement ou au remboursement des titres d'emprunts
+émis par l'Etat détériorés, détruits, perdus ou volés s'appliquent aux bons de caisse émis par les caisses de crédit
+municipal.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°64-1183 du 27 novembre 1964 (V)
+
+_Créé par_:
+
+  - Décret n°2008-1402 du 19 décembre 2008 - art. 1
+
+
+#### Chapitre V : Les sociétés financières.<a id=1083></a>
+
+##### Section 3 : Les sociétés de caution mutuelle.<a id=1084></a>
 
 ###### Article R515-1
 
@@ -88446,9 +89209,9 @@ _Cite_:
   - Code monétaire et financier - art. L611-1 (M)
 
 
-##### Section 4 : Les sociétés de crédit foncier.<a id=1074></a>
+##### Section 4 : Les sociétés de crédit foncier.<a id=1085></a>
 
-##### Sous-section 2 : Opérations.<a id=1075></a>
+##### Sous-section 2 : Opérations.<a id=1086></a>
 
 ###### Article R515-2
 
@@ -88721,7 +89484,7 @@ _Cité par_:
   - Code monétaire et financier - art. R515-16 (VD)
 
 
-##### Sous-section 3 : Privilège des créances nées des opérations.<a id=1076></a>
+##### Sous-section 3 : Privilège des créances nées des opérations.<a id=1087></a>
 
 ###### Article R515-8
 
@@ -88775,7 +89538,7 @@ _Cité par_:
   - Code monétaire et financier - art. R755-2-1 (M)
 
 
-##### Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier.<a id=1077></a>
+##### Sous-section 4 : Règles régissant les opérations des sociétés de crédit foncier.<a id=1088></a>
 
 ###### Article D515-10
 
@@ -88865,7 +89628,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. R515-11 (V)
 
 
-##### Sous-section 6 : Contrôles.<a id=1078></a>
+##### Sous-section 6 : Contrôles.<a id=1089></a>
 
 ###### Article R515-12
 
@@ -88967,7 +89730,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. R513-18 (V)
 
 
-#### Chapitre VI : Les institutions financières spécialisées.<a id=1079></a>
+#### Chapitre VI : Les institutions financières spécialisées.<a id=1090></a>
 
 ###### Article D516-1
 
@@ -88997,7 +89760,7 @@ _Abrogé par_:
   - Décret n°2014-1316 du 3 novembre 2014 - art. 3
 
 
-##### Section 1 : Agence française de développement.<a id=1080></a>
+##### Section 1 : Agence française de développement.<a id=1091></a>
 
 ###### Article R516-3
 
@@ -89031,7 +89794,7 @@ _Cité par_:
   - Code monétaire et financier - art. R765-3 (M)
 
 
-##### Sous-section 1 : Opérations.<a id=1081></a>
+##### Sous-section 1 : Opérations.<a id=1092></a>
 
 ###### Article R516-4
 
@@ -89050,7 +89813,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Paragraphe 1 : Concours financiers de l'agence pour son compte propre.<a id=1082></a>
+##### Paragraphe 1 : Concours financiers de l'agence pour son compte propre.<a id=1093></a>
 
 ###### Article R516-5
 
@@ -89130,7 +89893,7 @@ _Cité par_:
   - Code monétaire et financier - art. R516-14 (V)
 
 
-##### Paragraphe 2 : Opérations pour compte de l'Etat.<a id=1083></a>
+##### Paragraphe 2 : Opérations pour compte de l'Etat.<a id=1094></a>
 
 ###### Article R516-7
 
@@ -89164,7 +89927,7 @@ _Cité par_:
   - Code monétaire et financier - art. R516-14 (V)
 
 
-##### Paragraphe 3 : Autres opérations.<a id=1084></a>
+##### Paragraphe 3 : Autres opérations.<a id=1095></a>
 
 ###### Article R516-8
 
@@ -89232,7 +89995,7 @@ _Abrogé par_:
   - Décret n°2009-618 du 5 juin 2009 - art. 6
 
 
-##### Sous-section 2 : Organisation.<a id=1085></a>
+##### Sous-section 2 : Organisation.<a id=1096></a>
 
 ###### Article R516-10
 
@@ -89513,7 +90276,7 @@ _Cite_:
   - Code monétaire et financier - art. R516-14 (M)
 
 
-##### Sous-section 3 : Dispositions diverses.<a id=1086></a>
+##### Sous-section 3 : Dispositions diverses.<a id=1097></a>
 
 ###### Article R516-16
 
@@ -89636,7 +90399,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. R513-42 (T)
 
 
-##### Section 2 : Les sociétés de développement régional.<a id=1087></a>
+##### Section 2 : Les sociétés de développement régional.<a id=1098></a>
 
 ###### Article R*516-22
 
@@ -89707,11 +90470,11 @@ _Cité par_:
   - Code monétaire et financier - art. R*516-22 (T)
 
 
-#### Chapitre VII : Compagnies financières et conglomérats financiers.<a id=1088></a>
+#### Chapitre VII : Compagnies financières et conglomérats financiers.<a id=1099></a>
 
-##### Section 2 : Dispositions générales<a id=1089></a>
+##### Section 2 : Dispositions générales<a id=1100></a>
 
-##### Sous-section 1 : Compagnies financières.<a id=1090></a>
+##### Sous-section 1 : Compagnies financières.<a id=1101></a>
 
 ###### Article D517-1
 
@@ -89942,7 +90705,7 @@ _Cite_:
   - Code de commerce. - art. L823-6 (V)
 
 
-##### Sous-section 2 : Conglomérats financiers.<a id=1091></a>
+##### Sous-section 2 : Conglomérats financiers.<a id=1102></a>
 
 ###### Article D517-8
 
@@ -89964,13 +90727,13 @@ _Cite_:
   - Code monétaire et financier D517-1 à D517-7
 
 
-#### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque.<a id=1092></a>
+#### Chapitre VIII : Les établissements et services autorisés à effectuer des opérations de banque.<a id=1103></a>
 
-##### Section 2 : La Caisse des dépôts et consignations.<a id=1093></a>
+##### Section 2 : La Caisse des dépôts et consignations.<a id=1104></a>
 
-##### Sous-section 2 : Administration de la Caisse des dépôts et consignations.<a id=1094></a>
+##### Sous-section 2 : Administration de la Caisse des dépôts et consignations.<a id=1105></a>
 
-##### Paragraphe 1 : Le directeur général.<a id=1095></a>
+##### Paragraphe 1 : Le directeur général.<a id=1106></a>
 
 ###### Article R518-1
 
@@ -90282,7 +91045,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Paragraphe 2 : Le caissier général.<a id=1096></a>
+##### Paragraphe 2 : Le caissier général.<a id=1107></a>
 
 ###### Article R518-13
 
@@ -90481,7 +91244,7 @@ _Cite_:
   - Code monétaire et financier - art. R518-19 (V)
 
 
-##### Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor.<a id=1097></a>
+##### Paragraphe 3 : Les préposés de la caisse et le concours des comptables du Trésor.<a id=1108></a>
 
 ###### Article R518-23
 
@@ -90574,7 +91337,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Paragraphe 4 : Contrôle par la Cour des comptes.<a id=1098></a>
+##### Paragraphe 4 : Contrôle par la Cour des comptes.<a id=1109></a>
 
 ###### Article R518-28
 
@@ -90638,9 +91401,9 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Sous-section 4 : Opérations.<a id=1099></a>
+##### Sous-section 4 : Opérations.<a id=1110></a>
 
-##### Paragraphe 1 : Consignations et dépôts.<a id=1100></a>
+##### Paragraphe 1 : Consignations et dépôts.<a id=1111></a>
 
 ###### Article R518-31
 
@@ -90912,7 +91675,7 @@ _Anciens textes_:
   - Ordonnance n°1816-07-03 du 3 juillet 1816 - art. 11 (Ab)
 
 
-##### Section 4 : La Caisse nationale d'épargne.<a id=1101></a>
+##### Section 4 : La Caisse nationale d'épargne.<a id=1112></a>
 
 ###### Article R518-46
 
@@ -91198,9 +91961,9 @@ _Anciens textes_:
   - Code des caisses d'épargne - art. 35-3 (Ab)
 
 
-##### Section 5 : Les associations sans but lucratif et les sociétés autorisées à effectuer certaines opérations de banque.<a id=1102></a>
+##### Section 5 : Les associations sans but lucratif et les sociétés autorisées à effectuer certaines opérations de banque.<a id=1113></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=1103></a>
+##### Sous-section 1 : Dispositions communes.<a id=1114></a>
 
 ###### Article R518-57
 
@@ -91308,7 +92071,7 @@ _Cité par_:
   - Code monétaire et financier - art. R518-61 (V)
 
 
-##### Sous-section 2 : Les associations sans but lucratif habilitées à faire certains prêts<a id=1104></a>
+##### Sous-section 2 : Les associations sans but lucratif habilitées à faire certains prêts<a id=1115></a>
 
 ###### Article R518-59
 
@@ -91563,7 +92326,7 @@ _Cité par_:
   - Code monétaire et financier - art. R518-62 (T)
 
 
-##### Sous-section 3 : Les sociétés autorisées à consentir certaines garanties<a id=1105></a>
+##### Sous-section 3 : Les sociétés autorisées à consentir certaines garanties<a id=1116></a>
 
 ###### Article R518-65
 
@@ -91727,9 +92490,9 @@ _Cité par_:
   - Code monétaire et financier - art. R518-68 (V)
 
 
-### Titre III : Les prestataires de services d'investissement<a id=1106></a>
+### Titre III : Les prestataires de services d'investissement<a id=1117></a>
 
-#### Chapitre Ier : Définitions.<a id=1107></a>
+#### Chapitre Ier : Définitions.<a id=1118></a>
 
 ###### Article D531-1
 
@@ -91763,11 +92526,11 @@ _Cité par_:
   - Code monétaire et financier - art. D765-6-1 (VT)
 
 
-#### Chapitre II : Conditions d'exercice de la profession.<a id=1108></a>
+#### Chapitre II : Conditions d'exercice de la profession.<a id=1119></a>
 
-##### Section 1 : Agrément.<a id=1109></a>
+##### Section 1 : Agrément.<a id=1120></a>
 
-##### Sous-section 1 : Conditions et procédures d'agrément.<a id=1110></a>
+##### Sous-section 1 : Conditions et procédures d'agrément.<a id=1121></a>
 
 ###### Article R532-1
 
@@ -92089,9 +92852,9 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille.<a id=1111></a>
+##### Sous-section 3 : Dispositions relatives aux sociétés de gestion de portefeuille.<a id=1122></a>
 
-##### Paragraphe 1 : Agrément.<a id=1112></a>
+##### Paragraphe 1 : Agrément.<a id=1123></a>
 
 ###### Article R532-10
 
@@ -92280,9 +93043,9 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen.<a id=1113></a>
+##### Section 2 : Libre établissement et libre prestation de services sur le territoire des Etats parties à l'accord sur l'Espace économique européen.<a id=1124></a>
 
-##### Sous-section 2 : Libre prestation de services et liberté d'établissement en France.<a id=1114></a>
+##### Sous-section 2 : Libre prestation de services et liberté d'établissement en France.<a id=1125></a>
 
 ###### Article R532-17
 
@@ -92399,11 +93162,11 @@ _Cite_:
   - Code monétaire et financier - art. R613-5 (V)
 
 
-##### Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen.<a id=1115></a>
+##### Sous-section 3 : Libre prestation de services et liberté d'établissement sur le territoire des Etats parties à l'accord sur l'Espace économique européen.<a id=1126></a>
 
-##### Paragraphe 2 : Libre établissement.<a id=1116></a>
+##### Paragraphe 2 : Libre établissement.<a id=1127></a>
 
-##### Sous-paragraphe 1 : Libre établissement des prestataires de services d'investissement autres que les sociétés de gestion de portefeuille.<a id=1117></a>
+##### Sous-paragraphe 1 : Libre établissement des prestataires de services d'investissement autres que les sociétés de gestion de portefeuille.<a id=1128></a>
 
 ###### Article R532-20
 
@@ -92596,7 +93359,7 @@ _Cité par_:
   - Code monétaire et financier - art. R532-1 (M)
 
 
-##### Sous-paragraphe 2 : Libre établissement des sociétés de gestion de portefeuille.<a id=1118></a>
+##### Sous-paragraphe 2 : Libre établissement des sociétés de gestion de portefeuille.<a id=1129></a>
 
 ###### Article R532-24
 
@@ -92690,9 +93453,9 @@ _Cite_:
   - Code monétaire et financier - art. R532-20 (M)
 
 
-##### Paragraphe 3 : Libre prestation de services<a id=1119></a>
+##### Paragraphe 3 : Libre prestation de services<a id=1130></a>
 
-##### Sous-paragraphe 1 : Libre prestation de services des prestataires de services d'investissement autres que les sociétés de gestion de portefeuille.<a id=1120></a>
+##### Sous-paragraphe 1 : Libre prestation de services des prestataires de services d'investissement autres que les sociétés de gestion de portefeuille.<a id=1131></a>
 
 ###### Article R532-26
 
@@ -92782,7 +93545,7 @@ _Cite_:
   - Code monétaire et financier - art. R532-26 (M)
 
 
-##### Sous-paragraphe 2 : Libre prestation de services des sociétés de gestion de portefeuille.<a id=1121></a>
+##### Sous-paragraphe 2 : Libre prestation de services des sociétés de gestion de portefeuille.<a id=1132></a>
 
 ###### Article R532-28
 
@@ -92845,11 +93608,11 @@ _Cite_:
   - Code monétaire et financier - art. R532-28 (V)
 
 
-#### Chapitre III : Obligations des prestataires de services d'investissement.<a id=1122></a>
+#### Chapitre III : Obligations des prestataires de services d'investissement.<a id=1133></a>
 
-##### Section 2 : Obligations comptables et déclaratives.<a id=1123></a>
+##### Section 2 : Obligations comptables et déclaratives.<a id=1134></a>
 
-##### Sous-section 1 : Comptes sociaux et documents comptables.<a id=1124></a>
+##### Sous-section 1 : Comptes sociaux et documents comptables.<a id=1135></a>
 
 ###### Article D533-2-1
 
@@ -92947,7 +93710,7 @@ _Cite_:
   - Code monétaire et financier R533-1, R613-2, R613-4 à R613-6, R613-9 à R613-23, L440-2
 
 
-##### Sous-section 2 : Commissaires aux comptes.<a id=1125></a>
+##### Sous-section 2 : Commissaires aux comptes.<a id=1136></a>
 
 ###### Article D533-3
 
@@ -93130,9 +93893,9 @@ _Cite_:
   - Code de commerce. - art. L823-6 (V)
 
 
-##### Section 3 : Règles de bonne conduite.<a id=1126></a>
+##### Section 3 : Règles de bonne conduite.<a id=1137></a>
 
-##### Sous-section 1 : Dispositions applicables aux membres du personnel des entreprises d'investissement<a id=1127></a>
+##### Sous-section 1 : Dispositions applicables aux membres du personnel des entreprises d'investissement<a id=1138></a>
 
 ###### Article R533-9
 
@@ -93192,7 +93955,7 @@ _Modifié par_:
   - Décret n°2007-904 du 15 mai 2007 - art. 4 () JORF 16 mai 2007 en vigueur le 1er novembre 2007
 
 
-##### Sous-section 2 : Clients professionnels<a id=1128></a>
+##### Sous-section 2 : Clients professionnels<a id=1139></a>
 
 ###### Article D533-11
 
@@ -93317,7 +94080,7 @@ _Cite_:
   - Code monétaire et financier - art. D533-11 (V)
 
 
-##### Sous-section 3 : Contreparties éligibles<a id=1129></a>
+##### Sous-section 3 : Contreparties éligibles<a id=1140></a>
 
 ###### Article D533-13
 
@@ -93437,9 +94200,9 @@ _Cite_:
   - Code monétaire et financier - art. D533-13 (V)
 
 
-### Titre IV : Autres prestataires de services<a id=1130></a>
+### Titre IV : Autres prestataires de services<a id=1141></a>
 
-#### Chapitre Ier : Les conseillers en investissements financiers.<a id=1131></a>
+#### Chapitre Ier : Les conseillers en investissements financiers.<a id=1142></a>
 
 ###### Article D541-1
 
@@ -93787,7 +94550,7 @@ _Cite_:
   - Code monétaire et financier - art. L541-3 (V)
 
 
-#### Chapitre II : Les intermédiaires et les personnes faisant appel public à l'épargne habilités en vue de l'administration ou de la conservation d'instruments financiers.<a id=1132></a>
+#### Chapitre II : Les intermédiaires et les personnes faisant appel public à l'épargne habilités en vue de l'administration ou de la conservation d'instruments financiers.<a id=1143></a>
 
 ###### Article R542-1
 
@@ -93819,7 +94582,7 @@ _Cité par_:
   - Code monétaire et financier - art. R765-6 (VD)
 
 
-### Titre V : Intermédiaires en biens divers<a id=1133></a>
+### Titre V : Intermédiaires en biens divers<a id=1144></a>
 
 ###### Article R550-1
 
@@ -93910,11 +94673,11 @@ _Cite_:
   - Code monétaire et financier - art. L550-5 (V)
 
 
-### Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes.<a id=1134></a>
+### Titre VI : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes.<a id=1145></a>
 
-#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.<a id=1135></a>
+#### Chapitre II : Déclaration de sommes ou d'opérations soupçonnées d'être d'origine illicite.<a id=1146></a>
 
-##### Section 1 : Communication et déclaration.<a id=1136></a>
+##### Section 1 : Communication et déclaration.<a id=1147></a>
 
 ###### Article R562-1
 
@@ -94156,7 +94919,7 @@ _Cite_:
   - Code monétaire et financier - art. L562-2-1
 
 
-##### Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation.<a id=1137></a>
+##### Section 2 : Pôle ministériel de lutte contre les circuits financiers clandestins : service TRACFIN et conseil d'orientation.<a id=1148></a>
 
 ###### Article R562-3
 
@@ -94371,7 +95134,7 @@ _Cite_:
   - Code monétaire et financier - art. L563-5
 
 
-##### Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes.<a id=1138></a>
+##### Section 3 : Comité de liaison de la lutte contre le blanchiment des produits des crimes et délits et de la lutte contre le financement des activités terroristes.<a id=1149></a>
 
 ###### Article D562-12
 
@@ -94537,7 +95300,7 @@ _Abrogé par_:
   - Décret n°2010-69 du 18 janvier 2010 - art. 1
 
 
-#### Chapitre III : Autres obligations de vigilance.<a id=1139></a>
+#### Chapitre III : Autres obligations de vigilance.<a id=1150></a>
 
 ###### Article R563-1
 
@@ -94826,7 +95589,7 @@ _Cite_:
   - Code monétaire et financier - art. L562-1
 
 
-#### Chapitre IV : Dispositions relatives à la lutte contre le financement des activités terroristes.<a id=1140></a>
+#### Chapitre IV : Dispositions relatives à la lutte contre le financement des activités terroristes.<a id=1151></a>
 
 ###### Article R564-1
 
@@ -94935,7 +95698,7 @@ _Cité par_:
   - Code monétaire et financier - art. R765-10 (V)
 
 
-#### Chapitre V : Dispositions diverses.<a id=1141></a>
+#### Chapitre V : Dispositions diverses.<a id=1152></a>
 
 ###### Article D565-2
 
@@ -95136,11 +95899,11 @@ _Cité par_:
   - Code monétaire et financier - art. R765-10 (V)
 
 
-### Titre VII : Dispositions pénales<a id=1142></a>
+### Titre VII : Dispositions pénales<a id=1153></a>
 
-#### Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire.<a id=1143></a>
+#### Chapitre Ier : Dispositions relatives aux établissements du secteur bancaire.<a id=1154></a>
 
-##### Section 2 : Banques mutualistes ou coopératives.<a id=1144></a>
+##### Section 2 : Banques mutualistes ou coopératives.<a id=1155></a>
 
 ###### Article R571-1
 
@@ -95158,7 +95921,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 4 : Sociétés financières.<a id=1145></a>
+##### Section 4 : Sociétés financières.<a id=1156></a>
 
 ###### Article R571-2
 
@@ -95183,11 +95946,11 @@ _Cite_:
   - Code monétaire et financier - art. L515-8 (V)
 
 
-## Livre VI : Les institutions en matière bancaire et financière<a id=1146></a>
+## Livre VI : Les institutions en matière bancaire et financière<a id=1157></a>
 
-### Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1147></a>
+### Titre Ier : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1158></a>
 
-#### Chapitre Ier : Réglementation<a id=1148></a>
+#### Chapitre Ier : Réglementation<a id=1159></a>
 
 ###### Article R611-1
 
@@ -95266,9 +96029,9 @@ _Modifié par_:
   - Décret n°2005-1068 du 30 août 2005 - art. 15 () JORF 31 août 2005 en vigueur le 31 décembre 2005
 
 
-#### Chapitre II : Comité des établissements de crédit et des entreprises d'investissement<a id=1149></a>
+#### Chapitre II : Comité des établissements de crédit et des entreprises d'investissement<a id=1160></a>
 
-##### Section 1 : Missions<a id=1150></a>
+##### Section 1 : Missions<a id=1161></a>
 
 ###### Article R612-1
 
@@ -95302,7 +96065,7 @@ _Cite_:
   - Code monétaire et financier - art. L612-2
 
 
-##### Section 3 : Règles de fonctionnement<a id=1151></a>
+##### Section 3 : Règles de fonctionnement<a id=1162></a>
 
 ###### Article R612-2
 
@@ -95439,9 +96202,9 @@ _Cité par_:
   - Code monétaire et financier - art. R746-2 (V)
 
 
-#### Chapitre III : Commission bancaire<a id=1152></a>
+#### Chapitre III : Commission bancaire<a id=1163></a>
 
-##### Section 3 : Règles de fonctionnement<a id=1153></a>
+##### Section 3 : Règles de fonctionnement<a id=1164></a>
 
 ###### Article R613-1
 
@@ -95531,9 +96294,9 @@ _Cité par_:
   - Code monétaire et financier - art. R612-4-1 (Ab)
 
 
-##### Section 4 : Exercice du contrôle<a id=1154></a>
+##### Section 4 : Exercice du contrôle<a id=1165></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1155></a>
+##### Sous-section 1 : Dispositions générales<a id=1166></a>
 
 ###### Article D613-3
 
@@ -95595,7 +96358,7 @@ _Cite_:
   - Code monétaire et financier - art. L613-7
 
 
-##### Sous-section 2 : Surveillance sur une base consolidée<a id=1156></a>
+##### Sous-section 2 : Surveillance sur une base consolidée<a id=1167></a>
 
 ###### Article R613-3-2
 
@@ -95625,7 +96388,7 @@ _Cite_:
   - Code monétaire et financier - art. L613-20-4 (V)
 
 
-##### Section 5 : Exercice du pouvoir disciplinaire<a id=1157></a>
+##### Section 5 : Exercice du pouvoir disciplinaire<a id=1168></a>
 
 ###### Article R613-4
 
@@ -95823,11 +96586,11 @@ _Abrogé par_:
   - Décret n°2010-217 du 3 mars 2010 - art. 2
 
 
-##### Section 6 : Dispositions relatives au traitement des établissements de crédit et des entreprises d'investissement en difficulté<a id=1158></a>
+##### Section 6 : Dispositions relatives au traitement des établissements de crédit et des entreprises d'investissement en difficulté<a id=1169></a>
 
-##### Sous-section 1 : Mesures spécifiques au redressement et à la liquidation judiciaires des établissements de crédit et des entreprises d'investissement<a id=1159></a>
+##### Sous-section 1 : Mesures spécifiques au redressement et à la liquidation judiciaires des établissements de crédit et des entreprises d'investissement<a id=1170></a>
 
-##### Paragraphe 1 : Procédure de désignation des administrateurs provisoires et liquidateurs<a id=1160></a>
+##### Paragraphe 1 : Procédure de désignation des administrateurs provisoires et liquidateurs<a id=1171></a>
 
 ###### Article R613-10
 
@@ -95996,7 +96759,7 @@ _Cite_:
   - Code monétaire et financier - art. R613-12
 
 
-##### Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, liquidation judiciaires et de procédures de conciliation applicables aux établissements de crédit et aux entreprises d'investissement<a id=1161></a>
+##### Paragraphe 2 : Dispositions relatives aux procédures de sauvegarde, de redressement, liquidation judiciaires et de procédures de conciliation applicables aux établissements de crédit et aux entreprises d'investissement<a id=1172></a>
 
 ###### Article R613-14
 
@@ -96362,7 +97125,7 @@ _Cite_:
   - Code de commerce. - art. R814-27 (V)
 
 
-##### Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires<a id=1162></a>
+##### Sous-section 2 : Mesures d'assainissement et de liquidation des établissements de crédit communautaires<a id=1173></a>
 
 ###### Article R613-24
 
@@ -96524,9 +97287,9 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-#### Chapitre IV : Institutions consultatives<a id=1163></a>
+#### Chapitre IV : Institutions consultatives<a id=1174></a>
 
-##### Section 1 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières<a id=1164></a>
+##### Section 1 : Comité consultatif du secteur financier et comité consultatif de la législation et de la réglementation financières<a id=1175></a>
 
 ###### Article D614-1
 
@@ -96712,9 +97475,9 @@ _Codifié par_:
   - PILOTE_SUIVEUR: Code des assurances - art. R411-3 (VT)
 
 
-#### Chapitre V : Autres institutions<a id=1165></a>
+#### Chapitre V : Autres institutions<a id=1176></a>
 
-##### Section unique : Commissaires du Gouvernement et mission de contrôle des activités financières<a id=1166></a>
+##### Section unique : Commissaires du Gouvernement et mission de contrôle des activités financières<a id=1177></a>
 
 ###### Article D615-1
 
@@ -96909,7 +97672,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-#### Chapitre VI : Incompatibilités<a id=1167></a>
+#### Chapitre VI : Incompatibilités<a id=1178></a>
 
 ###### Article R616-1
 
@@ -96937,11 +97700,11 @@ _Cité par_:
   - Code monétaire et financier - art. R766-3-2 (V)
 
 
-### Titre II : L'Autorité des marchés financiers<a id=1168></a>
+### Titre II : L'Autorité des marchés financiers<a id=1179></a>
 
-#### Chapitre unique : L'Autorité des marchés financiers<a id=1169></a>
+#### Chapitre unique : L'Autorité des marchés financiers<a id=1180></a>
 
-##### Section 2 : Composition<a id=1170></a>
+##### Section 2 : Composition<a id=1181></a>
 
 ###### Article R621-1
 
@@ -97241,7 +98004,7 @@ _Cite_:
   - Code monétaire et financier - art. L621-15 (VT)
 
 
-##### Section 3 : Règles de fonctionnement<a id=1171></a>
+##### Section 3 : Règles de fonctionnement<a id=1182></a>
 
 ###### Article D621-27
 
@@ -97895,9 +98658,9 @@ _Cité par_:
   - Code monétaire et financier - art. R766-4 (V)
 
 
-##### Section 4 : Pouvoirs<a id=1172></a>
+##### Section 4 : Pouvoirs<a id=1183></a>
 
-##### Sous-section 1 : Réglementation et décisions<a id=1173></a>
+##### Sous-section 1 : Réglementation et décisions<a id=1184></a>
 
 ###### Article R621-30-1
 
@@ -98058,7 +98821,7 @@ _Cite_:
   - Code monétaire et financier - art. L621-7 (M)
 
 
-##### Sous-section 3 : Contrôles et enquêtes<a id=1174></a>
+##### Sous-section 3 : Contrôles et enquêtes<a id=1185></a>
 
 ###### Article R621-31
 
@@ -98261,7 +99024,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Sous-section 4 : Injonctions et mesures d'urgence<a id=1175></a>
+##### Sous-section 4 : Injonctions et mesures d'urgence<a id=1186></a>
 
 ###### Article R621-37
 
@@ -98296,7 +99059,7 @@ _Cité par_:
   - Code monétaire et financier - art. R766-4 (V)
 
 
-##### Sous-section 5 : Sanctions<a id=1176></a>
+##### Sous-section 5 : Sanctions<a id=1187></a>
 
 ###### Article R621-38
 
@@ -98662,7 +99425,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Sous-section 7 : Autres compétences<a id=1177></a>
+##### Sous-section 7 : Autres compétences<a id=1188></a>
 
 ###### Article R621-43-1
 
@@ -98718,7 +99481,7 @@ _Cite_:
   - Code monétaire et financier - art. L621-18-2 (V)
 
 
-##### Section 6 : Voies de recours<a id=1178></a>
+##### Section 6 : Voies de recours<a id=1189></a>
 
 ###### Article R621-44
 
@@ -98848,13 +99611,13 @@ _Cite_:
   - Nouveau code de procédure civile 648, 931
 
 
-### Titre III : Coopération, échanges d'informations et surveillance complémentaire des conglomérats financiers<a id=1179></a>
+### Titre III : Coopération, échanges d'informations et surveillance complémentaire des conglomérats financiers<a id=1190></a>
 
-#### Chapitre II : Coopération et échange d'informations avec l'étranger<a id=1180></a>
+#### Chapitre II : Coopération et échange d'informations avec l'étranger<a id=1191></a>
 
-##### Section 1 : Dispositions concernant la surveillance, les contrôles et les enquêtes relatifs aux prestataires de services d'investissement, aux marchés réglementés et aux entreprises de marché et transposant la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers<a id=1181></a>
+##### Section 1 : Dispositions concernant la surveillance, les contrôles et les enquêtes relatifs aux prestataires de services d'investissement, aux marchés réglementés et aux entreprises de marché et transposant la directive 2004/39/CE du Parlement européen et du Conseil du 21 avril 2004 concernant les marchés d'instruments financiers<a id=1192></a>
 
-##### Sous-section 1 : Coopération et échanges d'informations avec les autorités d'autres Etats membres de la Communauté européenne ou d'autres Etats parties à l'accord sur l'Espace économique européen<a id=1182></a>
+##### Sous-section 1 : Coopération et échanges d'informations avec les autorités d'autres Etats membres de la Communauté européenne ou d'autres Etats parties à l'accord sur l'Espace économique européen<a id=1193></a>
 
 ###### Article R632-1
 
@@ -98900,7 +99663,7 @@ _Cite_:
   - Code monétaire et financier - art. L632-3 (V)
 
 
-##### Sous-section 2 : Coopération et échanges d'informations avec les autorités des Etats non parties à l'accord sur l'Espace économique européen<a id=1183></a>
+##### Sous-section 2 : Coopération et échanges d'informations avec les autorités des Etats non parties à l'accord sur l'Espace économique européen<a id=1194></a>
 
 ###### Article D632-1-1
 
@@ -98927,9 +99690,9 @@ _Cite_:
   - Code monétaire et financier - art. L632-7 (VT)
 
 
-##### Section 2 : Autres dispositions<a id=1184></a>
+##### Section 2 : Autres dispositions<a id=1195></a>
 
-##### Sous-section 2 : Dispositions particulières à l'Autorité des marchés financiers<a id=1185></a>
+##### Sous-section 2 : Dispositions particulières à l'Autorité des marchés financiers<a id=1196></a>
 
 ###### Article D632-3
 
@@ -99003,7 +99766,7 @@ _Cite_:
   - Code monétaire et financier - art. L632-16 (V)
 
 
-#### Chapitre III : Surveillance complémentaire des conglomérats financiers<a id=1186></a>
+#### Chapitre III : Surveillance complémentaire des conglomérats financiers<a id=1197></a>
 
 ###### Article R633-1
 
@@ -99141,15 +99904,15 @@ _Cité par_:
   - Code monétaire et financier - art. R633-5 (V)
 
 
-## Livre VII : Régime de l'outre-mer<a id=1187></a>
+## Livre VII : Régime de l'outre-mer<a id=1198></a>
 
-### Titre Ier : Dispositions communes à plusieurs collectivités territoriales<a id=1188></a>
+### Titre Ier : Dispositions communes à plusieurs collectivités territoriales<a id=1199></a>
 
-#### Chapitre Ier : Dispositions applicables à la Guadeloupe, à la Guyane, à la Martinique, à la Réunion, à Mayotte et à Saint-Pierre-et-Miquelon<a id=1189></a>
+#### Chapitre Ier : Dispositions applicables à la Guadeloupe, à la Guyane, à la Martinique, à la Réunion, à Mayotte et à Saint-Pierre-et-Miquelon<a id=1200></a>
 
-##### Section 2 : L'Institut d'émission des départements d'outre-mer<a id=1190></a>
+##### Section 2 : L'Institut d'émission des départements d'outre-mer<a id=1201></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1191></a>
+##### Sous-section 1 : Dispositions générales<a id=1202></a>
 
 ###### Article R711-1
 
@@ -99213,7 +99976,7 @@ _Abrogé par_:
   - Décret n°2017-88 du 26 janvier 2017 - art. 1
 
 
-##### Sous-section 2 : Administration<a id=1192></a>
+##### Sous-section 2 : Administration<a id=1203></a>
 
 ###### Article R711-4
 
@@ -99323,7 +100086,7 @@ _Abrogé par_:
   - Décret n°2017-88 du 26 janvier 2017 - art. 1
 
 
-##### Sous-section 3 : Comptabilité et contrôle<a id=1193></a>
+##### Sous-section 3 : Comptabilité et contrôle<a id=1204></a>
 
 ###### Article R711-8
 
@@ -99367,7 +100130,7 @@ _Abrogé par_:
   - Décret n°2017-88 du 26 janvier 2017 - art. 1
 
 
-##### Sous-section 4 : Dispositions diverses<a id=1194></a>
+##### Sous-section 4 : Dispositions diverses<a id=1205></a>
 
 ###### Article D711-14
 
@@ -99507,7 +100270,7 @@ _Cite_:
   - Code monétaire et financier - art. L312-1 (M)
 
 
-##### Section 3 : Dispositions relatives à l'euro à Mayotte et à Saint-Pierre-et-Miquelon<a id=1195></a>
+##### Section 3 : Dispositions relatives à l'euro à Mayotte et à Saint-Pierre-et-Miquelon<a id=1206></a>
 
 ###### Article D711-15
 
@@ -99578,9 +100341,9 @@ _Cite_:
   - Code monétaire et financier - art. R162-5
 
 
-#### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et à Wallis et Futuna<a id=1196></a>
+#### Chapitre II : Dispositions applicables à la Nouvelle-Calédonie, à la Polynésie française et à Wallis et Futuna<a id=1207></a>
 
-##### Section 1 : Les signes monétaires<a id=1197></a>
+##### Section 1 : Les signes monétaires<a id=1208></a>
 
 ###### Article D712-1
 
@@ -99602,9 +100365,9 @@ _Anciens textes_:
   - Arrêté 1998-12-31 art 1
 
 
-##### Section 2 : L'Institut d'émission d'outre-mer<a id=1198></a>
+##### Section 2 : L'Institut d'émission d'outre-mer<a id=1209></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1199></a>
+##### Sous-section 1 : Dispositions générales<a id=1210></a>
 
 ###### Article R712-2
 
@@ -99672,9 +100435,9 @@ _Anciens textes_:
   - Code monétaire et financier - art. D712-4 (T)
 
 
-##### Sous-section 2 : Opérations<a id=1200></a>
+##### Sous-section 2 : Opérations<a id=1211></a>
 
-##### Paragraphe 1 : Emission<a id=1201></a>
+##### Paragraphe 1 : Emission<a id=1212></a>
 
 ###### Article R712-5
 
@@ -99722,7 +100485,7 @@ _Anciens textes_:
   - Code monétaire et financier - art. D712-6 (T)
 
 
-##### Paragraphe 2 : Autres opérations<a id=1202></a>
+##### Paragraphe 2 : Autres opérations<a id=1213></a>
 
 ###### Article R712-7
 
@@ -99821,7 +100584,7 @@ _Cite_:
   - Code monétaire et financier - art. R761-2 (V)
 
 
-##### Sous-section 3 : Administration et tutelle<a id=1203></a>
+##### Sous-section 3 : Administration et tutelle<a id=1214></a>
 
 ###### Article R712-11
 
@@ -99926,7 +100689,7 @@ _Anciens textes_:
   - Code monétaire et financier - art. D712-14 (T)
 
 
-##### Sous-section 4 : Comptabilité et contrôle<a id=1204></a>
+##### Sous-section 4 : Comptabilité et contrôle<a id=1215></a>
 
 ###### Article R712-15
 
@@ -99977,7 +100740,7 @@ _Anciens textes_:
   - Code monétaire et financier - art. D712-16 (T)
 
 
-##### Sous-section 5 : Autres missions<a id=1205></a>
+##### Sous-section 5 : Autres missions<a id=1216></a>
 
 ###### Article R712-17
 
@@ -99999,7 +100762,7 @@ _Cite_:
   - Code monétaire et financier - art. L312-1 (V)
 
 
-##### Section 3 : Les instruments de la monnaie scripturale<a id=1206></a>
+##### Section 3 : Les instruments de la monnaie scripturale<a id=1217></a>
 
 ###### Article R712-18
 
@@ -100066,11 +100829,11 @@ _Cité par_:
   - Code monétaire et financier - art. R711-12 (VD)
 
 
-### Titre II : Dispositions spécifiques à Saint-Pierre-et-Miquelon<a id=1207></a>
+### Titre II : Dispositions spécifiques à Saint-Pierre-et-Miquelon<a id=1218></a>
 
-#### Chapitre Ier : La monnaie<a id=1208></a>
+#### Chapitre Ier : La monnaie<a id=1219></a>
 
-##### Section 2 : Les instruments de la monnaie scripturale<a id=1209></a>
+##### Section 2 : Les instruments de la monnaie scripturale<a id=1220></a>
 
 ###### Article R721-1
 
@@ -100123,9 +100886,9 @@ _Cite_:
   - Code monétaire et financier - art. R721-1
 
 
-##### Section 3 : Les relations financières avec l'étranger<a id=1210></a>
+##### Section 3 : Les relations financières avec l'étranger<a id=1221></a>
 
-##### Sous-section 1 : Obligations de déclaration<a id=1211></a>
+##### Sous-section 1 : Obligations de déclaration<a id=1222></a>
 
 ###### Article R721-3
 
@@ -100248,9 +101011,9 @@ _Cite_:
   - Code monétaire et financier - art. R721-3 (V)
 
 
-#### Chapitre V : Les prestataires de services<a id=1212></a>
+#### Chapitre V : Les prestataires de services<a id=1223></a>
 
-##### Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=1213></a>
+##### Section 3 : Obligations relatives à la lutte contre le blanchiment de capitaux<a id=1224></a>
 
 ###### Article R725-1
 
@@ -100272,11 +101035,11 @@ _Cité par_:
   - Code monétaire et financier - art. R564-1 (M)
 
 
-### Titre III : Dispositions applicables à Mayotte.<a id=1214></a>
+### Titre III : Dispositions applicables à Mayotte.<a id=1225></a>
 
-#### Chapitre Ier : La monnaie.<a id=1215></a>
+#### Chapitre Ier : La monnaie.<a id=1226></a>
 
-##### Section 1 : Les instruments de la monnaie scripturale<a id=1216></a>
+##### Section 1 : Les instruments de la monnaie scripturale<a id=1227></a>
 
 ###### Article D731-4
 
@@ -100400,9 +101163,9 @@ _Cité par_:
   - Code monétaire et financier - art. R731-9 (Ab)
 
 
-##### Section 2 : Les relations financières avec l'étranger<a id=1217></a>
+##### Section 2 : Les relations financières avec l'étranger<a id=1228></a>
 
-##### Sous-section 2 : Obligations de déclaration<a id=1218></a>
+##### Sous-section 2 : Obligations de déclaration<a id=1229></a>
 
 ###### Article R731-6
 
@@ -100525,11 +101288,11 @@ _Cite_:
   - Code monétaire et financier - art. R731-5
 
 
-#### Chapitre II : Les produits.<a id=1219></a>
+#### Chapitre II : Les produits.<a id=1230></a>
 
-##### Section 1 : Les instruments financiers<a id=1220></a>
+##### Section 1 : Les instruments financiers<a id=1231></a>
 
-##### Sous-section 1 : Définition et règles générales<a id=1221></a>
+##### Sous-section 1 : Définition et règles générales<a id=1232></a>
 
 ###### Article R732-1
 
@@ -100550,9 +101313,9 @@ _Cite_:
   - Code monétaire et financier R211-1 à R211-8, R211-16
 
 
-##### Sous-section 3 : Les titres de créance<a id=1222></a>
+##### Sous-section 3 : Les titres de créance<a id=1233></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=1223></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=1234></a>
 
 ###### Article D*732-2
 
@@ -100596,7 +101359,7 @@ _Cite_:
   - Code monétaire et financier
 
 
-##### Sous-section 4 : Les placements collectifs<a id=1224></a>
+##### Sous-section 4 : Les placements collectifs<a id=1235></a>
 
 ###### Article D732-5
 
@@ -100702,9 +101465,9 @@ _Cite_:
   - Code monétaire et financier
 
 
-##### Section 2 : Produits d'épargne<a id=1225></a>
+##### Section 2 : Produits d'épargne<a id=1236></a>
 
-##### Sous-section 1 : Epargne-logement<a id=1226></a>
+##### Sous-section 1 : Epargne-logement<a id=1237></a>
 
 ###### Article R732-8
 
@@ -100730,11 +101493,11 @@ _Cite_:
   - Code de la construction et de l'habitation.
 
 
-#### Chapitre III : Les services.<a id=1227></a>
+#### Chapitre III : Les services.<a id=1238></a>
 
-##### Section 1 : Les opérations de banque<a id=1228></a>
+##### Section 1 : Les opérations de banque<a id=1239></a>
 
-##### Sous-section 2 : Comptes et dépôts<a id=1229></a>
+##### Sous-section 2 : Comptes et dépôts<a id=1240></a>
 
 ###### Article D733-2
 
@@ -100773,9 +101536,9 @@ _Cite_:
   - Code monétaire et financier - art. R351-5 (V)
 
 
-##### Sous-section 3 : Crédits<a id=1230></a>
+##### Sous-section 3 : Crédits<a id=1241></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=1231></a>
+##### Paragraphe 1 : Dispositions générales<a id=1242></a>
 
 ###### Article D733-4
 
@@ -100815,7 +101578,7 @@ _Cite_:
   - Code monétaire et financier - art. R313-1
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=1232></a>
+##### Paragraphe 2 : Catégories de crédits<a id=1243></a>
 
 ###### Article D733-4-1
 
@@ -100836,7 +101599,7 @@ _Abrogé par_:
   - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=1233></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=1244></a>
 
 ###### Article R733-5
 
@@ -100861,7 +101624,7 @@ _Cite_:
   - Code monétaire et financier
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=1234></a>
+##### Paragraphe 4 : Garantie des cautions<a id=1245></a>
 
 ###### Article R733-6
 
@@ -100926,7 +101689,7 @@ _Abrogé par_:
   - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=1235></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=1246></a>
 
 ###### Article R733-7
 
@@ -100951,7 +101714,7 @@ _Cite_:
   - Code monétaire et financier
 
 
-##### Section 4 : Démarchage bancaire et financier<a id=1236></a>
+##### Section 4 : Démarchage bancaire et financier<a id=1247></a>
 
 ###### Article D733-8
 
@@ -101009,9 +101772,9 @@ _Cite_:
   - Code monétaire et financier - art. D341-13
 
 
-#### Chapitre IV : Les marchés.<a id=1237></a>
+#### Chapitre IV : Les marchés.<a id=1248></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=1238></a>
+##### Section 1 : L'appel public à l'épargne<a id=1249></a>
 
 ###### Article D734-1
 
@@ -101044,11 +101807,11 @@ _Cite_:
   - Code monétaire et financier D411-1 à D411-4, D411-2
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=1239></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=1250></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1240></a>
+##### Sous-section 1 : Dispositions générales<a id=1251></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=1241></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=1252></a>
 
 ###### Article D734-2
 
@@ -101073,7 +101836,7 @@ _Cite_:
   - Code monétaire et financier
 
 
-##### Sous-section 2 : Les formes particulières de cession d'instruments financiers<a id=1242></a>
+##### Sous-section 2 : Les formes particulières de cession d'instruments financiers<a id=1253></a>
 
 ###### Article D734-3
 
@@ -101098,7 +101861,7 @@ _Cite_:
   - Code monétaire et financier - art. D432-1
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensations<a id=1243></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensations<a id=1254></a>
 
 ###### Article D734-4
 
@@ -101123,9 +101886,9 @@ _Cite_:
   - Code monétaire et financier
 
 
-#### Chapitre V : Les prestataires de services.<a id=1244></a>
+#### Chapitre V : Les prestataires de services.<a id=1255></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=1245></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=1256></a>
 
 ###### Article D735-2
 
@@ -101161,7 +101924,7 @@ _Cite_:
   - Code monétaire et financier - art. R511-6 (V)
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=1246></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=1257></a>
 
 ###### Article R735-3
 
@@ -101187,7 +101950,7 @@ _Cite_:
   - Code monétaire et financier - art. R516-3
 
 
-##### Sous-section 3 : Les compagnies financières<a id=1247></a>
+##### Sous-section 3 : Les compagnies financières<a id=1258></a>
 
 ###### Article D735-4
 
@@ -101208,7 +101971,7 @@ _Cite_:
   - Code monétaire et financier
 
 
-##### Section 2 : Les changeurs manuels<a id=1248></a>
+##### Section 2 : Les changeurs manuels<a id=1259></a>
 
 ###### Article R735-5
 
@@ -101230,9 +101993,9 @@ _Abrogé par_:
   - Décret n°2008-1549 du 31 décembre 2008 - art. 1
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=1249></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=1260></a>
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=1250></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=1261></a>
 
 ###### Article R735-6
 
@@ -101268,7 +102031,7 @@ _Cite_:
   - Code monétaire et financier - art. R532-8
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=1251></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=1262></a>
 
 ###### Article D735-8
 
@@ -101310,7 +102073,7 @@ _Cite_:
   - Code monétaire et financier - art. R533-2
 
 
-##### Section 4 : Autres prestataires de services<a id=1252></a>
+##### Section 4 : Autres prestataires de services<a id=1263></a>
 
 ###### Article D735-9
 
@@ -101335,7 +102098,7 @@ _Cite_:
   - Code monétaire et financier
 
 
-##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes<a id=1253></a>
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes<a id=1264></a>
 
 ###### Article D735-11
 
@@ -101396,11 +102159,11 @@ _Cite_:
   - Code monétaire et financier - art. R565-4
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière.<a id=1254></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière.<a id=1265></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1255></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1266></a>
 
-##### Sous-section 1 : Réglementation<a id=1256></a>
+##### Sous-section 1 : Réglementation<a id=1267></a>
 
 ###### Article R736-1
 
@@ -101417,7 +102180,7 @@ _Cite_:
   - Code monétaire et financier R611-1 à R611-3
 
 
-##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement<a id=1257></a>
+##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement<a id=1268></a>
 
 ###### Article R736-2
 
@@ -101440,7 +102203,7 @@ _Cite_:
   - Code monétaire et financier - art. R612-5
 
 
-##### Sous-section 3 : La Commission bancaire<a id=1258></a>
+##### Sous-section 3 : La Commission bancaire<a id=1269></a>
 
 ###### Article R736-3
 
@@ -101462,7 +102225,7 @@ _Cite_:
   - Code monétaire et financier - art. R613-2
 
 
-##### Section 2 : L'Autorité des marchés financiers<a id=1259></a>
+##### Section 2 : L'Autorité des marchés financiers<a id=1270></a>
 
 ###### Article D736-5
 
@@ -101514,11 +102277,11 @@ _Cite_:
   - Code monétaire et financier
 
 
-### Titre IV : Dispositions applicables en Nouvelle-Calédonie<a id=1260></a>
+### Titre IV : Dispositions applicables en Nouvelle-Calédonie<a id=1271></a>
 
-#### Chapitre Ier : La monnaie<a id=1261></a>
+#### Chapitre Ier : La monnaie<a id=1272></a>
 
-##### Section 2 : Les instruments de la monnaie scripturale<a id=1262></a>
+##### Section 2 : Les instruments de la monnaie scripturale<a id=1273></a>
 
 ###### Article D741-4
 
@@ -101651,9 +102414,9 @@ _Cité par_:
   - Code monétaire et financier - art. R745-4-1 (T)
 
 
-##### Section 3 : Les relations financières avec l'étranger<a id=1263></a>
+##### Section 3 : Les relations financières avec l'étranger<a id=1274></a>
 
-##### Sous-section 2 : Obligations de déclaration<a id=1264></a>
+##### Sous-section 2 : Obligations de déclaration<a id=1275></a>
 
 ###### Article R741-6
 
@@ -101775,11 +102538,11 @@ _Cite_:
   - Code monétaire et financier - art. R741-6 (V)
 
 
-#### Chapitre II : Les produits<a id=1265></a>
+#### Chapitre II : Les produits<a id=1276></a>
 
-##### Section unique : Les instruments financiers.<a id=1266></a>
+##### Section unique : Les instruments financiers.<a id=1277></a>
 
-##### Sous-section 1 : Inscription en compte.<a id=1267></a>
+##### Sous-section 1 : Inscription en compte.<a id=1278></a>
 
 ###### Article R742-1
 
@@ -101805,9 +102568,9 @@ _Cite_:
   - Code monétaire et financier R211-1 à R211-8, R213-16
 
 
-##### Sous-section 3 : Les titres de créance<a id=1268></a>
+##### Sous-section 3 : Les titres de créance<a id=1279></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=1269></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=1280></a>
 
 ###### Article D*742-2
 
@@ -101847,7 +102610,7 @@ _Cite_:
   - Code monétaire et financier D213-1 à D213-3, D213-5 à D213-14
 
 
-##### Sous-section 4 : Les placements collectifs<a id=1270></a>
+##### Sous-section 4 : Les placements collectifs<a id=1281></a>
 
 ###### Article D742-5
 
@@ -101948,11 +102711,11 @@ _Cite_:
   - Code monétaire et financier
 
 
-#### Chapitre III : Les services<a id=1271></a>
+#### Chapitre III : Les services<a id=1282></a>
 
-##### Section 1 : Les opérations de banque<a id=1272></a>
+##### Section 1 : Les opérations de banque<a id=1283></a>
 
-##### Sous-section 2 : Comptes et dépôts<a id=1273></a>
+##### Sous-section 2 : Comptes et dépôts<a id=1284></a>
 
 ###### Article D743-2
 
@@ -101993,9 +102756,9 @@ _Cite_:
   - Code monétaire et financier - art. R351-5 (V)
 
 
-##### Sous-section 3 : Crédits<a id=1274></a>
+##### Sous-section 3 : Crédits<a id=1285></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=1275></a>
+##### Paragraphe 1 : Dispositions générales<a id=1286></a>
 
 ###### Article D743-4
 
@@ -102027,7 +102790,7 @@ _Cite_:
   - Code monétaire et financier - art. R313-1 (V)
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=1276></a>
+##### Paragraphe 2 : Catégories de crédits<a id=1287></a>
 
 ###### Article D743-4-1
 
@@ -102048,7 +102811,7 @@ _Cite_:
   - Code monétaire et financier - art. D313-14-1 (V)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=1277></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=1288></a>
 
 ###### Article R743-5
 
@@ -102069,7 +102832,7 @@ _Cite_:
   - Code monétaire et financier R313-15 à R313-19
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=1278></a>
+##### Paragraphe 4 : Garantie des cautions<a id=1289></a>
 
 ###### Article R743-6
 
@@ -102131,7 +102894,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=1279></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=1290></a>
 
 ###### Article R743-7
 
@@ -102152,7 +102915,7 @@ _Cite_:
   - Code monétaire et financier - art. R330-1 (V)
 
 
-##### Section 4 : Démarchage bancaire ou financier<a id=1280></a>
+##### Section 4 : Démarchage bancaire ou financier<a id=1291></a>
 
 ###### Article D743-8
 
@@ -102202,9 +102965,9 @@ _Cite_:
   - Code monétaire et financier - art. D341-9 (V)
 
 
-#### Chapitre IV : Les marchés<a id=1281></a>
+#### Chapitre IV : Les marchés<a id=1292></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=1282></a>
+##### Section 1 : L'appel public à l'épargne<a id=1293></a>
 
 ###### Article D744-1
 
@@ -102237,11 +103000,11 @@ _Cite_:
   - Code monétaire et financier D411-1 à D411-4, D411-2
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=1283></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=1294></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1284></a>
+##### Sous-section 1 : Dispositions générales<a id=1295></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=1285></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=1296></a>
 
 ###### Article D744-2
 
@@ -102270,7 +103033,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. D744-3 (V)
 
 
-##### Sous-section 2 : Les formes particulières de cession d'instruments financiers<a id=1286></a>
+##### Sous-section 2 : Les formes particulières de cession d'instruments financiers<a id=1297></a>
 
 ###### Article D744-3
 
@@ -102299,7 +103062,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. D744-3-1 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensations.<a id=1287></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensations.<a id=1298></a>
 
 ###### Article D744-4
 
@@ -102324,9 +103087,9 @@ _Cite_:
   - Code monétaire et financier
 
 
-#### Chapitre V : Les prestataires de services<a id=1288></a>
+#### Chapitre V : Les prestataires de services<a id=1299></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=1289></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=1300></a>
 
 ###### Article D745-2
 
@@ -102362,7 +103125,7 @@ _Cite_:
   - Code monétaire et financier - art. R511-6 (V)
 
 
-##### Sous-section 4 : Les institutions financières spécialisées<a id=1290></a>
+##### Sous-section 4 : Les institutions financières spécialisées<a id=1301></a>
 
 ###### Article R745-3
 
@@ -102384,7 +103147,7 @@ _Cite_:
   - Code monétaire et financier - art. R516-3 (M)
 
 
-##### Sous-section 5 : Les compagnies financières<a id=1291></a>
+##### Sous-section 5 : Les compagnies financières<a id=1302></a>
 
 ###### Article D745-4
 
@@ -102401,7 +103164,7 @@ _Cite_:
   - Code monétaire et financier D517-1 à D517-3, D517-6 à D517-7
 
 
-##### Section 2 : Les services financiers de l'office des postes et télécommunications<a id=1292></a>
+##### Section 2 : Les services financiers de l'office des postes et télécommunications<a id=1303></a>
 
 ###### Article R745-4-1
 
@@ -102488,7 +103251,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. R745-4-5 (V)
 
 
-##### Section 3 : Les changeurs manuels<a id=1293></a>
+##### Section 3 : Les changeurs manuels<a id=1304></a>
 
 ###### Article R745-5
 
@@ -102506,9 +103269,9 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 4 : Les prestataires de services d'investissement<a id=1294></a>
+##### Section 4 : Les prestataires de services d'investissement<a id=1305></a>
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=1295></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=1306></a>
 
 ###### Article R745-6
 
@@ -102540,7 +103303,7 @@ _Cite_:
   - Code monétaire et financier R532-1 à R532-7, R532-8, R532-15
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=1296></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=1307></a>
 
 ###### Article D745-8
 
@@ -102574,7 +103337,7 @@ _Cite_:
   - Code monétaire et financier R533-1, R533-2, R533-8 à R533-10
 
 
-##### Section 5 : Autres prestataires de services<a id=1297></a>
+##### Section 5 : Autres prestataires de services<a id=1308></a>
 
 ###### Article D745-9
 
@@ -102599,7 +103362,7 @@ _Cite_:
   - Code monétaire et financier D541-1 à D541-9, D541-8
 
 
-##### Section 7 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes<a id=1298></a>
+##### Section 7 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes<a id=1309></a>
 
 ###### Article D745-11
 
@@ -102656,11 +103419,11 @@ _Cite_:
   - Code monétaire et financier R562-1, R562-2, R562-2-1 à R563-2-3, R563-1 à R563-4, R564-1, R564-2, R565-1, D562-2, D565-3, R565-4
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=1299></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=1310></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1300></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1311></a>
 
-##### Sous-section 1 : Réglementation<a id=1301></a>
+##### Sous-section 1 : Réglementation<a id=1312></a>
 
 ###### Article R746-1
 
@@ -102677,7 +103440,7 @@ _Cite_:
   - Code monétaire et financier - art. R611-1 (V)
 
 
-##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement<a id=1302></a>
+##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement<a id=1313></a>
 
 ###### Article R746-2
 
@@ -102696,7 +103459,7 @@ _Cite_:
   - Code monétaire et financier - art. R612-5 (V)
 
 
-##### Sous-section 3 : La Commission bancaire<a id=1303></a>
+##### Sous-section 3 : La Commission bancaire<a id=1314></a>
 
 ###### Article R746-3
 
@@ -102714,7 +103477,7 @@ _Cite_:
   - Code monétaire et financier R613-2, R613-4 à R613-23
 
 
-##### Sous-section 5 : Comité consultatif du crédit en Nouvelle-Calédonie<a id=1304></a>
+##### Sous-section 5 : Comité consultatif du crédit en Nouvelle-Calédonie<a id=1315></a>
 
 ###### Article R746-4
 
@@ -102847,7 +103610,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 2 : L'Autorité des marchés financiers<a id=1305></a>
+##### Section 2 : L'Autorité des marchés financiers<a id=1316></a>
 
 ###### Article D746-10
 
@@ -102891,11 +103654,11 @@ _Cite_:
   - Code monétaire et financier R621-1 à R621-26, R621-30-1 à R621-30-4, R621-31 à R621-46
 
 
-### Titre V : Dispositions applicables en Polynésie française<a id=1306></a>
+### Titre V : Dispositions applicables en Polynésie française<a id=1317></a>
 
-#### Chapitre Ier : La monnaie<a id=1307></a>
+#### Chapitre Ier : La monnaie<a id=1318></a>
 
-##### Section 2 : Les instruments de la monnaie scripturale<a id=1308></a>
+##### Section 2 : Les instruments de la monnaie scripturale<a id=1319></a>
 
 ###### Article D751-4
 
@@ -103027,9 +103790,9 @@ _Cité par_:
   - Code monétaire et financier - art. R755-4-1 (T)
 
 
-##### Section 3 : Les relations financières avec l'étranger<a id=1309></a>
+##### Section 3 : Les relations financières avec l'étranger<a id=1320></a>
 
-##### Sous-section 2 : Obligations de déclaration<a id=1310></a>
+##### Sous-section 2 : Obligations de déclaration<a id=1321></a>
 
 ###### Article R751-6
 
@@ -103152,11 +103915,11 @@ _Cite_:
   - Code monétaire et financier - art. R751-6 (V)
 
 
-#### Chapitre II : Les produits<a id=1311></a>
+#### Chapitre II : Les produits<a id=1322></a>
 
-##### Section 1 : Les instruments financiers<a id=1312></a>
+##### Section 1 : Les instruments financiers<a id=1323></a>
 
-##### Sous-section 1 : Inscription en compte.<a id=1313></a>
+##### Sous-section 1 : Inscription en compte.<a id=1324></a>
 
 ###### Article R752-1
 
@@ -103177,9 +103940,9 @@ _Cite_:
   - Code monétaire et financier R211-1 à R211-8, R211-16
 
 
-##### Sous-section 3 : Les titres de créance<a id=1314></a>
+##### Sous-section 3 : Les titres de créance<a id=1325></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=1315></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=1326></a>
 
 ###### Article D*752-2
 
@@ -103219,7 +103982,7 @@ _Cite_:
   - Code monétaire et financier D213-1 à D213-3, D213-5 à D213-14
 
 
-##### Sous-section 4 : Les placements collectifs<a id=1316></a>
+##### Sous-section 4 : Les placements collectifs<a id=1327></a>
 
 ###### Article D752-5
 
@@ -103320,11 +104083,11 @@ _Cite_:
   - Code monétaire et financier
 
 
-#### Chapitre III : Les services<a id=1317></a>
+#### Chapitre III : Les services<a id=1328></a>
 
-##### Section 1 : Les opérations de banque<a id=1318></a>
+##### Section 1 : Les opérations de banque<a id=1329></a>
 
-##### Sous-section 2 : Comptes et dépôts<a id=1319></a>
+##### Sous-section 2 : Comptes et dépôts<a id=1330></a>
 
 ###### Article D753-2
 
@@ -103365,9 +104128,9 @@ _Cite_:
   - Code monétaire et financier - art. R351-5 (V)
 
 
-##### Sous-section 3 : Crédits<a id=1320></a>
+##### Sous-section 3 : Crédits<a id=1331></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=1321></a>
+##### Paragraphe 1 : Dispositions générales<a id=1332></a>
 
 ###### Article D753-4
 
@@ -103399,7 +104162,7 @@ _Cite_:
   - Code monétaire et financier - art. R313-1 (V)
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=1322></a>
+##### Paragraphe 2 : Catégories de crédits<a id=1333></a>
 
 ###### Article D753-4-1
 
@@ -103420,7 +104183,7 @@ _Cite_:
   - Code monétaire et financier - art. D313-14-1 (V)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=1323></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances professionnelles<a id=1334></a>
 
 ###### Article R753-5
 
@@ -103441,7 +104204,7 @@ _Cite_:
   - Code monétaire et financier R313-15 à R313-19
 
 
-##### Paragraphe 4 : Garanties des cautions<a id=1324></a>
+##### Paragraphe 4 : Garanties des cautions<a id=1335></a>
 
 ###### Article R753-6
 
@@ -103503,7 +104266,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=1325></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=1336></a>
 
 ###### Article R753-7
 
@@ -103524,7 +104287,7 @@ _Cite_:
   - Code monétaire et financier - art. R330-1 (V)
 
 
-##### Section 4 : Démarchage bancaire ou financier<a id=1326></a>
+##### Section 4 : Démarchage bancaire ou financier<a id=1337></a>
 
 ###### Article D753-8
 
@@ -103573,9 +104336,9 @@ _Cite_:
   - Code monétaire et financier - art. D341-9 (V)
 
 
-#### Chapitre IV : Les marchés<a id=1327></a>
+#### Chapitre IV : Les marchés<a id=1338></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=1328></a>
+##### Section 1 : L'appel public à l'épargne<a id=1339></a>
 
 ###### Article D754-1
 
@@ -103608,11 +104371,11 @@ _Cite_:
   - Code monétaire et financier D411-1 à D411-4, D411-2
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=1329></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=1340></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1330></a>
+##### Sous-section 1 : Dispositions générales<a id=1341></a>
 
-##### Paragraphe 1 : Transfert de propriété des titres et mise en gage<a id=1331></a>
+##### Paragraphe 1 : Transfert de propriété des titres et mise en gage<a id=1342></a>
 
 ###### Article D754-2
 
@@ -103641,7 +104404,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. D754-3 (V)
 
 
-##### Sous-section 2 : Les formes particulières de cession d'instruments financiers<a id=1332></a>
+##### Sous-section 2 : Les formes particulières de cession d'instruments financiers<a id=1343></a>
 
 ###### Article D754-3
 
@@ -103672,7 +104435,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. D754-3-1 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensations.<a id=1333></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensations.<a id=1344></a>
 
 ###### Article D754-4
 
@@ -103700,9 +104463,9 @@ _Cite_:
   - Code monétaire et financier - art. D441-2
 
 
-#### Chapitre V : Les prestataires de services<a id=1334></a>
+#### Chapitre V : Les prestataires de services<a id=1345></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=1335></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=1346></a>
 
 ###### Article D755-2
 
@@ -103738,7 +104501,7 @@ _Cite_:
   - Code monétaire et financier - art. R511-6 (V)
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=1336></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=1347></a>
 
 ###### Article R755-3
 
@@ -103760,7 +104523,7 @@ _Cite_:
   - Code monétaire et financier - art. R516-3 (M)
 
 
-##### Sous-section 3 : Les compagnies financières<a id=1337></a>
+##### Sous-section 3 : Les compagnies financières<a id=1348></a>
 
 ###### Article D755-4
 
@@ -103777,7 +104540,7 @@ _Cite_:
   - Code monétaire et financier D517-1 à D517-3, D517-6 à D517-7
 
 
-##### Section 1 bis : Les services financiers de l'office des postes et télécommunications<a id=1338></a>
+##### Section 1 bis : Les services financiers de l'office des postes et télécommunications<a id=1349></a>
 
 ###### Article R755-4-1
 
@@ -103864,7 +104627,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. R755-4-5 (V)
 
 
-##### Section 2 : Les changeurs manuels<a id=1339></a>
+##### Section 2 : Les changeurs manuels<a id=1350></a>
 
 ###### Article R755-5
 
@@ -103882,9 +104645,9 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=1340></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=1351></a>
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=1341></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=1352></a>
 
 ###### Article R755-6
 
@@ -103916,7 +104679,7 @@ _Cite_:
   - Code monétaire et financier R532-1 à R532-7, R532-8, R532-15
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=1342></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=1353></a>
 
 ###### Article D755-8
 
@@ -103950,7 +104713,7 @@ _Cite_:
   - Code monétaire et financier R533-1, R533-2, R533-8 à R533-10
 
 
-##### Section 4 : Autres prestataires de services<a id=1343></a>
+##### Section 4 : Autres prestataires de services<a id=1354></a>
 
 ###### Article D755-9
 
@@ -103976,7 +104739,7 @@ _Cite_:
   - Code monétaire et financier D541-1 à D541-9, D541-8
 
 
-##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes<a id=1344></a>
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes<a id=1355></a>
 
 ###### Article D755-11
 
@@ -104034,11 +104797,11 @@ _Cite_:
   - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1, R564-2, R565-1, D565-2, D565-3, R565-4
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=1345></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=1356></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1346></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1357></a>
 
-##### Sous-section 1 : Réglementation<a id=1347></a>
+##### Sous-section 1 : Réglementation<a id=1358></a>
 
 ###### Article R756-1
 
@@ -104055,7 +104818,7 @@ _Cite_:
   - Code monétaire et financier - art. R611-1 (V)
 
 
-##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement<a id=1348></a>
+##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement<a id=1359></a>
 
 ###### Article R756-2
 
@@ -104072,7 +104835,7 @@ _Cite_:
   - Code monétaire et financier R612-2 à R612-5
 
 
-##### Sous-section 3 : La Commission bancaire<a id=1349></a>
+##### Sous-section 3 : La Commission bancaire<a id=1360></a>
 
 ###### Article R756-3
 
@@ -104090,7 +104853,7 @@ _Cite_:
   - Code monétaire et financier R613-2, R613-4 à R613-23
 
 
-##### Section 2 : L'Autorité des marchés financiers<a id=1350></a>
+##### Section 2 : L'Autorité des marchés financiers<a id=1361></a>
 
 ###### Article D756-5
 
@@ -104135,11 +104898,11 @@ _Cite_:
   - Code monétaire et financier R621-1 à R621-26, R621-30-1 à R621-30-4, R621-31 à R621-46
 
 
-### Titre VI : Dispositions applicables à Wallis et Futuna<a id=1351></a>
+### Titre VI : Dispositions applicables à Wallis et Futuna<a id=1362></a>
 
-#### Chapitre Ier : La monnaie<a id=1352></a>
+#### Chapitre Ier : La monnaie<a id=1363></a>
 
-##### Section 1 : Les instruments de la monnaie scripturale<a id=1353></a>
+##### Section 1 : Les instruments de la monnaie scripturale<a id=1364></a>
 
 ###### Article D761-4
 
@@ -104267,9 +105030,9 @@ _Cité par_:
   - Code monétaire et financier - art. R761-3 (M)
 
 
-##### Section 2 : Les relations financières avec l'étranger<a id=1354></a>
+##### Section 2 : Les relations financières avec l'étranger<a id=1365></a>
 
-##### Sous-section 2 : Obligations de déclaration<a id=1355></a>
+##### Sous-section 2 : Obligations de déclaration<a id=1366></a>
 
 ###### Article R761-6
 
@@ -104392,11 +105155,11 @@ _Cite_:
   - Code monétaire et financier - art. R761-6 (V)
 
 
-#### Chapitre II : Les produits<a id=1356></a>
+#### Chapitre II : Les produits<a id=1367></a>
 
-##### Section 1 : Les instruments financiers<a id=1357></a>
+##### Section 1 : Les instruments financiers<a id=1368></a>
 
-##### Sous-section 1 : Inscription en compte.<a id=1358></a>
+##### Sous-section 1 : Inscription en compte.<a id=1369></a>
 
 ###### Article R762-1
 
@@ -104418,9 +105181,9 @@ _Cite_:
   - Code monétaire et financier R211-1 à R211-8, R213-16
 
 
-##### Sous-section 3 : Les titres de créance<a id=1359></a>
+##### Sous-section 3 : Les titres de créance<a id=1370></a>
 
-##### Paragraphe 1 : Les titres de créances négociables<a id=1360></a>
+##### Paragraphe 1 : Les titres de créances négociables<a id=1371></a>
 
 ###### Article D*762-2
 
@@ -104464,7 +105227,7 @@ _Cite_:
   - Code monétaire et financier D213-1 à D213-3, D213-5 à D213-14
 
 
-##### Sous-section 4 : Les placements collectifs<a id=1361></a>
+##### Sous-section 4 : Les placements collectifs<a id=1372></a>
 
 ###### Article D762-5
 
@@ -104560,11 +105323,11 @@ _Cite_:
   - Code monétaire et financier
 
 
-#### Chapitre III : Les services<a id=1362></a>
+#### Chapitre III : Les services<a id=1373></a>
 
-##### Section 1 : Les opérations de banque<a id=1363></a>
+##### Section 1 : Les opérations de banque<a id=1374></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1364></a>
+##### Sous-section 1 : Dispositions générales<a id=1375></a>
 
 ###### Article D763-2
 
@@ -104603,9 +105366,9 @@ _Cite_:
   - Code monétaire et financier - art. R351-5 (V)
 
 
-##### Sous-section 3 : Crédits.<a id=1365></a>
+##### Sous-section 3 : Crédits.<a id=1376></a>
 
-##### Paragraphe 1 : Dispositions générales<a id=1366></a>
+##### Paragraphe 1 : Dispositions générales<a id=1377></a>
 
 ###### Article D763-4
 
@@ -104637,7 +105400,7 @@ _Cite_:
   - Code monétaire et financier - art. R313-1 (V)
 
 
-##### Paragraphe 2 : Catégories de crédits<a id=1367></a>
+##### Paragraphe 2 : Catégories de crédits<a id=1378></a>
 
 ###### Article D763-4-1
 
@@ -104658,7 +105421,7 @@ _Cite_:
   - Code monétaire et financier - art. D313-14-1 (V)
 
 
-##### Paragraphe 3 : Procédures de mobilisation des créances<a id=1368></a>
+##### Paragraphe 3 : Procédures de mobilisation des créances<a id=1379></a>
 
 ###### Article R763-5
 
@@ -104679,7 +105442,7 @@ _Cite_:
   - Code monétaire et financier R313-15 à R313-19
 
 
-##### Paragraphe 4 : Garantie des cautions<a id=1369></a>
+##### Paragraphe 4 : Garantie des cautions<a id=1380></a>
 
 ###### Article R763-6
 
@@ -104741,7 +105504,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=1370></a>
+##### Section 3 : Systèmes de règlements interbancaires et systèmes de règlement et de livraison d'instruments financiers<a id=1381></a>
 
 ###### Article R763-7
 
@@ -104762,7 +105525,7 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 4 : Démarchage bancaire ou financier<a id=1371></a>
+##### Section 4 : Démarchage bancaire ou financier<a id=1382></a>
 
 ###### Article D763-8
 
@@ -104808,9 +105571,9 @@ _Cite_:
   - Code monétaire et financier - art. D341-13 (V)
 
 
-#### Chapitre IV : Les marchés<a id=1372></a>
+#### Chapitre IV : Les marchés<a id=1383></a>
 
-##### Section 1 : L'appel public à l'épargne<a id=1373></a>
+##### Section 1 : L'appel public à l'épargne<a id=1384></a>
 
 ###### Article D764-1
 
@@ -104843,11 +105606,11 @@ _Cite_:
   - Code monétaire et financier D411-1 à D411-4, D411-2
 
 
-##### Section 3 : Les négociations sur instruments financiers<a id=1374></a>
+##### Section 3 : Les négociations sur instruments financiers<a id=1385></a>
 
-##### Sous-section 1 : Dispositions générales<a id=1375></a>
+##### Sous-section 1 : Dispositions générales<a id=1386></a>
 
-##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=1376></a>
+##### Paragraphe 1 : Transfert de propriété et mise en gage<a id=1387></a>
 
 ###### Article D764-2
 
@@ -104876,7 +105639,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. D764-3 (V)
 
 
-##### Sous-section 2 : Les formes particulières de cession d'instruments financiers<a id=1377></a>
+##### Sous-section 2 : Les formes particulières de cession d'instruments financiers<a id=1388></a>
 
 ###### Article D764-3
 
@@ -104905,7 +105668,7 @@ _Nouveaux textes_:
   - Code monétaire et financier - art. D764-3-1 (V)
 
 
-##### Section 4 : Les entreprises de marché et les chambres de compensations.<a id=1378></a>
+##### Section 4 : Les entreprises de marché et les chambres de compensations.<a id=1389></a>
 
 ###### Article D764-4
 
@@ -104930,9 +105693,9 @@ _Cite_:
   - Code monétaire et financier
 
 
-#### Chapitre V : Les prestataires de services<a id=1379></a>
+#### Chapitre V : Les prestataires de services<a id=1390></a>
 
-##### Section 1 : Les établissements du secteur bancaire<a id=1380></a>
+##### Section 1 : Les établissements du secteur bancaire<a id=1391></a>
 
 ###### Article D765-2
 
@@ -104967,7 +105730,7 @@ _Cite_:
   - Code monétaire et financier R511-1, R511-2, R511-6, R511-13 à R511-14
 
 
-##### Sous-section 2 : Les institutions financières spécialisées<a id=1381></a>
+##### Sous-section 2 : Les institutions financières spécialisées<a id=1392></a>
 
 ###### Article R765-3
 
@@ -104989,7 +105752,7 @@ _Cite_:
   - Code monétaire et financier - art. R516-3 (M)
 
 
-##### Sous-section 3 : Les compagnies financières<a id=1382></a>
+##### Sous-section 3 : Les compagnies financières<a id=1393></a>
 
 ###### Article D765-4
 
@@ -105006,7 +105769,7 @@ _Cite_:
   - Code monétaire et financier D517-1 à D517-3, D517-6 à D517-7
 
 
-##### Section 2 : Les changeurs manuels<a id=1383></a>
+##### Section 2 : Les changeurs manuels<a id=1394></a>
 
 ###### Article R765-5
 
@@ -105024,9 +105787,9 @@ _Codifié par_:
   - Décret n°2005-1007 2005-08-02 JORF 25 août 2005
 
 
-##### Section 3 : Les prestataires de services d'investissement<a id=1384></a>
+##### Section 3 : Les prestataires de services d'investissement<a id=1395></a>
 
-##### Sous-section 2 : Les conditions d'accès à la profession<a id=1385></a>
+##### Sous-section 2 : Les conditions d'accès à la profession<a id=1396></a>
 
 ###### Article R765-6
 
@@ -105058,7 +105821,7 @@ _Cite_:
   - Code monétaire et financier R532-1 à R532-7, R532-8, R532-15
 
 
-##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=1386></a>
+##### Sous-section 3 : Les obligations des prestataires de services d'investissement<a id=1397></a>
 
 ###### Article D765-8
 
@@ -105092,7 +105855,7 @@ _Cite_:
   - Code monétaire et financier R533-1, R533-2, R533-8 à R533-10
 
 
-##### Section 4 : Autres prestataires de services<a id=1387></a>
+##### Section 4 : Autres prestataires de services<a id=1398></a>
 
 ###### Article D765-9
 
@@ -105113,7 +105876,7 @@ _Cite_:
   - Code monétaire et financier D541-1 à D541-9
 
 
-##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes<a id=1388></a>
+##### Section 6 : Obligations relatives à la lutte contre le blanchiment des capitaux et le financement des activités terroristes<a id=1399></a>
 
 ###### Article D765-11
 
@@ -105171,11 +105934,11 @@ _Cite_:
   - Code monétaire et financier R562-1, R562-2, R562-2-1 à R562-2-3, R563-1 à R563-4, R564-1, R564-2, R565-1, D565-2, R565-2-1, D565-3, R565-4
 
 
-#### Chapitre VI : Les institutions en matière bancaire et financière<a id=1389></a>
+#### Chapitre VI : Les institutions en matière bancaire et financière<a id=1400></a>
 
-##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1390></a>
+##### Section 1 : Les institutions communes aux établissements de crédit et aux entreprises d'investissement<a id=1401></a>
 
-##### Sous-section 1 : Réglementation<a id=1391></a>
+##### Sous-section 1 : Réglementation<a id=1402></a>
 
 ###### Article R766-1
 
@@ -105192,7 +105955,7 @@ _Cite_:
   - Code monétaire et financier - art. R611-1 (V)
 
 
-##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement<a id=1392></a>
+##### Sous-section 2 : Comité des établissements de crédit et des entreprises d'investissement<a id=1403></a>
 
 ###### Article R766-2
 
@@ -105209,7 +105972,7 @@ _Cite_:
   - Code monétaire et financier R612-2 à R612-5
 
 
-##### Sous-section 3 : La Commission bancaire<a id=1393></a>
+##### Sous-section 3 : La Commission bancaire<a id=1404></a>
 
 ###### Article R766-3
 
@@ -105227,7 +105990,7 @@ _Cite_:
   - Code monétaire et financier R613-2, R613-4 à R613-23
 
 
-##### Section 2 : L'Autorité des marchés financiers<a id=1394></a>
+##### Section 2 : L'Autorité des marchés financiers<a id=1405></a>
 
 ###### Article D766-5
 
