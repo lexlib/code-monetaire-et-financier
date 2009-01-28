@@ -1,5 +1,5 @@
 # Code monétaire et financier  
-Version Consolidée au 2009-01-24
+Version Consolidée au 2009-01-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L766-8)](#1)
     - [Livre Ier : La monnaie (art. L111-1 à L165-1)](#2)
@@ -887,7 +887,7 @@ Version Consolidée au 2009-01-24
             - [Sous-section 7 : Organismes de placement collectif en valeurs mobilières à formule. (art. R214-27)](#884)
             - [Sous-section 8 : Organismes de placement collectif en valeurs mobilières indiciels. (art. R214-28)](#885)
             - [Sous-section 9 : Organismes de placement collectif en valeurs mobilières réservés à certains investisseurs. (art. D214-28-1 à R214-37)](#886)
-              - [Paragraphe 1 : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées. (art. D214-28-1 à R214-37)](#887)
+              - [Paragraphe 1 : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées. (art. D214-28-2 à R214-37)](#887)
                 - [Sous-paragraphe 1 : Règles applicables aux organismes de placement collectif en valeurs mobilières à règles d'investissement allégées sans effet de levier. (art. R214-29 à R214-31)](#888)
                 - [Sous-paragraphe 2 : Règles applicables aux organismes de placement collectif en valeurs mobilières à règles d'investissement allégées à effet de levier. (art. R214-32 à R214-35)](#889)
                 - [Sous-paragraphe 3 : Dispositions relatives aux organismes de placement collectif en valeurs mobilières de fonds alternatifs. (art. R214-36 à R214-37)](#890)
@@ -71338,27 +71338,20 @@ de l'organisme sera déléguée à un établissement tiers habilité à exercer 
 déléguée, la convention peut limiter l'obligation de restitution des actifs incombant au dépositaire. Les obligations du
 dépositaire quant à la mise en œuvre et au contrôle des modalités de conservation restent inchangées.
 
-**Nota:**
-
-Une anomalie s'est glissée dans le décret 2008-1312 du 12 décembre 2008 JORF du 14 décembre 2008 qui crée l'article D214-28-1
-du code monétaire et financier.
-
-Un prochain rectificatif précisera le numéro de cet article.
-
 **Liens relatifs à cet article**
 
 _Cité par_:
 
   - Arrêté du 12 novembre 2004 - art. 323-14 (M)
 
-_Créé par_:
+_Abrogé par_:
 
-  - Décret n°2008-1312 du 12 décembre 2008 - art. 1
+  - Décret n°2011-922 du 1er août 2011 - art. 1
 
 
 ##### Paragraphe 1 : Organismes de placement collectif en valeurs mobilières à règles d'investissement allégées.<a id=887></a>
 
-###### Article D214-28-1
+###### Article D214-28-2
 
 Afin d'éviter qu'un déséquilibre entre les demandes de rachat et l'actif de l'organisme de placement collectif en valeurs
 mobilières à règles d'investissement allégées ou de l'un de ses compartiments ne lui permette pas d'honorer les demandes de
@@ -71388,9 +71381,13 @@ le seuil visé au 1° aux prochaines dates de centralisation ou procède à leur
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2008-1083 du 23 octobre 2008 - art. 1
+  - Décret n°2009-95 du 26 janvier 2009 - art. 1
+
+_Abrogé par_:
+
+  - Décret n°2011-922 du 1er août 2011 - art. 1
 
 
 ##### Sous-paragraphe 1 : Règles applicables aux organismes de placement collectif en valeurs mobilières à règles d'investissement allégées sans effet de levier.<a id=888></a>
