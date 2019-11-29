@@ -1,0 +1,37 @@
+# Article R. 755-9-8
+
+Sont applicables en Polynésie Française les articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur
+rédaction indiquée dans la colonne de droite du même tableau :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+ARTICLES APPLICABLES</th>
+      <th>
+
+DANS LEUR REDACTION RESULTANT DU</th>
+    </tr>
+    <tr>
+      <td align="justify">
+
+R. 551-1 à R. 551-3</td>
+      <td align="justify">
+
+Décret n° 2019-1248 du 28 novembre 2019 
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°2019-1248 du 28 novembre 2019
+
+_Créé par_:
+
+  - Décret n°2019-1248 du 28 novembre 2019 - art. 4
